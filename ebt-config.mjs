@@ -1,13 +1,13 @@
 const EbtConfig = {
-  "appName": "EBT-Site",
-  "basePath": "/",
+  "appName": "Dhammaregen",
+  "basePath": "/dhammaregen3/",
   "homePath": "#/wiki/welcome",
   "content": {
     "index": "toc",
   },
   "github": {
-    "account": "sc-voice",
-    "repository": "ebt-site3"
+    "account": "dhammaregen",
+    "repository": "dhammaregen3"
   }
 }
 
