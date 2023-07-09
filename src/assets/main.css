@@ -1,0 +1,191 @@
+@font-face {
+  font-family: "SourceSansPro";
+  font-weight: 400;
+  font-style: normal;
+  font-display: auto;
+  unicode-range: U+000-5FF;
+  src: local("SourceSansPro"), url("/fonts/SourceSansPro/SourceSansPro-Regular.woff2") format("woff2"), url("/fonts/SourceSansPro/SourceSansPro-Regular.woff") format("woff");
+}
+
+:root {
+  --focus-color: rgb(206, 132, 0);
+  --focus-border: 2pt dashed;
+  --ebt-sc-sans-font: "Skolar Sans PE", "Noto Sans", sans-serif;
+  --ebt-sc-serif-font: "Skolar PE", "Noto Serif", "Skolar Sans PE", "Noto Sans", serif;
+}
+div.v-theme--light {
+  --v-high-emphasis-opacity: 1;
+}
+div.v-theme--dark {
+  --v-high-emphasis-opacity: 1;
+}
+.v-btn:hover {
+  color: rgb(var(--v-theme-link));
+}
+.v-btn:focus-within {
+  border: var(--focus-border) var(--focus-color);
+  border-radius: 8pt;
+  color: rgb(var(--v-theme-link));
+}
+.v-btn--icon:focus-within {
+  border: var(--focus-border) var(--focus-color);
+  border-radius: 8pt;
+}
+.v-expansion-panel {
+  border: 2pt dashed rgb(0,0,0,0);
+}
+.v-expansion-panel-title:focus {
+  border: 2pt dashed var(--focus-color);
+  border-radius: 0.5em;
+}
+.v-input:focus-within {
+  outline: 2pt dashed var(--focus-color);
+  outline-offset: 2pt;
+}
+a {
+  color: rgb(var(--v-theme-on-surface));
+  text-decoration: none;
+  font-weight: 500;
+}
+a:hover {
+  color: rgb(var(--v-theme-link));
+  text-decoration: underline;
+}
+a > img:hover {
+  border: 2px solid rgb(var(--v-theme-link));
+}
+a .ebt-thumbnail:hover {
+  border: 2px solid rgb(var(--v-theme-link));
+}
+a:focus {
+  color: rgb(var(--v-theme-link));
+  outline: 2pt dashed rgba(var(--v-theme-link),0.5);
+}
+.scv-matched {
+  color: rgb(var(--v-theme-matched));
+  font-weight: 600;
+}
+.debug {
+  color: aqua;
+}
+.debug:hover {
+  color: red;
+}
+.ebt-example {
+  font-weight: 600;
+  color: rgb(var(--v-theme-example));
+}
+.ebt-example:hover {
+  text-decoration: underline;
+  cursor: zoom-in;
+}
+.v-enter-active,
+.v-leave-active {
+  transition: opacity 0.5s ease;
+}
+
+.v-enter-from,
+.v-leave-to {
+  opacity: 0;
+}
+
+.ebt-icon-btn {
+  margin: 0;
+  margin-left:2px;
+  margin-right:2px;
+  border-radius:5px;
+  border: none;
+  font-size: 24px ;
+  min-height: 1.7em !important;
+  min-width: 1.7em !important;
+}
+.ebt-icon-btn svg {
+  bottom: 0em !important;
+}
+.ebt-icon-btn:focus, 
+.ebt-icon-btn:hover {
+  outline: 2px solid rgb(var(--v-theme-link));
+}
+.TBDtheme--dark.ebt-icon-btn:focus-within, 
+.TBDtheme--dark.ebt-icon-btn:hover {
+  outline: 2px solid var(--ebt-focus-color-dark);
+  background-color: var(--ebt-focus-background-color-dark);
+}
+.TBDtheme--dark.ebt-icon-btn:focus-within svg, 
+.TBDtheme--dark.ebt-icon-btn:hover svg{
+  color: var(--ebt-focus-color-dark);
+  background-color: var(--ebt-focus-background-color-dark);
+}
+
+.ebt-wiki {
+  padding: 1em;
+  padding-bottom: 20em;
+  font-size: 14px;
+}
+.ebt-wiki li {
+  margin-left: 1.2em;
+  margin-top: 0.15em;
+  margin-bottom: 0.15em;
+}
+.ebt-wiki p {
+  padding-top: 0.5em;
+  padding-bottom: 0.2em;
+}
+.ebt-wiki h1,h2,h3,h4,h5,h6 {
+  padding-top: 0.8em;
+  padding-bottom: 0.4em;
+}
+.ebt-wiki-heading {
+  display: flex;
+  flex-flow: row wrap;
+  align-items: flex-start;
+}
+.ebt-wiki-heading img {
+  margin-right: 1em;
+  height: 175px;
+  border-top-left-radius: 0.5em;
+}
+.ebt-wiki-heading-text {
+  display: flex;
+  flex-flow: column;
+}
+.ebt-wiki-description {
+  padding-top: 0.5em;
+}
+.ebt-wiki-breadcrumbs {
+  font-weight: 500;
+}
+.ebt-toc {
+  margin: 1em;
+}
+.ebt-toc-item {
+  display: flex;
+  flex-flow: row wrap;
+  align-items: flex-start;
+  margin-top: 0.6em;
+  border-top: 1pt solid gray;
+  border-top-left-radius: 0.5em;
+}
+.ebt-toc-item-text {
+  margin-top: 0.3em;
+  margin-left: 1em;
+}
+.ebt-toc-item-description {
+  font-size: smaller;
+  font-weight: 400;
+}
+.ebt-toc-detail ul {
+  padding-left: 1em;
+  font-size: smaller;
+  font-weight: 400;
+}
+.ebt-thumbnail {
+  height: 4em;
+  width: 5em;
+  overflow: hidden;
+  border-top-left-radius: 0.5em;
+}
+.ebt-thumbnail img {
+  height: 4.5em;
+}
+
