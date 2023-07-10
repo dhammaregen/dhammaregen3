@@ -1,16 +1,7 @@
-# EBT-Site3
+# Dhammaregen
+Siehe [dhammaregen.github.io/dhammaregen3](https://dhammaregen.github.io/dhammaregen3/)
 
-This repository is the template for EBT websites based on
-[EBT-Vue3](https://github.com/ebt-site/ebt-vue3).
+*Dhammaregen* ist eine Webseite zum Studium früher buddhistischer Texte, im Speziellen der Suttas (Lehrreden des Buddha und seiner frühen Schülerinnen und Schüler). Es beherbergt neue deutsche Sutta-Übersetzungen von Anagarika Sabbamitta. Daneben enthält es verschiedene Hintergrundinformationen zu den frühen buddhistischen Texten (FBT).
 
-Preview this website:
-
-* [EBT-Site3](https://ebt-site.github.com/ebt-site3)
-
-## Instructions
-
-1. [Create a Github account](https://docs.github.com/en/get-started/signing-up-for-github/signing-up-for-a-new-github-account)
-1. [Clone this repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
-1. [Customize your EBT-Site3](https://sc-voice.net/#/wiki/instructions)
 
 
