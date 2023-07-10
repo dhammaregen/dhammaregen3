@@ -1,7 +1,7 @@
 const EbtConfig = {
   "appName": "Dhammaregen",
   "basePath": "/dhammaregen3/",
-  "homePath": "#/wiki/welcome",
+  "homePath": "#/wiki/startseite",
   "content": {
     "index": "toc",
   },
