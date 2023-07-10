@@ -1,5 +1,5 @@
 ---
-title: Willkommen auf ${appName}
+title: Willkommen bei ${appName}
 description: Site template for EBT-Vue3 applications
 img: pexels-philippe-donn-1133957.png
 img-alt: Hummingbird reaching to drink nectar from flowers
