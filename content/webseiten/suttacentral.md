@@ -6,7 +6,6 @@ img: suttacentral.png
 img-alt: Bild der Webseite Suttacentral
 order: 1
 ---
-https://suttacentral.net
 
 ### Frühe buddhistische Texte
 SuttaCentral ist die Quelle für alle frühen buddhistischen Texte (FBT), die auf dieser Webseite gezeigt werden. Es ist eine internationale Webseite mit FBT in ihren Originalsprachen und zahlreichen Übersetzungen sowie vielen Parallelen in frühen Texten.
