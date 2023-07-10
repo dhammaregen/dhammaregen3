@@ -1,26 +1,16 @@
 ---
 title: Voice.suttacentral.net
-description: Listen to Early Buddhist Texts (EBTs) and translations.
+description: Frühe buddhistische Texte (FBT) und Übersetzungen hören
 link: https://voice.suttacentral.net
 img: voice.png
-img-alt: voice.suttacentral.net web page image
+img-alt: voice.suttacentral.net-Webseitenbild
 order: 2
 ---
-### Listen to the Early Buddhist Texts
-Voice
-provides audio for selected
-Early Buddhist Texts (EBTs) and translations available on 
-[SuttaCentral](https://suttacentral.net).
+### Die frühen buddhistischen Texte hören
+Voice bietet einen Audio-Zugang zu ausgewählten frühen buddhistischen Texten (FBT) von [SuttaCentral](https://suttacentral.net) und ihren Übersetzungen.
 
-Designed for the vision impaired, 
-Voice
-has a minimalist
-user interface that works best with screenreaders.
-Voice has an audio player that can be used to
-listen to the EBTs while reading them. 
-In addition, audio downloads are generated on demand for offline study.
+Voice wurde für Menschen mit Sehbehinderung entwickelt und hat eine minimalistische Benutzeroberfläche, die gut mit Bildschirmlesern zu bedienen ist. Mit dem Audioplayer von Voice kann man FBT hören und sie gleichzeitig lesen. Zusätzlich können nach Bedarf Audiodateien zum Herunterladen für die Offline-Nutzung erzeugt werden. 
 
-Please [support SuttaCentral](https://suttacentral.net/donations)
-in its efforts to bring the Buddha’s word to people all around the world.
+Weitere Informationen zu Voice finden Sie [hier](https://dhammaregen.github.io/voice/de/100-intro-voice).
 
 
