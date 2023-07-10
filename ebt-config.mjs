@@ -3,7 +3,7 @@ const EbtConfig = {
   "basePath": "/dhammaregen3/",
   "homePath": "#/wiki/startseite",
   "content": {
-    "index": "toc",
+    "index": "inhalt",
   },
   "github": {
     "account": "dhammaregen",
