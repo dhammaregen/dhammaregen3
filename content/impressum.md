@@ -9,7 +9,7 @@ order: 9999
 
 ### Impressum
 
-Es ist das Ziel dieser Webseite, interessierten Besuchern frühe buddhistische Texte in ihrer Quellsprache Pali und in Übersetzung frei von Kosten oder Beschränkungen durch Copyright zugänglich zu machen. Auf größtmögliche Barrierefreiheit für sehbehinderte Menschen wird ebenfalls Wert gelegt. 
+Es ist das Ziel dieser Webseite, interessierten Besuchern frühe buddhistische Texte in ihrer Quellsprache Pali und in deutscher Übersetzung frei von Kosten oder Beschränkungen durch Copyright zugänglich zu machen. Auf größtmögliche Barrierefreiheit für sehbehinderte Menschen wird ebenfalls Wert gelegt. 
 
 Geschäftliche oder kommerzielle Interessen werden nicht verfolgt, auch soll nicht für eine bestimmte Religionszugehörigkeit geworben werden.
 
@@ -54,9 +54,9 @@ GitHub Inc.
 San Francisco, CA 94107  
 United States
 
-Dieser ist Empfänger der personenbezogenen Daten der Besucherin der Webseite. Dies entspricht dem berechtigten Interesse der Webseitenbetreiberin im Sinne des Art. 6 Abs. 1 Buchst. f DSGVO, selbst keinen eigenen Server vorhalten zu müssen. Serverstandort sind die USA.
+Dieser ist Empfänger der personenbezogenen Daten der Besucher der Webseite. Dies entspricht dem berechtigten Interesse der Webseitenbetreiberin im Sinne des Art. 6 Abs. 1 Buchst. f DSGVO, selbst keinen eigenen Server vorhalten zu müssen. Serverstandort sind die USA.
 
-Weitere Informationen zu Widerspruchs- und Beseitigungsmöglichkeiten gegenüber GitHub finden Sie unter: https://docs.github.com/en/free-pro-team@latest/github/site-policy/github-privacy-statement#github-pages
+Weitere Informationen zu Widerspruchs- und Beseitigungsmöglichkeiten gegenüber GitHub finden Sie unter: [https://docs.github.com/en/free-pro-team@latest/github/site-policy/github-privacy-statement#github-pages](https://docs.github.com/en/free-pro-team@latest/github/site-policy/github-privacy-statement#github-pages)
 
 Sie haben das Recht, der Verarbeitung zu widersprechen. Ob der Widerspruch erfolgreich ist, ist im Rahmen einer Interessenabwägung zu ermitteln.
 
@@ -64,15 +64,13 @@ Die Daten werden gelöscht, sobald der Zweck der Verarbeitung entfällt.
 
 Die Verarbeitung der unter diesem Abschnitt angegebenen Daten ist weder gesetzlich noch vertraglich vorgeschrieben. Die Funktionsfähigkeit der Webseite ist ohne die Verarbeitung nicht gewährleistet.
 
-GitHub hat Compliance-Maßnahmen für internationale Datenübermittlungen umgesetzt. Diese gelten für alle weltweiten Aktivitäten, bei denen GitHub personenbezogene Daten von natürlichen Personen in der EU verarbeitet. Diese Maßnahmen basieren auf den EU-Standardvertragsklauseln (SCCs). Weitere Informationen finden Sie unter: https://docs.github.com/en/free-pro-team@latest/github/site-policy/github-data-protection-addendum#attachment-1–the-standard-contractual-clauses-processors
+GitHub hat Compliance-Maßnahmen für internationale Datenübermittlungen umgesetzt. Diese gelten für alle weltweiten Aktivitäten, bei denen GitHub personenbezogene Daten von natürlichen Personen in der EU verarbeitet. Diese Maßnahmen basieren auf den EU-Standardvertragsklauseln (SCCs). Weitere Informationen finden Sie unter: [https://docs.github.com/en/free-pro-team@latest/github/site-policy/github-data-protection-addendum#attachment-1–the-standard-contractual-clauses-processors](https://docs.github.com/en/free-pro-team@latest/github/site-policy/github-data-protection-addendum#attachment-1–the-standard-contractual-clauses-processors)
 
 Es soll in diesem Zusammenhang darauf hingewiesen werden, dass mit dem Einsatz geeigneter technischer Mittel auch ein anonymes Surfen im Internet möglich ist.
 
 #### Cookies
 
-Diese Webseite verwendet in den Grundeinstellungen keine Cookies. Wenn Sie es wünschen, können Sie in den Einstellungen dieser Seite Cookies aktivieren, um die Benutzerfreundlichkeit zu erhöhen. Zu einem anderen als dem genannten Zweck werden Cookies auf dieser Webseite nicht verwendet. Sie können die betreffende Einstellung jederzeit ändern.
-
-<!-- Diese Webseite verwendet Cookies lediglich zu dem Zweck, die Darstellung der Webseiteninhalte zu ermöglichen und die Einstellungen des Benutzers in dessen Browser zu speichern. -->
+Diese Webseite verwendet Cookies lediglich zu dem Zweck, die Darstellung der Webseiteninhalte zu ermöglichen und die Einstellungen des Benutzers in dessen Browser zu speichern.
 
 #### Externe Links
 
@@ -86,7 +84,7 @@ Diese Webseite nutzt YouTube mit der Funktion „Erweiterter Datenschutzmodus“
 
 Über Ihren Internet-Browser speichert YouTube Cookies auf dem Gerät, mit dem Sie das Video auf dieser Webseite betrachten. Falls Sie mit dieser Verarbeitung nicht einverstanden sind, können Sie die Speicherung der Cookies durch eine Einstellung in Ihrem Internet-Browser verhindern.
 
-Weitergehende Informationen über die Erhebung und Nutzung von Daten sowie über Ihre Rechte und Schutzmöglichkeiten hält Google in seinen Datenschutzhinweisen bereit, die unter https://policies.google.com/privacy abrufbar sind.
+Weitergehende Informationen über die Erhebung und Nutzung von Daten sowie über Ihre Rechte und Schutzmöglichkeiten hält Google in seinen Datenschutzhinweisen bereit, die unter [https://policies.google.com/privacy](https://policies.google.com/privacy) abrufbar sind.
 
 #### Kontakt per Email
 
