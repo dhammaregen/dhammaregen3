@@ -17,8 +17,8 @@ order: 1
 
 *Dhammaregen* ist eine Webseite zum Studium früher buddhistischer Texte, im Speziellen der Suttas (Lehrreden des Buddha und seiner frühen Schülerinnen und Schüler). Es beherbergt neue deutsche Sutta-Übersetzungen von Silashin Sabbamitta. Daneben enthält es verschiedene Hintergrundinformationen zu den frühen buddhistischen Texten (FBT).
 
-Neu bei den Suttas? Finden Sie hier [ein paar Tipps zum Einstieg](/Studium/Einstieg).  
-Neu bei *Dhammaregen*? Lesen Sie hier [über die Idee hinter der Webseite](/Studium/Neu).
+Neu bei den Suttas? Finden Sie hier [ein paar Tipps zum Einstieg](#/wiki/studium/einstieg).  
+Neu bei *Dhammaregen*? Lesen Sie hier [über die Idee hinter der Webseite](#/wiki/studium/neu).
 
 ### Schauen Sie sich um
 
