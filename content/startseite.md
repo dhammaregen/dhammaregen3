@@ -26,7 +26,7 @@ Neu bei *Dhammaregen*? Lesen Sie hier [über die Idee hinter der Webseite](/Stud
 
 <a href="#/wiki/startseite" class="scv-icon-btn v-btn v-btn--icon v-btn--round v-btn--router theme--dark v-size--default"><span class="v-btn__content"><span aria-hidden="true" class="v-icon notranslate theme--dark"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" role="img" aria-hidden="true" class="v-icon__svg"><path d="M10,20V14H14V20H19V12H22L12,3L2,12H5V20H10Z"></path></svg></span></span></a> Kommen Sie zu dieser [Startseite](#/wiki/startseite) zurück.
 
-Erfahren Sie mehr über *Dhammaregen* und frühe buddhistische Texte: [hier klicken](#/wiki/inhalt)
+Erfahren Sie mehr über *Dhammaregen* und frühe buddhistische Texte: [zum Wiki-Inhaltsverzeichnis](#/wiki/inhalt)
 
 ### Nachrichten von *Dhammaregen*
 
