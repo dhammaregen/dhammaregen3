@@ -23,7 +23,7 @@ Um Ihre eigene Webseite zu erstellen:
 1. Geben Sie Ihre Änderungen auf GitHub ein 
 1. Schalten Sie [Github Pages](https://docs.github.com/en/pages) ein
 
-Das wär's schon!
+Das war's schon!
 
 Samstag 1. Juli 2023 01:42:56 PM PDT
 
