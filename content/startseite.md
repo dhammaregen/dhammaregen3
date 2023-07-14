@@ -38,7 +38,7 @@ Auch Fragen oder Anregungen können an diese Email-Adresse gesandt werden, oder 
 
 Alle deutschen Übersetzungen von Texten und Essays sowie auch Originalessays auf *Dhammaregen* sind, soweit nicht anders angegeben, von Silashin Sabbamitta.
 
-Copyright: Für die Software dieser Webseite gilt die [MIT-Lizenz](https://github.com/dhammaregen/dhammaregen/blob/main/LICENSE). Inhalte, die von SuttaCentral stammen, unterliegen den [Lizenzbedingungen von SuttaCentral](https://dhammaregen.github.io/voice/de/301-lizenzen-sc). Originalessays von Silashin Sabbamitta auf dieser Webseite folgen den gleichen Lizenzbedingungen. Texte anderer Autoren folgen den jeweiligen Lizenzbedingungen der Quelle. Wenn nicht anders angegeben, entspricht das ebenfalls den Lizenzbedingungen von SuttaCentral.
+Copyright: Für die Software dieser Webseite gilt die [MIT-Lizenz](https://github.com/dhammaregen/dhammaregen3/blob/main/LICENSE). Inhalte, die von SuttaCentral stammen, unterliegen den [Lizenzbedingungen von SuttaCentral](https://suttacentral.net/licensing?lang=de). Originalessays von Silashin Sabbamitta auf dieser Webseite folgen den gleichen Lizenzbedingungen. Texte anderer Autoren folgen den jeweiligen Lizenzbedingungen der Quelle. Wenn nicht anders angegeben, entspricht das ebenfalls den Lizenzbedingungen von SuttaCentral.
 
 *Dhammaregen* erhebt und speichert keine personenbezogenen Daten. Cookies werden lediglich zu dem Zweck verwendet, die Darstellung der Webseiteninhalte zu ermöglichen und die Einstellungen des Benutzers in dessen Browser zu speichern. 
 
