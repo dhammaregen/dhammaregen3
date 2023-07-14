@@ -44,4 +44,4 @@ Copyright: Für die Software dieser Webseite gilt die [MIT-Lizenz](https://githu
 
 <!-- Diese Webseite verwendet Cookies lediglich zu dem Zweck, die Darstellung der Webseiteninhalte zu ermöglichen und die Einstellungen des Benutzers in dessen Browser zu speichern. -->
 
-Zum Impressum und der ausführlichen Datenschutzerklärung: [hier klicken](#/wiki/rechtlich/impressum)
+Zum Impressum und der ausführlichen Datenschutzerklärung: [hier klicken](#/wiki/unsichtbar/impressum)
