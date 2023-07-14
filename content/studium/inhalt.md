@@ -3,7 +3,7 @@ title: Suttastudium mit Dhammaregen
 description: Wie man Dhammaregen benutzt
 img: study.png
 img-alt: Bücher auf Picknicktisch im Wald
-slugDir: Studium
+slugDir: studium
 category: Dhammaregen
 order: 2
 ---
