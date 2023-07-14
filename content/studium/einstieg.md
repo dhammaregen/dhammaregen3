@@ -22,7 +22,7 @@ Lesen und *hören* Sie [AN 9.13](#/sutta/an9.13:0.1/de/sabbamitta); gutes Stichw
 
 Jedenfalls lädt der Buddha recht ausdrücklich dazu ein, seinen Verstand zu gebrauchen.
 
-Lesen und *hören* Sie [AN 3.65](#/sutts/an3.65:0.1/de/sabbamitta); gutes Stichwort zum Auffinden: „Zweifel aufgekommen ist“.
+Lesen und *hören* Sie [AN 3.65](#/sutta/an3.65:0.1/de/sabbamitta); gutes Stichwort zum Auffinden: „Zweifel aufgekommen ist“.
 
 Ebenso wichtig ist aber auch die Entwicklung emotionaler Qualitäten, wie etwa der Liebe.
 
@@ -34,11 +34,11 @@ Gute Frage! Der buddhistische Kanon ist tatsächlich alles andere als übersicht
 
 Ein paar Anregungen, um den Einstieg zu erleichtern:
 - Ein paar [allgemeine Überlegungen zum Lesen der Suttas](#/wiki/studium/suttas-lesen) von Bhante Sujato
-- Bhante Sujatos Aufsatz [*Top Ten Suttas (… und zehn weitere, die sich ebenfalls zu lesen lohnen)*](#/wiki/studium/topTen) schlägt beliebte Suttas vor sowie einige weitere, die genauso unsere Aufmerksamkeit verdienen.
-- Die Ausgaben des [*Dhammaregen*-Newsletters](#/wiki/news) führen jeweils an eine kleine Zahl von Suttas heran und bieten so kleine „Wanderführer“ für eine Sutta-Wanderung.
+- Bhante Sujatos Aufsatz [*Top Ten Suttas (… und zehn weitere, die sich ebenfalls zu lesen lohnen)*](#/wiki/studium/topten) schlägt beliebte Suttas vor sowie einige weitere, die genauso unsere Aufmerksamkeit verdienen.
+- Die Ausgaben des [*Dhammaregen*-Newsletters](#/wiki/news/inhalt) führen jeweils an eine kleine Zahl von Suttas heran und bieten so kleine „Wanderführer“ für eine Sutta-Wanderung.
 - Die Seite [*Dhammaregen* in neuem Kleid](#/wiki/studium/neu) vermittelt einen Überblick über die grundsätzliche Idee hinter *Dhammaregen*. 
-- Es gibt auch einen [Überblick über die Tehmen, die auf dieser Webseite behandelt werden](#/wiki). Klicken Sie auf einen der Themenschwerpunkte, um mehr zu erfahren.
-- Fangen Sie einfach irgendwo an! Klicken Sie „Such mir etwas aus!“ und lassen Sie sich überraschen. Egal wo Sie anfangen, den Berg zu besteigen – irgendwann werden Sie beim Gipfel ankommen. [Erläuterungen zum Durchsuchen der Suttas auf *Dhammaregen*](#/wiki/studium/suche)
+- Es gibt auch einen [Überblick über die Tehmen, die auf dieser Webseite behandelt werden](#/wiki/inhalt). Klicken Sie auf einen der Themenschwerpunkte, um mehr zu erfahren.
+- Fangen Sie einfach irgendwo an! Öffnen Sie eine Such-Karte, klicken Sie auf „Such mir etwas aus!“ und lassen Sie sich überraschen. Egal wo Sie anfangen, den Berg zu besteigen – irgendwann werden Sie beim Gipfel ankommen. [Erläuterungen zum Durchsuchen der Suttas auf *Dhammaregen*](#/wiki/studium/suche)
 
 <div style="text-align: center;">* * *</div>
 
