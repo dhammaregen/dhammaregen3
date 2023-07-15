@@ -4,6 +4,7 @@ description: Quellenangaben zu Audios auf der Webseite
 img: pexels-magicbowls-3543916.png
 img-alt: Klangschale, die angeschlagen wird
 category: Weitere Informationen
+link: https://www.pexels.com/photo/woman-holding-a-wooden-stick-and-a-bowl-3543916/
 order: 9999
 ---
 
