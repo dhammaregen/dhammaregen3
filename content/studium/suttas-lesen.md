@@ -3,7 +3,7 @@ title: Wie soll man die Suttas lesen?
 description: Bhikkhu Sujato, 2017
 img: sujato.png
 img-alt: Foto von Bhante Sujato
-order: 9.5
+order: 3.1
 ---
 
 [Zum Originaltext](https://discourse.suttacentral.net/t/how-to-read-the-suttas/6676)

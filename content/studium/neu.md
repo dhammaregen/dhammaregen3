@@ -3,7 +3,7 @@ title: Dhammaregen in neuem Kleid
 description: April 2021 
 img: newdress.png
 img-alt: Waldboden mit Teppich aus blühenden Anemonen
-order: 10
+order: 0.5
 ---
 ### Historisches
 *Dhammaregen* wurde ursprünglich als eine Begleitwebseite zu [Voice.suttacentral.net](https://voice.suttacentral.net) entworfen und enthielt Informationen über die Benutzung von Voice und [SuttaCentral](https://suttacentral.net) sowie auch eine Infoseite zu den deutschen Sutta-Übersetzungen von Silashin Sabbamitta. Die heute noch relevanten Informationen sind jetzt [im Dhammaregen-GitHub-Wiki](https://github.com/dhammaregen/dhammaregen3/wiki) zu finden.
