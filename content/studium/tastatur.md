@@ -3,6 +3,7 @@ title: Navigieren mit der Tastatur
 description: Funktionen zum Navigieren ohne Maus
 img: sergi-kabrera-2xU7rYxsTiM-unsplash.png
 img-alt: Eine Tastatur
+link: https://unsplash.com/photos/2xU7rYxsTiM
 order: 9
 ---
 
