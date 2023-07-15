@@ -8,7 +8,7 @@ order: 10
 ### Historisches
 *Dhammaregen* wurde ursprünglich als eine Begleitwebseite zu [Voice.suttacentral.net](https://voice.suttacentral.net) entworfen und enthielt Informationen über die Benutzung von Voice und [SuttaCentral](https://suttacentral.net) sowie auch eine Infoseite zu den deutschen Sutta-Übersetzungen von Silashin Sabbamitta. Die heute noch relevanten Informationen sind jetzt [im Dhammaregen-GitHub-Wiki](https://github.com/dhammaregen/dhammaregen3/wiki) zu finden.
 
-Später wurde *Dhammaregen* zu einer Webseite zum Studium der Suttas ausgebaut. Das heutige *Dhammaregen* ist eine weiterentwickelte Version davon.
+2021 wurde *Dhammaregen* zu einer Webseite zum Studium der Suttas ausgebaut. Das heutige *Dhammaregen* entstand 2023 und ist eine weiterentwickelte Version davon.
 
 ### Die neue Version von Dhammaregen
 Der buddhistische Kanon hat eine recht komplexe Struktur, an der sich gewöhnlich Webseiten, die die Suttas präsentieren, orientieren. Für Neulinge ist es nicht einfach, sich darin zurechtzufinden. Daher entstand der Gedanke, eine Möglichkeit zum Studium der Suttas zu schaffen, die den Kanon auf andere Art erschließt. Dieser Gedanke ist die Grundlage des neuen *Dhammaregen*.
@@ -40,8 +40,10 @@ Voice.suttacentral.net hat den gleichen reduzierten Ansatz wie *Dhammaregen*. Es
 
 Dies sind nur ein paar Punkte, um die drei Webseiten miteinander zu vergleichen. Am besten probieren Sie selbst aus, was Ihnen zusagt.
 
-### Dhamma-Essays
-Im [Wiki-Bereich von *Dhammaregen*](#/wiki/inhalt) finden Sie verschiedene Kanäle mit Aufsätzen zu mehreren Themembereichen. Dazu zählen mehr wissenschaftliche Aufsätze, aber auch [Texte zu Dhamma-Themen](#/wiki/tropfen/inhalt). Nehmen Sie einen Essay als Ausgangspunkt für eine Wanderung durch den Sutta-Wald. Wenn Suttas in einem Essay erwähnt sind, ist ein Link zu dem entsprechenden Sutta angebracht, sodass Sie das Zitat gleich im Kontext lesen und von dort aus auch weitere Expeditionen antreten können. Wenn Sie möchten, nehmen Sie sicherheitshalber einen Schirm zu Ihrer Wanderung mit: Hier kann es, gemäß dem Motto der [Startseite](#/wiki/startseite), immer ein bisschen feucht sein. Aber ein paar Dhamma-Regentropfen können schließlich nicht schaden … 😉
+### FBT- und Dhamma-Essays
+Im [Wiki-Bereich von *Dhammaregen*](#/wiki/inhalt) finden Sie verschiedene Kanäle mit Aufsätzen zu mehreren Themembereichen. Dazu zählen mehr wissenschaftliche Aufsätze wie etwa im Kanal zur [Buddhismuskunde](#/wiki/buddhismuskunde/inhalt) oder zur [buddhistischen Mythologie](#/wiki/mythologie/inhalt), aber auch leicht lesbare Texte zu [Dhamma-Themen](#/wiki/tropfen/inhalt). 
+
+Nehmen Sie einen Essay als Ausgangspunkt für eine Wanderung durch den Sutta-Wald. Wenn Suttas in einem Essay erwähnt sind, ist ein Link zu dem entsprechenden Sutta angebracht, sodass Sie das Zitat gleich im Kontext lesen und von dort aus auch weitere Expeditionen antreten können. Wenn Sie möchten, nehmen Sie sicherheitshalber einen Schirm zu Ihrer Wanderung mit: Hier kann es, gemäß dem Motto der [Startseite](#/wiki/startseite), immer ein bisschen feucht sein. Aber ein paar Dhamma-Regentropfen können schließlich nicht schaden … 😉
 
 ### Newsletter
-Das neue *Dhammaregen* hat auch einen Newsletter, der in unregelmäßigen Abständen erscheint. Er informiert über die neuesten Übersetzungen auf dieser Webseite und Sonstiges rund um frühe buddhistische Texte. Sie können sich mit einer formlosen Email an [dhammaregen@gmail.com](mailto:dhammaregen@gmail.com) zum Newsletter anmelden. Im [Newsletter-Archiv](#/wiki/news/inhalt) finden Sie alle bisher erschienenen Ausgaben.
+*Dhammaregen* hat auch einen Newsletter, der meist einmal pro Monat erscheint. Er informiert über die neuesten Übersetzungen auf dieser Webseite und Sonstiges rund um frühe buddhistische Texte. Sie können sich mit einer formlosen Email an [dhammaregen@gmail.com](mailto:dhammaregen@gmail.com) zum Newsletter anmelden. Im [Newsletter-Archiv](#/wiki/news/inhalt) finden Sie alle bisher erschienenen Ausgaben.
