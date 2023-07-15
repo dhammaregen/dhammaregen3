@@ -8,39 +8,37 @@ order: 1
 
 So gelangen Sie zu dem Text, den Sie studieren möchten:
 
+<a href="#/search//de" class="scv-icon-btn v-btn v-btn--icon v-btn--round v-btn--router theme--dark v-size--default"><span class="v-btn__content"><span aria-hidden="true" class="v-icon notranslate theme--dark"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" role="img" aria-hidden="true" class="v-icon__svg"><path d="M9.5,3A6.5,6.5 0 0,1 16,9.5C16,11.11 15.41,12.59 14.44,13.73L14.71,14H15.5L20.5,19L19,20.5L14,15.5V14.71L13.73,14.44C12.59,15.41 11.11,16 9.5,16A6.5,6.5 0 0,1 3,9.5A6.5,6.5 0 0,1 9.5,3M9.5,5C7,5 5,7 5,9.5C5,12 7,14 9.5,14C12,14 14,12 14,9.5C14,7 12,5 9.5,5Z"></path></svg></span></span></a> Öffnen Sie zunächst [eine Suchkarte](#/search//de).
+
 ### 1. „Such mir etwas aus!“
 
 Wenn Sie nicht wissen, wo Sie anfangen sollen, klicken Sie auf die Schaltfläche `Such mir etwas aus!`. Das führt zu einer Zufallsauswahl aus einer Sammlung von Beispiel-Suchbegriffen, die zusammen mit dem zugehörigen Ergebnis angezeigt wird:
 
-<img src="./result.png" class="ebt-image" alt="Bildschirmfoto von Suchergebnis">
+<img src="./result.png" class="ebt-image" alt="Bildschirmfoto von Suchergebnis"> "was einen Anfang hat, hat auch ein Ende"
 
-Klick auf die Textzeile mit dem Pfeil im Ergebnisfeld zeigt die Suttas an, in denen der betreffende Suchbegriff vorkommt:
+Ein Klick auf eins der angezeigten Suttas öffnet die Detailansicht: Neben der Kennziffer des Sutta können Sie bei den meisten Suttas einen kurzen einführenden Text lesen. Darunter sehen Sie Segmente aufgeführt, in denen der Suchbegriff zu finden ist.
 
-<img src="./result-suttas.png" class="ebt-image" alt="Bildschirmfoto von Suttaliste">
-
-Klick auf eins der angezeigten Suttas zeigt den Suchbegriff im Kontext seines Textsegmentes:
-
-<img src="./result-segment.png" class="ebt-image" alt="Bildschirmfoto eines Ergebnissegments">
+<img src="./result-segment.png" class="ebt-image" alt="Bildschirmfoto eines Ergebnissegments"> "sn56.11"
 
 Bereits auf dieser Ebene können Sie vergleichen, ob ein bestimmter Begriff immer im gleichen Zusammenhang vorkommt oder nicht.
 
-Klick auf den Pfeil unter einem Segment führt zu dem entsprechenden Sutta.
+Klicken Sie entweder auf die Kennziffer des gesamten Sutta oder auf eine Segmentkennziffer, um eine Suttakarte zu öffnen und zu der entsrechenden Stelle zu gehen. Wenn Sie eine Suttakarte im Fokus haben, erscheinen am unteren Bildschirmrand die Wiedergabe-Funktionen.
 
 ### 2. Ins Suchfeld tippen
 
 Wenn Sie nach einem bestimmten Thema suchen, fangen Sie an, ein Wort, an das Sie sich aus dem Zusammenhang erinnern, in das Suchfeld zu tippen. Zum Beispiel kann es sein, dass Sie eins der Gleichnisse finden wollen, in denen Wasser vorkommt. Tippen Sie „Wasser“ und wählen Sie aus den Suchbegriffen aus, die erscheinen.
 
-<img src="./searchfield.png" class="ebt-image" alt="Bildschirmfoto von Suchfeld mit Wort Wasser und Suchbegriffen">
+<img src="./searchfield.png" class="ebt-image" alt="Bildschirmfoto von Suchfeld mit Wort Wasser und Suchbegriffen"> "Wasser"
 
-Sie können auch Suttas nach Kennziffer suchen, zum Beispiel „AN 10.61“. Für Suttas, für die noch keine segmentierte deutsche Übersetzung vorliegt, wird Bhante Sujatos englische Übersetzung gezeigt.
+Sie können auch Suttas nach Kennziffer suchen, zum Beispiel `AN 10.61` oder `an10.61`. Für Suttas, für die noch keine segmentierte deutsche Übersetzung vorliegt, wird Bhante Sujatos englische Übersetzung gezeigt, wenn Sie den Vergleichstext entsprechend eingestellt haben.
 
-Suche mit freiem Text ist auf *Dhammaregen* nicht möglich. Wenn ein Suchtext eingegeben wird, für den kein Beispiel-Suchbegriff vorliegt, wird auf Voice.suttacentral.net verwiesen.
+Sie können auch einen freien Suchtext in die Suchkarte eingeben.
 
 ### 3. Zu benachbarten Suttas oder zu SuttaCentral gehen
 
-Am Fuß der Seite kann man zum vorherigen oder nächsten Sutta nach der Ordnung des Kanon springen. In der Mitte befindet sich ein Link zu dem entsprechenden Sutta auf SuttaCentral.
+Links zum vorherigen und zum nächsten Sutta nach der Ordnung des Kanon sowie einen Link zu dem entsprechenden Sutta auf SuttaCentral finden Sie sowohl am oberen als auch am untren Rand der Suttakarte.
 
-<img src="./links.png" class="ebt-image" alt="Bildschirmfoto von Links am unteren Seitenende">
+<img src="./links.png" class="ebt-image" alt="Bildschirmfoto von Links am unteren Seitenende"> "Links"
 
 ### 4. Suchchronik benutzen
 
@@ -60,7 +58,7 @@ Für eine ausführlichere Beschreibung der Chronik-Funktion siehe [hier](/Studiu
 
 Wenn Sie in ein Segment klicken, wird dieses hervorgehoben.
 
-<img src="./segment.png" class="ebt-image" alt="Bildschirmfoto mit einem hervorgehobenen Segment">
+<img src="./segment.png" class="ebt-image" alt="Bildschirmfoto mit einem hervorgehobenen Segment"> "Segment"
 
 Gleichzeitig erscheint die Segment-Kennziffer in der Mitte der unteren Navigationsleiste (siehe Bildschirmfoto unter „Chronik“). Wenn Sie darauf klicken, können Sie von jeder beliebigen Stelle im Text zu dem zuletzt markeirten Segment zurückkommen.
 

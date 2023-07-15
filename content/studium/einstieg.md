@@ -38,7 +38,7 @@ Ein paar Anregungen, um den Einstieg zu erleichtern:
 - Die Ausgaben des [*Dhammaregen*-Newsletters](#/wiki/news/inhalt) führen jeweils an eine kleine Zahl von Suttas heran und bieten so kleine „Wanderführer“ für eine Sutta-Wanderung.
 - Die Seite [*Dhammaregen* in neuem Kleid](#/wiki/studium/neu) vermittelt einen Überblick über die grundsätzliche Idee hinter *Dhammaregen*. 
 - Es gibt auch einen [Überblick über die Tehmen, die auf dieser Webseite behandelt werden](#/wiki/inhalt). Klicken Sie auf einen der Themenschwerpunkte, um mehr zu erfahren.
-- Fangen Sie einfach irgendwo an! Öffnen Sie eine Such-Karte, klicken Sie auf „Such mir etwas aus!“ und lassen Sie sich überraschen. Egal wo Sie anfangen, den Berg zu besteigen – irgendwann werden Sie beim Gipfel ankommen. [Erläuterungen zum Durchsuchen der Suttas auf *Dhammaregen*](#/wiki/studium/suche)
+- Fangen Sie einfach irgendwo an! Öffnen Sie eine Suchkarte, klicken Sie auf „Such mir etwas aus!“ und lassen Sie sich überraschen. Egal wo Sie anfangen, den Berg zu besteigen – irgendwann werden Sie beim Gipfel ankommen. [Erläuterungen zum Durchsuchen der Suttas auf *Dhammaregen*](#/wiki/studium/suche)
 
 <div style="text-align: center;">* * *</div>
 

@@ -16,7 +16,7 @@ Die Idee der Webseite ist auf Schlüsselbegriffen aufgebaut, die wichtige Lehrth
 
 *Dhammaregen* verfügt auch über eine Audiofunkion zum Hören der Suttas.
 
-Klicken Sie auf die Lupe rechts oben auf der Webseite, um eine Such-Karte zu öffnen und zu den Suttas zu gelangen.
+Klicken Sie auf die Lupe rechts oben auf der Webseite, um eine Suchkarte zu öffnen und zu den Suttas zu gelangen.
 
 ### Suttastudium: Inhalt
 
