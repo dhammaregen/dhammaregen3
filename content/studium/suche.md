@@ -12,7 +12,7 @@ So gelangen Sie zu dem Text, den Sie studieren möchten:
 
 ### 1. „Such mir etwas aus!“
 
-Wenn Sie nicht wissen, wo Sie anfangen sollen, klicken Sie auf die Schaltfläche `Such mir etwas aus!`. Das führt zu einer Zufallsauswahl aus einer Sammlung von Beispiel-Suchbegriffen, die zusammen mit dem zugehörigen Ergebnis angezeigt wird:
+Wenn Sie nicht wissen, wo Sie anfangen sollen, klicken Sie auf die Schaltfläche <kbd>Such mir etwas aus!</kbd>. Das führt zu einer Zufallsauswahl aus einer Sammlung von Beispiel-Suchbegriffen, die zusammen mit dem zugehörigen Ergebnis angezeigt wird:
 
 <img src="./result.png" class="ebt-image" alt="Bildschirmfoto von Suchergebnis"> "was einen Anfang hat, hat auch ein Ende"
 
