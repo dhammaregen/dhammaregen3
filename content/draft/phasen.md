@@ -8,7 +8,7 @@ order: 10
 
 [Zum Originaltext](https://discourse.suttacentral.net/t/four-phases-of-early-buddhist-studies/29508)
 
-Lassen Sie uns Verallgemeinerungn über den Buddhismus machen! Es ist faul und schlecht, Verallgemeinerungen zu machen, aber ich lasse mich davon nicht abhalten. Das moderne Verständnis des frühen Buddhismus, so postuliere ich, hat sich durch vier Phasen entwickelt; gegenwärtig befinden wir uns in der vierten.
+Lassen Sie uns Verallgemeinerungen über den Buddhismus machen! Es ist faul und schlecht, Verallgemeinerungen zu machen, aber ich lasse mich davon nicht abhalten. Das moderne Verständnis des frühen Buddhismus, so postuliere ich, hat sich durch vier Phasen entwickelt; gegenwärtig befinden wir uns in der vierten.
 
 Diese Phasen sind konstruktiv, bekräftigen sich gegenseitig und halten weiter an. Als Keim finden sie sich alle von Anfang an, aber mit der Zeit hat sich der Schwerpunkt verschoben. Das geschieht, wenn eine Phase ein reifes Stadium erreicht, wenn ihre wichtigsten Aufgaben erfüllt und ihre Einsichten ins weitere kulturelle Verständnis des Buddhismus integriert sind.
 
@@ -34,7 +34,7 @@ Diese Periode ist „archäologisch“ sowohl im wörtlichen Sinn, dass sie von 
 #### Wichtigste Positionen
 
 * Der Buddha war ein menschlicher Philosophie- und Meditationslehrer, der um 500 v. Chr. in der Gangesebene lebte.
-* Die Suttas und der Vinaya zeichnen seine Lehren und Zeitbezüge auf.
+* Die Suttas und der Vinaya zeichnen seine Lehren sowie Zeitbezüge auf.
 * Abhidhamma ist eine spätere Entwicklung.
 * Mahayana-Sutras sind noch später.
 * Die Lehren des Buddha sind in erster Linie rational und psychologisch.
@@ -58,7 +58,7 @@ In der Mitte des 20. Jahrhunderts setzte eine Reaktion gegen die Exzesse der fr�
 
 Lehren wie das abhängige Entstehen, die Natur von Meditationsmethoden oder die Interpretation der Suttas wurden so formuliert, dass sie traditionelle kommentarielle Methoden mit modernen Erkenntnissen so weit wie möglich in Einklang brachten.
 
-Zu unterschiedlichen Graden wurde ein kritischer Blick auf verschiedene traditionelle Herangehensweisen entwickelt, besonders bei der Betonung der Vernunft, der Ethik und der Meditation vor „blinder“ Andacht und Aberglauben. Aber im Ganzen verfielen diese Lehrer nicht in den umfassenden Revisionismus, der die Verfallsphase der archäologischen Periode gekennzeichnet hatte.
+Zu unterschiedlichen Graden wurde ein kritischer Blick auf verschiedene traditionelle Herangehensweisen entwickelt, besonders bei der Betonung von Vernunft, Ethik und Meditation vor „blinder“ Andacht und Aberglauben. Aber im Ganzen verfielen diese Lehrer nicht in den umfassenden Revisionismus, der die Verfallsphase der archäologischen Periode gekennzeichnet hatte.
 
 #### Schlüsselfiguren
 
@@ -87,7 +87,7 @@ Zu unterschiedlichen Graden wurde ein kritischer Blick auf verschiedene traditio
 
 #### Schwächen
 
-In der Praxis erweist es sich oft als möglich, den Unterschied zwischen einem „harmonisierenden“ Ansatz und einer fundamentalistischen Ablehnung der Moderne zu missachten. Buddhisten bevorzugen verständlicherweise den gesellschaftlichen Vertrag der Harmonie zwischen einander widersprechenden Ansätzen, aber der Mangel an Klarheit lähmt das buddhistische Bildungswesen und gibt Falschinformationen an kommende Generationen weiter, sodass buddhistische Gemeinschaften in sinnlosen Debatten über Probleme feststecken, die keine sind.
+In der Praxis kann es leicht geschehen, dass der Unterschied zwischen einem „harmonisierenden“ Ansatz und einer fundamentalistischen Ablehnung der Moderne missachtet wird. Buddhisten bevorzugen verständlicherweise den gesellschaftlichen Vertrag der Harmonie zwischen einander widersprechenden Ansätzen, aber der Mangel an Klarheit lähmt das buddhistische Bildungswesen und gibt Falschinformationen an kommende Generationen weiter, sodass buddhistische Gemeinschaften in sinnlosen Debatten über Probleme feststecken, die keine sind.
 
 So behaupten Manche etwa, der Abhidhamma sei vom Buddha gelehrt worden, obwohl Historiker das seit über einem Jahrhundert einmütig ausgeschlossen haben. Wenn weitergehende Forschung und Neugier zugunsten eines Nur-Pali-Fundamentalismus vernachlässigt werden, verlieren begabte Kandidaten die Lust, weil, wie jemand kürzlich zu mir sagte, „alles so langweilig ist“. Glaubwürdigkeit und Prestige werden in diejenigen gesetzt, die sich am überzeugendsten der Tradition unterordnen. Aber wie bei allen Arten von Fundamentalismus ist diese „Tradition“ eine bequeme Umstrukturierung, die ebenso viel auslässt, wie sie bewahrt.
 
@@ -163,6 +163,7 @@ Eine neue Welle an Forschungen zum alten Indien wird von Empathie und Neugier au
 
 Was wir von der alten indischen Kultur besitzen, sind Fragmente, und es ist leicht, die Lücken mit Über-Interpretation zu füllen. Wir können uns darauf einigen, dass der Buddha im Dialog war, aber wir kennen nur einen Teil der Geschichte. Wir gehen weiter mit Empathie vor, versetzen uns, so gut wir können, an die Stelle der damaligen Menschen, aber aus der riesigen Distanz können wir nicht verhindern, dass wir unsere Vorstellungen in unsere Interpretationen einbringen. Wie in allen Phasen, so verspricht solche Forschung dann auch hier, unser Verständnis zu bereichern, aber nur innerhalb der Grenzen ihrer eigenen Quellen und Methoden.
 
+
 ---
 
 Für mich sieht es so aus, als seien die vier Phasen eine Art Wachstum. Die archäologische Phase baute die DNA des frühen Buddhismus zusammen. Die harmonisierende Bewegung nahm diese und züchtete die Organe, die ein Körper braucht. Mit der vergleichenden Phase hatten wir endlich einen ganzen und vollständigen Körper. Und mit der dialektischen Phase wacht dieser Körper auf, öffnet die Augen, um die Sterne zu sehen, fühlt den Boden unter seinen Füßen und streckt die Hand aus, um etwas außerhalb seiner selbst zu berühren.
@@ -197,6 +198,9 @@ Digitale Möglichkeiten werden weiterhin die Grenzen zwischen den kanonischen Sa
 
 Moderne Erkenntnisse sollten auf Schul- und Hochschulniveau in traditionelle buddhistische Kurrikula integriert werden. Studierende reagieren positiv und mit Interesse, wenn ihnen Probleme und die Mittel, sie zu lösen, vorgestellt werden. Übernommene Wahrheiten vor ihnen zu intonieren, führt nirgendwo hin.
 
+
 ---
 
 Natürlich wird das eskalierende Klimachaos aller Wahrscheinlichkeit nach diese Zukunftsperspektiven niederbrennen, daher spielen sie wohl keine so große Rolle.
+
+<div style="text-align: center;">* * *</div>
