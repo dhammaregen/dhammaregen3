@@ -164,7 +164,7 @@ Eine neue Welle an Forschungen zum alten Indien wird von Empathie und Neugier au
 Was wir von der alten indischen Kultur besitzen, sind Fragmente, und es ist leicht, die Lücken mit Über-Interpretation zu füllen. Wir können uns darauf einigen, dass der Buddha im Dialog war, aber wir kennen nur einen Teil der Geschichte. Wir gehen weiter mit Empathie vor, versetzen uns, so gut wir können, an die Stelle der damaligen Menschen, aber aus der riesigen Distanz können wir nicht verhindern, dass wir unsere Vorstellungen in unsere Interpretationen einbringen. Wie in allen Phasen, so verspricht solche Forschung dann auch hier, unser Verständnis zu bereichern, aber nur innerhalb der Grenzen ihrer eigenen Quellen und Methoden.
 
 
----
+<div style="text-align: center;">* * *</div>
 
 Für mich sieht es so aus, als seien die vier Phasen eine Art Wachstum. Die archäologische Phase baute die DNA des frühen Buddhismus zusammen. Die harmonisierende Bewegung nahm diese und züchtete die Organe, die ein Körper braucht. Mit der vergleichenden Phase hatten wir endlich einen ganzen und vollständigen Körper. Und mit der dialektischen Phase wacht dieser Körper auf, öffnet die Augen, um die Sterne zu sehen, fühlt den Boden unter seinen Füßen und streckt die Hand aus, um etwas außerhalb seiner selbst zu berühren.
 
@@ -199,8 +199,7 @@ Digitale Möglichkeiten werden weiterhin die Grenzen zwischen den kanonischen Sa
 Moderne Erkenntnisse sollten auf Schul- und Hochschulniveau in traditionelle buddhistische Kurrikula integriert werden. Studierende reagieren positiv und mit Interesse, wenn ihnen Probleme und die Mittel, sie zu lösen, vorgestellt werden. Übernommene Wahrheiten vor ihnen zu intonieren, führt nirgendwo hin.
 
 
----
+<div style="text-align: center;">* * *</div>
 
 Natürlich wird das eskalierende Klimachaos aller Wahrscheinlichkeit nach diese Zukunftsperspektiven niederbrennen, daher spielen sie wohl keine so große Rolle.
 
-<div style="text-align: center;">* * *</div>
