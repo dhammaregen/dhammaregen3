@@ -26,7 +26,7 @@ Lesen und *hören* Sie [AN 3.65](#/sutta/an3.65:0.1/de/sabbamitta); gutes Stichw
 
 Ebenso wichtig ist aber auch die Entwicklung emotionaler Qualitäten, wie etwa der Liebe.
 
-Lesen und *hören* Sie [Snp 1.8](#/sutta/snp1.8:0.1/de/sabbamitta) oder [Kp 9](#/sutta/kp9/de/sabbamitta); gutes Stichwort zum Auffinden: „von der Liebe“. 
+Lesen und *hören* Sie [Snp 1.8](#/sutta/snp1.8:0.1/de/sabbamitta) oder [Kp 9](#/sutta/kp9/de/sabbamitta); gutes Stichwort zum Auffinden: „über die Liebe“. 
 
 ### Warum ist der Kanon so unübersichtlich?
 

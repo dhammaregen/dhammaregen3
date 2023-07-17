@@ -23,7 +23,7 @@ Lesen Sie [hier](#/wiki/studium/inhalt), wie Sie die Suttas besser kennenlernen 
 *Dhammaregen* ist ähnlich wie [Voice.suttacentral.net](https://voice.suttacentral.net) mit einer Audiofunktion ausgestattet. Damit können Sie die Suttas sowohl *lesen* als auch *hören*! Lesen Sie [hier](#/wiki/studium/hoeren), wie's funktioniert.
 
 ### Sutta-Übersetzungen
-*Dhammaregen* beherbergt die neuen deutschen Übersetzungen der Suttas des Palikanon von Silashin Sabbamitta. Es handelt sich um ein fortlaufendes Übersetzungsprojekt. Lesen Sie, [was bereits übersetzt ist](#/wiki/Übersetzung/uebersicht), oder öffnen Sie eine [Suchkarte](#/search//de) und gehen Sie zu den Suttas.
+*Dhammaregen* beherbergt die neuen deutschen Übersetzungen der Suttas des Palikanon von Silashin Sabbamitta. Es handelt sich um ein fortlaufendes Übersetzungsprojekt. Lesen Sie, [was bereits übersetzt ist](#/wiki/uebersetzung/uebersicht), oder öffnen Sie eine [Suchkarte](#/search//de) und gehen Sie zu den Suttas.
 
 ### Unterschiede zu den Webseiten SuttaCentral und Voice.suttacentral.net
 Alle drei Webseiten, [SuttaCentral](https://suttacentral.net), [Voice](https://voice.suttacentral.net) und *Dhammaregen*, nutzen das [gleiche Datendepot](https://github.com/suttacentral/bilara-data) für die Suttas und können daher auf die gleichen Texte zugreifen. Das Sutta [AN 10.61](#/sutta/an10.61/de/sabbamitta) zum Beispiel, „Unwissenheit“, können Sie auf allen drei Webseiten finden. Die Webseiten haben allerdings unterschiedliche Ansätze und sind daher für verschiedene Zwecke jeweils besser geeignet.
