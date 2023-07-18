@@ -1,7 +1,7 @@
 ---
 title: In Memoriam – Ehrwürdige Ayyā Mie Vimalā
 description: Bhikkhu Bodhi, 2023
-img: MieVimala.png
+img: mievimala.png
 img-alt: Ayya Mie Vimala 2019
 order: -1
 ---
