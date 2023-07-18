@@ -5,7 +5,7 @@ img: santa-sabba.png
 img-alt: Ayya Santacitta und Ayya Sabbamitta
 slugDir: erkundung
 category: Weitere Informationen
-order: 1.5
+order: 10
 ---
 
 Mit [Santacitta Bhikkhuni](https://alokavihara.org/deutsch/#ayyasc) & [Sabbamitta Silashin](#/wiki//uebersetzung/Sabbamitta)
