@@ -32,7 +32,7 @@ Das größte Problem, das ich bei meinem Nachdenken über eine Übersetzung der 
 
 ![download link](./public/img/bilara.png)
 
-<img src="./bilara.png" alt="Bildschirmfoto der Bilara-Webseite" style="height: 200px;">
+<!-- <img src="./bilara.png" alt="Bildschirmfoto der Bilara-Webseite" style="height: 200px;"> -->
 
 Das ermöglicht eine sehr einheitliche Übersetzung, auch ohne vollständige Kenntnis des Pali, da immer die englische Übersetzung mitgelesen werden kann.
 
