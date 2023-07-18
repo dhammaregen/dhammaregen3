@@ -6,7 +6,7 @@ img-alt: Birkenrinde-Manuskript aus Gandhara, British Library
 link: https://commons.wikimedia.org/w/index.php?curid=31453278
 slugDir: buddhismuskunde
 category: Weitere Informationen
-order: 4
+order: 3
 ---
 In diesem Kanal finden Sie verschiedene Artikel zum Thema.
 

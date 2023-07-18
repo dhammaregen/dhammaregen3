@@ -5,7 +5,7 @@ img: myth.png
 img-alt: See, von Bäumen umstanden, die sich darin spiegeln
 slugDir: mythologie
 category: Weitere Informationen
-order: 3
+order: 4
 ---
 
 Buddhistische Mythologie ist ein wenig bearbeitetes und kaum diskutiertes Themenfeld. Bhante Sujato ist jemand, der sich dafür interessiert und einiges zu dem Gebiet beigetragen hat. Hier ein paar seiner Aufsätze in deutscher Übersetzung sowie einige Videovorträge.
