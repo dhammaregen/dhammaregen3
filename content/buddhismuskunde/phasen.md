@@ -3,7 +3,7 @@ title: Vier Phasen im Studium des frühen Buddhismus
 description: Bhikkhu Sujato, 2023
 img: sujato.png
 img-alt: Foto von Bhikkhu Sujato
-order: 10
+order: 1
 ---
 
 [Zum Originaltext](https://discourse.suttacentral.net/t/four-phases-of-early-buddhist-studies/29508)

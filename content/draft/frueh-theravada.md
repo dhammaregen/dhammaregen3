@@ -3,7 +3,7 @@ title: Wie sich der frühe Buddhismus vom Theravada unterscheidet – eine Check
 description: Bhikkhu Sujato, 2022
 img: sujato.png
 img-alt: Bhante Sujato sitzt auf Felsen
-order: 11
+order: 2
 ---
 
 [Zum Originaltext](https://discourse.suttacentral.net/t/how-early-buddhism-differs-from-theravada-a-checklist/23019)
