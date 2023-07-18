@@ -10,13 +10,13 @@ order: 1.6
 
 #### Beschreibung
 
-Das Übersetzungsprojekt umfasst die vier Hauptnikāyas des Palikanons sowie die älteren Teile des Khuddaka-Nikāya. Die Übersetzung geht von Bhikkhu Sujatos englischer Übersetzung aus, wie sie auf SuttaCentral publiziert ist. Die Ziele des Projekts sind: einfaches, leicht verständliches Deutsch; einheitliche Terminologie; möglichst genaue Wiedergabe des Pali entsprechend Bhikkhu Sujatos Übersetzung; kein Copyright. 
+Das Übersetzungsprojekt umfasst die vier Hauptnikāyas des Palikanons sowie die älteren Teile des Khuddaka-Nikāya. Die Übersetzung geht von Bhikkhu Sujatos englischer Übersetzung aus, wie sie auf [SuttaCentral](https://suttacentral.net) publiziert ist. Die Ziele des Projekts sind: einfaches, leicht verständliches Deutsch; einheitliche Terminologie; möglichst genaue Wiedergabe des Pali entsprechend Bhikkhu Sujatos Übersetzung; kein Copyright. 
 
 Das Projekt wurde in der zweiten Hälfte von 2019 begonnen und ist noch nicht abgeschlossen.
 
 #### Vorgehen
 
-Die ursprüngliche Quelle ist die digitale Mahāsaṅgīti-Ausgabe des Pali-Tipiṭaka, wie sie auf [SuttaCentral](https://suttacentral.net) vorliegt. Die Übersetzung stützt sich sehr stark auf Bhikkhu Sujatos englische Übersetzung, bestehende deutsche und andere englische Übersetzungen werden zu Referenzzwecken ebenfalls herangezogen.
+Die ursprüngliche Quelle ist die digitale Mahāsaṅgīti-Ausgabe des Pali-Tipiṭaka, wie sie auf SuttaCentral vorliegt. Die Übersetzung stützt sich sehr stark auf Bhikkhu Sujatos englische Übersetzung, bestehende deutsche und andere englische Übersetzungen werden zu Referenzzwecken ebenfalls herangezogen.
 
 #### Status der Veröffentlichung
 
@@ -26,7 +26,7 @@ Diese Übersetzung ist vorläufig und unterliegt weiterer Bearbeitung.
 
 Alle Texte sind dem [Datendepot von SuttaCentral](https://github.com/suttacentral/bilara-data/tree/published/translation/de/sabbamitta) entnommen.
 
-Überlegungen von Silashin Sabbamitta: [Weshalb brauchen wir neue deutsche Sutta-Übersetzungen?](#/wiki/uebersetzung/Weshalb) 
+Überlegungen von Silashin Sabbamitta: [Weshalb brauchen wir neue deutsche Sutta-Übersetzungen?](#/wiki/uebersetzung/weshalb) 
 
 ### Dank und Widmung 🙏 ❤️
 
