@@ -8,7 +8,7 @@ slugDir: buddhismuskunde
 category: Weitere Informationen
 order: 4
 ---
-In diesem Kanal finden Sie Übersetzungen verschiedener Artikel zum Thema.
+In diesem Kanal finden Sie verschiedene Artikel zum Thema.
 
 ### Buddhismuskunde: Inhalt
 
