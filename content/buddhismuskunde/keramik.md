@@ -3,7 +3,7 @@ title: Nanda und nördliche schwarze polierte Keramik
 description: Bhikkhu Sujato, 2016
 img: sujato.png
 img-alt: Foto von Bhante Sujato
-order: 3.5
+order: 4
 ---
 
 [Zum Originaltext](https://discourse.suttacentral.net/t/nanda-and-northern-black-polished-ware/2919)

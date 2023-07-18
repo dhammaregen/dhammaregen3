@@ -3,7 +3,7 @@ title: Heißt Satipaṭṭhāna Achtsamkeitsmeditation?
 description: Notizen auf der Grundlage von Bhikkhu Sujatos Studien über Achtsamkeit
 img:  pxhere-monk-meditating-1291659.png
 img-alt: Achtsam aufeinandergelegte Steine am Strand
-order: 4
+order: 3.5
 ---
 
 Die Hauptquelle für diese Notizen ist Bhikkhu Sujatos Buch *Eine Geschichte der Achtsamkeit* (A History of Mindfulness, [Kostenloses Ebook bei Lulu.com](https://www.lulu.com/shop/bhikkhu-sujato/a-history-of-mindfulness/ebook/product-20401381.html?q=sujato&page=1&pageSize=4), englisch). Eine vollständige Übersetzung dieses Werks ist nicht geplant. Hier folgen lediglich einige Auszüge, die für die untersuchte Frage relevant sind. Meine Bemerkungen sind großenteils Paraphrasen und Zusammenfassungen; einige Stellen gebe ich als eigentliche Übersetzung, die dann als Zitat gekennzeichnet ist. Zuletzt füge ich noch eine Übersetzung des rekonstruierten \*Satipaṭṭhāna-Mūla an, des mutmaßlichen Vorläufertextes, aus dem die heutigen Satipaṭṭhānasuttas hervorgegangen sind.
