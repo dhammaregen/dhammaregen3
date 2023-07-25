@@ -40,7 +40,7 @@ Zur [Beschreibung](#/wiki/uebersetzung/projekt) des Übersetzungsprojekts
       <figcaption>Audio: Mettasutta saarländisch</figcaption>
       <audio
           controls
-          src="public/audio/mettasutta-sld.ogg">
+          src="audio/mettasutta-sld.ogg">
               Ihr Browser untestützt das 
               <code>Audio</code>-Element nicht.
       </audio>
