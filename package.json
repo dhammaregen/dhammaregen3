@@ -1,11 +1,11 @@
 {
   "name": "ebt-site3",
-  "version": "1.48.1",
+  "version": "1.52.1",
   "description": "Site template for EBT-Vue3 applications",
   "main": "src/index.mjs",
   "private": false,
   "dependencies": {
-    "ebt-vue3": "^1.284.0",
+    "ebt-vue3": "^1.291.0",
     "vue": "^3.2.37",
     "vuetify": "^3.3.9",
     "webfontloader": "^1.0.0"
@@ -22,7 +22,7 @@
   "scripts": {
     "app:commit": "node_modules/ebt-vue3/scripts/app-commit.sh",
     "app:dist": "node_modules/ebt-vue3/scripts/app-dist.sh",
-    "app:html": "node_modules/ebt-vue3/scripts/build-html.sh",
+    "app:html": "node_modules/ebt-vue3/scripts/app-html.sh",
     "app:pages": "node_modules/ebt-vue3/scripts/app-pages.sh",
     "app:publish": "node_modules/ebt-vue3/scripts/app-publish.sh",
     "app:version": "node node_modules/ebt-vue3/scripts/app-version.cjs",
@@ -31,7 +31,7 @@
     "preview": "vite preview",
     "vite": "vite",
     "vite:build": "vite build",
-    "push-action": "scripts/push-action",
+    "push-action": "node_modules/ebt-vue3/scripts/app-push-action.sh",
     "schedule-action": "node_modules/ebt-vue3/scripts/app-schedule-action.sh"
   },
   "repository": {
