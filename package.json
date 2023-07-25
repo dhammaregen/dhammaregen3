@@ -22,7 +22,7 @@
   "scripts": {
     "app:commit": "node_modules/ebt-vue3/scripts/app-commit.sh",
     "app:dist": "node_modules/ebt-vue3/scripts/app-dist.sh",
-    "app:html": "node_modules/ebt-vue3/scripts/build-html.sh",
+    "app:html": "node_modules/ebt-vue3/scripts/app-html.sh",
     "app:pages": "node_modules/ebt-vue3/scripts/app-pages.sh",
     "app:publish": "node_modules/ebt-vue3/scripts/app-publish.sh",
     "app:version": "node node_modules/ebt-vue3/scripts/app-version.cjs",
