@@ -31,7 +31,7 @@
     "preview": "vite preview",
     "vite": "vite",
     "vite:build": "vite build",
-    "push-action": "scripts/push-action",
+    "push-action": "node_modules/ebt-vue3/scripts/app-push-action.sh",
     "schedule-action": "node_modules/ebt-vue3/scripts/app-schedule-action.sh"
   },
   "repository": {
