@@ -3,7 +3,7 @@ title: Impressum und Datenschutzerklärung
 description: Erfüllung rechtlicher Auflagen
 img: pixabay-hammer-719066_640.png
 img-alt: Bücher und Richterhammer
-category: Dhammaregen
+category: Weitere Informationen
 order: 9999
 ---
 
