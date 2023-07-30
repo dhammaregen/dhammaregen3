@@ -16,7 +16,7 @@ Außer bei eigenen Bildern haben Bilder einen Link zu ihrer Quelle.
 
 FBT-Audio wird von Amazon Web Services, Polly-Service, erworben und ohne Einschränkung zur Verfügung gestellt.
 
-Wo möglich werden auch menschliche Sprachaufnahmen verwendet. Im Besonderen gilt dafür unser Dank Bhikkhu Sujato für die Aufnahmen und Michal Holgate vom SuttaCentral-Team für die Bearbeitung.
+Sofern verfügbar, werden auch menschliche Sprachaufnahmen verwendet. Im Besonderen gilt dafür unser Dank Bhikkhu Sujato für die Aufnahmen und Michal Holgate vom SuttaCentral-Team für die Bearbeitung.
 
 ### Anwendungstöne
 
