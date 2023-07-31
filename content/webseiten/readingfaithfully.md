@@ -7,6 +7,8 @@ img-alt: Bild des Sutta-Zufallsgenerators
 order: 7
 ---
 
+Zur Webseite: https://de.readingfaithfully.org/
+
 ### Freuen Sie sich auf ein zufällig ausgewähltes Sutta
 
 Die Webseite [ReadingFaithfully](https://readingfaithfully.org/) hat verschiedene kleine Apps (in englischer Sprache) entwickelt, die beim Studium der Suttas hilfreich sein können. Darunter ist dieser Zufallsgenerator für die Auswahl von Suttas, den es auch in deutscher Sprache gibt.

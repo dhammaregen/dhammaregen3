@@ -11,6 +11,8 @@ img-alt: Kolibri, der auf große Blüte zufliegt
 order: 4
 ---
 
+Zur Webseite: https://ebt-site.sc-voice.net/
+
 ### EBT-Site3
 
 EBT-Site3 ist eine Vorlage, um eine individuelle Webseite auf der Grundlage von EBT-Vue3 zu erstellen.

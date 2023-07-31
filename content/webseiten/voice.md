@@ -6,8 +6,11 @@ img: voice.png
 img-alt: voice.suttacentral.net-Webseitenbild
 order: 2
 ---
+
+Zur Webseite: https://voice.suttacentral.net
+
 ### Die frühen buddhistischen Texte hören
-Voice bietet einen Audio-Zugang zu ausgewählten frühen buddhistischen Texten (FBT) von [SuttaCentral](https://suttacentral.net) und ihren Übersetzungen.
+Voice bietet einen Audio-Zugang zu ausgewählten frühen buddhistischen Texten (FBT) von [SuttaCentral](https://suttacentral.net/?lang=de) und ihren Übersetzungen.
 
 Voice wurde für Menschen mit Sehbehinderung entwickelt und hat eine minimalistische Benutzeroberfläche, die gut mit Bildschirmlesern zu bedienen ist. Mit dem Audioplayer von Voice kann man FBT hören und sie gleichzeitig lesen. Zusätzlich können nach Bedarf Audiodateien zum Herunterladen für die Offline-Nutzung erzeugt werden. 
 

@@ -3,6 +3,7 @@ title: Heißt Satipaṭṭhāna Achtsamkeitsmeditation?
 description: Notizen auf der Grundlage von Bhikkhu Sujatos Studien über Achtsamkeit
 img:  pxhere-monk-meditating-1291659.png
 img-alt: Achtsam aufeinandergelegte Steine am Strand
+link: https://pxhere.com/en/photo/1291659
 order: 3.5
 ---
 
