@@ -7,7 +7,7 @@ img-alt: Bild des Sutta-Zufallsgenerators
 order: 7
 ---
 
-Zur Webseite: https://de.readingfaithfully.org/
+Zur Webseite: [https://de.readingfaithfully.org/](https://de.readingfaithfully.org/)
 
 ### Freuen Sie sich auf ein zufällig ausgewähltes Sutta
 

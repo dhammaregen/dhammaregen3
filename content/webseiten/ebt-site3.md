@@ -11,7 +11,7 @@ img-alt: Kolibri, der auf große Blüte zufliegt
 order: 4
 ---
 
-Zur Webseite: https://ebt-site.sc-voice.net/
+Zur Webseite: [https://ebt-site.sc-voice.net/](https://ebt-site.sc-voice.net/)
 
 ### EBT-Site3
 

@@ -7,7 +7,7 @@ img-alt: BuddhaNexus-Webseitenlogo
 order: 3
 ---
 
-Zur Webseite: https://buddhanexus.net/
+Zur Webseite: [https://buddhanexus.net/](https://buddhanexus.net/)
 
 ### Willkommen bei BuddhaNexus
 BuddhaNexus ist eine Dantenbank, die dem Studium buddhistischer Texte und Literaturkorpora auf Pāli, Sanskrit, Tibetisch und Chinesisch gewidmet ist. Ein besonderer Schwerpunkt liegt auf der Entwicklung der Schriften, der Bildung der Kanons und der Vernetzung der Texte untereinander.

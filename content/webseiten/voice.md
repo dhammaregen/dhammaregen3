@@ -7,7 +7,7 @@ img-alt: voice.suttacentral.net-Webseitenbild
 order: 2
 ---
 
-Zur Webseite: https://voice.suttacentral.net
+Zur Webseite: [https://voice.suttacentral.net](https://voice.suttacentral.net)
 
 ### Die frühen buddhistischen Texte hören
 Voice bietet einen Audio-Zugang zu ausgewählten frühen buddhistischen Texten (FBT) von [SuttaCentral](https://suttacentral.net/?lang=de) und ihren Übersetzungen.
