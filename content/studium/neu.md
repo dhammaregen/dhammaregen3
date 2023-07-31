@@ -42,7 +42,7 @@ Hier folgen ein paar Bemerkungen zu den Unterschieden zwischen den Webseiten.
 Dies sind nur ein paar Punkte, um die drei Webseiten miteinander zu vergleichen. Am besten probieren Sie selbst aus, was Ihnen zusagt.
 
 ### FBT- und Dhamma-Essays
-Im [Wiki-Bereich von *Dhammaregen*](#/wiki/inhalt) finden Sie mehrere Kanäle mit Aufsätzen zu verschiedenen Themembereichen. Dazu zählen mehr wissenschaftliche Aufsätze wie etwa im Kanal zur [Buddhismuskunde](#/wiki/buddhismuskunde/inhalt) oder zur [buddhistischen Mythologie](#/wiki/mythologie/inhalt), aber auch leicht lesbare Texte zu [Dhamma-Themen](#/wiki/tropfen/inhalt). 
+Im [Wiki-Bereich von *Dhammaregen*](#/wiki/inhalt) finden Sie mehrere Kanäle mit Aufsätzen zu verschiedenen Themembereichen. Dazu zählen mehr wissenschaftliche Aufsätze wie etwa im Kanal zur [Buddhismuskunde](#/wiki/buddhismuskunde/inhalt) oder zur [buddhistischen Mythologie](#/wiki/mythologie/inhalt), aber auch die [Dhamma-Regentropfen](#/wiki/tropfen/inhalt) mit leicht lesbaren Texten.
 
 Nehmen Sie einen Essay als Ausgangspunkt für eine Wanderung durch den Sutta-Wald. Wenn Suttas in einem Essay erwähnt sind, ist ein Link zu dem entsprechenden Sutta angebracht, sodass Sie das Zitat gleich im Kontext lesen und von dort aus auch weitere Expeditionen antreten können. Wenn Sie möchten, nehmen Sie sicherheitshalber einen Schirm zu Ihrer Wanderung mit: Hier kann es, gemäß dem Motto der [Startseite](#/wiki/startseite), immer ein bisschen feucht sein. Aber ein paar Dhamma-Regentropfen können schließlich nicht schaden … 😉
 
