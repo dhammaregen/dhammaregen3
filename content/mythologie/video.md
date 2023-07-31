@@ -3,6 +3,7 @@ title: Videos
 description: Einige Vorträge zum Thema
 img: video.png
 img-alt: Schematisches Bild eines Filmprojektors
+link: https://pixabay.com/de/illustrations/kino-film-kamera-beamer-video-4153289/
 order: 999
 ---
 

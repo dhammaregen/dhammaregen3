@@ -28,8 +28,7 @@ Wenn nicht anders angegeben, stammen alle Töne, die für die Benutzeroberfläch
 - [STE-004-Coemgenu.mp3](https://discourse.suttacentral.net/t/suttacentral-voice-v1-0-0-released/11844/228)
 - [tibetan-singing-bowl-horst-cc0.mp3](https://freesound.org/people/the_very_Real_Horst/sounds/240934/)
 - [383542__alixgaus__turn-page.mp3](https://freesound.org/people/alixgaus/sounds/383542/)
-- block1.mp3 … block5.mp3
 - click0.mp3 … click5.mp3
+- block1.mp3 … block5.mp3
 - [577049__nezuai__cartoon-air-swoosh-6.wav](https://freesound.org/people/nezuai/sounds/577049/)
-- swoosh1.mp3 … swoosh5.mp3
 - no_audio.mp3
