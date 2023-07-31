@@ -30,7 +30,7 @@ Lesen und *hören* Sie [Snp 1.8](#/sutta/snp1.8:0.1/de/sabbamitta) oder [Kp 9](#
 
 ### Warum ist der Kanon so unübersichtlich?
 
-Gute Frage! Der buddhistische Kanon ist tatsächlich alles andere als übersichtlich. Er ist weder chronologisch noch didaktisch geordnet. Die Ordnung, wie wir sie heute finden, erklärt sich aus seiner Entstehungsgeschichte. Der Kanon entstand in einer mündlichen Tradition, wo es darauf ankam, Textportionen in geeignetem Umfang zusammenzustellen, damit sie von verschiedenen Gruppen auswendig gelernt und weitergegeben werden konnten; jede Texteinheit sollte dabei auch die wesentlichen Lehren enthalten. Das Resultat erscheint uns heute eher chaotisch und bietet nicht viel gute Anhaltspunkte für das Studium.
+Gute Frage! Der buddhistische Kanon ist tatsächlich alles andere als übersichtlich. Er ist weder chronologisch noch didaktisch geordnet. Die Ordnung, wie wir sie heute finden, erklärt sich aus seiner Entstehungsgeschichte. Der Kanon entstand in einer mündlichen Tradition, wo es darauf ankam, Textsammlungen in geeignetem Umfang zusammenzustellen, damit sie von verschiedenen Gruppen auswendig gelernt und weitergegeben werden konnten; jede Sammlung sollte dabei auch die wesentlichen Lehren enthalten. Das Resultat erscheint uns heute eher chaotisch und bietet nicht viel gute Anhaltspunkte für das Studium.
 
 Ein paar Anregungen, um den Einstieg zu erleichtern:
 - Ein paar [allgemeine Überlegungen zum Lesen der Suttas](#/wiki/studium/suttas-lesen) von Bhante Sujato

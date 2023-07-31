@@ -12,7 +12,7 @@ order: 2
 
 Die Idee der Webseite ist auf Schlüsselbegriffen aufgebaut, die wichtige Lehrthemen und andere bemerkenswerte Merkmale der Texte repräsentieren. Diese Art des Vorgehens hilft, das Gedächtnis zu schulen und sich Schlüsselstellen leichter zu merken.
 
-*Dhammaregen* erlaubt es, zwischen Texten, die man vergleichen will, hin- und herzuspringen, ohne den ursprünglichen Text aus dem Fokus zu verlieren.
+*Dhammaregen* erlaubt es, verschiedene Texte miteinander zu vergleichen, indem man mehrere Suttakarten oder auch eine Wiki- und eine Suttakarte gleichzeitig öffnet.
 
 *Dhammaregen* verfügt auch über eine Audiofunkion zum Hören der Suttas.
 
