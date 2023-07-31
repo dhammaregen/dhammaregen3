@@ -24,7 +24,7 @@ Deutschland
 
 #### Allgemeiner Hinweis
 
-Diese Webseite legt Wert auf den Schutz der persönlichen Daten ihrer Besucherinnen. Sie orientiert sich dabei an den Grundsätzen des Datenschutzes aus der Datenschutz-Grundverordnung (DSGVO).
+Diese Webseite legt Wert auf den Schutz der persönlichen Daten ihrer Besucher. Sie orientiert sich dabei an den Grundsätzen des Datenschutzes aus der Datenschutz-Grundverordnung (DSGVO).
 
 #### Verantwortliche Stelle
 
@@ -70,7 +70,10 @@ Es soll in diesem Zusammenhang darauf hingewiesen werden, dass mit dem Einsatz g
 
 #### Cookies
 
-Diese Webseite verwendet Cookies lediglich zu dem Zweck, die Darstellung der Webseiteninhalte zu ermöglichen und die Einstellungen des Benutzers in dessen Browser zu speichern.
+Diese Webseite verwendet Cookies lediglich zu dem Zweck, die Darstellung der Webseiteninhalte zu ermöglichen und die Einstellungen des Benutzers in dessen Browser zu speichern. Folgende Inhalte werden mittels Cookies gespeichert:
+- der Text von Ihnen geladener FBT-Dokumente
+- die Audiodateien von Ihnen angehörter FBT-Dokumente
+- Ihre persönlichen Webseiten-Einstellungen
 
 #### Externe Links
 
