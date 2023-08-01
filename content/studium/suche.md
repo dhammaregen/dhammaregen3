@@ -28,31 +28,21 @@ Klicken Sie entweder auf die Kennziffer des gesamten Sutta oder auf eine Segment
 
 Wenn Sie nach einem bestimmten Thema suchen, fangen Sie an, ein Wort, an das Sie sich aus dem Zusammenhang erinnern, in das Suchfeld zu tippen. Zum Beispiel kann es sein, dass Sie eins der Gleichnisse finden wollen, in denen Wasser vorkommt. Tippen Sie „Wasser“ und wählen Sie aus den Suchbegriffen aus, die erscheinen.
 
-<img src="img/searchfield.png" class="ebt-image" alt="Bildschirmfoto von Suchfeld mit Wort Wasser und Suchbegriffen" style="width: 600px;"> "Wasser"
+<img src="img/searchfield.png" class="ebt-image" alt="Bildschirmfoto von Suchfeld mit Wort Wasser und Suchbegriffen" style="height: 300px;"> 
 
-Sie können auch Suttas nach Kennziffer suchen, zum Beispiel `AN 10.61` oder `an10.61`. Für Suttas, für die noch keine segmentierte deutsche Übersetzung vorliegt, wird Bhante Sujatos englische Übersetzung gezeigt, wenn Sie den Vergleichstext entsprechend eingestellt haben.
+Sie können auch Suttas nach Kennziffer suchen, zum Beispiel `AN 10.61` oder `an10.61`. Für Suttas, für die noch keine segmentierte deutsche Übersetzung vorliegt, wird Bhante Sujatos englische Übersetzung gezeigt, wenn Sie den Vergleichstext entsprechend eingestellt haben. Über den Link zu SuttaCentral finden Sie eine andere deutsche Übersetzung (s. nächster Abschnitt).
 
 Sie können auch einen freien Suchtext in die Suchkarte eingeben.
 
 ### 3. Zu benachbarten Suttas oder zu SuttaCentral gehen
 
-Links zum vorherigen und zum nächsten Sutta nach der Ordnung des Kanon sowie einen Link zu dem entsprechenden Sutta auf SuttaCentral finden Sie sowohl am oberen als auch am untren Rand der Suttakarte.
+Links zum vorherigen und zum nächsten Sutta nach der Ordnung des Kanon sowie einen Link zu dem entsprechenden Text auf SuttaCentral finden Sie sowohl am oberen als auch am untren Rand der Suttakarte.
 
-<img src="img/links.png" class="ebt-image" alt="Bildschirmfoto von Links am unteren Seitenende" style="width: 600px;"> "Links"
+### 4. Suttas vergleichen
 
-### 4. Suchchronik benutzen
+Sie können in *Dhammaregen* mehrere Suttakaren und auch mehrere Suchkarten gleichzeitig geöffnet haben und über das Tabulatormenü links oben zwischen ihnen hin- und herspringen.
 
-Es ist einfach, in *Dhammaregen* zu Ihrem letzten Sutta zurückzugehen. Sie sehen die Chronik in der unteren Navigationsleiste. Die Suttas sind in der Reihenfolge ihres ersten Aufrufs von links nach rechts angeordnet. In der Mitte sehen Sie das Sutta, das Sie gegenwärtig geöffnet haben, mit dem zuletzt angeklickten Segment.
-
-<img src="img/history1.png" class="ebt-image" alt="Bildschirmfoto von Chronik" style="width: 600px;">
-
-Die Chronik merkt sich einen längeren Suchverlauf. Wenn Sie mit der Maus über die linken und rechten Chronik-Links gehen, sehen Sie noch weitere Suttas in der Reiehnfolge, in der Sie sie besucht haben.
-
-<img src="img/history2.png" class="ebt-image" alt="Bildschirmfoto von Chronik" style="width: 600px;">
-
-Für eine ausführlichere Beschreibung der Chronik-Funktion siehe [hier](/Studium/Chronik).
-
-**Bitte beachten:** Für die Chronik-Funktion müssen Cookies aktiviert sein. Wenn Sie Ihre Chronik löschen wollen, schalten Sie die entsprechenden Cookies aus und laden Sie die Seite neu.
+<img src="img/tabs.png" class="ebt-image" alt="Bildschirmfoto von Suchfeld mit Wort Wasser und Suchbegriffen" style="width: 400px;">
 
 ### 5. Einzelne Segmente ansteuern
 
