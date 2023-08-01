@@ -14,7 +14,7 @@ So gelangen Sie zu dem Text, den Sie studieren möchten:
 
 Wenn Sie nicht wissen, wo Sie anfangen sollen, klicken Sie auf die Schaltfläche `Such mir etwas aus!`. Das führt zu einer Zufallsauswahl aus einer Sammlung von Beispiel-Suchbegriffen, die zusammen mit dem zugehörigen Ergebnis angezeigt wird:
 
-<img src="img/result.png" alt="Bildschirmfoto von Suchergebnis" style="height: 400px;">
+<img src="img/result.png" alt="Bildschirmfoto von Suchergebnis" style="width: 600px;">
 
 Ein Klick auf eins der angezeigten Suttas öffnet die Detailansicht: Neben der Kennziffer des Sutta können Sie bei den meisten Suttas eine kurze Zusammenfassung lesen. Darunter sehen Sie Segmente aufgeführt, in denen der Suchbegriff zu finden ist.
 
