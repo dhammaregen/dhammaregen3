@@ -3,6 +3,7 @@ const EbtConfig = {
   "basePath": "/dhammaregen3/",
   "homePath": "#/wiki/startseite",
   "monolingual": "de",
+  "privacyLink": "#/wiki/impressum",
   "content": {
     "index": "inhalt",
   },
