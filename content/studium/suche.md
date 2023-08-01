@@ -14,11 +14,11 @@ So gelangen Sie zu dem Text, den Sie studieren möchten:
 
 Wenn Sie nicht wissen, wo Sie anfangen sollen, klicken Sie auf die Schaltfläche `Such mir etwas aus!`. Das führt zu einer Zufallsauswahl aus einer Sammlung von Beispiel-Suchbegriffen, die zusammen mit dem zugehörigen Ergebnis angezeigt wird:
 
-<img src="./result.png" class="ebt-image" alt="Bildschirmfoto von Suchergebnis"> "was einen Anfang hat, hat auch ein Ende"
+<img src="img/result.png" alt="Bildschirmfoto von Suchergebnis" style="height: 400px;">
 
 Ein Klick auf eins der angezeigten Suttas öffnet die Detailansicht: Neben der Kennziffer des Sutta können Sie bei den meisten Suttas einen kurzen einführenden Text lesen. Darunter sehen Sie Segmente aufgeführt, in denen der Suchbegriff zu finden ist.
 
-<img src="./result-segment.png" class="ebt-image" alt="Bildschirmfoto eines Ergebnissegments"> "sn56.11"
+<img src="img/result-segment.png" class="ebt-image" alt="Bildschirmfoto eines Ergebnissegments"> "sn56.11"
 
 Bereits auf dieser Ebene können Sie vergleichen, ob ein bestimmter Begriff immer im gleichen Zusammenhang vorkommt oder nicht.
 
@@ -28,7 +28,7 @@ Klicken Sie entweder auf die Kennziffer des gesamten Sutta oder auf eine Segment
 
 Wenn Sie nach einem bestimmten Thema suchen, fangen Sie an, ein Wort, an das Sie sich aus dem Zusammenhang erinnern, in das Suchfeld zu tippen. Zum Beispiel kann es sein, dass Sie eins der Gleichnisse finden wollen, in denen Wasser vorkommt. Tippen Sie „Wasser“ und wählen Sie aus den Suchbegriffen aus, die erscheinen.
 
-<img src="./searchfield.png" class="ebt-image" alt="Bildschirmfoto von Suchfeld mit Wort Wasser und Suchbegriffen"> "Wasser"
+<img src="img/searchfield.png" class="ebt-image" alt="Bildschirmfoto von Suchfeld mit Wort Wasser und Suchbegriffen"> "Wasser"
 
 Sie können auch Suttas nach Kennziffer suchen, zum Beispiel `AN 10.61` oder `an10.61`. Für Suttas, für die noch keine segmentierte deutsche Übersetzung vorliegt, wird Bhante Sujatos englische Übersetzung gezeigt, wenn Sie den Vergleichstext entsprechend eingestellt haben.
 
@@ -38,17 +38,17 @@ Sie können auch einen freien Suchtext in die Suchkarte eingeben.
 
 Links zum vorherigen und zum nächsten Sutta nach der Ordnung des Kanon sowie einen Link zu dem entsprechenden Sutta auf SuttaCentral finden Sie sowohl am oberen als auch am untren Rand der Suttakarte.
 
-<img src="./links.png" class="ebt-image" alt="Bildschirmfoto von Links am unteren Seitenende"> "Links"
+<img src="img/links.png" class="ebt-image" alt="Bildschirmfoto von Links am unteren Seitenende"> "Links"
 
 ### 4. Suchchronik benutzen
 
 Es ist einfach, in *Dhammaregen* zu Ihrem letzten Sutta zurückzugehen. Sie sehen die Chronik in der unteren Navigationsleiste. Die Suttas sind in der Reihenfolge ihres ersten Aufrufs von links nach rechts angeordnet. In der Mitte sehen Sie das Sutta, das Sie gegenwärtig geöffnet haben, mit dem zuletzt angeklickten Segment.
 
-<img src="./history1.png" class="ebt-image" alt="Bildschirmfoto von Chronik">
+<img src="img/history1.png" class="ebt-image" alt="Bildschirmfoto von Chronik">
 
 Die Chronik merkt sich einen längeren Suchverlauf. Wenn Sie mit der Maus über die linken und rechten Chronik-Links gehen, sehen Sie noch weitere Suttas in der Reiehnfolge, in der Sie sie besucht haben.
 
-<img src="./history2.png" class="ebt-image" alt="Bildschirmfoto von Chronik">
+<img src="img/history2.png" class="ebt-image" alt="Bildschirmfoto von Chronik">
 
 Für eine ausführlichere Beschreibung der Chronik-Funktion siehe [hier](/Studium/Chronik).
 
@@ -58,7 +58,7 @@ Für eine ausführlichere Beschreibung der Chronik-Funktion siehe [hier](/Studiu
 
 Wenn Sie in ein Segment klicken, wird dieses hervorgehoben.
 
-<img src="./segment.png" class="ebt-image" alt="Bildschirmfoto mit einem hervorgehobenen Segment"> "Segment"
+<img src="img/segment.png" class="ebt-image" alt="Bildschirmfoto mit einem hervorgehobenen Segment"> "Segment"
 
 Gleichzeitig erscheint die Segment-Kennziffer in der Mitte der unteren Navigationsleiste (siehe Bildschirmfoto unter „Chronik“). Wenn Sie darauf klicken, können Sie von jeder beliebigen Stelle im Text zu dem zuletzt markeirten Segment zurückkommen.
 
