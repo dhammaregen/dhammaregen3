@@ -8,7 +8,7 @@ order: 9
 ---
 
 ### Sich auf *Dhammaregen* zurechtfinden
-*Dhammaregen* besteht aus verschiedenen Elementen, die die Nutzung seiner Funktionen ermöglichen.
+*Dhammaregen* besteht aus verschiedenen Elementen, die die Nutzung seiner Funktionen ermöglichen:
 - Wiki-Karten
 - Suchkarten
 - Suttakarten
@@ -25,12 +25,14 @@ Wenn eine Suttakarte im Fokus ist, erscheint am unteren Bildschirmrand das Wiede
 
 Die Tasten dort sind von links nach rechts:
 - ein Segment zurück
-- Wiedergabe des aktuellen Segments
-- Kennziffer des aktuellen Segments
-- Wiedergabe vom aktuellen Segment bis zum Ende des Sutta
+- Wiedergabe des markierten Segments; Wiedergabe pausieren
+- Kennziffer des markierten Segments
+- Fortlaufende Wiedergabe ab dem markierten Segment; Wiedergabe pausieren
 - ein Segment vorwärts
 
-Das aktuelle Segment ist farblich und durch einen gestrichelten Rahmen hervorgehoben, und seine Kennziffer findet sich in der Mitte des Wiedergabemoduls.
+Das markierte Segment ist farblich und durch eine gestrichelte Umrandung markiert, und seine Kennziffer findet sich in der Mitte des Wiedergabemoduls.
+
+Jeweils aktive Schaltflächen sind ebenfalls durch eine gestrichelte Umrandung markiert.
 
 ### Mit der Tastatur navigieren
 
@@ -39,12 +41,12 @@ Das aktuelle Segment ist farblich und durch einen gestrichelten Rahmen hervorgeh
 Viele Funktionen von *Dhammaregen* können mithilfe der Tastatur gesteuert werden. 
 - <kbd>Tabulator</kbd>: Springen zwischen Tabulatormenü, der im Fokus befindlichen Karte, dem Suchsymbol und dem Schalter für die Einstellungen
 - <kbd>PFEIL NACH LINKS</kbd> und <kbd>PFEIL NACH RECHTS</kbd>: Wechsel zwischen Tabs innerhalb des Tabulatormenüs
-- <kbd>PFEIL NACH UNTEN</kbd> und <kbd>PFEIL NACH OBEN</kbd>: Nächstes oder vorheriges Segment auswählen
+- <kbd>PFEIL NACH UNTEN</kbd> und <kbd>PFEIL NACH OBEN</kbd>: Nächstes oder vorheriges Segment auf einer Suttakarte auswählen
 
 **Audio**
 
 - <kbd>LEERTASTE</kbd>: Wiedergabe des markierten Segments; Wiedergabe pausieren
-- <kbd>ENTER</kbd>: Fortlaufende Wiedergabe ab dem markierten Segment
+- <kbd>ENTER</kbd>: Fortlaufende Wiedergabe ab dem markierten Segment; Wiedergabe pausieren
 
 
 
