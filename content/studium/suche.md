@@ -44,7 +44,7 @@ Sie können in *Dhammaregen* mehrere Suttakaren und auch mehrere Suchkarten glei
 
 Wenn Sie in ein Segment klicken, wird dieses hervorgehoben.
 
-Gleichzeitig erscheint die Segment-Kennziffer in der Mitte des Wiedergabemoduls am unteren Rand. Wenn Sie darauf klicken, können Sie von jeder beliebigen Stelle im Text zu dem zuletzt markeirten Segment zurückkommen.
+Gleichzeitig erscheint die Segment-Kennziffer in der Mitte des Wiedergabemoduls am unteren Bildschirmrand. Wenn Sie darauf klicken, können Sie von jeder beliebigen Stelle im Text zu dem zuletzt markeirten Segment zurückkommen.
 
 Auch wenn Sie von einem anderen Sutta wieder zu diesem Text zurückkommen, bleibt das zuletzt angeklickte Segment markiert. Dadurch wird es einfach, zum Vergleich in ein anderes Sutta zu schauen und beim Zurückkommen die Stelle wiederzufinden, die Sie zuletzt gelesen haben.
 
