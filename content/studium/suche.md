@@ -28,7 +28,7 @@ Wenn Sie nach einem bestimmten Thema suchen, fangen Sie an, ein Wort, an das Sie
 
 <p><img src="img/searchfield.png" class="ebt-image" alt="Bildschirmfoto von Suchfeld mit Wort Wasser und Suchbegriffen" style="height: 300px;"></p>
 
-Sie können auch einen freien Suchtext in die Suchkarte eingeben oder Suttas nach Kennziffer suchen, zum Beispiel `AN 10.61` oder `an10.61`. Für Suttas, für die noch keine segmentierte deutsche Übersetzung vorliegt, wird Bhante Sujatos englische Übersetzung gezeigt, wenn Sie den Vergleichstext entsprechend eingestellt haben. Über den Link zu SuttaCentral finden Sie eine andere deutsche Übersetzung (s. nächster Abschnitt).
+Sie können auch einen freien Suchtext in die Suchkarte eingeben oder Suttas nach Kennziffer suchen, zum Beispiel `AN 10.61` oder `an10.61`.
 
 ### 3. Zu benachbarten Suttas oder zu SuttaCentral gehen
 
@@ -44,8 +44,6 @@ Sie können in *Dhammaregen* mehrere Suttakaren und auch mehrere Suchkarten glei
 
 Wenn Sie in ein Segment klicken, wird dieses hervorgehoben.
 
-<p><img src="img/segment.png" class="ebt-image" alt="Bildschirmfoto mit einem hervorgehobenen Segment" style="width: 600px;"></p> "Segment"
-
 Gleichzeitig erscheint die Segment-Kennziffer in der Mitte des Wiedergabemoduls am unteren Rand. Wenn Sie darauf klicken, können Sie von jeder beliebigen Stelle im Text zu dem zuletzt markeirten Segment zurückkommen.
 
 Auch wenn Sie von einem anderen Sutta wieder zu diesem Text zurückkommen, bleibt das zuletzt angeklickte Segment markiert. Dadurch wird es einfach, zum Vergleich in ein anderes Sutta zu schauen und beim Zurückkommen die Stelle wiederzufinden, die Sie zuletzt gelesen haben.
@@ -54,6 +52,3 @@ Auch wenn Sie von einem anderen Sutta wieder zu diesem Text zurückkommen, bleib
 
 Die Beispiel-Suchbegriffe, die *Dhammaregen* verwendet, werden, wenn sie in einem Text vorkommen, hervorgehoben, sobald Sie zu dem entsprechenden Segment kommen. So können Sie leicht interessante Begriffe finden, die sich zum Vergleich von verschiedenen Texten untereinander anbieten. Die Begriffe sind mit Links versehen. Wenn Sie darauf klicken, öffnet sich eine Suchkarte mit allen Suttas, in denen der Begriff vorkommt.
 
-Manchmal genügt es, sich kurz ein Bild zu machen über andere Vorkommen des Begriffs, und über das Tabulatormenü kommen Sie schnell wieder zu dem Sutta, bei dem Sie zuletzt waren. Manchmal möchten Sie vielleicht ein anderes Sutta etwas genauer anschauen. Dann öffnen Sie von der Suchkarte aus eine neue Suttakarte.
-
-So können Sie mit *Dhammaregen* durch die Suttas fliegen! 🐦
