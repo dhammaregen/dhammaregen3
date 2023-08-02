@@ -4,7 +4,7 @@ description: Navigieren mit und ohne Maus
 img: sergi-kabrera-2xU7rYxsTiM-unsplash.png
 img-alt: Eine Tastatur
 link: https://unsplash.com/photos/2xU7rYxsTiM
-order: 9
+order: 1.5
 ---
 
 ### Sich auf *Dhammaregen* zurechtfinden
@@ -39,14 +39,14 @@ Jeweils aktive Schaltflächen sind ebenfalls durch eine gestrichelte Umrandung m
 **Navigation**
 
 Viele Funktionen von *Dhammaregen* können mithilfe der Tastatur gesteuert werden. 
-- <kbd>Tabulator</kbd>: Springen zwischen Tabulatormenü, der im Fokus befindlichen Karte, dem Suchsymbol und dem Schalter für die Einstellungen
+- <kbd>TABULATOR</kbd>: Springen zwischen Tabulatormenü, der im Fokus befindlichen Karte, dem Suchsymbol und dem Schalter für die Einstellungen
 - <kbd>PFEIL NACH LINKS</kbd> und <kbd>PFEIL NACH RECHTS</kbd>: Wechsel zwischen Tabs innerhalb des Tabulatormenüs
-- <kbd>PFEIL NACH UNTEN</kbd> und <kbd>PFEIL NACH OBEN</kbd>: Nächstes oder vorheriges Segment auf einer Suttakarte auswählen
+- <kbd>PFEIL NACH UNTEN</kbd> und <kbd>PFEIL NACH OBEN</kbd>: nächstes oder vorheriges Segment auf einer Suttakarte auswählen
 
 **Audio**
 
 - <kbd>LEERTASTE</kbd>: Wiedergabe des markierten Segments; Wiedergabe pausieren
-- <kbd>ENTER</kbd>: Fortlaufende Wiedergabe ab dem markierten Segment; Wiedergabe pausieren
+- <kbd>ENTER</kbd>: fortlaufende Wiedergabe ab dem markierten Segment; Wiedergabe pausieren
 
 
 
