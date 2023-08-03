@@ -18,7 +18,7 @@ Es hat seinen Grund, warum diese Lehrreden so beliebt sind: Es sind schöne, mac
 
 ### 1. Sie kennen: die erste Lehrrede des Buddha (--> [SN 56.11](#/sutta/sn56.11/de/sabbamitta))
 
-Im Wildpark bei Isipatana lehrte der Buddha eine Gruppe von fünf Asketen die vier edlen Wahrheiten und den edlen achtfachen Pfad. Auf dem Höhepunkt der Unterweisung hatte Koṇḍañña einen Einblick in die Wahrheit, und der Anfang des Lehrsystems des Buddha war begründet. Diese kurze Unterweisung, die als das Dhammacakkappavattana-Sutta bekannt ist, „das Rad des Dhamma ins Rollen bringen“, oder kurz Dhammacakka, ist zweifelsohne die berühmteste Lehrrede des Buddhismus. Sie wird regelmäßig rezitiert und auswendig gelernt und bildet die Grundlage jedes ernsthaften Kurses über die Lehren des Dhamma. Man kann sagen, dass jede spätere Lehre nur eine weitere Ausführung der Ideen ist, die hier vorgestellt werden.
+Im Wildpark bei Isipatana lehrte der Buddha eine Gruppe von fünf Asketen die vier edlen Wahrheiten und den edlen achtfachen Pfad. Auf dem Höhepunkt der Unterweisung hatte Koṇḍañña einen Einblick in die Wahrheit, und der Anfang des Lehrsystems des Buddha war begründet. Diese kurze Unterweisung, die als das Dhammacakkappavattana-Sutta bekannt ist, „das Vorwärtsrollen des Rades des Dhamma“, oder kurz Dhammacakka, ist zweifelsohne die berühmteste Lehrrede des Buddhismus. Sie wird regelmäßig rezitiert und auswendig gelernt und bildet die Grundlage jedes ernsthaften Kurses über die Lehren des Dhamma. Man kann sagen, dass jede spätere Lehre nur eine weitere Ausführung der Ideen ist, die hier vorgestellt werden.
 
 ### Warum lesen Sie nicht: die Aufgliederung der Wahrheiten (--> [MN 141](#/sutta/MN141/de/sabbamitta))
 Im Saccavibhaṅga-Sutta erinnert der Buddha an das Dhammacakka und erwähnt, dass der Ehrwürdige Sāriputta sehr wohl in der Lage ist, die vier edlen Wahrheiten ausführlich zu lehren – was dieser dann tut. Dieser Text macht nicht nur die Bedeutung von Dingen klar, die in der ersten Lehrrede kurz angesprochen wurden; er zeigt auch die Reife des Saṅgha, der jetzt bestens in der Lage ist, das Rad selbst weiterzurollen.
@@ -69,13 +69,13 @@ Diese Verssammlung bleibt ein dauerhafter Lieblingstext, nicht nur unter Buddhis
 
 ### Warum lesen Sie nicht: das Udāna (--> [Ud](#/sutta/ud1.1/de/sabbamitta))
 
-Obwohl der Pali-Dhammapada zweifelsohne der beliebteste ist, ist er nur eins von vielen Beispielen einer buddhistischen Textgattung, die in den Traditionen weit verbreitet ist. SuttaCentral zählt zwölf Dhammapadas auf, und das ist wohl nur ein Bruchteil derer, die in den alten Tagen existierten. Doch die Dhammapadas sind auch eng mit einer anderen Gruppe von Texten, den Udānas, verwandt. Während der Dhammapada, zumindest im Pali, eine reine Verssammlung ist, setzt das Udāna die Strophen in eine Geschichte, die ein vertieftes Verständnis ermöglicht und so stärkere Wirkung hat.
+Obwohl der Pali-Dhammapada zweifelsohne der beliebteste ist, ist er nur eins von vielen Beispielen einer buddhistischen Textgattung, die in den Traditionen weit verbreitet ist. SuttaCentral zählt zwölf Dhammapadas auf, und das ist wohl nur ein Bruchteil derer, die in den alten Tagen existierten. Doch die Dhammapadas sind auch eng mit einer anderen Gruppe von Texten, den Udānas, verwandt. Während der Dhammapada, zumindest im Pali, eine reine Verssammlung ist, setzt das Udāna die Strophen in eine Geschichte hinein, die ein vertieftes Verständnis ermöglicht und so stärkere Wirkung hat.
 
 ### 8. Sie kennen: die letzten Tage des Buddha (--> [DN 16](#/sutta/dn16/de/sabbamitta))
 
 Das Mahāparinibbāna-Sutta ist der zutiefst bewegende Bericht von der letzten Reise des Buddha, auf der er, achtsam und würdevoll, zu seiner letzten Ruhestätte zog. Unterwegs wurde er von seinem ergebenen Aufwärter Ānanda begleitet, der in vielen der Vorfälle vorkommt; die Kraft der Geschichte wird nur noch gesteigert, wenn wir darüber nachdenken, dass der Text von Ānanda selbst in den Jahren nach dem Ableben seines Meisters verfasst worden sein muss. Dies ist die längste aller Lehrreden und erinnert eher an einen kleinen Roman als an eine kurze Betrachtung. Sie enthält eine vielfältige Auswahl an Lehren und Umständen, von denen viele einmalig sind.
 
-### Warum lesen Sie nicht: die vierfache Versammlung (--> [Kd 1](https://suttacentral.net/pli-tv-kd1/de/maitrimurti-traetow))
+### Warum lesen Sie nicht: die vierfache Versammlung (--> [Kd 1](https://suttacentral.net/pli-tv-kd1/de/maitrimurti-traetow?lang=de&reference=main&highlight=true))
 
 Wenn das Mahāparinibbāna von der Abenddämmerung erzählt, so ist dies die Geschichte der Morgendämmerung. Es ist fast so lang wie die letzte Reise; es beginnt mit dem Erwachen des Buddha und erzählt, wie er allmählich sein Lehrsystem aufbaut. Im Pali ist es ein Teil des Vinaya, aber die Sanskritversion war eine Lehrrede im Dīrghāgama, der Entsprechung zum Dīgha-Nikāya.
 
