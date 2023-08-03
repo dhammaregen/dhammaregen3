@@ -6,14 +6,17 @@ img-alt: Kissen mit MP3-Player am Fuß eines Baumes
 order: 2
 ---
 
-Die Schaltfläche für die Audiofunktion findet sich links an der unteren Navigationsleiste.
+Das Wiedergabemodul erscheint am unteren Bildschirmrand, sobald eine Suttakarte geöffnet wird.
 
-<img src="./play.png" class="ebt-image" alt="Bildschirmfoto des Audio-Bedienelements">
+<p><img src="img/play.png" class="ebt-image" alt="Bildschirmfoto von Wiedergabemodul" style="width: 400px;"></p>
 
 **Segmentweise Wiedergabe:**
-Wenn Sie ein Textsegment anklicken, kann dieses mit der Audio-Schaltfläche abgespielt werden. Am Ende des Segments springt der Cursor zum nächsten Segment. Klicken Sie erneut die Audio-Schaltfläche oder drücken Sie die Leertaste, um die Wiedergabe fortzusetzen.
+Ein markiertes Textsegment kann durch Klick auf die linke Wiedergabe-Schaltfläche im Wiedergabemodul oder durch Drücken der Leertaste abgespielt werden. Anschließend wird das nächste Segment markiert, oder, wenn das Ende des Sutta erreicht ist, ein Gongton abgespielt.
 
-**Kontinuierliche Wiedergabe:**
-Doppelklicken Sie auf die Audio-Schaltfläche. *Dhammaregen* wird die Wiedergabe mit dem Segment beginnen, bei dem sich gegenwärtig der Cursor befindet. Von hier aus wird das Sutta bis zum Ende wiedergegeben. Wenn Sie während der kontinuierlichen Wiedergabe in ein anderes Segment klicken, wird nach dem Ende des momentan gesprochenen Segments die Wiedergabe dort fortgesetzt. Am Ende eines Sutta wird entsprechend Ihrer Einstellung ein Gongton abgespielt.
+**Fortlaufende Wiedergabe:**
+Klick auf die rechte Wiedergabe-Schaltfläche im Wiedergabemodul oder Drücken der Enter-Taste startet die Wiedergabe ab dem markeirten Segment fortlaufend bis zum Ende des Sutta, wo dann ein Gonton das Ende markerit.
 
 Wenn Ihr Browser die Audiofunktion nicht unterstützt, versuchen Sie es mit Chrome oder Firefox.
+
+**Auswahl des abzuspielenden Textes:**
+In den Einstellungen unter „Audio“ können Sie unabhängig davon, welcher Text auf dem Bildschirm dargestellt ist, wählen, was Sie  hören wollen. Es ist zum Beispiel möglich, Pali und Übersetzung zu lesen, aber nur eins davon zu hören.
