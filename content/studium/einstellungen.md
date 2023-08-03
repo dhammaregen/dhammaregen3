@@ -12,8 +12,8 @@ Hinter dem kleinen Zahnrädchen rechts oben verbergen sich verschiedene Einstell
 **Allgemein** 
 - Wählen Sie die Hintergrundfarbe. 
 - Wählen Sie die maximale Zahl der Suchergebnisse. 
-- Schalten Sie die DSGVO-Info ein- oder aus. 
 - „Neuesten Text zeigen“ zeigt immer die aktuellste Version (kann zu mehr Datenverbrauch führen).
+- Schalten Sie die DSGVO-Info ein oder aus. 
 
 **Textgestaltung** 
 - Wählen Sie aus, was Sie im Text sehen möchten. 
@@ -23,7 +23,7 @@ Hinter dem kleinen Zahnrädchen rechts oben verbergen sich verschiedene Einstell
 
 **Lesestimmen** 
 - Wählen Sie für Deutsch zwischen drei Lesestimmen: Vicki, Hans oder Marlene.
-- Wählen Sie für Pali zwischen Aditi und Bhante Sujatos. Letzteres steht nur für wenige Suttas zur Verfügung; wenn diese Stimme eingestellt ist, werden alle anderen Suttas mit Aditis Stimme abgespielt.
+- Wählen Sie für Pali zwischen Aditis und Bhante Sujatos Stimme. Letztere steht nur für wenige Suttas zur Verfügung; wenn diese Stimme eingestellt ist, werden alle anderen Suttas mit Aditis Stimme abgespielt.
 
 **Audio** 
 - Wählen Sie Ihren Gongton zur Anzeige des Sutta-Endes. 
