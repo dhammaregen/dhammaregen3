@@ -39,13 +39,15 @@ Jeweils aktive Schaltflächen sind ebenfalls durch eine gestrichelte Umrandung m
 **Navigation**
 
 Viele Funktionen von *Dhammaregen* können mithilfe der Tastatur gesteuert werden. 
-- <kbd>TABULATOR</kbd>: Springen zwischen Tabulatormenü, der im Fokus befindlichen Karte, dem Suchsymbol und dem Schalter für die Einstellungen
-- <kbd>PFEIL NACH LINKS</kbd> und <kbd>PFEIL NACH RECHTS</kbd>: Wechsel zwischen Tabs innerhalb des Tabulatormenüs
 - <kbd>PFEIL NACH UNTEN</kbd> und <kbd>PFEIL NACH OBEN</kbd>: nächstes oder vorheriges Segment auf einer Suttakarte auswählen
+- <kbd>PFEIL NACH LINKS</kbd> und <kbd>PFEIL NACH RECHTS</kbd>: nächsten oder vorherigen Tab im Tabulatormenü auswählen
 - <kbd>UMSCHALTEN</kbd> + <kbd>PFEIL NACH UNTEN</kbd>: zur nächsten übergeordneten Kennziffer springen, z. B. von Segment 1.1 zu Segment 2.1
 - <kbd>UMSCHALTEN</kbd> + <kbd>PFEIL NACH OBEN</kbd>: zur vorherigen übergeordneten Kennziffer springen, z. B. von Segment 2.1 zu Segment 1.1
 - <kbd>STRG</kbd> + <kbd>PFEIL NACH UNTEN</kbd>: zum Suttaende
 - <kbd>STRG</kbd> + <kbd>PFEIL NACH OBEN</kbd>: zum Suttaanfang
+- <kbd>TABULATOR</kbd>: nächstes Element der Benutzeroberfläche auswählen
+- <kbd>UMSCHALTEN</kbd> + <kbd>TABULATOR</kbd>: vorheriges Element der Benutzeroberfläche auswählen
+- <kbd>POS 1</kbd>: zum Tabulatormenü
 
 **Audio**
 

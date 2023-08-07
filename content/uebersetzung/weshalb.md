@@ -11,7 +11,7 @@ Mit dieser Situation war ich lange Zeit sehr zufrieden und dachte nicht daran, d
 
 Bis … ja, bis ich Bhikkhu Bodhis englische Übersetzungen in die Hand bekam. Das war das erste Mal, dass ich mit den bestehenden deutschen Übersetzungen weniger zufrieden war; und von da an las ich die Suttas eigentlich fast nur noch auf Englisch.
 
-Als dann Bhante Sujato 2018 seine neuen englischen Übersetzungen auf [SuttaCentral](https://suttacentral.net) veröffentlichte, war das für mich eine weitere Erfahrung, die in die gleiche Richtung wies. Die Suttas klangen in dieser Fassung so frisch und lebendig, und ich genoss das Lesen sehr. Und nach und nach entstand der Wunsch, meine Landsleute, die kein Englisch verstehen, an dieser Freude teilhaben zu lassen.
+Als dann Bhante Sujato 2018 seine neuen englischen Übersetzungen auf [SuttaCentral](https://suttacentral.net/?lang=de) veröffentlichte, war das für mich eine weitere Erfahrung, die in die gleiche Richtung wies. Die Suttas klangen in dieser Fassung so frisch und lebendig, und ich genoss das Lesen sehr. Und nach und nach entstand der Wunsch, meine Landsleute, die kein Englisch verstehen, an dieser Freude teilhaben zu lassen.
 
 Dabei möchte ich in keiner Weise die großartige Leistung der bisherigen deutschen Übersetzer abwerten. Sie haben es mit ihrer Arbeit ermöglicht, dass die Buddhalehre im deutschsprachigen Raum bereits vor langer Zeit bekannt geworden ist und viele Menschen inspiriert hat. Und neue Übersetzungen werden immer auch auf der Basis des bereits Bestehenden entstehen. Um es mit einem Bild von Bhante Sujato zu sagen: Wer nachher kommt, steht auf den Schultern derer, die vorher da waren.
 
@@ -36,6 +36,6 @@ Das ermöglicht eine sehr einheitliche Übersetzung, auch ohne vollständige Ken
 
 <div style="text-align: center;">* * *</div>
 
-Alle Suttas finden sich auf *Dhammaregen* sowie auf [SuttaCentral](https://suttacentral.net) und [Voice.suttacentral.net](https://voice.suttacentral.net), wahlweise mit oder ohne den zugehörigen Palitext.
+Alle Suttas finden sich auf *Dhammaregen* sowie auf [SuttaCentral](https://suttacentral.net/?lang=de) und [Voice.suttacentral.net](https://voice.suttacentral.net), wahlweise mit oder ohne den zugehörigen Palitext.
 
 Rückmeldungen zu den Übersetzungen sind äußerst willkommen. Sie können eine Email an [dhammaregen@gmail.com](mailto:dhammaregen@gmail.com) senden oder sich auf dem SuttaCentral-Diskussionsforum [Discourse.SuttaCentral](https://discourse.suttacentral.net) an mich wenden.

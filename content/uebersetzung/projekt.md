@@ -2,7 +2,7 @@
 title: Projektbeschreibung
 description: Umfang, Vorgehen; Dank und Widmung
 img: neom-nMzbnMzMjYU-unsplash.png
-img-alt: Wanderer in den Bergen
+img-alt: Wanderer in den Bergen, Silhouette
 link: https://unsplash.com/de/fotos/nMzbnMzMjYU
 order: 1.6
 ---
