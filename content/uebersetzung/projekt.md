@@ -2,7 +2,7 @@
 title: Projektbeschreibung
 description: Umfang, Vorgehen; Dank und Widmung
 img: pixabay-mountain-climbing-g9dd3068e3_640.png
-img-alt: Mensch auf hoher Leiter, die in einem See steht, streicht Himmel blau
+img-alt: Reihe von Bergwanderern
 link: https://pixabay.com/photos/mountain-climbing-g9dd3068e3
 order: 1.6
 ---
