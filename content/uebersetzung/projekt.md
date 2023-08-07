@@ -1,12 +1,12 @@
 ---
 title: Projektbeschreibung
 description: Umfang, Vorgehen; Dank und Widmung
-img: pixabay-mountain-climbing-g9dd3068e3_640.png
-img-alt: Reihe von Bergwanderern
-link: https://pixabay.com/photos/mountain-climbing-g9dd3068e3
+img: neom-nMzbnMzMjYU-unsplash.png
+img-alt: Wanderer in den Bergen
+link: https://unsplash.com/de/fotos/nMzbnMzMjYU
 order: 1.6
 ---
-
+  
 ### Übersetzung – Projektbeschreibung
 
 #### Beschreibung
