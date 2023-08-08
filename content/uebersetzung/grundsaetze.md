@@ -87,4 +87,4 @@ Ungewöhnliche Lesarten des Pali sollten ernst genommen werden. Solche Lesarten 
 
 ### (10) Kontext geht über wörtliche Bedeutung und Etymologie
 
-Man sollte sich nicht zu streng auf die wörtliche Bedeutung eines Worts oder seine etymologische Ableitung stützen, sondern stattdessen den Kontext berücksichtigen.
+Man sollte sich nicht zu streng auf die wörtliche Bedeutung eines Wortes oder seine etymologische Ableitung stützen, sondern stattdessen den Kontext berücksichtigen.

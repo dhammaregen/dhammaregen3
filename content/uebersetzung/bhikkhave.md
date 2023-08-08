@@ -10,7 +10,7 @@ order: 3
 # *Bhikkhave* und *Bhikkhu* als Terminologie in frühen buddhistischen Texten, die alle Geschlechter einschließt
 (Aus: [*Journal of Buddhist Ethics*](http://blogs.dickinson.edu/buddhistethics/), ISSN 1076-9005, Band 21, 2014)
 
-*Alice Collett, York St John University<sup class="footnote-ref"><a id="fnref1" href="/Übersetzung/bhikkhave#fn1">[1]</a></sup>*
+*Alice Collett, York St John University<sup class="footnote-ref"><a id="fnref1" href="#/wiki/uebersetzung/bhikkhave#fn1">[1]</a></sup>*
 
 *und*
 
@@ -23,7 +23,7 @@ order: 3
 *Hinweis der Übersetzerin:* Diese deutsche Übersetzung wurde mit freundlicher Genehmigung der Autorin und des Autors angefertigt. Über die beim Originaltext angegebenen Copyright-Bestimmungen hinausgehende Einschränkungen gelten für die Übersetzung nicht.
 
 ## Abstract
-Im Folgenden untersuchen wir, ob der Gebrauch des Vokativs *bhikkhave* oder des Nominativs *bhikkhu* in buddhistischen kanonischen Texten darauf schließen lässt, dass weibliche Ordensangehörige von der Zuhörerschaft ausgeschlossen sind. Neben diesem grundlegenden Punkt betrachten wir auch den Vokativ von Eigennamen und das Fehlen des Ausdrucks *arahantī* in der Pāli-Lehrredenliteratur.<sup class="footnote-ref"><a id="fnref2" href="/Übersetzung/bhikkhave#fn2">[2]</a></sup>
+Im Folgenden untersuchen wir, ob der Gebrauch des Vokativs *bhikkhave* oder des Nominativs *bhikkhu* in buddhistischen kanonischen Texten darauf schließen lässt, dass weibliche Ordensangehörige von der Zuhörerschaft ausgeschlossen sind. Neben diesem grundlegenden Punkt betrachten wir auch den Vokativ von Eigennamen und das Fehlen des Ausdrucks *arahantī* in der Pāli-Lehrredenliteratur.<sup class="footnote-ref"><a id="fnref2" href="#/wiki/uebersetzung/bhikkhave#fn2">[2]</a></sup>
 
 [A.d.Ü.: Der Vokativ ist einer von acht Fällen zur Deklination von Substantiven im Pali und wird für die Anrede von Personen benutzt.]
 
