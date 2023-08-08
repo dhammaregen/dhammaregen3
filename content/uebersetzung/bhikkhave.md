@@ -313,11 +313,11 @@ Wir möchten schließen mit einer Bemerkung zur Frage der Übersetzung und der F
 <ol class="footnotes-list">
   <li id="fn1" class="footnote-item">
     Alice Collett: Department of Theology and Religious Studies, York St John University. Email: a.collett@yorksj.ac.uk; Bhikkhu Anālayo: Numata Zentrum für Buddhismuskunde, Universität Hamburg; Dharma Drum Institute of Liberal Arts, Taiwan.
-    <a class="footnote-backref" href="/Übersetzung/bhikkhave#fnref1">↩</a>
+    <a class="footnote-backref" href="#/wiki/uebersetzung/bhikkhave#fnref1">↩</a>
   </li>
   <li id="fn2" class="footnote-item">
   	In diesem Artikel sind die Teile 1, 2, 4, und 5 von Alice Collett und die Teile 3, 6, und 7 von Anālayo. Alice Collett stellte eine frühere Fassung einiger Teile dieses Papers unter dem Titel „<em>Aṭṭhakathā</em> Exegesis of <em>Bhikkhave</em>“ beim XVII. Kongress der Internationalen Vereinigung für Buddhismuskunde (International Association of Buddhist Studies) der Universität Wien im August 2014 vor. Den folgenden Menschen möchte sie für ihren freundlichen Beitrag zu dem Papier danken: Bhikkhu Bodhi, Simon Brodbeck, Paul Dundas, Timothy Lenz, Patrick Olivelle, Blair Silverlock und Martin Seeger.
-  	<a class="footnote-backref" href="/Übersetzung/bhikkhave#fnref2">↩</a>
+  	<a class="footnote-backref" href="#/wiki/uebersetzung/bhikkhave#fnref2">↩</a>
   </li>
   <li id="fn3" class="footnote-item">
     Wir werden durchgängig den Begriff <em>bhikkhave</em> benutzen, es sei denn, es werden Beispiele zitiert, in denen die Form <em>bhikkhavo</em> gebraucht wird.
