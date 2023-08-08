@@ -18,7 +18,7 @@ Vor einer Weile kam mir der Gedanke, dass die Mönchsschale, die wir zum Almosen
 
 Laut Vinaya darf eine Schale entweder aus Ton oder aus Eisen sein, aber viel mehr Einzhelheiten gibt es dazu nicht. Heutzutage sind natürlich die meisten Schalen aus Eisen oder Edelstahl, obwohl auch gelegentlich Tonschalen benutzt werden.
 
-Aber es scheint, ich war voreilig mit meiner Annahme, dass diese Schalen NBPW waren.  Es gibt eine reizende Stelle in [SN 21.8](/suttas/#sn21.8/de/sabbamitta:0.1):
+Aber es scheint, ich war voreilig mit meiner Annahme, dass diese Schalen NBPW waren.  Es gibt eine reizende Stelle in [SN 21.8](#/sutta/sn21.8/de/sabbamitta):
 
 >Da legte der Ehrwürdige Nanda – der Cousin des Buddha von mütterlicher Seite – schön geplättete und gebügelte Roben an, trug Lidschatten auf, nahm eine *accha* Schale und ging zum Buddha.
 
@@ -26,9 +26,9 @@ Ich habe *accha* nicht übersetzt, da ich denke, es bezieht sich auf NBPW. Das W
 
 Offensichtlich putzt sich Nanda in dieser Passage auf eine Weise heraus, die für Mönche nicht angebracht ist. Das legt nahe, dass eine hochglänzende Schale als ebenso unangemessen angesehen wurde wie gebüglete Roben und Make-up.
 
-Und es zeigt sich, dass das genau der Ansicht der Archäologen über NBPW entspricht. Es gibt einen ausgezeichneten jüngeren Artikel zu dem Thema: „Mikroskopische Analyse der Oberflächenbeschichtungstechnik von nördlich schwarzer polierter Keramik“ ([Surface Coating Technique of Northern Black Polished Ware by the Microscopic Analysis](http://www.ancient-asia-journal.com/articles/10.5334/aa.12305/)) von Dilruba Sharmin und Fumio Okada. Die Forscher analysierten eine Anzahl von Proben und fanden, dass der Glanz durch Aufbringen von zwei Schichten auf die Keramik erzeugt wurde.  Eine Grundierungsschicht ist aus feinem Ton und wird gebrannt, und darauf wird abschließend eine Schicht aus organischem Material aufgebracht – Harz oder etwas Ähnliches –, um die fertige Politur zu erzeugen. Die Glasur ist so stabil, dass sie bis heute hält – falls sie nicht von wohlmeinenden Ausgräbern abgewaschen wird!
+Und es zeigt sich, dass das genau der Ansicht der Archäologen über NBPW entspricht. Es gibt einen ausgezeichneten jüngeren Artikel zu dem Thema: „Mikroskopische Analyse der Oberflächenbeschichtungstechnik von nördlicher schwarzer polierter Keramik“ ([Surface Coating Technique of Northern Black Polished Ware by the Microscopic Analysis](http://www.ancient-asia-journal.com/articles/10.5334/aa.12305/)) von Dilruba Sharmin und Fumio Okada. Die Forscher analysierten eine Anzahl von Proben und fanden, dass der Glanz durch Aufbringen von zwei Schichten auf die Keramik erzeugt wurde.  Eine Grundierungsschicht ist aus feinem Ton und wird gebrannt, und darauf wird abschließend eine Schicht aus organischem Material aufgebracht – Harz oder etwas Ähnliches –, um die fertige Politur zu erzeugen. Die Glasur ist so stabil, dass sie bis heute hält – falls sie nicht von wohlmeinenden Ausgräbern abgewaschen wird!
 
-<a title="Nördliche schwarze polierte Keramik, aus: Ancient Asia, https://www.ancient-asia-journal.com/articles/10.5334/aa.12305/" href="https://scdd.sfo2.cdn.digitaloceanspaces.com/uploads/original/2X/a/ae8cb8ce24dd195ef96dceaf119e63bb0c9f6854.jpg"><img height="400" alt="Fundstücke nördlicher schwarzer polierter Keramik" src="https://scdd.sfo2.cdn.digitaloceanspaces.com/uploads/original/2X/a/ae8cb8ce24dd195ef96dceaf119e63bb0c9f6854.jpg"></a>
+<a title="Nördliche schwarze polierte Keramik, aus: Ancient Asia, https://www.ancient-asia-journal.com/articles/10.5334/aa.12305/" href="https://scdd.sfo2.cdn.digitaloceanspaces.com/uploads/original/2X/a/ae8cb8ce24dd195ef96dceaf119e63bb0c9f6854.jpg" target="_blank"><img height="400" alt="Fundstücke nördlicher schwarzer polierter Keramik" src="https://scdd.sfo2.cdn.digitaloceanspaces.com/uploads/original/2X/a/ae8cb8ce24dd195ef96dceaf119e63bb0c9f6854.jpg"></a>
 
 Diese Prozedur ist schwierig und zeitaufwendig und muss von spezialisierten Fachleuten entwickelt worden sein. Daher muss NBPW, obwohl es uns dank seiner Haltbarkeit zugänglich ist, seinerzeit kein gewöhnliches Material gewesen sein. Sharmin und Okada sagen:
 
@@ -42,7 +42,7 @@ Daher denke ich, es ist gut, die Stelle so zu übersetzen, dass diese Verbindung
 
 Das wirft nun allerdings eine Frage auf: Sollten heutige Bhikkhus und Bhikkhunis glänzende Schalen wie Nanda verwenden? Die Antwort überlasse ich Ihnen.
 
-Ein Postskript: Es gibt noch eine Beschreibung eines Gefäßes als *accha*, zu finden in [Theragatha 2.40](/suttas/#thag2.40/de/sabbamitta:0.1). Der Vers ist sehr undurchsichtig, aber die Beschreibung des Gefäßes ist recht klar:
+Ein Postskript: Es gibt noch eine Beschreibung eines Gefäßes als *accha*, zu finden in [Theragatha 2.40](#/sutta/thag2.40/de/sabbamitta). Der Vers ist sehr undurchsichtig, aber die Beschreibung des Gefäßes ist recht klar:
 
 >*Acchāya atibharitāya / amataghaṭikāyaṃ*  
 >In den Nektarkrug der Unsterblichkeit, glänzend und überfließend
