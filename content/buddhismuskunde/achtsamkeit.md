@@ -34,7 +34,7 @@ Die GIST behandelt drei Fragen:
 
 Die Antworten darauf lauten:
 1. Die frühesten Texte
-   - Die ersten Lehrreden sind das Dhammacakkappavattana-Sutta [SN 56.11](/suttas/#sn56.11/de/sabbamitta:0.1), das Anattalakkhaṇa-Sutta [SN 22.59](/suttas/#sn22.59/de/sabbamitta:0.1), das Ādittapariyāya-Sutta [SN 35.28](/suttas/#sn35.28/de/sabbamitta:0.1) und die Aufforderung des Brahmā [SN 6.1](/suttas/#sn6.1/de/sabbamitta:0.1) sowie ihre Parallelen in den anderen Traditionen.
+   - Die ersten Lehrreden sind das Dhammacakkappavattana-Sutta [SN 56.11](#/sutta/sn56.11/de/sabbamitta), das Anattalakkhaṇa-Sutta [SN 22.59](#/sutta/sn22.59/de/sabbamitta), das Ādittapariyāya-Sutta [SN 35.28](#/sutta/sn35.28/de/sabbamitta) und die Aufforderung des Brahmā [SN 6.1](#/sutta/sn6.1/de/sabbamitta) sowie ihre Parallelen in den anderen Traditionen.
    - Die erste Lehrreden-Sammlung ist der Saṁyutta-Nikāya bzw. die Saṁyukta-Āgamas anderer Überlieferungstraditionen.
    - Die ersten Abhidhammatexte sind der Abhidhamma-Vibhaṅga des Palikanons und die parallelen Texte Dharmaskandha der Sarvāstivāda-Schule und Śāriputrābhidharma der Dharmaguptaka-Schule. Alle drei lassen sich auf einen gemeinsamen Vorläufertext, den „\*Vibhaṅga-Mūla“, zurückführen.
 1. Die Beziehung der drei Schichten zueinander
@@ -71,7 +71,7 @@ Dabei ist der erste Bestandteil dieses zusammengesetzten Wortes sicher nicht ums
 
 Eine der Schlussfolgerungen, zu denen sowohl der Autor dieses Buches als auch der von ihm zitierte Bronkhorst unabhängig voneinander kamen, ist, dass es in den buddhistischen Lehren verschiedene „Arten“ oder Grade von Achtsamkeit gibt: die, die vor dem Moment angewendet wird, wenn man sich zum Meditieren hinsetzt, und die, die danach angewendet wird. Nur die zweite zählt im eigentlichen Sinn zu Satipaṭṭhāna; die erste ist eine vorbereitende Übung. Dies wird aus den zahlreichen Passagen über die „stufenweise Schulung“ klar, die sich viele Male im Kanon finden. Das berühmteste Beispiel ist vielleicht DN 2, ein anderes AN 4.198. Dort wird regelmäßig, nachdem jemand aus Vertrauen aus dem Haus fortgezogen ist, zuerst die Ethik geübt, dann die Sinnenzügelung, dann die Achtsamkeit und Umsicht bei allen Bewewgungen (*satisampajañña*); und dann:
 
->[AN 4.198:13.1-3](/suttas/#an4.198/de/sabbamitta:13.1)  
+>[AN 4.198:13.1-3](#/sutta/an4.198:13.1/de/sabbamitta)  
 >*Wenn er diesen ganzen Umfang der edlen Sittlichkeit und diese edle Zügelung der Sinne sowie diese edle Achtsamkeit und Umsicht besitzt, sucht er einen abgelegenen Platz auf: eine Wildnis, den Fuß eines Baumes, einen Hügel, eine Schlucht, eine Berghöhle, ein Leichenfeld, einen Wald, das Freie, einen Strohhaufen. Nach dem Essen kommt er vom Almosengang zurück, setzt sich mit gekreuzten Beinen hin, den Körper gerade aufgerichtet, und verankert eben da die Achtsamkeit.*  
 
 Hier beginnt die eigentliche Satipaṭṭhāna-Übung. In einigen Versonen des Textes werden hier auch die „vier Satipaṭṭhānas“ ausdrücklich genannt. D. h. die Beobachtung der Körperhaltungen gehört nicht zum eigentlichen Satipaṭṭhāna (weshalb sie im Saṁyutta-Nikāya auch nur als Übung der „Umsicht“, *sampajañña*, bezeichnet wird, nicht als Übung der Achtsamkeit). Die Körperbetrachtung, die hier gepflegt wird – und das ist auch das Ergebnis der vergleichenden Textforschung –, ist die Betrachtung der Körperteile. Daher ist sie das, was in Bhikkhu Sujatos rekonstruiertem „\*Satipaṭṭhāna-Mūla“ an dieser Stelle steht.
@@ -99,7 +99,7 @@ Das Kapitel fährt fort, die Rolle der Achtsamkeit an ihrer Stelle in der Reihe 
 
 - **Kapitel 12.1.5 Das Satipaṭṭhāna-Saṁyutta: das Samudayasutta**
 
-In fast allen frühen Texten wird Satipaṭṭhāna im Sinn dieses subjektiven Vorgangs verwendet. Eine Ausnahme bildet das Samudayasutta, [SN 47.42](/suttas/#sn47.42/de/sabbamitta:0.1):
+In fast allen frühen Texten wird Satipaṭṭhāna im Sinn dieses subjektiven Vorgangs verwendet. Eine Ausnahme bildet das Samudayasutta, [SN 47.42](#/sutta/sn47.42/de/sabbamitta):
 
 >Als einziger in den Niāyas behandelt dieser Text „Satipaṭṭhāna“ in einem objektiven Sinn. Normalerweise bezieht sich „Satipaṭṭhāna“ („Verankerung der Achtsamkeit“) auf den subjektiven Akt des Ausrichtens der Achtsamkeit auf eines der vier Felder. Aber hier bezieht sich Satipaṭṭhāna auf die Objekte der Achtsakeit, das heißt auf den Körper usw. („die Dinge, in denen die Achtsamkeit verankert wird“). Wenn man diese objektive Bedeutung wörtlich nimmt, führt das ins Absurde – es würde bedeuten, dass der Körper der „gerade Weg“ zum Nibbāna wäre. Das wäre eine erfreuliche Neuigkeit; denn da Speise die Nahrung für den Körper ist, muss Essen die Nahrung für den Pfad sein! Diese Zweideutigkeit kommt von der Verschiebung des Blickwinkels, da der Rahmen, der für Samatha gedacht war, unter dem Einfluss der fünf Aggregate auf Vipassanā ausgedehnt wird. Beim normalen Satipaṭṭhāna ist man „innerhalb“ der vier Felder und „tritt“ in den Bereich der Meditation „ein“. Hier hingegen hat man sich von dem Vorgang „zurückgezogen“ und ihn zum Zweck der Untersuchung zum Objekt gemacht. Es ist wie der Unterschied zwischen dem Lesen einer Geschichte, wobei man sich in die Charaktere und ihre Gefühle hineinversetzt – man fühlt sich zornig, traurig oder glücklich – und dem Lesen einer Rezension der Geschichte, wobei man eine kritische, analytische Einsicht darüber entwickelt, wie die Geschichte wirkt – man versteht, wie der Text uns dazu bringt, dass wir uns zornig, traurig oder glücklich fühlen. Wir werden später sehen, dass diese Zweideutigkeit in späteren Schriften für erhebliche Verwirrung sorgte.
 
@@ -191,7 +191,7 @@ Zum Abschluss bringe ich noch Bhikkhu Sujatos rekonstruiertes „\*Satipaṭṭh
 
 (Vortrag in englischer Sprache; deutsche Untertitel können auf YouTune aktiviert werden)
 
-In dem Video spricht Bhikkhu Sujato u. a. über ein Sutta aus dem Satipaṭṭhāna-Saṁyutta, [SN 47.7](/suttas/#sn47.7/de/sabbamitta:0.1).
+In dem Video spricht Bhikkhu Sujato u. a. über ein Sutta aus dem Satipaṭṭhāna-Saṁyutta, [SN 47.7](#/sutta/sn47.7/de/sabbamitta).
 - Ca. 39:20: Die Besprechung von SN 47.7 beginnt
 - Ca. 48:20: Über den Begriff *Achtsamkeit* (mindfulness)
 - Ca. 1:01:00: Über den Begriff *anupassi*
