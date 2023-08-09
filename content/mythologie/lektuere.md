@@ -28,7 +28,7 @@ Hier sollen einige Bücher, Artikel usw. zum Thema zusammengestellt werden. Es s
    Kurzbeschreibung auf Englisch: [über das Buch](https://www.marinawarner.com/book/from-the-beast-to-the-blonde-on-fairy-tales-and-their-tellers/)
 - Roberto Calasso, *Die Glut* (engl.: *Ardor*)  
    Beschreibung auf Wikipedia: [über den Autor](https://de.wikipedia.org/wiki/Roberto_Calasso)  
-   Kurzbeschreibung auf Englisch: [über das Buch](https://www.goodreads.com/book/show/18490618-ardor)
+   Kurzbeschreibung: [über das Buch](https://www.hanser-literaturverlage.de/buch/die-glut/978-3-446-24918-9/)
 - Roberto Calasso, *Ka* (nicht in deutscher Übersetzung)    
    Kurzbeschreibung auf Englisch: [über das Buch](https://www.goodreads.com/book/show/163014.Ka)
 - Roberto Calasso, *Die Hochzeit von Kadmos und Harmonia*  
