@@ -8,7 +8,7 @@ order: 13
 
 [Zum Originaltext](https://discourse.suttacentral.net/t/seventh-sage-or-supreme-sage/3589)
 
-In [SN 8.8](/suttas/#sn8.8/de/sabbamitta:5.2) und an verschiedenen anderen Stellen ([Thag 21.1](/suttas/#thag21.1/de/sabbamitta:32.2), [Snp 2.12](/suttas/#snp2.12/de/sabbamitta:15.2), [MN 56](/suttas/#mn56/de/sabbamitta:29.33)) finden wir für den Buddha das Attribut *isisattama*. All diese Fälle sind von sehr poetischer Natur und werden, mit Ausnahme von MN 56, dem blumigsten Dichter des frühen Saṅgha, dem Ehrwürdigen Vaṅgīsa, zugeschrieben. Der Ausdruck taucht auch mehrmals in späteren Verssammlungen wie den Apadānas und dem Vimānavatthu auf.
+In [SN 8.8](#/sutta/sn8.8:5.2/de/sabbamitta) und an verschiedenen anderen Stellen ([Thag 21.1](#/sutta/thag21.1:32.2/de/sabbamitta), [Snp 2.12](#/sutta/snp2.12:15.2/de/sabbamitta), [MN 56](#/sutta/mn56:29.33/de/sabbamitta)) finden wir für den Buddha das Attribut *isisattama*. All diese Fälle sind von sehr poetischer Natur und werden, mit Ausnahme von MN 56, dem blumigsten Dichter des frühen Saṅgha, dem Ehrwürdigen Vaṅgīsa, zugeschrieben. Der Ausdruck taucht auch mehrmals in späteren Verssammlungen wie den Apadānas und dem Vimānavatthu auf.
 
 Die nächstliegende Lesart dafür ist „siebter Weiser“, wobei *isi* die Paliform des besser bekannten Sanskritwortes *rishi* ist, und *sattama* ist die normale Form von „siebter“. Und das ist auch die standardmäßige Erklärung, die in den Kommentaren gegeben wird.
 
