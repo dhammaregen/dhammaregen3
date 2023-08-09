@@ -23,7 +23,7 @@ Außerdem ist es wahrscheinlich, dass der Zweig des Buddhismus, den wir als Ther
 In [SN 35.132](#/sutta/sn35.132/de/sabbamitta) haben wir ein interessantes Sutta, in dem Mahākaccāna von einer Gruppe rüpelhafter Brahmanenschüler in seiner Meditation gestört wird. Sie lassen ihre Beschimpfungen ab:
 
 >*ime pana muṇḍakā samaṇakā ibbhā kaṇhā bandhupādāpaccā, imesaṃ bharatakānaṃ sakkatā garukatā mānitā pūjitā apacitā*  
->*Diese Glatzköpfe, diese falschen Asketen, dieses Gesindel, diese schwarze Ausgeburt aus den Füßen unseres Stammvaters! Sie werden geehrt, geachtet, gewürdigt, verehrt und wertgeschätzt von denen, die vorgeben, Inder zu sein.*
+>*Diese glatzköpfigen Pfaffen, diese falschen Asketen, diese Primitiven, diese schwarze Ausgeburt aus den Füßen unseres Verwandten! Sie werden geehrt, geachtet, gewürdigt, verehrt und wertgeschätzt von diesen angeblichen Indern.*
 
 In diesem Sutta gibt es Vieles, das von Interesse ist, aber ich will das Augenmerk auf den anscheinend nur hier vorkommenden Begriff *bharataka* lenken. Wie man in meiner (provisorischen!) Übersetzung erkennen kann, denke ich, dass dies ein früher,  möglicherweise einmaliger, Fall ist, in dem der Ausdruck im Sinn von „indisch“ verwendet wird. [Inzwischen wurde die Übersetzung dahingehend abgeändert, dass „Inder“ durch „Erben der vedischen Kultur“ ersetzt wurde. AdÜ]
 
@@ -31,7 +31,7 @@ Bhikkhu Bodhi scheint das Wort von *bhāra* abzuleiten, im Sinn von „Unterstü
 
 Aber zuerst ein wenig Hintergrundinformation. Wir sind natürlich mit dem Mahābharata vertraut, dem größten Mythos Indiens, der die Bedeutung dieser Abstammungslinie etabliert. Von Wijesekera wurde argumentiert, dass der Ursprung des Ausdrucks *bharata* *bhāra* sei, im Sinn der „Beute“, die die indo-arischen Reiterfürsten mitnahmen.
 
-Wie dem auch sei, der Begriff ist vedisch, und das Sanskrit-Wörterbuch [hat eine Zusammenfassung seiner Geschichte](https://sanskritdictionary.com/bharata/2210/6). In den Legenden wurde Bharata ein großer König, der einen Großteil Indiens eroberte. In [DN 19](#/sutta/dn19/de/sabbamitta) wird Bharata ebenfalls als eine alte Linie von Königen genannt. Hier ist er ein Junge. Niedlich!
+Wie dem auch sei, der Begriff ist vedisch, und das Sanskrit-Wörterbuch [hat eine Zusammenfassung seiner Geschichte](https://sanskritdictionary.com/bharata/2210/6). In den Legenden wurde Bharata ein großer König, der einen Großteil Indiens eroberte. In [DN 19](#/sutta/dn19:36.14/de/sabbamitta) wird Bharata ebenfalls als eine alte Linie von Königen genannt. Hier ist er ein Junge. Niedlich!
 
 Mit der Zeit wurde der Begriff als allgemeiner polemischer Ausdruck für Indien oder Inder benutzt. Warum polemisch? Weil in den Wurzeln des Begriffs die Vorstellung verborgen ist, die vedische brahmanische Kultur sei die „wahre“ Kultur Indiens. Die Wahrheit ist natürlich, dass das immer eine von vielen konkurrierenden Versionen der Geschichte war.
 
