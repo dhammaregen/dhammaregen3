@@ -41,7 +41,7 @@ In diesem Kapitel gibt es so viel großartige mythologische Überlieferung, und 
 
 Nun, wenn all das viel erscheint: Es ist viel. Und es ist nur ein kleiner Teil von dem, was Wijesekera anführt. Die unvereinbare und paradoxe Komplexität der verschiedenen Vorstellungen, aus denen der *gandhabba* besteht, spricht für seine Herkunft aus der Vorzeit; wir erhalten vielfältige Aspekte, die durch die Zeit gebrochen wurden. Viele dieser Aspekte finden nun ihren Ausdruck im Palikanon. Normalerweise wird der *gandhabba* natürlich als eine muntere und lebhafte niedere Gotheit betrachtet. Aber hier geht es mir einzig um seine Rolle bei der Fortpflanzung.
 
-Betrachten wir nun einige der alten brahmanischen Theorien zur Wiedergeburt. Es gibt verschiedene nicht immer miteinander zu vereinbarende Berichte, aber [ein berühmter findet sich in der Chandogya-Upaniṣhad](https://archive.org/details/upanishads01ml/page/78/mode/2up?view=theater).
+Betrachten wir nun einige der alten brahmanischen Theorien zur Wiedergeburt. Es gibt verschiedene nicht immer miteinander zu vereinbarende Berichte, aber [ein berühmter findet sich in der Chandogya-Upaniṣhad](https://archive.org/details/sechzigupanishad00deusuoft/page/140/mode/2up?view=theater).
 
 Die grundsätzliche Idee ist, dass die Frau als ein Altar betrachtet wird, auf dem die Götter, indem sie durch den Mann wirken, Samen als Opfer darbringen, woraus der Embryo entsteht. Der Vorgang der Wiedergeburt ist eine lange Wanderung, aber im Wesentlichen werden Seelen auf dem Mond (*soma*) wiedergeboren, von wo sie herabregnen und in Nahrung wie Reis, Getreide, Kräutern, Bäumen, Sesam und Bohnen wiedergeboren werden (Nahrung ist für die Upaniṣaden eine göttliche Kraft von allerhöchster Bedeutung!). Die Chandogya sagt:
 
