@@ -37,9 +37,9 @@ Die frühesten Darstellungen, die zeigen, wie ein *yūpa* tatsächlich aussah, s
 
 *Ujjain-Münze mit Opferstier und Yupa*
 
-<a href="https://scdd.sfo2.cdn.digitaloceanspaces.com/uploads/original/2X/3/336dbe86c5a4031f92be75f5fc5191a885e52565.jpg" target="_blank"><img height="200" alt="Vorder- und Rückseite einer Münze" src="https://scdd.sfo2.cdn.digitaloceanspaces.com/uploads/original/2X/3/336dbe86c5a4031f92be75f5fc5191a885e52565.jpg"></a>
+<a href="https://www.the-saleroom.com/en-gb/auction-catalogues/spink/catalogue-id-2910271/lot-22654512" target="_blank"><img height="200" alt="Vorder- und Rückseite einer Münze" src="https://scdd.sfo2.cdn.digitaloceanspaces.com/uploads/original/2X/3/336dbe86c5a4031f92be75f5fc5191a885e52565.jpg"></a>
 
-*Gupta-Reich, Samudragupta I (ca.330-70), Dinar Vorder- und Rückseite, 7.70 g, Art des Ashvamedha-Pferdeopfers, Pferd steht rechts vor Yupa (Opferpfahl) mit angehängten Bändern, Buchstabe si darunter, rajadhirajah prithivim [avijityva divam jayaty-ahritavajimedhah] umlaufend, Rückseite: die Haptkönigin (mahasi) steht links und hält Fliegenwedel über der Schulter; asvamedha parakramah rechts. [Quelle](https://www.the-saleroom.com/en-gb/auction-catalogues/spink/catalogue-id-2910271/lot-22654512).*
+*Gupta-Reich, Samudragupta I (ca.330-70), Dinar Vorder- und Rückseite, 7.70 g, Art des Ashvamedha-Pferdeopfers, Pferd steht rechts vor Yupa (Opferpfahl) mit angehängten Bändern, Buchstabe si darunter, rajadhirajah prithivim [avijityva divam jayaty-ahritavajimedhah] umlaufend, Rückseite: die Haptkönigin (mahasi) steht links und hält Fliegenwedel über der Schulter; asvamedha parakramah rechts.*
 
 Auf dem letzten Bild kann man ein Bündel von Bändern sehen, das vom oberen Ende des Pfahls flattert. Ich denke, das ist das „tausendfach Aufgefächerte“, auf das sich der Text bezieht. Die „Kugelkappen“ kann man im oberen und unteren Bild deutlich sehen: Sie sind da, wo die Leinen oder Bänder an dem Pfahl befestigt sind. Ich bin nicht ganz sicher, was die „Tafeln“ sind, sie scheinen auf den Bildern nicht dargestellt zu sein. Vielleicht sind es kleine dekorative Elemente, vielleicht Goldplättchen oder Malereien; sie könnten sogar die dekorativen Elemente auf dem Fuß des Pfahls im unteren Bild sein.
 
