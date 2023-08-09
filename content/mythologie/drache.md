@@ -24,7 +24,7 @@ Natürlich stellen die Jātakas häufig den Bodhisattva als denjenigen dar, der 
 
 Menschenopfer, so schwer das zu glauben ist, waren oft freiwillig. Und, noch schwerer zu glauben, obwohl gewalttätiges Opfer vom Buddha so vorbehaltlos verurteilt wurde, wurde es [in buddhistischen Traditionen ausgeführt](http://www.frommers.com/destinations/vientiane/attractions/207759). Worauf ich hinauswill, ist einfach, dass man die moderne Praxis der Selbstopferung nicht außerhalb des Komplexes von Vorstellungen und Praktiken betrachten kann, die die buddhistische Tradition geprägt haben; und die Idee, dass ein drastisches Opfer des Körpers spirituell gerechtfertigt und machtvoll sein kann, schlich sich vor langer Zeit in den Buddhismus zurück, besonders über die Jātakas.
 
-Und was hat das nun mit Drachen zu tun? Nun, im Nāgasaṁyutta spricht der Buddha von gewissen Drachen, die ihre Geburt bedauern und eine bessere Wiedergeburt anstreben und aus diesem Grund den Uposatha einhalten. Das Pali hat den Satz:
+Und was hat das nun mit Drachen zu tun? Nun, im Nāgasaṁyutta spricht der Buddha von gewissen Drachen, die ihre Geburt bedauern und eine bessere Wiedergeburt anstreben und aus diesem Grund den Uposatha einhalten. Das Pali hat [den Satz](#/sutta/sn29.3:1.3/de/sabbamitta):
 
 >*nāgā uposathaṃ upavasanti vossaṭṭhakāyā ca bhavanti*
 
@@ -36,7 +36,7 @@ In seiner Anmerkung zitiert er den Subkommentar und bezieht sich auf das [Campey
 
 >Gemäß buddhistischer Folklore können die Nāgas an Uposathatagen die Ethikregeln auf sich nehmen und sich sogar entschließen, diese auf Kosten ihres Lebens aufrechtzuerhalten.
 
-So schwach es auch ist, das schafft ein kanonisches Vorbild für die Vorstellung, seinen eigenen Körper zu opfern könne im Buddhismus als eine spirituelle Übung betrachtet werden.
+So schwach es auch ist, das schafft ein kanonisches Vorbild für die Vorstellung, seinen eigenen Körper zu opfern, könne im Buddhismus als eine spirituelle Übung betrachtet werden.
 
 Bei genauerem Hinsehen zeigt sich aber, dass diese Übersetzung und die Schlussfolgerung, die sie anstößt, nicht gerechtfertigt sind. Es gibt eine gut bekannte Geschichte im Vinaya ([Kd 1, Abschnitt 50](https://suttacentral.net/pli-tv-kd1/de/maitrimurti-traetow?lang=de&reference=main&highlight=true#49)) von einem Nāga, der, gerade wie in unserem Sutta, seine Geburt als Drache (*nāgayoni*) bedauerte und wünschte, Tugend zu üben. Daher nahm er die Form eines jungen Mannes an und ließ sich ordinieren.
 
@@ -50,4 +50,4 @@ Diese bunte Vinayageschichte veranschaulicht die Situation, die wir im Saṁyutt
 
 >Manche Drachen halten den Besinnungstag ein, nachdem sie ihren Körper verwandelt haben.
 
-Noch eine Schlussbemerkung: Es scheint, dass der gleiche Ausdruck für „aufgeben“ auch in der Vinayapassage versteckt sien könnte. Als der Mönchsgefährte des Drachen weggegangen ist, heißt es, der Drache sei *vissaṭṭha* eingeschlafen. Nun ist das normalerweise ein Ausdruck für „Vertrauen“ und er wird so gedeutet, dass der Drache darauf vertraute, nicht entdeckt zu werden. Er ist aber beinahe identisch mit dem Ausdruck *vossaṭṭha*, der uns oben begegnet ist (*vi*+*ava*+*saṭṭha*) und der „aufgegeben“ bedeutet. Das ist tatsächlich die Grundbedeutung von *vissaṭṭha*, von der „Vertrauen“ abgeleitet ist (vgl. *adhimutta*). Ohne zu sehr in die technischen Einzelheiten zu gehen, habe ich den Verdacht, dass beide Begriffe sich ursprünglich darauf bezogen, dass der Drache seine Körperform „aufgibt“.
+Noch eine Schlussbemerkung: Es scheint, dass der gleiche Ausdruck für „aufgeben“ auch in der Vinayapassage versteckt sien könnte. Als der Mönchsgefährte des Drachen weggegangen ist, heißt es, der Drache sei *vissaṭṭha* eingeschlafen. Nun ist das normalerweise ein Ausdruck für „Vertrauen“, und er wird so gedeutet, dass der Drache darauf vertraute, nicht entdeckt zu werden. Er ist aber beinahe identisch mit dem Ausdruck *vossaṭṭha*, der uns oben begegnet ist (*vi*+*ava*+*saṭṭha*) und der „aufgegeben“ bedeutet. Das ist tatsächlich die Grundbedeutung von *vissaṭṭha*, von der „Vertrauen“ abgeleitet ist (vgl. *adhimutta*). Ohne zu sehr in die technischen Einzelheiten zu gehen, habe ich den Verdacht, dass beide Begriffe sich ursprünglich darauf bezogen, dass der Drache seine Körperform „aufgibt“.
