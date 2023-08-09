@@ -14,13 +14,13 @@ Angesichts der Tatsache, dass in den Lehrreden, in denen er vorkommt, nicht erw�
 
 Historisch ist das aus verschiedenen Gründen interessant. Es markiert eine frühe Ausbreitung des Buddhismus über seine ursprüngliche Heimat hinaus. Avanti selbst ist in zweierlei Hinsicht wichtig: Es ist das Tor zu den Häfen an der Westküste und somit zu den Handelsrouten nach Westen, die wenige Zeit später von Alexander begründet wurden.
 
-<a href="https://scdd.sfo2.cdn.digitaloceanspaces.com/uploads/original/2X/0/09f3d29c53d65cc53e8e9af8bd5ec66c7568c8e8.jpg"><img height="400" alt="Karte von Indien bis zum Mittelmeer mit wichtigen Handelswegen" src="https://scdd.sfo2.cdn.digitaloceanspaces.com/uploads/original/2X/0/09f3d29c53d65cc53e8e9af8bd5ec66c7568c8e8.jpg"></a>
+<a title="Karte Indiens auf digitaloceanspaces" href="https://scdd.sfo2.cdn.digitaloceanspaces.com/uploads/original/2X/0/09f3d29c53d65cc53e8e9af8bd5ec66c7568c8e8.jpg"><img height="400" alt="Karte von Indien bis zum Mittelmeer mit wichtigen Handelswegen" src="https://scdd.sfo2.cdn.digitaloceanspaces.com/uploads/original/2X/0/09f3d29c53d65cc53e8e9af8bd5ec66c7568c8e8.jpg"></a>
 
 Außerdem ist es wahrscheinlich, dass der Zweig des Buddhismus, den wir als Theravada kennen, seinen Weg nach Sri Lanka über Avanti nahm; tatsächlich heißt es, Mahinda habe hier gelebt.
 
-<a href="https://scdd.sfo2.cdn.digitaloceanspaces.com/uploads/original/2X/a/a438ef891dadef14ddcbba8c8b9ad515a38a1bc1.png"><img height="400" alt="Karte mit Wanderungsbewegungen der Ausbreitung des Buddhismus" src="https://scdd.sfo2.cdn.digitaloceanspaces.com/uploads/original/2X/a/a438ef891dadef14ddcbba8c8b9ad515a38a1bc1.png"></a>
+<a title="Karte mit Wanderungsbewegungen auf diditaloceanspaces" href="https://scdd.sfo2.cdn.digitaloceanspaces.com/uploads/original/2X/a/a438ef891dadef14ddcbba8c8b9ad515a38a1bc1.png"><img height="400" alt="Karte mit Wanderungsbewegungen der Ausbreitung des Buddhismus" src="https://scdd.sfo2.cdn.digitaloceanspaces.com/uploads/original/2X/a/a438ef891dadef14ddcbba8c8b9ad515a38a1bc1.png"></a>
 
-In [SN 35.132](/suttas/#sn35.132/de/sabbamitta:0.1) haben wir ein interessantes Sutta, in dem Mahākaccāna von einer Gruppe rüpelhafter Brahmanenschüler in seiner Meditation gestört wird. Sie lassen ihre Beschimpfungen ab:
+In [SN 35.132](#/sutta/sn35.132/de/sabbamitta) haben wir ein interessantes Sutta, in dem Mahākaccāna von einer Gruppe rüpelhafter Brahmanenschüler in seiner Meditation gestört wird. Sie lassen ihre Beschimpfungen ab:
 
 >*ime pana muṇḍakā samaṇakā ibbhā kaṇhā bandhupādāpaccā, imesaṃ bharatakānaṃ sakkatā garukatā mānitā pūjitā apacitā*  
 >*Diese Glatzköpfe, diese falschen Asketen, dieses Gesindel, diese schwarze Ausgeburt aus den Füßen unseres Stammvaters! Sie werden geehrt, geachtet, gewürdigt, verehrt und wertgeschätzt von denen, die vorgeben, Inder zu sein.*
@@ -31,7 +31,7 @@ Bhikkhu Bodhi scheint das Wort von *bhāra* abzuleiten, im Sinn von „Unterstü
 
 Aber zuerst ein wenig Hintergrundinformation. Wir sind natürlich mit dem Mahābharata vertraut, dem größten Mythos Indiens, der die Bedeutung dieser Abstammungslinie etabliert. Von Wijesekera wurde argumentiert, dass der Ursprung des Ausdrucks *bharata* *bhāra* sei, im Sinn der „Beute“, die die indo-arischen Reiterfürsten mitnahmen.
 
-Wie dem auch sei, der Begriff ist vedisch, und das Sanskrit-Wörterbuch [hat eine Zusammenfassung seiner Geschichte](https://sanskritdictionary.com/bharata/2210/6). In den Legenden wurde Bharata ein großer König, der einen Großteil Indiens eroberte. In [DN 19](/suttas/#dn19/de/sabbamitta:0.1) wird Bharata ebenfalls als eine alte Linie von Königen genannt. Hier ist er ein Junge. Niedlich!
+Wie dem auch sei, der Begriff ist vedisch, und das Sanskrit-Wörterbuch [hat eine Zusammenfassung seiner Geschichte](https://sanskritdictionary.com/bharata/2210/6). In den Legenden wurde Bharata ein großer König, der einen Großteil Indiens eroberte. In [DN 19](#/sutta/dn19/de/sabbamitta) wird Bharata ebenfalls als eine alte Linie von Königen genannt. Hier ist er ein Junge. Niedlich!
 
 Mit der Zeit wurde der Begriff als allgemeiner polemischer Ausdruck für Indien oder Inder benutzt. Warum polemisch? Weil in den Wurzeln des Begriffs die Vorstellung verborgen ist, die vedische brahmanische Kultur sei die „wahre“ Kultur Indiens. Die Wahrheit ist natürlich, dass das immer eine von vielen konkurrierenden Versionen der Geschichte war.
 
