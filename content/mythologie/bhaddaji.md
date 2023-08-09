@@ -12,7 +12,7 @@ order: 13.5
 
 Du hast ganz recht, Thag 2.22 ist eins der seltsamsten und schwierigsten Gedichte im Theragāthā, oder eigentlich im ganzen Kanon. Hier ist meine Übersetzung [ich gebe meine deutsche Übersetzung, die sich auf Bhante Sujatos englische stützt; diese wurde seit diesem Beitrag aktualisiert, und ich gebe hier die jüngste Fassung wieder; AdÜ]:
 
->[Thag 2.22](/suttas/#thag2.22/de/sabbamitta:0.1)  
+>[Thag 2.22](#/sutta/thag2.22/de/sabbamitta)  
 >*Da war ein König mit Namen Panāda,*  
 >*der hatte einen Opferpfahl, der ganz von Gold war.*  
 >*Er war sechzehn mal so hoch wie breit*  
@@ -29,15 +29,15 @@ Die Grundidee beschäftigt sich mit dem vedischen Opfer. Bei ihren Tieropfern ga
 
 Die frühesten Darstellungen, die zeigen, wie ein *yūpa* tatsächlich aussah, scheinen sich auf Münzen zu finden. Diese sind allerdings fast tausend Jahre jünger als die Suttas und im Vergleich zu den Vedas noch viel jünger und sollten daher mit Vorsicht benutzt werden.
 
-<a title="Samudragupta, Golddinar, ca. 335-375 n.Chr. Gewicht: 7.46 g, Durchmesser: 21 mm. Opferpferd stehend links, Yupa (Opferpfahl) davor, umlaufende Brāhmī-Inschrift und si (für siddham) unter Pferd / Königin stehend links, hält Handtuch in linker Hand, Fliegenwedel in der rechten über der Schulter, Nadel davor, Brāhmī-Inschrift rechts: Ashvamedhaparākrama. Von Coinindia." href="https://scdd.sfo2.cdn.digitaloceanspaces.com/uploads/original/2X/a/aaa90bec6c599a14c4ac0eabd1d241260f00034a.jpg"><img height="200" alt="Vorder- und Rückseite einer Münze" src="https://scdd.sfo2.cdn.digitaloceanspaces.com/uploads/original/2X/a/aaa90bec6c599a14c4ac0eabd1d241260f00034a.jpg"></a>
+<a href="https://scdd.sfo2.cdn.digitaloceanspaces.com/uploads/original/2X/a/aaa90bec6c599a14c4ac0eabd1d241260f00034a.jpg" target="_blank"><img height="200" alt="Vorder- und Rückseite einer Münze" src="https://scdd.sfo2.cdn.digitaloceanspaces.com/uploads/original/2X/a/aaa90bec6c599a14c4ac0eabd1d241260f00034a.jpg"></a>
 
 *Samudragupta, Golddinar, ca. 335-375 n.Chr. Gewicht: 7.46 g, Durchmesser: 21 mm. Opferpferd stehend links, Yupa (Opferpfahl) davor, umlaufende Brāhmī-Inschrift und si (für siddham) unter Pferd / Königin stehend links, hält Handtuch in linker Hand, Fliegenwedel in der rechten über der Schulter, Nadel davor, Brāhmī-Inschrift rechts: Ashvamedhaparākrama. Von Coinindia.*
 
-<a title="Ujjain-Münze mit Opferstier und Yupa" href="https://scdd.sfo2.cdn.digitaloceanspaces.com/uploads/original/2X/7/78e79ff6fcc9e5fc1803b2779e37816d0a134344.jpg"><img height="200" alt="Vorder- und Rückseite einer Münze" src="https://scdd.sfo2.cdn.digitaloceanspaces.com/uploads/original/2X/7/78e79ff6fcc9e5fc1803b2779e37816d0a134344.jpg"></a>
+<a href="https://scdd.sfo2.cdn.digitaloceanspaces.com/uploads/original/2X/7/78e79ff6fcc9e5fc1803b2779e37816d0a134344.jpg" target="_blank"><img height="200" alt="Vorder- und Rückseite einer Münze" src="https://scdd.sfo2.cdn.digitaloceanspaces.com/uploads/original/2X/7/78e79ff6fcc9e5fc1803b2779e37816d0a134344.jpg"></a>
 
 *Ujjain-Münze mit Opferstier und Yupa*
 
-<a title="Gupta-Reich, Samudragupta I (ca.330-70), Dinar Vorder- und Rückseite, 7.70 g, Art des Ashvamedha-Pferdeopfers, Pferd steht rechts vor Yupa (Opferpfahl) mit angehängten Bändern, Buchstabe si darunter, rajadhirajah prithivim [avijityva divam jayaty-ahritavajimedhah] umlaufend, Rückseite: die Haptkönigin (mahasi) steht links und hält Fliegenwedel über der Schulter; asvamedha parakramah rechts. Quelle: https://www.the-saleroom.com/en-gb/auction-catalogues/spink/catalogue-id-2910271/lot-22654512" href="https://scdd.sfo2.cdn.digitaloceanspaces.com/uploads/original/2X/3/336dbe86c5a4031f92be75f5fc5191a885e52565.jpg"><img height="200" alt="Vorder- und Rückseite einer Münze" src="https://scdd.sfo2.cdn.digitaloceanspaces.com/uploads/original/2X/3/336dbe86c5a4031f92be75f5fc5191a885e52565.jpg"></a>
+<a href="https://scdd.sfo2.cdn.digitaloceanspaces.com/uploads/original/2X/3/336dbe86c5a4031f92be75f5fc5191a885e52565.jpg" target="_blank"><img height="200" alt="Vorder- und Rückseite einer Münze" src="https://scdd.sfo2.cdn.digitaloceanspaces.com/uploads/original/2X/3/336dbe86c5a4031f92be75f5fc5191a885e52565.jpg"></a>
 
 *Gupta-Reich, Samudragupta I (ca.330-70), Dinar Vorder- und Rückseite, 7.70 g, Art des Ashvamedha-Pferdeopfers, Pferd steht rechts vor Yupa (Opferpfahl) mit angehängten Bändern, Buchstabe si darunter, rajadhirajah prithivim [avijityva divam jayaty-ahritavajimedhah] umlaufend, Rückseite: die Haptkönigin (mahasi) steht links und hält Fliegenwedel über der Schulter; asvamedha parakramah rechts. [Quelle](https://www.the-saleroom.com/en-gb/auction-catalogues/spink/catalogue-id-2910271/lot-22654512).*
 
