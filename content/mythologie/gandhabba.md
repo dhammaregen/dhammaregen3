@@ -51,7 +51,7 @@ Wiedergeburt hat eine kosmische und organische Dimension, die im Buddhismus fehl
 
 Kommen wir nun zu der Stelle im Palikanon. Nach meinem Empfinden ist Wijesekeras Diskussion hier weniger angemessen. Er weist ganz zu Recht darauf hin, dass der Vorschlag einiger früherer Wissenschaftler, der *gandhabba* „stehe“ der Wiedergeburt „vor“, nicht einleuchtend ist. Das entsprechende Verb *paccupaṭṭhito hoti* hat die Bedeutung „bereitstehen“, d. h. „bereit, zu gehen“.
 
-Aber dann sagt er, der Text sei „unmissverständlich und lässt keinen Zweifel an der wahren Natur des *gandhabba*, der sich in diesem Zusammenhang sicher auf den ‚Geist‘ eines früher verstorbenen Adligen, Brahmanen, Kaufmanns oder Arbeiters beziehen muss“. Dann verweist er auf seine vorhergehende Diskussion in Abschnitt 12.
+Aber dann sagt er, der Text sei „unmissverständlich und lässt keinen Zweifel an der wahren Natur des *gandhabba*, der sich in diesem Zusammenhang sicher auf den ‚Geist‘ eines früher verstorbenen Adligen, Brahmanen, Landarbeiters oder Hilfsarbeiters beziehen muss“. Dann verweist er auf seine vorhergehende Diskussion in Abschnitt 12.
 
 Aber ich glaube nicht, dass diese Diskussion überhaupt eine so klare Schlussfolgerung begründet. Wijesekera zeigt eine Verbindung zwischen dem *gandhabba* und der Macht über den Geist, die ich als Bezug auf die Macht des Sexualverlangens verstehe. Die *apsaras* zum Beispiel gelten als die „Frauen der *gandhabbas*, die den Geist verwirren“. Dann verweist er auf ein paar Fälle von Besessenheit zur Unterstützung der Vorstellung, dass ein *gandhabba* ein Geist war, aber das sind bloß gewöhnliche Fälle von Besessenheit durch einen Geist, die nichts mit Fortpflanzung zu tun haben.
 
@@ -60,9 +60,9 @@ All die Hinweise über die kosmischen bzw. organischen Eingeschaften des *gandha
 Das größte Einzelproblem mit der späteren buddhistischen Idee, dass *gandhabba* = Wiedergeburtsbewusstsein sei, ist, dass dann der Mann kaum eine Rolle spielen würde. Tatsächlich hätte bei den drei Faktoren der Mann nichts weiter zu tun, als Geschlechtsverkehr zu haben. Er hätte sonst überhaupt keinen direkten Bezug zur Fortpflanzung. Aber wie wir gesehen haben, ist in der brahmanischen Tradition der „Keim“ im Wesentlichen männlich, und es ist die Frau, die zweitrangig ist.
 
 >indriyeṇa te retasā reta ādadhāmīti | garbhiṇy eva bhavati || BrhUp_6,4.11 ||  
->‚Mit Macht, mit Samen, lege ich Samen in dir ab!‘ So wird sie schwanger.
+>‚Mit Macht, mit Samen, lege ich Samen in dir ab!‘ So wird sie schwanger. („Durch meine Kraft, durch meinen Saft leg' ich in dich hinein den Saft“; so wird sie schwanger werden, in Deussens Übersetzung.)
 
-(Aus: https://sacred-texts.com/hin/sbe15/sbe15098.htm)
+([https://archive.org/details/sechzigupanishad00deusuoft/page/514/mode/2up?view=theater](https://archive.org/details/sechzigupanishad00deusuoft/page/514/mode/2up?view=theater))
 
 Ich glaube keinen Augenblick, dass die Brahmanen Männern eine so reduzierte Rolle zuordnen würden.
 
