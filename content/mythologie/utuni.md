@@ -35,7 +35,7 @@ Natürlich ereignet sich der Eisprung erst nach etwa einer Woche, aber das wusst
 
 Das heißt, die *utu* ist der Zeitraum von zwei Wochen oder so vom Beginn der Periode bis zum Ende der Eisprungzeit. Die Brahmanen hatten zwar während der Menstruation an sich keinen Geschlechtsverkehr, bis die Frau sich gebadet und gereinigt hatte, aber für die folgenden zwei Wochen oder so war er angesagt. Das macht es auch plausibler, dass die Brahmanen nur während der *utu* Verkehr hatten. Geschlechtsverkehr während der Hälfte des Monats ist realistischer als nur für ein paar Tage.
 
-Dieses Verständnis wird von ayurvedischen Vorstellungen über den Fruchtbarkeitszyklus gestützt. Die meisten der Originaltexte scheinen nicht online vorzuliegen, aber ich habe diese Studie gefunden ([PDF zum Herunterladen](https://scdd.sfo2.cdn.digitaloceanspaces.com/uploads/original/2X/f/f71b017600c77f9db043d13de19745290fed9a19.pdf), 169 KB).
+Dieses Verständnis wird von ayurvedischen Vorstellungen über den Fruchtbarkeitszyklus gestützt. Die meisten der Originaltexte scheinen nicht online vorzuliegen, aber ich habe diese Studie gefunden ([SJAMS-22D876-881.pdf](https://scdd.sfo2.cdn.digitaloceanspaces.com/uploads/original/2X/f/f71b017600c77f9db043d13de19745290fed9a19.pdf), PDF zum Herunterladen 169 KB).
 
 Sie bemerkt, dass verschiedene Quellen sagen, die *ritukāla* dauere zwölf oder sechzehn Tage, und sagt:
 
