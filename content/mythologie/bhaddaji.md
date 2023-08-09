@@ -20,7 +20,7 @@ Du hast ganz recht, Thag 2.22 ist eins der seltsamsten und schwierigsten Gedicht
 >
 >*Er hatte tausend Tafeln und hundert Kugelkappen,*  
 >*alle mit Wimpeln geschmückt und aus Gold gemacht.*  
->*Da tanzten die Elfen,*  
+>*Da tanzten die Zentauren,*  
 >*sieben mal sechstausend an der Zahl.*
 
 Ich habe daran lange gearbeitet und bin mit dem Ergebnis einigermaßen zufrieden, aber keine Übersetzung kann hier Gewissheit beanspruchen.
