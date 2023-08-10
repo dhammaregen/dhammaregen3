@@ -21,5 +21,5 @@ EBT-Vue3 ist der Front-End-Entwicklungsrahmen, der von folgenden Webseiten genut
 * [sc-voice.net](https://sc-voice.net)
 * [Dhammaregen](https://dhammaregen.net)
 
-Der Rahmen unterstützt das Erstellen von individuellen Webseiten auf der Grundlage der frühen buddhistischen Texte (FBT), die von [SuttaCentral](https://suttacentral.net) bezogen werden. Webseiten, die den EBT-Vue3-Rahmen benutzen, können mittels Markdown-Dateien nach Wunsch individuell angepasst werden.
+Der Rahmen unterstützt das Erstellen von individuellen Webseiten auf der Grundlage der frühen buddhistischen Texte (FBT), die von [SuttaCentral](https://suttacentral.net/?lang=de) bezogen werden. Webseiten, die den EBT-Vue3-Rahmen benutzen, können mittels Markdown-Dateien nach Wunsch individuell angepasst werden.
 
