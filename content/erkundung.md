@@ -8,7 +8,7 @@ category: Weitere Informationen
 order: 10
 ---
 
-Mit [Santacitta Bhikkhuni](https://alokavihara.org/deutsch/#ayyasc) & [Sabbamitta Silashin](#/wiki//uebersetzung/Sabbamitta)
+Mit [Santacitta Bhikkhuni](https://alokavihara.org/deutsch/#ayyasc) & [Sabbamitta Silashin](#/wiki/uebersetzung/sabbamitta)
 
 Seit Juni 2022 bietet Dhammaregen in Kooperation mit [Aloka-Dharma-Zoom](https://alokavihara.org/aloka-dharma-zoom/) ein monatliches Sutta-Erkundungsprogramm auf Zoom an. Die Sitzungen finden an jedem ersten Freitag im Monat statt, jeweils 18:30–20:00 h ME(S)Z.
 
