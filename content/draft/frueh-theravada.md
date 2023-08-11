@@ -45,7 +45,7 @@ Das Bestehen des Theravada auf dem Fehlen eines Selbst erstreckt sich allerdings
 
 Der Theravada gibt viel auf die Lehre von den „zwei Wahrheiten“, der herkömmlichen Wahrheit (_sammutisacca_) und der höchsten Wahrheit (_paramatthasacca_). Herkömmliche Wahrheit ist der Bereich solcher letztlich unwirklichen Ideen wie „Personen“, „Nationen“ und Ähnlichem, wohingegen die höchste Wahrheit von den grundlegenden Phänomenen der Existenz (_Dhammas_) handelt. Diese Unterscheidung betrifft sowohl das Ausdrücken der Wahrheit – wobei die Suttas als die Texte gelten, die von der herkömmlichen Wahrheit handeln, während der Abhidhamma von der höchsten Wahrheit handelt – als auch die zugrundeliegenden Wirklichkeiten, von denen die Rede ist, wobei die „im höchsten Sinne wahren“ Phänomene so sind, weil sie eine „ihnen innewohnende Essenz“ (_sabhāva_) besitzen.
 
-Keine solche Unterscheidung findet man in den FBT. Dort sehen wir den Buddha, wie er sich leicht zwischen Gesprächen, die in Begriffen von Menschen formuliert sind, und solchen in Begriffen von Phänomenen hin und herbewegt, ohne dass er dieser Unterscheidung irgendeine ontologische Bedeutung zuschreiben müsste.
+Keine solche Unterscheidung findet man in den FBT. Dort sehen wir den Buddha, wie er sich leicht zwischen Gesprächen, die in Begriffen von Menschen formuliert sind, und solchen in Begriffen von Phänomenen hin- und herbewegt, ohne dass er dieser Unterscheidung irgendeine ontologische Bedeutung zuschreiben müsste.
 
 Die Tatsache, dass Wörter spezialisierte Bedeutungen haben, und dass etwas, das in einem Gegenstandsbereich wahr ist, auf einen anderen vielleicht nicht zutrifft, ist ein normales Merkmal der Spezialisierung und keine besondere Eigenschaft des Dhamma. In der Physik zum Beispiel wird das, was wir als feste Materie betrachten, als sich im Raum bewegende Energien angesehen. Das heißt nicht, dass die Vorstellung von „Festigkeit“ falsch oder weniger bedeutsam wäre; es heißt lediglich, dass sie zutrifft, wenn man Dinge aus bestimmten Blickwinkeln betrachtet, aber aus anderen nicht. In der gewöhnlichen Welt, in der wir leben, ist „Festigkeit“ völlig real: Kein Physiker versucht, durch Wände zu gehen.
 
@@ -71,7 +71,7 @@ Beachte, dass der Begriff *Abhidhamma* selbst problematisch ist, da er im Therav
 
 #### Linguistischer Essenzialismus
 
-Der Visuddhimagga stellt die ziemlich außerordentliche Behauptung auf, dass Pali – womit er speziell die Sprache der Theravada-Schriften meint – die „von Natur aus bestehende Sprache“ (_sabhāvanirutti_) ist. Wenn ein Kind ganz ohne äußere Einflüsse aufgezogen würde, würde es ganz natürlich perfektes Pali sprechen.
+Der Visuddhimagga stellt die ziemlich außerordentliche Behauptung auf, dass Pali – womit er speziell die Sprache der Theravada-Schriften meint – die „von Natur aus bestehende Sprache“ (_sabhāvanirutti_) sei. Wenn ein Kind ganz ohne äußere Einflüsse aufgezogen würde, würde es ganz natürlich perfektes Pali sprechen.
 
 Der Buddha betrachtete demgegenüber Sprache als einen Satz von Konventionen für die Kommunikation zwischen Menschen. So etwas wie eine „besondere“ Sprache gibt es nicht. Der Buddha lehrte in der Sprache, die er und die Menschen um ihn herum sprachen, und ermunterte andere, das Gleiche zu tun.
 
@@ -93,11 +93,11 @@ Die Lernmethode in den FBT gründet sich viel stärker auf Dialog, Frage und Ant
 
 #### Meditationsmethoden
 
-Moderner Theravada legt großen Wert auf besondere Meditationsmethoden, die alle für sich in Anspruch nehmen, authentisch und wirkungsvoll zu sein. Sie bauen auf den ausführlichen Beschreibungen von Meditationsmethoden auf, die man im Visuddhimagga findet, das den ausführlichsten und umfassendsten Satz an praktischen Meditationsanleitungen enthält, den man in einem alten Buch überhaupt finden kann. Dazu gehören so bekannte Techniken wie Zählen, die Aufmerksamkeit auf bestimmte Punkte richten, Ereignisse mit Worten vermerken, die Phasen eines Schrittes bei der Gehmeditation vermerken usw.
+Moderner Theravada legt großen Wert auf besondere Meditationsmethoden, die alle für sich in Anspruch nehmen, authentisch und wirkungsvoll zu sein. Sie bauen auf den ausführlichen Beschreibungen von Meditationsmethoden auf, die man im Visuddhimagga findet, der den ausführlichsten und umfassendsten Satz an praktischen Meditationsanleitungen enthält, den man in einem alten Buch überhaupt finden kann. Dazu gehören so bekannte Techniken wie Zählen, die Aufmerksamkeit auf bestimmte Punkte richten, Ereignisse mit Worten vermerken, die Phasen eines Schrittes bei der Gehmeditation vermerken usw.
 
 Die FBT besprechen die Besonderheiten des Meditierens viel weniger genau. Im Allgemeinen geben sie eine Übersicht über die Übung und ihre Ziele und legen mehr Wert auf den Kontext und die Bedeutung der Übung als auf den Mechanismus der Methode. Der Buddha lehrte typischerweise eine breite Palette an Betrachtungsübungen, und die Meditationsschüler lernten, wie sie diese für ihren eigenen Fall anwendeten.
 
-In diesem Fall denke ich, dass das Visuddhimagga zum größten Teil lediglich das, was man in den FBT findet, weiter ausführt und erläutert; doch kann es zu einer Überbetonung der Notwendigkeit neigen, die Methode richtig zu machen, statt sich über den Kontext und Zweck der Meditation im Klaren zu sein.
+In diesem Fall denke ich, dass der Visuddhimagga zum größten Teil lediglich das, was man in den FBT findet, weiter ausführt und erläutert; doch kann er zu einer Überbetonung der Notwendigkeit neigen, die Methode richtig zu machen, statt sich über den Kontext und Zweck der Meditation im Klaren zu sein.
 
 #### Meditationsklausuren
 
@@ -107,7 +107,7 @@ Die FBT enthalten kein Konzept einer solchen intensiven Meditationsklausur für 
 
 Mönche und Nonnen, einschließlich des Buddha selbst, haben sich manchmal für eine gewisse Zeit zu einer Einzelklausur zurückgezogen. Doch vorher sind sie zu ihrem Lehrer gegangen und haben um Anleitung gebeten, und manchmal wurde ihnen gesagt, sie seien noch nicht bereit dazu. Sich vorschnell in tiefe Meditation zu versenken, galt als gefährlich.
 
-Das intensive Retreat hat vielen Menschen, auch mir, eine entscheidende Initialzündung für ihre Dhammapraxis gegeben. Doch es hat auch Nachteile. Es ist normal, dass Meditierende während des Retreats ein Hoch erleben und danach auf den Boden zurückfallen. Die außergewöhnliche Anstrengung führt leicht dazu, sich zu überschätzen, und solche Klausuren sind voll mit Menschen, die sich selbst glauben machen, sie hätten ein Jhāna oder das Erwachen erreicht. Schlimmer noch, intensive Übung ohne angemessene Vorbereitung und Anleitung kann Auslöser für eine Psychose sein, und das ist sehr gefährlich. Viele Meditationsretreats werden ohne das notwendige Fundament an psychologischem Verständnis durchgeführt, das man braucht, um solche Zusammenbrüche zu erkennen und damit umzugehen. Den Meditierenden wird gesagt, sie sollen einfach weitermachen, oder gar, ihre Psychose sei ein Zeichen von Einsicht.
+Das intensive Retreat hat vielen Menschen, auch mir, eine entscheidende Initialzündung für ihre Dhammapraxis gegeben. Doch es hat auch Nachteile. Es ist normal, dass Meditierende während des Retreats ein Hoch erleben und danach auf den Boden zurückfallen. Die außergewöhnliche Anstrengung führt leicht dazu, sich zu überschätzen, und solche Klausuren sind voll mit Menschen, die sich selbst glauben machen, sie hätten ein Jhāna oder das Erwachen erreicht. Schlimmer noch, intensive Übung ohne angemessene Vorbereitung und Anleitung kann Auslöser für eine Psychose sein, und das ist sehr gefährlich. Viele Meditationsklausuren werden ohne das notwendige Fundament an psychologischem Verständnis durchgeführt, das man braucht, um solche Zusammenbrüche zu erkennen und damit umzugehen. Den Meditierenden wird gesagt, sie sollten einfach weitermachen, oder gar, ihre Psychose sei ein Zeichen von Einsicht.
 
 #### Das absolute Minimum
 
@@ -125,7 +125,7 @@ Das ist nicht die Art, wie der Buddha lehrte. Er ermutigte seine Schüler, nach 
 
 Während es im Theravada, wie er in der internationalen Arena verstanden wird, vor allem um Achtsamkeit und Meditation geht, ist der traditionelle Theravada eine Andachtsreligion. Für die meisten Anhänger bedeutet religiöse Praxis, dass man das Kloster besucht, eine Spende gibt, einige Unterweisungen anhört und in einen Sprechgesang einstimmt. Für sie ist das eine Möglichkeit, sich mit einer Gemeinschaft zu verbinden, ihre Familie zu ehren, den Saṅgha zu unterstützen und Gutes zu tun, das eine günstige Wiedergeburt sicherstellt.
 
-Man findet zwar all diese Handlungen in den FBT, aber der Schwerpunkt hat sich verschoben. Der frühe Buddhismus war eine Bewegung, die sich auf Kontemplation und Meditation gründete, eine Möglichkeit, durch Verstehen und Einsicht tiefgründige Wahrheiten zu verwirklichen. Andächtige Übungen boten Unterstützung und Kontext, waren aber kein Ziel an sich.
+Man findet zwar alle diese Handlungen in den FBT, aber der Schwerpunkt hat sich verschoben. Der frühe Buddhismus war eine Bewegung, die sich auf Kontemplation und Meditation gründete, eine Möglichkeit, durch Verstehen und Einsicht tiefgründige Wahrheiten zu verwirklichen. Andächtige Übungen boten Unterstützung und Kontext, waren aber kein Ziel an sich.
 
 Dieser Gegensatz wird nirgends klarer, als wenn man das Thera- and Therīgāthā mit ihren späteren Gegenstücken, dem Thera- and Therīapadāna, vergleicht. Die Ersteren sind Berichte von den oder über die Mönche und Nonnen, die zur Zeit des Buddha oder wenig später lebten. Sie sprechen von Entsagung, von den Freuden des Meditierens im Wald, von den Kämpfen mit Begierden, vom Triumph des Erwachens. Die Apadānas, die ein paar hundert Jahre später verfasst wurden, erzählen die legendenhaften Geschichten aus den früheren Leben häufig der gleichen Mönche und Nonnen. Nun wird ihr Erwachen nicht ihrem hingegebenen Streben in Meditation und Entsagung zugeschrieben, sondern einem einfachen Akt wie einer Blumenspende an einen Buddha vor vielen Äonen.
 
@@ -137,7 +137,7 @@ Der Buddha der FBT ist menschlicher, und man kann sich leichter mit ihm identifi
 
 #### Bodhisatta: einer, der zum Erwachen entschlossen ist
 
-Der Theravada lehrt, wie alle modernen Schulen des Buddhismus, über den Bodhisatta, den „künftigen Buddha“, der aus Mitgefühl mit allen Lebewesen seine spirituellen Eignschaften über unzählige Leben hinweg entwickelt mit dem Ziel, Buddhaschaft zu erlangen. Es heißt, der Bodhisatta legte vor langer Zeit unter einem früheren Buddha ein entsprechendes Gelübde ab.
+Der Theravada lehrt, wie alle modernen Schulen des Buddhismus, über den Bodhisatta, den „künftigen Buddha“, der aus Mitgefühl mit allen Lebewesen seine spirituellen Eignschaften über unzählige Leben hinweg entwickelte mit dem Ziel, Buddhaschaft zu erlangen. Es heißt, der Bodhisatta legte vor langer Zeit unter einem früheren Buddha ein entsprechendes Gelübde ab.
 
 In den FBT finden wir keine solche Vorstellung. Der Begriff *bodhisatta* beschreibt gewöhnlich den jungen Siddhattha während seines Strebens nach dem Erwachen, nachdem er sein Heim verlassen hat. Die Lehrreden dehen das, das ist wahr, bis zu Siddhatthas Geburt aus, aber das ist wahrscheinlich eine spätere Entwicklung.
 
@@ -151,7 +151,7 @@ Ein wesentlicher Teil der Bodhisatta-Doktrin ist die Vorstellung, dass der Bodhi
 
 Die FBT enthalten keinen Hinweis auf diese Doktrin, weder auf die allgemeine Vorstellung, dass der Bodhisatta infolge eines Gelübdes einen Entwicklungsweg verfolgte, noch auf die genauen Einzelheiten des Verzeichnisses von Vollkommenheiten. Tatsächlich geben sich die FBT, wenn sie von den Übungen sprechen, die der Bodhisatta in früheren Leben praktizierte – wie etwa den Brahmāvihāras bis zur Stufe der Jhānas –, große Mühe, zu betonen, dass diese Übungen *nicht* zum Erwachen führten. Das steht in direktem Widerspruch zur Doktrin der Vollkommenheiten.
 
-Darüber hinaus beschreiben die FBT im Einzelnen, was Siddhattha in den sechs Jahren tat, in denen er für das Erwachen übte, sowie die Beweggründe, aus denen er es tat. Nirgends wird die Erfüllung eines Gelübdes oder die Fortsetzung von Übungen aus früheren Leben genannt. Im Gegenteil, weit davon entfernt, einen vor langer Zeit beschlossenen Weg zu Ende zu gehen, experimentiert Siddhattha offensichtlich und probiert Dinge aus, da er seinen Pfad nicht kennt, und übernimmt offen Ansichten und Übungen, die er später als fehlgeleitet verwerfen sollte. Alle seine eigenen Berichte über seine Übung betonen diesen schrittweisen und erfahrungsgeleiteten Prozess, wie er den Pfad entdeckte.
+Darüber hinaus beschreiben die FBT im Einzelnen, was Siddhattha in den sechs Jahren tat, in denen er für das Erwachen übte, sowie die Beweggründe, aus denen er es tat. Nirgends wird die Erfüllung eines Gelübdes oder die Fortsetzung von Übungen aus früheren Leben genannt. Im Gegenteil, weit davon entfernt, einen vor langer Zeit beschlossenen Weg zu Ende zu gehen, experimentiert Siddhattha offensichtlich und probiert Dinge aus, da er seinen Pfad nicht kennt, und übernimmt offen Ansichten und Übungen, die er später als fehlgeleitet verwerfen sollte. Alle seine eigenen Berichte über seine Übung betonen diesen schrittweisen und erfahrungsgeleiteten Prozess, über den er den Pfad entdeckte.
 
 #### Jātaka-Geschichten
 
@@ -182,7 +182,7 @@ Die Theravada-Kommentare geben eine weite Spanne von Lesarten für diesen Beinam
 
 Man darf aber nicht vergessen, dass es eine der wichtigsten Funktionen der Kommentare war, Material für das Halten von Dhammavorträgen zur Verfügung zu stellen, was sie oft taten, indem sie gut bekannten Wörtern vielfache Bedeutungen zuordneten. Sie zielen darauf ab, zu didaktischen Zwecken die Bedeutung zu erweitern, im Unterschied zu einem Wörterbuch, das darauf abzielt, falsche Bedeutungen auszusondern. Das ist praktisch für Lehrer, da es ihnen etwas an die Hand gibt, mit dem sie spielen können, aber es vermittelt uns nicht immer die eigentliche Bedeutung des Wortes.
 
-In diesem Fall geben die FBT eine recht umfangreiche Reihe von Interpretationen für *tathāgata*, zum Beispiel „Wie er spricht, so  handelt er“. Die allgemeine Bedeutung meint jemanden, der in Übereinstimmung mit der Wahrheit redet und handelt, die ihm klar geworden ist, was zu der Übersetzung „der Klargewordene“ passt.
+In diesem Fall geben die FBT eine recht umfangreiche Reihe von Interpretationen für *tathāgata*, zum Beispiel „Wie er spricht, so  handelt er“. Die allgemeine Bedeutung meint jemanden, der in Übereinstimmung mit der Wahrheit, die ihm klar geworden ist, redet und handelt, was zu der Übersetzung „der Klargewordene“ passt.
 
 #### Allwissenheit
 
@@ -222,19 +222,19 @@ Aber das Aufbewahren und Verehren von Reliquien war nicht Teil der Lehren des Bu
 
 Reliquien sind leicht zu fälschen, und in dem ganzen Bereich um die Reliquien haben sich immer zahlreiche Fälschungskünstler und Ganoven getummelt. Es gibt keine historischen Anhaltspunkte, dass irgendeine der Reliquien, die heute verehrt werden, eine tatsächliche Verbindung zum Buddha oder seinen Schülern hat. Eine Ausnahme bilden ganz wenige Reliquien, die im 20. Jahrhundert bei archäologischen Grabungen zutage gefördert wurden, wie die Buddhareliquien von Kapilavatthu im Delhi-Museum oder die von Sāriputta und Moggallāna in der *Mahā Bodhi Society*.
 
-Wenn Mönche in den Toiletten mutmaßlicher Arahants graben, um die „Reliquien“ zu gewinen, ist das ein Zeichen, dass etwas ziemlich schief gelaufen ist. Der Dhamma wohnt nicht physischen Objekten inne; er manifestiert sich im Geist und im Handeln.
+Wenn Mönche in den Toiletten mutmaßlicher Arahants graben, um die „Reliquien“ zu gewinnen, ist das ein Zeichen, dass etwas ziemlich schief gelaufen ist. Der Dhamma wohnt nicht physischen Objekten inne; er manifestiert sich im Geist und im Handeln.
 
 ### Dhamma
 
 #### Geistobjekte
 
-Der moderne Theravada spricht von „Objekten“ (*objects*), einer englischen Wiedergabe des Paliwortes *ārammaṇa*. Das ist besonders verbreitet, wenn man von der sechsten Sinnesgrundlage spricht, dem, dessen der Geist gewahr ist. In den FBT ist das *Dhamma*, im modernen Theravada ist es *dhammārammaṇa* und wird mit „Geistobjekt“ übersetzt.
+Der moderne Theravada spricht von „Objekten“ (*objects*), einer englischen Wiedergabe des Paliwortes *ārammaṇa*. Das ist besonders verbreitet, wenn man von der sechsten Sinnesgrundlage spricht, dem, dessen der Geist gewahr ist. In den FBT ist das *dhamma*, im modernen Theravada ist es *dhammārammaṇa* und wird mit „Geistobjekt“ übersetzt.
 
 Allerdings findet man *ārammaṇa* nie in der Bedeutung „Objekt“ in den FBT. Es wird immer im Sinn von „Verlass, Unterstützung“ gebraucht. Und es gibt auch kein anderes Wort, das in dieser Bedeutung gebraucht würde; ich habe die gesamten vier Pali-Nikāyas übersetzt, ohne auch nur einmal das Konzept eines „Geistobjektes“ zu benutzen.
 
 Aus philosophischer Sicht ist ein „Objekt“ problematisch, weil es unterstellt, dass etwas „objektiv“ existiert. Was sonst könnte ein „Objekt“ sein, wenn nicht etwas, das „da draußen“ unabhängig vom beobachtenden Geist existiert? Der Sinn und Zweck der Lehren des Buddha über Erkenntnis ist es, jedes solche Konzept zu unterminieren und nur von Erfahrungen zu sprechen, die in einem Prozess wechselseitiger Abhängigkeit entstehen.
 
-Siehe auch *sabhāva* or „innewohnende Essenz“.
+Siehe auch *sabhāva* oder „innewohnende Essenz“.
 
 #### Geistmomente
 
@@ -288,7 +288,7 @@ Der spätere Buddhismus einschließlich des Theravada vergegenständlichte gemei
 
 Gerade wie die späteren Schulen mittels reduktiver Analyse eine atomare Zeittheorie entwickelten, so entwickelten sie auch eine atomare Theorie des Seins, die eine substantialistische Ontologie beinhaltet. Und auch hier fand sich diese Theorie verbreitet in den alten Schulen, und der Theravada übernehm seine eigene Interpretation.
 
-Die Vorstellung besteht darin, dass die Welt auf eine endliche und klassifizierbare Reihe einzelner „Phänomene“ (*Dhammas*) reduziert werden kann, die in den Abhidhamma-Texten und Kommentaren aufgeführt sind. Diese Phänomene sind nicht reduzierbare Bausteine der Wirklichkeit und bestehen unabhängig vom wahrnehmenden Geist. Wie Ledi Sayadaw, vielleicht der einflussreichste Begründer des modernen Theravada, es in seinem *The Manual of the Four Noble Truths* sagte, „verhalten sich Elemente mit *sabhāva* nie nach den Wünschen der Wesen, sondern arbeiten nach ihrer jeweiligen Natur“. Zu diesen letztendlich bestehenden Wirklichkeiten gehörten nicht nur die bedingten Erscheinungen, die im Abhidhamma definiert sind, sondern auch Nibbāna.
+Die Vorstellung besteht darin, dass die Welt auf eine endliche und klassifizierbare Reihe einzelner „Phänomene“ (*Dhammas*) reduziert werden kann, die in den Abhidhamma-Texten und Kommentaren aufgeführt sind. Diese Phänomene sind nicht weiter reduzierbare Bausteine der Wirklichkeit und bestehen unabhängig vom wahrnehmenden Geist. Wie Ledi Sayadaw, vielleicht der einflussreichste Begründer des modernen Theravada, es in seinem *The Manual of the Four Noble Truths* sagte, „verhalten sich Elemente mit *sabhāva* nie nach den Wünschen der Wesen, sondern arbeiten nach ihrer jeweiligen Natur“. Zu diesen letztendlich bestehenden Wirklichkeiten gehörten nicht nur die bedingten Erscheinungen, die im Abhidhamma definiert sind, sondern auch Nibbāna.
 
 Die FBT enthalten keine solche Vorstellung und äußern keine substantialistische ontologische Theorie. Das Sein wird, wie die Zeit, als ein relativer und verflochtener Vorgang behandlet, ohne dass auf ein höchstes Substrat zurücgegriffen wird.
 

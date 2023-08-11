@@ -38,6 +38,21 @@ Jeweils aktive Schaltflächen sind ebenfalls durch eine gestrichelte Umrandung m
 
 **Navigation**
 
+| Taste | Element | Funktion |
+| :---- | :---- | :---- |
+| PFEIL NACH OBEN | Suttakarte | vorheriges Segment auswählen |
+| PFEIL NACH UNTEN | Suttakarte | nächstes Segment auswählen |
+| PFEIL NACH LINKS | Tabulatormenü | vorherigen Tab auswählen |
+| PFEIL NACH RECHTS | Tabulatormenü | nächsten Tab auswählen |
+| UMSCHALTEN + PFEIL NACH OBEN | Suttakarte | zur vorherigen übergeordneten Kennziffer |
+| UMSCHALTEN + PFEIL NACH UNTEN | Suttakarte | zur nächsten übergeordneten Kennziffer |
+| STRG + PFEIL NACH OBEN | Suttakarte | zum Suttaanfang |
+| STRG + PFEIL NACH UNTEN | Suttakarte | zum Suttaende |
+| TABULATOR | überall | nächstes Element der Benutzeroberfläche auswählen |
+| UMSCHALTEN + TABULATOR | überall | vorheriges Element der Benutzeroberfläche auswählen |
+| POS 1 | überall | zum Tabulatormenü |
+
+
 Viele Funktionen von *Dhammaregen* können mithilfe der Tastatur gesteuert werden. 
 - <kbd>PFEIL NACH UNTEN</kbd> und <kbd>PFEIL NACH OBEN</kbd>: nächstes oder vorheriges Segment auf einer Suttakarte auswählen
 - <kbd>PFEIL NACH LINKS</kbd> und <kbd>PFEIL NACH RECHTS</kbd>: nächsten oder vorherigen Tab im Tabulatormenü auswählen
@@ -50,6 +65,13 @@ Viele Funktionen von *Dhammaregen* können mithilfe der Tastatur gesteuert werde
 - <kbd>POS 1</kbd>: zum Tabulatormenü
 
 **Audio**
+
+| Taste | Funktion |
+| :---- | :---- |
+| LEERTASTE | Wiedergabe des markierten Segments; Wiedergabe pausieren |
+| ENTER | fortlaufende Wiedergabe ab dem markierten Segment; Wiedergabe pausieren |
+
+
 
 - <kbd>LEERTASTE</kbd>: Wiedergabe des markierten Segments; Wiedergabe pausieren
 - <kbd>ENTER</kbd>: fortlaufende Wiedergabe ab dem markierten Segment; Wiedergabe pausieren
