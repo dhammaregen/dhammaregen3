@@ -23,11 +23,11 @@ Wenn eine Suttakarte im Fokus ist, erscheint am unteren Bildschirmrand das Wiede
 
 <p><img src="img/play.png" class="ebt-image" alt="Bildschirmfoto von Wiedergabemodul" style="width: 400px;"></p>
 
-Die Tasten dort sind von links nach rechts:
+Die Schaltflächen dort sind von links nach rechts:
 - ein Segment zurück
 - Wiedergabe des markierten Segments; Wiedergabe pausieren
-- Kennziffer des markierten Segments
-- Fortlaufende Wiedergabe ab dem markierten Segment; Wiedergabe pausieren
+- zum markierten Segment springen 
+- fortlaufende Wiedergabe ab dem markierten Segment; Wiedergabe pausieren
 - ein Segment vorwärts
 
 Das markierte Segment ist farblich und durch eine gestrichelte Umrandung markiert, und seine Kennziffer findet sich in der Mitte des Wiedergabemoduls.
