@@ -300,11 +300,11 @@ Der moderne Theravada, besonders die Vipassanaschulen des 20. Jahrhunderrts, bet
 
 * „Augenblicks-“ (*khaṇika*)-Samādhi ist das achtsame Gewahrsein sich verändernder geistig-körperlicher Erscheinungen im gegenwärtigen Augenblick.
 * „Schwellen-“ (*upacāra*)-Samādhi ist eine Frist unmittelbar vor dem Jhāna, in der der Geist frei von Hindernissen, aber noch nicht völlig versunken ist. Sie wird manchmal so erweitert, dass sie jeden Zustand außerhalb der Jhānas abdeckt, der frei von Hindernissen ist.
-* „Überweltlicher“ (*lokuttara*) Samādhi ist der Geisteszustand von jemandem, der sich aktiv in dem Prozess befindet, die Pfade und Früchte der Stufen des Erwachens zu verwirklichen. Er wurde ursprünglich im Abhidhamma genannt, und später hieß es, er umfasse nur wenige Geistmomente.
+* „Überweltlicher“ (*lokuttara*) Samādhi ist der Geisteszustand von jemandem, der sich aktiv in dem Prozess befindet, die Pfade und Früchte der Stufen des Erwachens zu verwirklichen. Diese Form wurde ursprünglich im Abhidhamma genannt, und später hieß es, sie umfasse nur wenige Geistmomente.
 
-Alle diese Formen wurden von späteren Theoretikern angeführt als Zustände, die anstelle der Jhānas die Kriterien des „rechten Samādhi“ im edlen achtfachen Pfad erfüllen.
+Alle diese Formen wurden von späteren Theoretikern als Zustände angeführt, die anstelle der Jhānas die Kriterien des „rechten Samādhi“ im edlen achtfachen Pfad erfüllen.
 
-In den FBT sind die vier Jhānas der Samādhi, der für den Pfad wesentlich ist; einige Stellen legen nahe, das erste Jhāna sei ausreichend. Samādhi ist in den FBT eine umfassende Einheit des Geistes, die das Ergebnis eines hingebungsvollen Vorgangs des Loslassens und der spirituellen Entwicklung ist. Gelegentlich, das ist wahr, findet man Samādhi in einer etwas breiteren Bedeutung, aber diese Fälle stehen nie im Zentrum des Pfades.
+In den FBT sind die vier Jhānas der Samādhi, der für den Pfad wesentlich ist; einige Stellen legen nahe, das erste Jhāna sei ausreichend. Samādhi ist in den FBT eine umfassende Einheit des Geistes, die das Ergebnis eines hingebungsvollen Vorgangs des Loslassens und der spirituellen Entwicklung ist. Gelegentlich, das ist wahr, findet man Samādhi in einer etwas breiteren Bedeutung, aber diese Fälle sind nie ausschlaggebend für den Pfad.
 
 #### Trockene Einsicht
 
