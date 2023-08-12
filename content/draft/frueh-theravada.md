@@ -296,15 +296,15 @@ Nibbāna wird als Freiheit vom Leiden beschrieben, und es wird ihm keine ontolog
 
 #### Die vielfältigen Arten von Samādhi
 
-Modern Theravada, especially the 20th century Vipassana schools, emphasize the development of what they call “samādhi” in various forms that are not found in the EBTs.
+Der moderne Theravada, besonders die Vipassanaschulen des 20. Jahrhunderrts, betonen die Entwicklung dessen, was sie „Samādhi“ in verschiedenen Formen nennen, die man in den FBT nicht findet:
 
-* “Momentary” (*khaṇika*) samādhi is the mindful awareness of changing mind-body phenomena in the present moment.
-* “Threshold” (*upacāra*) samādhi is a grace period immediately before jhāna, where the mind is free of hindrances but not yet fully absorbed. It is sometimes extended to cover any state outside jhāna and free of hindrances.
-* “Supermundane” (*lokuttara*) samādhi is the state of mind of one who is actively in the process of realizing the paths and fruits of the stages of awakening. It was originally mentioned in the Abhidhamma, and later said to be only a few mind-moments.
+* „Augenblicks-“ (*khaṇika*)-Samādhi ist das achtsame Gewahrsein sich verändernder geistig-körperlicher Erscheinungen im gegenwärtigen Augenblick.
+* „Schwellen-“ (*upacāra*)-Samādhi ist eine Frist unmittelbar vor dem Jhāna, in der der Geist frei von Hindernissen, aber noch nicht völlig versunken ist. Sie wird manchmal so erweitert, dass sie jeden Zustand außerhalb der Jhānas abdeckt, der frei von Hindernissen ist.
+* „Überweltlicher“ (*lokuttara*) Samādhi ist der Geisteszustand von jemandem, der sich aktiv in dem Prozess befindet, die Pfade und Früchte der Stufen des Erwachens zu verwirklichen. Er wurde ursprünglich im Abhidhamma genannt, und später hieß es, er umfasse nur wenige Geistmomente.
 
-All of these have been invoked by later theorists to fulfill the criterion of “right samādhi” in the noble eightfold path instead of jhānas.
+Alle diese Formen wurden von späteren Theoretikern angeführt als Zustände, die anstelle der Jhānas die Kriterien des „rechten Samādhi“ im edlen achtfachen Pfad erfüllen.
 
-In the EBTs the samādhi that is essential for the path is the four jhānas; some passages suggest the first jhāna is sufficient. Samādhi in the EBTs is a profound unification of mind that is the result of a dedicated process of letting go and spiritual development. Occasionally, it is true, samādhi is found in a slightly broader sense, but these cases are never central to the path.
+In den FBT sind die vier Jhānas der Samādhi, der für den Pfad wesentlich ist; einige Stellen legen nahe, das erste Jhāna sei ausreichend. Samādhi ist in den FBT eine umfassende Einheit des Geistes, die das Ergebnis eines hingebungsvollen Vorgangs des Loslassens und der spirituellen Entwicklung ist. Gelegentlich, das ist wahr, findet man Samādhi in einer etwas breiteren Bedeutung, aber diese Fälle stehen nie im Zentrum des Pfades.
 
 #### Trockene Einsicht
 
