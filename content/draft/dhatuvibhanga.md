@@ -1,5 +1,5 @@
 ---
-title: Die sechs Elemente erfüllen die vier Arten der Achtsamkeitsmeditation
+title: Die sechs Elemente erfüllen die vier Satipaṭṭhānas – übersehene Meditationsanleitung
 description: Samanera Vaddha, 2023
 img:  pxhere-monk-meditating-1291659.png
 img-alt: Meditierende Person
