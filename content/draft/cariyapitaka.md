@@ -32,12 +32,12 @@ Es kommt mir fast vor wie ein unvolldendetes Werk. Es fühlt sich an, als sei es
 
 In manchen Fällen ist auch die Ethik problematisch. Besonders betroffen war ich, als der König der Fische nicht nur den Krähen, die die Fische fraßen, entkommen wollte: Er wollte, dass die Krähen leiden sollten wie sie. Das erscheint überflüssig. Natürlich sind die Jātaka-Geschichten oft vorbuddhistisch oder nicht buddhistisch, und sie sind dazu gedacht, den Fortschritt eines unvollkommenen Wesens darzustellen. Daher ist es kein Problem, wenn sie ein paar fragwürdige Dinge enthalten; es wird es aber, wenn diese als der Pfad zum Erwachen gepriesen werden.
 
-Als eine letzte Merkwürdigkeit schließt der Text, indem er sagt, sein Name sei *Buddhapadāna* („Legenden über den Buddha“), was ihn zu einem Gegenstück zum Thera- und Therī-Apadāna macht. Ich frage mich, warum nicht einfach dieser Name benutzt wurde?
+Als eine letzte Merkwürdigkeit schließt der Text, indem er sagt, sein Name sei *Buddhāpadāna* („Legenden über den Buddha“), was ihn zu einem Gegenstück zum Thera- und Therī-Apadāna macht. Ich frage mich, warum nicht einfach dieser Name benutzt wurde?
 
 Ich hielt Ausschau nach interessanten mythologischen Elementen, die oft im Hintergrund der Jātakageschichten versteckt sind. Da waren ein paar Fälle des Frazerschen Ersatzopfers und Ähnliches.
 
 Aber eine Sache, die mir auffiel, war, dass der Text zwei „dunkle Eremiten“ enthält, Kaṇhadīpayana (Dunkel-Hell, Cp 31) und Suvaṇṇasāma (Gold-Schwarz, Cp 33). Ihre beiden Namen lassen die Dichotomie von Dunkelheit und Licht anklingen, die man auch in Kaṇhasiri aus Snp 3.11 findet. Beide sind Eremiten mit exotischen und mystischen Kräften. Ich sollte die Jātakas mehr daraufhin untersuchen!
 
-Es gibt diejenigen, die solche Bücher als das Wort des Buddha nehmen. Ich denke, das ist ein Fehler: Der Buddha war wesentlich interessanter. Das Buch ist eindeutign mehrere jahrhunderte nach dem Buddha entstanden.
+Es gibt diejenigen, die solche Bücher als das Wort des Buddha nehmen. Ich denke, das ist ein Fehler: Der Buddha war wesentlich interessanter. Das Buch ist eindeutign mehrere Jahrhunderte nach dem Buddha entstanden.
 
 In moderner Zeit gibt es auch diejenigen, die sagen, wir sollten alte Werke nicht bewerten, und wir würden ihnen nur unsere Vorurteile überstülpen, wenn wir vom Niedergang des Buddhismus sprechen. Ich frage mich, ob solche Leute dieses Werk studiert haben? Es scheint so offensichtlich: Alles daran ist einfach … nicht großartig. Was mich stört, ist nicht, dass es zu dem, was der Buddha lehrte, etwas hinzufügt. Es ist, dass es das so arglos tut.
