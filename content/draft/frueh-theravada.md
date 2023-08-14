@@ -330,13 +330,13 @@ Die Suttas präsentieren ein Gleichgewicht von auf einer Seite formal definierte
 
 #### Die vier Paṭisambhidās
 
-The first of the comprehensive Theravadin books of the path is called the Paṭisambhidāmagga, and its title alone raises the *paṭisambhidās* from an obscure and occasional teaching in the Suttas to a core aspect of Theravadin self-identity.
+Das erste umfassende Theravada-Buch über den Pfad ist der Paṭisambhidāmagga, und schon sein Titel erhebt die *Paṭisambhidās* von einer obskuren, gelegentlichen Lehre in den Suttas zu einem Kernaspekt des Selbstbildes des Theravada.
 
-The *paṭisambhidās* are an unusual set of teachings that treat various aspects of textual analysis and understanding: the text, its meaning, the terminology, and the expression of a teaching in spontaneous discourse. They occur rarely in the EBTs, but originally they must have referred to certain faculties that facilitated the effective analysis and teaching of the Dhamma.
+Die *Paṭisambhidās* sind ein ungewöhnlicher Satz an Lehren, der verschiedene Aspekte der Textanalyse und des Verständnisses behandelt: den Text, seine Bedeutung, die Terminologie und das Ausdrücken der Lehre im spontanen Vortrag. Sie kommen in den FBT selten vor, aber ursprünglich müssen sie sich auf gewisse Fertigkeiten bezogen haben, die das wirksame Analysieren und Lehren des Dhamma fördern.
 
-The Theravada came to see these properties as qualities of certain arahants, who were able to not just realize these teachings, but to intuitively understand the correct linguistic expression of them in Pali. Thus one possessing the *paṭisambhidās* could look at a Pali phrase and immediately know if the grammar was correct, even if they had never studied the language. This supported the Theravadin claim to preserve the Tipitaka in its *letter* as opposed to the corrupted texts of other traditions, from which they had parted ways for this very reason.
+Der Theravada sah irgendwann diese Merkmale als Eigenschaften gewisser Arahants an, die in der Lage waren, nicht nur diese Lehren zu verwirklichen, sondern intuitiv ihren korrekten linguistischen Ausdruck auf Pali zu verstehen. Somit könnte jemand, der die *Paṭisambhidās* besitzt, eine Wendung auf Pali anschauen und unmittelbar wissen, ob die Grammatik korrekt ist, selbst wenn er die Sprache nie gelernt hätte. Das stützte den Anspruch des Theravada, den Tipitaka dem *Buchstaben* nach zu bewahren, im Unterschied zu den verfälschten Texten anderer Traditionen, von denen sie sich aus eben diesem Grund abgesetzt hatten.
 
-Today, teachers claiming to have realized the *paṭisambhidās* offer a range of bizarre and ungrounded readings of Pali texts, relishing their opposition to the traditions of commentary and grammar. Such interpretations are rejected by mainstream Theravada, but it paved the way for them with the doctrine of the *paṭisambhidās*.
+Heute legen Lehrer, die behaupten, die *Paṭisambhidās* verwirklicht zu haben, eine Reihe bizarrer und unbegründeter Lesarten von Palitexten vor und haben Spaß an ihrer Opposition zu den Traditionen des Kommentars und der Grammatik. Solche Interpretationen werden vom Mainstreeam-Theravada zurückgewiesen, aber er hat mit der Doktrin der *Paṭisambhidās* den Weg dafür geebnet.
 
 #### Die negativen Folgen des Kamma
 
