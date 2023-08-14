@@ -109,6 +109,6 @@ While I’m certainly aware that many scholars and teachers know of this passage
 
 Any thoughts on this practice or the cultivation of the four *satipaṭṭhānā* in Early Buddhism?
 
-Much Mettā and Happy Practicing.
+Viel Mettā und frohes Üben.
 
 
