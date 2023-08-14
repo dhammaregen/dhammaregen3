@@ -322,11 +322,11 @@ In den FBT sind Sammlung und Einsicht nicht verschiedene Meditationsarten, sonde
 
 #### Die „Einsichtserkenntnisse“
 
-Modern insight meditation is structured on the progress of the sixteen “insight knowledges” (*vipassanañāṇa*). These are set of stages of deepening insight that unfold for a meditator as their wisdom deepens.
+Die moderne Einsichtsmeditation ist im Hinblick auf das Fortschreiten der sechzehn „Einsichtserkenntnisse“ (*vipassanañāṇa*) strukturiert. Diese sind eine Reihe von Stadien sich vertiefender Einischt, die sich für Menschen in der Meditation entfalten, wenn sich ihre Weisheit vertieft.
 
-These knowledges draw from ideas found in the suttas, but are not listed there as such. One influential source was the Rathavinīta Sutta, which has seven stages. It evolved with variations in the content and number of stages through the Paṭisambhidāmagga (5), the Vimuttimagga (6), the Visuddhimagga (16), and the Abhidhammatthasaṁgaha (10). There are different formulations in other Buddhist schools as well.
+Diese Erkenntnisse schöpfen aus Vorstellungen, die man in den Suttas findet, die aber dort nicht als solche aufgezählt sind. Eine einflussreiche Quelle war das Rathavinīta-Sutta, das sieben Stadien hat. Es hat sich mit Variationen in Inhalt und Zahl der Stadien durch den Paṭisambhidāmagga (5), den Vimuttimagga (6), den Visuddhimagga (16) und den Abhidhammatthasaṁgaha (10) entwickelt. Auch in anderen buddhistischen Schulen gibt es unterschiedliche Formulierungen.
 
-The Suttas present a balance of, on the one hand, formally defined stages and content of insight, and on the other hand, individual and apparently random personal growth. To map out the progress of insight can be helpful for meditators and especially meditation teachers, who are frequently confronted with a bizarre range of experiences. But maps should not be imposed on top of experience; they are meant to inform our understanding of experience, not to replace sensitive personal understanding with a set of doctrinal boxes to check off.
+Die Suttas präsentieren ein Gleichgewicht von auf einer Seite förmlich definierter Stadien und Inhalte von Einsicht und auf der anderen Seite individuellen und anscheinend zufälligen persönlichen Wachstums. Den Fortschritt der Einsicht als Verzeichnis auszuarbeiten, kann hilfreich sein für Menschen, die meditieren, und vor allem für Meditationslehrer, die häufig mit einer unglaublichen Variationsbreite von Erfahrungen konfrontieret werden. Aber Verzeichnisse sollten nicht Erfahrungen übergestülpt werden; sie sollen unser Verständnis der Erfahrung verbessern, nicht ein empfindliches persönliches Verständnis durch eine Reihe doktrinaler Kästschen zum Abhaken ersetzen.
 
 #### Die vier Paṭisambhidās
 
