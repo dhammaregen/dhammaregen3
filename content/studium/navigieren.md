@@ -46,6 +46,13 @@ Viele Funktionen von *Dhammaregen* können mithilfe der Tastatur gesteuert werde
 | TABULATOR | nächstes Element der Benutzeroberfläche auswählen |
 | UMSCHALTEN + TABULATOR | vorheriges Element der Benutzeroberfläche auswählen |
 
+#### Im Tabulatormenü
+
+| Taste | Funktion |
+| :---- | :---- |
+| PFEIL NACH LINKS | vorherigen Tab auswählen |
+| PFEIL NACH RECHTS | nächsten Tab auswählen |
+
 #### Auf einer Suttakarte
 
 | Taste | Funktion |
@@ -58,13 +65,6 @@ Viele Funktionen von *Dhammaregen* können mithilfe der Tastatur gesteuert werde
 | UMSCHALTEN + PFEIL NACH UNTEN | zur nächsten übergeordneten Kennziffer |
 | LEERTASTE | Wiedergabe des markierten Segments; Wiedergabe pausieren |
 | ENTER | fortlaufende Wiedergabe ab dem markierten Segment; Wiedergabe pausieren |
-
-#### Im Tabulatormenü
-
-| Taste | Funktion |
-| :---- | :---- |
-| PFEIL NACH LINKS | vorherigen Tab auswählen |
-| PFEIL NACH RECHTS | nächsten Tab auswählen |
 
 
 
