@@ -1,6 +1,6 @@
 ---
-title: Die sechs Elemente erfüllen die vier Satipaṭṭhānas – übersehene Meditationsanleitung
-description: Samanera Vaddha, 2023
+title: Die sechs Elemente erfüllen die vier Satipaṭṭhānas
+description: Übersehene Meditationsanleitung; Samanera Vaddha, 2023
 img:  pxhere-monk-meditating-1291659.png
 img-alt: Meditierende Person
 link: https://pxhere.com/en/photo/1291659

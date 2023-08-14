@@ -312,13 +312,13 @@ Vielleicht die einflussreichste Doktrin des modernistischen Buddhismus ist die I
 
 Es gibt keine Doktrin der trockenen Einsicht in den FBT. Jede Formulierung des Pfades schließt Samādhi ein, und überall, wo Samādhi in einem doktrinalen Schlüsselkontext definiert ist, sind es immer die vier Jhānas. Jemand, der „in den Strom eintritt“, ist jemand, der alle acht Faktoren des edlen achtfachen Pfades einschließlich der Jhānas erfüllt hat.
 
-Einen so zentralen und bedeutenden Teil des Pfades zu entfernen, ist eine nie dagewesene doktrinale Innovation, die auch die Meditationspraxis von Millionen von Menschen in Mitleidenschaft zieht. Es verdient Beachtung, dass sie Mitte des 20. Jahrhunderts als hochkontroverse Idee aufgenommen wurde, und viele altehrwürdige Mönche sprachen sich strikt dagegen aus. Und sie hatten Recht: Der Buddha lehrte einen ausgewogenen und integrierten Pfad, bei dem heitere und freudige Emotionen (*samatha*) mit durchdringendem klarem Sehen (*vipassanā*) Hand in Hand gehen.
+Einen so zentralen und bedeutenden Teil des Pfades zu entfernen, ist eine nie dagewesene doktrinale Innovation, die auch die Meditationspraxis von Millionen von Menschen in Mitleidenschaft zieht. Es verdient Beachtung, dass sie Mitte des 20. Jahrhunderts als hochkontroverse Idee aufgenommen wurde, und viele altehrwürdige Mönche sprachen sich strikt dagegen aus. Und sie hatten Recht: Der Buddha lehrte einen ausgewogenen und integrierten Pfad, bei dem gesammelte und emotional freudige Zustände (*samatha*) mit durchdringendem klarem Sehen (*vipassanā*) Hand in Hand gehen.
 
 #### Einsichtsmeditation
 
-Underlying the idea that insight alone is sufficient for awakening is the idea that “insight meditation” (*vipassanā bhāvanā*) is a particular kind of meditation distinct from “serenity meditation” (*samatha bhāvanā*).
+Der Idee, dass Einsicht allein für das Erwachen ausreiche, liegt die Vorstellung zugrunde, „Einsichtsmeditation“ (*vipassanā bhāvanā*) sei eine besondere Art der Meditation, die von „Sammlungsmeditation“ (*samatha bhāvanā*) verschieden sei.
 
-In the EBTs, serenity and insight are not different kinds of meditation, but different qualities of mind that are developed through meditation. Each of them, in balance and harmony, supports a meditator to find freedom. All meditations lead to peace of mind and deepening of wisdom, and while we might emphasize certain aspects through different practices, they are not different things.
+In den FBT sind Sammlung und Einsicht nicht verschiedene Meditationsarten, sondern verschiedene Eigenschaften des Geistes, die durch die Meditation entwickelt werden. Jede von ihnen trägt, im Gleichgewicht und Ebenmaß, dazu bei, dass man durch die Meditation Freiheit findet. Alle Meditationsarten führen zu innerem Frieden und Vertiefung der Weisheit, und obwohl wir mit verschiedenen Übungen bestimmte Aspekte stärker betonen können, sind sie keine verschiedenen Dinge.
 
 #### Die „Einsichtserkenntnisse“
 
