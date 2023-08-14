@@ -13,7 +13,7 @@ order: 1.5
 - Suchkarten
 - Suttakarten
 
-Ein Tabulatormenü links oben ermöglicht, zwischen den geöffneten Karten hin- und herzuspringen.
+Ein Tabulatormenü links oben ermöglicht, zwischen den geöffneten Karten hin- und herzuspringen. Auf großen Bildschirmen können zwei Karten nebeneinander angesehen werden.
 
 <p><img src="img/tabs.png" class="ebt-image" alt="Bildschirmfoto von Suchfeld mit Wort Wasser und Suchbegriffen" style="width: 400px;"></p>
 
@@ -38,16 +38,24 @@ Jeweils aktive Schaltflächen sind ebenfalls durch eine gestrichelte Umrandung m
 
 Viele Funktionen von *Dhammaregen* können mithilfe der Tastatur gesteuert werden. 
 
+#### Allgemein
+
+| Taste | Funktion |
+| :---- | :---- |
+| POS 1 | zum Tabulatormenü |
+| TABULATOR | nächstes Element der Benutzeroberfläche auswählen |
+| UMSCHALTEN + TABULATOR | vorheriges Element der Benutzeroberfläche auswählen |
+
 #### Auf einer Suttakarte
 
 | Taste | Funktion |
 | :---- | :---- |
 | PFEIL NACH OBEN | vorheriges Segment auswählen |
 | PFEIL NACH UNTEN | nächstes Segment auswählen |
-| UMSCHALTEN + PFEIL NACH OBEN | zur vorherigen übergeordneten Kennziffer |
-| UMSCHALTEN + PFEIL NACH UNTEN | zur nächsten übergeordneten Kennziffer |
 | STRG + PFEIL NACH OBEN | zum Suttaanfang |
 | STRG + PFEIL NACH UNTEN | zum Suttaende |
+| UMSCHALTEN + PFEIL NACH OBEN | zur vorherigen übergeordneten Kennziffer |
+| UMSCHALTEN + PFEIL NACH UNTEN | zur nächsten übergeordneten Kennziffer |
 | LEERTASTE | Wiedergabe des markierten Segments; Wiedergabe pausieren |
 | ENTER | fortlaufende Wiedergabe ab dem markierten Segment; Wiedergabe pausieren |
 
@@ -57,14 +65,6 @@ Viele Funktionen von *Dhammaregen* können mithilfe der Tastatur gesteuert werde
 | :---- | :---- |
 | PFEIL NACH LINKS | vorherigen Tab auswählen |
 | PFEIL NACH RECHTS | nächsten Tab auswählen |
-
-#### Allgemein
-
-| Taste | Funktion |
-| :---- | :---- |
-| TABULATOR | nächstes Element der Benutzeroberfläche auswählen |
-| UMSCHALTEN + TABULATOR | vorheriges Element der Benutzeroberfläche auswählen |
-| POS 1 | zum Tabulatormenü |
 
 
 
