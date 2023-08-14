@@ -13,11 +13,11 @@ order: 1.5
 - Suchkarten
 - Suttakarten
 
-Ein Tabulatormenü links oben ermöglicht, zwischen den geöffneten Karten hin- und herzuspringen. Auf großen Bildschirmen können zwei Karten nebeneinander angesehen werden.
+Ein Tab-Menü links oben ermöglicht, zwischen den geöffneten Karten hin- und herzuspringen. Auf großen Bildschirmen können zwei Karten nebeneinander angesehen werden.
 
 <p><img src="img/tabs.png" class="ebt-image" alt="Bildschirmfoto von Suchfeld mit Wort Wasser und Suchbegriffen" style="width: 400px;"></p>
 
-An dem farbigen Unterstrich im Tabulatormenü erkennen Sie, welches Element im Fokus ist. 
+An dem farbigen Unterstrich im Tab-Menü erkennen Sie, welches Element im Fokus ist. 
 
 Wenn eine Suttakarte im Fokus ist, erscheint am unteren Bildschirmrand das Wiedergabemodul.
 
@@ -42,11 +42,11 @@ Viele Funktionen von *Dhammaregen* können mithilfe der Tastatur gesteuert werde
 
 | Taste | Funktion |
 | :---- | :---- |
-| POS 1 | zum Tabulatormenü |
+| POS 1 | zum Tab-Menü |
 | TABULATOR | nächstes Element der Benutzeroberfläche auswählen |
 | UMSCHALTEN + TABULATOR | vorheriges Element der Benutzeroberfläche auswählen |
 
-#### Im Tabulatormenü
+#### Im Tab-Menü
 
 | Taste | Funktion |
 | :---- | :---- |
@@ -65,21 +65,6 @@ Viele Funktionen von *Dhammaregen* können mithilfe der Tastatur gesteuert werde
 | UMSCHALTEN + PFEIL NACH UNTEN | zur nächsten übergeordneten Kennziffer |
 | LEERTASTE | Wiedergabe des markierten Segments; Wiedergabe pausieren |
 | ENTER | fortlaufende Wiedergabe ab dem markierten Segment; Wiedergabe pausieren |
-
-
-
-<!-- - <kbd>PFEIL NACH UNTEN</kbd> und <kbd>PFEIL NACH OBEN</kbd>: nächstes oder vorheriges Segment auf einer Suttakarte auswählen
-- <kbd>PFEIL NACH LINKS</kbd> und <kbd>PFEIL NACH RECHTS</kbd>: nächsten oder vorherigen Tab im Tabulatormenü auswählen
-- <kbd>UMSCHALTEN</kbd> + <kbd>PFEIL NACH UNTEN</kbd>: zur nächsten übergeordneten Kennziffer springen, z. B. von Segment 1.1 zu Segment 2.1
-- <kbd>UMSCHALTEN</kbd> + <kbd>PFEIL NACH OBEN</kbd>: zur vorherigen übergeordneten Kennziffer springen, z. B. von Segment 2.1 zu Segment 1.1
-- <kbd>STRG</kbd> + <kbd>PFEIL NACH UNTEN</kbd>: zum Suttaende
-- <kbd>STRG</kbd> + <kbd>PFEIL NACH OBEN</kbd>: zum Suttaanfang
-- <kbd>TABULATOR</kbd>: nächstes Element der Benutzeroberfläche auswählen
-- <kbd>UMSCHALTEN</kbd> + <kbd>TABULATOR</kbd>: vorheriges Element der Benutzeroberfläche auswählen
-- <kbd>POS 1</kbd>: zum Tabulatormenü
-
-- <kbd>LEERTASTE</kbd>: Wiedergabe des markierten Segments; Wiedergabe pausieren
-- <kbd>ENTER</kbd>: fortlaufende Wiedergabe ab dem markierten Segment; Wiedergabe pausieren -->
 
 
 
