@@ -1,6 +1,6 @@
 ---
 title: Die sechs Elemente erfüllen die vier Satipaṭṭhānas
-description: Übersehene Meditationsanleitung; Samanera Vaddha, 2023
+description: Ayya Vaḍḍha, 2023
 img:  pxhere-monk-meditating-1291659.png
 img-alt: Meditierende Person
 link: https://pxhere.com/en/photo/1291659
@@ -9,106 +9,448 @@ order: 7
 
 [Zum Originaltext](https://discourse.suttacentral.net/t/the-six-elements-fulfil-the-four-satipa-hanas-overlooked-meditation-instructions/29837)
 
-I feel that the Dhātuvibhanga Sutta ([MN 140](https://suttacentral.net/mn140/en/sujato)) and its explanation of the six elements meditation has been largely overlooked in modern discourse on satipaṭṭhāna in Early Buddhism. This post will attempt to draw out some of the implications and practical instructions to better understand the satipaṭṭhāna pericope in the EBTs, and the unfolding of meditation as understood by the suttas.
+https://discourse.suttacentral.net/uploads/short-url/u5nDhSSsMnZiQ2kPXZQoMr39Lqe.pdf (Zum Herunterladen, 182,5 KB)
 
-Usually teachers focusing on Early Buddhist meditation focus on the instructions for ānāpānasati and the early parts of the satipaṭṭhāna sutta(s). The latter can be better understood via the former, as ānāpānasati details a specific application of satipaṭṭhāna practice under one framework rather than a general description (as in [MN 10](https://suttacentral.net/mn10/en/sujato)), and it explains in detail how the practice is done to fulfil *all four* satipaṭṭhānā → the *bojjhaṅgā* → awakening.
+*The Dhātuvibhanga Sutta (MN 140) and its explanation of the six elements meditation has been
+largely overlooked in modern discourse on Early Buddhist satipaṭṭhāna practice. This essay will
+attempt to draw out some of the implications and practical instructions found in the
+Dhātuvibhaṅga Sutta so as to better understand the scope and progression of the satipaṭṭhāna
+pericope in the Early Buddhist texts (‘EBTs’).*
 
-I believe that the core *kāyānupassanā* practices of the Satipaṭṭhāna Sutta — meditation on the parts of the body and the four elements — can be seen as one integrated practice emphasized from different perspectives. This may explain why the passage on the thirty-one parts of the body is sometimes the only *kāyānupassanā* practice listed: the elements contemplation is just one way of doing it.
+Most teachers, when discussing the detailed practice of satipaṭṭhāna from the perspective of
+Early Buddhism, tend to look to the 16-phase ānāpānassati (mindfulness of in-and-out
+breathing) instructions for guidance. These can be found principally in the Ānāpāna-Saṁyutta
+(SN 54) and the Ānāpānassati-Sutta (MN 118). In this practice, the breath is brought to the
+foreground as the theme of mindfulness through which the practitioner develops right
+mindfulness into right unification (samādhi) and on into right knowledge and liberation
+(sammāñāṇa/sammāvimutti).
+This practice is specifically said to completely fulfill the four satipaṭṭhānas (e.g. MN 118), and is
+broken into four tetrads—each with four steps—corresponding to the four aspects of mindfulness
+meditation. To fulfill the four satipaṭṭhānas, it is said, naturally fulfills the seven bojjhaṅgā
+(awakening factors), which culminate in knowledge and liberation. This means that the detailed
+practice of ānāpānassati provides a clear perspective as to how satipaṭṭhāna meditation is
+intended to unfold into awakening via a gradual progression and evolution of consciousness in
+both mental serenity (samatha) and clarity (vipassanā).
+How, though, is satipaṭṭhāna practice as described in the early satipaṭṭhāna discourses and
+saṁyuttas intended to be practiced to fulfillment and completion without the breath? Is it that the
+breath is the primary and most well-rounded theme for satipaṭṭhāna meditation, and that other
+practices are mere adjuncts?
 
-As for the complete fulfilment of these contemplations all the way through the four *satipaṭṭhānā* and the 7 awakening factors, we need not turn to the *ānāpānasati* formula to understand how these core practices unfolded in Early Buddhism; a corresponding description is found in the Dhātuvibhanga Sutta. It provides an alternative framework whereby body contemplation via the body parts and four elements is expanded to include *vedanā-*, *citta-* and *dhammānupassanā*. This affirms prior comparative findings on early *satipaṭṭhāna* practice, and of course follows the same pattern of evolution as *ānāpānasati*.
+An alternative detailed description of satipaṭṭhāna meditation appears to be found in the
+Dhātuvibhaṅga Sutta (MN 140), providing a framework whereby kāyānupassanā via the body
+parts and elements is expanded to unfold into vedanā, cittā, and dhammānupassanā, thereby
+fulfilling all four satipaṭṭhānā, the seven bojjhaṅgā, and culminating in full awakening
+(knowledge and liberation). This form of practice is likely the primary example of satipaṭṭhāna
+meditation as described in the Satipaṭṭhāna Sutta and Saṁyutta outside of breath contemplation.
 
-First, I’ll quickly review *satipaṭṭhāna* practice in the EBTs based on comparative research into the Satipaṭṭhāna Suttas and references in the canon, supplemented by the understanding gained from the description of *ānāpānasati*. Then I’ll dive into analyzing the six elements meditation of the Dhātuvibhaṅga Sutta according to the prior framework. If you are already familiar with the first part, you may want to skip to the second section of the post.
+Below, I will briefly review satipaṭṭhāna practice in the EBTs as informed by comparative
+research into the satipaṭṭhāna pericope and supplemented by the understanding gained from the
+description of ānāpānassati. Then, in the second section, I will dive into analyzing the six
+elements meditation of the Dhātuvibhaṅga Sutta according to the above framework.
 
 **Cattāro Satipaṭṭhānā — The Root Practice**
 
-Comparative research on the Satipaṭṭhāna Sutta ([MN 10](https://suttacentral.net/mn10/en/sujato)) and its parallels, as well as the formulas and definitions that accompany *satipaṭṭhāna* practice in other suttas and collections, has narrowed down the original forms of meditation in the collection. Bhante Sujato’s *A History of Mindfulness* is a famous tome on this subject, specifically in re-focusing the role of *sammāsati*/*satipaṭṭhāna* as being the main early Buddhist meditative practice that leads to *sammāsamādhi*, rather than a vipassanā technique.
+*(For a detailed and thorough understanding of satipaṭṭhāna in Early Buddhism, see Bhante
+Sujato’s ‘A History of Mindfulness’)*
 
-The conclusions of these comparisons are that the Satipaṭṭhāna Suttas are sectarian compilations which provide lists of what the various schools understood as fitting into the practices of each section. By comparing these lists of practices and assessing the evolution of formulas and passages in the various recension texts, we can find the set of *root* practices which characterized early Buddhist *satipaṭṭhāna* meditation.
+The term ‘satipaṭṭhāna’ is a resolution of the phrase ‘satiṁ upaṭṭhapetvā’ which occurs
+throughout the EBTs in reference to seated meditation. It literally means “application” or
+“establishment” of sati (mindfulness/recollection). The typical scenario in which the phrase is
+used is in the gradual training (anupubbasikkhā) at the point in which the trainee goes to a
+secluded place after their meal and sits down to remove the five hindrances establishing
+mindfulness at the fore. The cattāro satipaṭṭhānā (four applications of mindfulness), then, are the
+four ways in which one goes about establishing and rousing mindfulness in the proper way for
+the removal of the hindrances and cultivation of the seven awakening factors and/or jhāna states
+(see: DN 2, SN 47.12, etc.).
+The main sources for the general practice of satipaṭṭhāna in the EBTs are the Satipaṭṭhāna Sutta
+(MN 10) and the Satipaṭṭhāna-Saṁyutta (SN 47). These are supplemented by the
+Bojjhaṅga-Saṁyutta, Ānāpāna-Saṁyutta, and various auxiliary passages throughout the early
+discourses that provide nuanced perspectives on satipaṭṭhāna meditation. There is also the
+Mahāsatipa︎ṭṭhāna Sutta (DN 22), which is largely the same as MN 10 but with an extended
+dhammānupassanā section brought over from the Saccavibhaṅga Sutta (MN 141); this is one of
+the latest suttas in the Theravāda/Pāḷi canon, likely composed in Sri Lanka and lacking parallels.
 
-The *vedanānupassanā* and *cittānupassanā* sections remain mostly unchanged, and are about growing sensitive to the refined feelings one experiences in meditation, and in collecting and composing the mind into *samādhi* as consciousness becomes more subtle and pliable. We can see with the *ānāpānasati* meditation that this involves growing sensitive to how the mind reacts and processes mental experiences (feelings, perceptions, etc.) and gradually stilling and calming them into deeper equanimity and composure.
+These discourses provide the framework for mindfulness meditation practice and the various
+means one can use to develop it according to Early Buddhism. The four kinds of satipaṭṭhānā are
+kāyānupassanā (observation of the body), vedanānupassanā (observation of feelings),
+cittānupassanā (observation of mind), and dhammānupassanā (observation of principles).
+Comparative research on the Satipaṭṭhāna Sutta (MN 10) and its parallels, as well as the formulas
+and definitions that accompany satipaṭṭhāna practice in other suttas and collections, has
+narrowed down the core of satipaṭṭhāna according to the earliest strata of Buddhist thought and
+practice. The conclusions of these comparisons are that the Satipaṭṭhāna Suttas are sectarian
+compilations which provide lists of what the various schools came to understand as fitting into
+the practices of each section. By assessing the evolution of formulas and passages in the various
+recension texts, we can find the set of root practices which characterized early Buddhist
+satipaṭṭhāna meditation.
 
-The *kāyānupassanā* and *dhammānupassanā* sections, on the other hand, vary quite a bit in the various recensions. Nonetheless, a core can be clearly established. The *paṭikūlamanasikāra* section — attention to the repulsive — is undoubtedly the core, common part of *kāyānupassanā*. The Theravāda Vibhaṅga seems to preserve a reading of the sutta which contains only this passage. Secondarily, there is the meditation on the four elements, followed by the charnel ground contemplations. Both of these latter two are quite well established across the traditions, are very similar to the 31 parts of the body meditation, and are referenced in many other suttas in the canon about meditation.
+The vedanānupassanā and cittānupassanā sections remain mostly unchanged, and are about
+growing sensitive to the refined feelings one experiences in meditation, and in collecting and
+composing the mind into samādhi as consciousness becomes more subtle and pliable. We can see
+with the ānāpānassati meditation that this involves growing sensitive to how the mind reacts and
+processes mental experiences of joy, bliss, and other mental processes (perceptions, etc.) and
+gradually calming them into deeper equanimity and composure.
+Vedanānupassanā makes a distinction between sāmisā feelings — those born of the flesh via
+sensual stimulation — and nirāmisā feelings — spiritual feelings born of mental cultivation apart
+from sensuality. These correspond to jhānic feelings (see SN 36.31) as well as pre-samādhi
+awakening factors, such as pāmojja, pīti, passaddhi, sukha, etc. Cittānupassanā describes a
+process of understanding the nature of awareness itself as colored by various mind-states or in
+higher consciousness. The ānāpānassati instructions for cittānupassanā and the section within
+the Satipaṭṭhāna Sutta(s) themselves mention unifying the mind (samādhi), liberating the mind
+(from hindrances and obstructions), gladdening or brightening the mind, etc. This also
+corresponds to what the Buddha calls adhicitta — a synonym for samādhi and refined textures of
+awareness.
 
-*Kāyānupassanā*, we see, is mostly concerned with meditating on the constituents and properties of the body to overcome the hindrances and cultivate a base of mental calm, joy, and equipoise. The practice is a mixture of calm, repeated observation and mindfulness, mixed with an edge of discernment and understanding the nature of the body. This unfolds into *vedanānupassanā* — the feelings that arise and develop within one’s embodied meditation — and *cittānupassanā* as the mind settles more and more towards *samādhi* and away from a scattered, hindered state.
+The kāyānupassanā and dhammānupassanā sections, on the other hand, vary quite a bit in the
+various recensions. These sections tended to be dumping grounds for a variety of practices.
+Nonetheless, a core of the earlier components can be clearly established with comparison.
+The practice of reviewing the various parts of the body — sometimes called paṭikūlamanasikāra
+— is undoubtedly the principal, core practice of kāyānupassanā. The Theravādin Abhidhamma
+text, the Vibhaṅga, seems to have been composed at a time in which only the contemplation of
+body parts made up the kāyānupassanā section; it does not know of a Satipaṭṭhāna Sutta with
+more kāyānupassanā practices. Secondarily, there is the meditation on the four elements, found
+in all but one collection of early kāyānupassanā practices, followed by the charnel ground
+contemplations. Both of these latter two are quite well established across the traditions, are very
+similar to the 31 parts of the body meditation, and are referenced in many other suttas in the
+early canon about meditation.
+Secondary evidence from within the early discourses supports the above evidence that the
+contemplation of body parts is the earliest and most essential form of kāyānupassanā in the
+satipaṭṭhāna pericope. The analysis of the iddhipādas (bases of psychic power) at SN 51.20
+describes the cultivation of deep samādhi in detail. It mentions a recurring refrain referring to
+meditation—as above, so below; as below so above—which is defined as the contemplation of
+body parts. This means that body part contemplation was understood to be a meditative practice
+leading to deep immersion when accompanied by right effort and various mental qualities of the
+iddhipādas, and this is precisely where satipaṭṭhāna or sammāsati would come in.
 
-*Dhammānupassanā* is primarily about cultivating the awakening factors — the seven *bojjhaṅga*s — and understanding them in terms of their conditionality, that is, how they arise, cease, remain, etc. It is the process of evolving the meditation through to *samādhi* and into the most refined *upekkhā* where one can look onto the meditative experience itself with wisdom and equanimity. Secondarily, this also includes understanding the five hindrances in terms of conditionality (something, again, found in most editions of the text but not always under *dhammānupassanā*). Therefore, whereas *cittānupassanā* is about refining and establishing the mind into *samādhi*, *dhammānupassanā* is about understanding this meditative evolution in terms of conditionality, as well as reviewing it in terms of impermanence, dispassion, and relinquishment — qualities found in the *ānāpānasati* formula and inherent to the proper cultivation of the seven *bojjhaṅga*s. One uses their purified equanimity from meditation to reflect on the conditionality of the mind/mind qualities themself, and to relinquish the grounds for the hindrances or *āsavā*s permanently.
+The Sarvāstivādin Dharmaskandha knows of a Satipaṭṭhāna Sutta in which the kāyānupassanā
+practices included are only (1) reviewing the body parts, and (2) reviewing the six elements.
+What is interesting here is the inclusion not of the four or five elements — said to comprise the
+body at e.g. MN 28, MN 62, MN 140, etc. — but of six, including consciousness. It seems then
+that here the six elements were likely added to the section on body contemplation (though it is
+possible that the Sarvāstivādins simply added the other two elements to an original set of four).
+I believe that the elements meditation is simply one possible approach to body part meditation
+rather than an entirely separate practice. As will be clear in the exegesis of the dhatuvibhaṅga
+meditation, the bodily properties are consistently defined in terms of the same list of 31 body
+parts, with additional examples of the other properties. This could explain the early addition of
+the elements meditation to the plain body part passage at a rather early stage.
 
-The *satipaṭṭhāna* refrain emphasizes that these practices are to be done internally, externally, and both internally-and-externally. This is found in all recensions of the text, and matches very closely especially with the understanding of *kāyānupassanā* gained from comparative analysis. One contemplating the 31 parts contemplates them within one’s own body, in relation to other’s bodies, and in terms of their general nature both in oneself and others. The elements passages consistently emphasize that the elements are both internal and external, leading to an understanding where the elements are understood as such — properties of existence equivalent both internally and externally. The charnel ground contemplations emphasize focusing on one’s own body (internal) as of the same nature as an (external) decomposing body.
+Dhammānupassanā is primarily about cultivating the awakening factors — the seven bojjhaṅgas
+— and understanding them in terms of their conditionality, that is, how they arise, cease, remain,
+etc. It is the process of evolving the meditation up to samādhi and into the most refined upekkhā
+where one can look onto the meditative experience itself with wisdom and equanimity. This is
+what makes up the common core of dhammānupassanā in the early recensions of this practice;
+other contemplations — such as the sense-fields, truths, or aggregates — are later additions.
+Although later, the addition of these contemplations does reveal the understanding of
+dhammānupassanā by the slightly later community of Buddhists: it is understanding the
+principles and nature of experience, especially in terms of conditionality. While the earlier
+descriptions focus more exclusively on the meditative process itself, this of course includes an
+understanding of the nature of the mind and existence by extension. This observation of
+conditionality endowed with the supportive qualities for letting go is what makes
+dhammānupassanā unique across all early recensions of satipaṭṭhāna. Observing the perceptions
+and feelings the mind is aware of fall under vedanānupassanā in both the Satipaṭṭhāna Sutta and
+the Ānāpānassati Sutta.
+
+Secondarily, dhammānupassanā includes understanding the five hindrances in terms of
+conditionality (something, again, found in most editions of the text but not always under
+dhammānupassanā). Therefore, whereas cittānupassanā is about refining and establishing the
+mind into samādhi, dhammānupassanā is about understanding this meditative evolution in terms
+of dependent origination, as well as reviewing it in terms of seclusion, impermanence,
+dispassion, and relinquishment — qualities found in the ānāpānassati formula and inherent to
+the proper cultivation of the seven bojjhaṅgas. (said to be developed in dependence on seclusion,
+dispassion, and cessation, maturing in relinquishment). One uses their purified equanimity from
+meditation to reflect on the conditionality of the mind/mind qualities themself, and to relinquish
+the grounds for the hindrances or āsavās permanently. All of this will be reviewed in more detail
+below.
+
+The satipaṭṭhāna refrain emphasizes that these practices be done internally, externally, and both
+internally-and-externally. This is found in all recensions of the text, and matches very closely
+with the understanding of kāyānupassanā gained from comparative analysis. One contemplating
+the parts of the body and/or elements contemplates them within one’s own body, in relation to
+other’s bodies, and in terms of their general nature both in oneself and others. The elements
+passages consistently emphasize that the elements are both internal and external, leading to an
+understanding where the elements are understood as such — properties of existence equivalent
+both internally and externally. The charnel ground contemplations emphasize focusing on one’s
+own body (internal) as of the same nature as an (external) decomposing body.
+The Sarvāstivādins understood two main meditative practices, called the “doors to the deathless”
+(amṛta-dvārā), as standing above all others in leading all the way to awakening: ānāpānassati
+and asubha (contemplation of the body parts/decay). As we have reviewed in the above material,
+it seems that this understanding may go back to what is a very early scheme of practice:
+satipaṭṭhāna as cultivated via the breath, or via body part contemplation brought to fulfillment
+with the other three satipaṭṭhānā. Ultimately, though, both of these forms of practice (and many
+others) fulfill sammāsati: the breath is an aspect/part of the body (‘kāyesu kāyaññatarāhaṁ,
+bhikkhave, evaṁ vadāmi yadidaṁ—assāsapassāsā’; MN 118), and the division of body parts
+into elemental properties includes wind, which includes the breath.
 
 **The Dhātuvibhaṅga Sutta and Six Elements Meditation**
 
-With an understanding of how *satipaṭṭhāna* meditation is meant to look like and unfold in the suttas, we can turn to the meditation instructions given by the Buddha in [MN 140](https://suttacentral.net/mn140/en/sujato). Most teachers have focused on *ānāpānasati* as the main instructions given by the Buddha for a full and complete meditative path with more detail. However, [MN 140](https://suttacentral.net/mn140/en/sujato) includes another set of meditation instructions that fulfill all four *satipaṭṭhānā* and leads to full awakening. This practice is based more on the description of *kāyānupassanā* in the Satipaṭṭhāna Sutta — namely, the division of the body into its parts and properties.
-
-I will quote the relevant sutta passages, interjecting with commentary as to the relationship to *satipaṭṭhāna* practice.
-
+With an understanding of what satipaṭṭhāna meditation is meant to look like and how it is to
+unfold according to the early discourses, we can turn to the meditation description offered by the
+Buddha in the Dhātuvibhaṅga Sutta (MN 140). This practice is based on the description of
+kāyānupassanā in the core of the Satipaṭṭhāna Sutta — namely, the division of the body into its
+parts and properties.
+I will quote the relevant sutta passages, interjecting with commentary as to the relationship to
+satipaṭṭhāna practice.
 The instructions are as follows:
 
 > There are these six elements: the elements of earth, water, fire, air, space, and consciousness.
 
-The additions here are space (*ākāsa-dhātu*) and consciousness (*viññāṇa-dhātu*). While specifically the four elements are attested to in the Satipaṭṭhāna Suttas, we will see that the consciousness element ends up going outside the scope of just *kāyānupassanā* and therefore poses no problem.
+The additions here are space (ākāsa-dhātu) and consciousness (viññāṇa-dhātu). While
+specifically the four elements are attested to in the Satipaṭṭhāna Suttas, we will see that the
+consciousness element ends up going outside the scope of just kāyānupassanā and therefore
+poses no problem.
 
-> And what is the earth element? The earth element may be **interior or exterior.**
+> And what is the **earth element**? The earth element may be **interior or exterior**.
 
-Here we see a phenomena which can be contemplated internally and externally as prescribed in the *satipaṭṭhāna* refrain. This will apply to all five of the elements/properties of the body.
+Here we see a phenomena which can be contemplated internally and externally as prescribed in
+the satipaṭṭhāna refrain. This will apply to all five of the elements/properties of the body.
 
-> And what is the **interior** earth element? Anything hard, solid, and appropriated that’s internal, pertaining to an individual. This includes **head hair, body hair, nails, teeth, skin, flesh, sinews, bones, bone marrow, kidneys, heart, liver, diaphragm, spleen, lungs, intestines, mesentery, undigested food, feces**, or anything else hard, solid, and appropriated that’s internal, pertaining to an individual. This is called the interior earth element.
+> And what is the interior earth element? Anything hard, solid, and appropriated that’s
+internal, pertaining to an individual. This includes head hair, body hair, nails, teeth,
+skin, flesh, sinews, bones, bone marrow, kidneys, heart, liver, diaphragm, spleen, lungs,
+intestines, mesentery, undigested food, feces, or anything else hard, solid, and
+appropriated that’s internal, pertaining to an individual. This is called the interior earth
+element.
 
-A series of body parts identical to those found in the list of thirty-one parts, focusing solely on the solid ones under the category of earth. In this way the elements contemplation fulfills the parts of the body contemplation.
+A series of body parts identical to those found in the list of thirty-one parts, focusing solely on
+the solid ones under the category of earth. In this way the elements contemplation fulfills the
+parts of the body contemplation.
 
-> The **interior earth element and the exterior earth element** are just the earth element. This should be truly seen with right understanding like this: ‘This is not mine, I am not this, this is not my self.’
+> The **interior earth element and the exterior earth element** are just the earth element.
+This should be truly seen with right understanding like this: ‘This is not mine, I am not
+this, this is not my self.’
 
-After contemplating an ‘aspect of the body’ (*kāye kāyānupassanā*) internally and externally, one is instructed to contemplate it both internally-and-externally, as is fulfilled by the above description. One understands the general nature and principle of the bodily phenomena for the purpose of understanding and calming of the hindrances:
+After contemplating an ‘aspect of the body’ (kāye kāyānupassanā) internally and externally, one
+is instructed to contemplate it both internally-and-externally, as is fulfilled by the above
+description. One understands the general nature and principle of the bodily phenomena for the
+purpose of understanding and calming of the hindrances:
 
-> When you truly see with right understanding, you reject the earth element, **detaching the mind from the earth element.**
+> When you truly see with right understanding, you reject the earth element, detaching the
+mind from the earth element.
 
-The practice unfolds by gradually releasing desire and interest in the sensual sphere (*kāmacchanda*), as well as aversion or resistance to it (*byāpāda*) — primary aims of *kāyānupassanā*. One develops a joyful, hindrance-free relationship to the bodily experience opening the doors for contemplation of feelings into *samādhi*. The same contemplation repeats with all five elements, filling in the other parts of the body and other aspects (such as internal heat, winds, orifices, etc.). I will abbreviate these partially.
+The practice unfolds by gradually releasing desire and interest in the sensual sphere
+(kāmacchanda), as well as aversion or resistance to it (byāpāda) — primary aims of
+kāyānupassanā. One develops a joyful, hindrance-free relationship to the bodily experience
+opening the doors for contemplation of feelings and into samādhi. The same contemplation
+repeats with all five elements, filling in the other parts of the body and other aspects (such as
+internal heat, winds, orifices, etc.). I will abbreviate these partially.
 
-> And what is the **water element?** The water element may be **interior or exterior.** … This includes **bile, phlegm, pus, blood, sweat, fat, tears, grease, saliva, snot, synovial fluid, urine**, or anything else that’s water, watery, and appropriated that’s internal, pertaining to an individual. When you truly see with right understanding, you reject the water element, **detaching the mind from the water element.** … And what is the **fire element?** … And what is the **air element?** …
-> And what is the **space element?** The space element may be **interior or exterior.** … This includes **the ear canals, nostrils, and mouth; and the space for swallowing what is eaten and drunk, the space where it stays, and the space for excreting it from the nether regions.** … When you truly see with right understanding, you reject the space element, **detaching the mind from the space element.**
+> And what is the water element? The water element may be interior or exterior. … This
+includes bile, phlegm, pus, blood, sweat, fat, tears, grease, saliva, snot, synovial fluid,
+urine, or anything else that’s water, watery, and appropriated that’s internal, pertaining
+to an individual. When you truly see with right understanding, you reject the water
+element, detaching the mind from the water element. …
+> And what is the fire element? … that which warms, that which ages, that which heats you
+up when feverish, that which properly digests food and drink …
+> And what is the air element? … winds that go up or down, winds in the belly or the
+bowels, winds that flow through the limbs, in-breaths and out-breaths
+> And what is the space element? … the ear canals, nostrils, and mouth; and the space for
+swallowing what is eaten and drunk, the space where it stays, and the space for excreting
+it from the nether regions. …
+> When you truly see with right understanding, you reject the space element, detaching the
+mind from the space element.
 
-> There remains only **consciousness**, pure and bright. And what does that consciousness know? It knows **‘pleasure’ and ‘pain’ and ‘neutral’.**
+It is noteworthy that the properties progress by gradation of resistance (paṭigha) and subtlety.
+First is the property of earth, which includes solid parts of the body with clear boundaries and
+obvious points of contact. Then follows the water element: much more subtle than the solidity of
+earth, but still rather coarse. The fire element can become very powerful in the body, especially
+when extremely warm or sick, but is much less physical or tangible than the previous two
+properties. The wind element is characterized more by motion and subtle internal movements, as
+well as the motion of the other properties (such as the chest rising or lungs expanding and
+deflating with the breath), and even the direct perception of contact with the breath tends to be
+less pervasive in the body than radiating warmth and heat. Finally, the space element is hardly
+resistant if at all, being an example of derived matter, in that it is the resultant shape/form from
+what is not filled in by the other elements.
+This progression reflects the evolution of the mind during the process of meditation. At first, a
+more solid and grounding experience can be necessary to settle the mind into its experience and
+contemplate coarse objects. Gradually, awareness and mindfulness become more refined to a
+point of noticing and calming even subtle hindrances in regards to the body, such as the heat or
+space within.
 
-After contemplating the body with the previous five elements, there is the consciousness element (*viññāṇa-dhātu*). Despite alternative forms of teaching element meditation which immediately focus on an expansive awareness, the sutta description defines consciousness in terms of feeling (*vedanā*) and its three manifestations (*sukha*, *dukkha*, *adhukkhamasukha*). Here we are turning to *vedanānupassanā*, equivalent to the second tetrad of *ānāpānasati*. Consciousness is qualified as “pure and bright” (*parisuddha* and *pariyodāta*). Considering all of the above, it seems that the *viññāṇa-dhātu* is here a stand-in for the refined, evolving experience of the mind and awareness as meditation progresses. This is the move of mind away from the realm of the body and senses and instead towards the subtle feelings and radiant awareness apart from the physical that leads to *jhāna*. As in *ānāpānasati*, this process starts out with the mental phenomena/activities (*cittasaṅkhārā*) — feelings and perceptions — and moves into more refined states of *samādhi* and *upekkhā*.
+> There remains only consciousness, pure and bright. And what does that consciousness
+know? It knows ‘pleasure’ and ‘pain’ and ‘neutral’.
 
-Here, then, the consciousness element is not referring to the plain consciousness aggregate, but rather is a stand-in for the remaining contemplations of *satipaṭṭhāna* encompassing a full understanding of the interrelated experience of body-mind within consciousness (*nāmarūpa*), and leading to an evolution of consciousness (the training in *adhicitta*).
+After contemplating the body with the previous five elements, there is the consciousness element
+(viññāṇa-dhātu). Despite alternative forms of approaching element meditation which focus on
+perceiving the viññāṇa-dhātu as an expansive awareness, the sutta description defines
+contemplation of this property in terms of feeling (vedanā) and its three manifestations (sukha,
+dukkha, adhukkhamasukha). Here, then, we are turning to vedanānupassanā, equivalent to the
+second tetrad of ānāpānasati. Consciousness is qualified as “pure and bright” (parisuddha and
+pariyodāta)—signifying the arising experiences of elated joy and bliss free of coarse hindrances.
+As the coarse bodily experience grows more and more calm, the mind follows suit in becoming
+more steady, enraptured, and alert. Leaning into this sharp, bright awareness and joy marks the
+transition into the remaining property of awareness that is “pure and bright.”
 
-So although only feelings are described below, this would also seem to include early stages of *cittānupassanā* with the bright mind as one is understanding the arising of experiences and cultivating equanimity towards them to liberate the mind from subtle tendencies towards dullness, agitation, craving, or aversion.
+Considering all of the above, it seems that the viññāṇa-dhātu is here a stand-in for the refined,
+evolving experience of the mind and awareness as meditation progresses, in addition to the
+general mental aspects of experience. This is the movement of mind away from the realm of thecoarse body and senses and instead towards the subtle feelings and radiant awareness apart from
+the physical (nirāmisā) that leads to jhāna (the move of sammāsati into sammāsamādhi).
 
-> Pleasant feeling arises dependent on a contact to be experienced as pleasant. **When they feel a pleasant feeling, they know: ‘I feel a pleasant feeling.’** They know: ‘With the cessation of that contact to be experienced as pleasant, the corresponding pleasant feeling ceases and stops.’ … **When they feel a painful feeling, they know: ‘I feel a painful feeling.’** … **When they feel a neutral feeling, they know: ‘I feel a neutral feeling.’** They know: ‘With the cessation of that contact to be experienced as neutral, the corresponding neutral feeling ceases and stops.’
-> When you rub two sticks together, heat is generated and fire is produced. But when you part the sticks and lay them aside, any corresponding heat ceases and stops. In the same way, pleasant feeling arises dependent on a contact to be experienced as pleasant. …
+So, although only feelings are described below, this would also seem to include early stages of
+cittānupassanā. This becomes more clear with references to the bright mind as one is
+understanding the arising of experiences and cultivating equanimity towards them, as well as the
+liberation of the mind from subtle tendencies towards reactivity, dullness, agitation, craving, or
+aversion. Observation of the viññāṇa-dhātu following the bodily elements leads the practitioner
+into a complete understanding of the evolution of consciousness and corresponding body-mind
+experience arising in dependence on it.
 
-The bolded sections above are *identical* to the terminology used in the *vedanānupassanā* section of the Satipaṭṭhāna Suttas. This affirms that this part of the practice is indeed *vedanānupassanā*, and that what is described is the full unfolding of *satipaṭṭhāna* meditation as described in the early Satipaṭṭhāna Sutta. The passage includes a simile for the nature of contact (*phassa*) and the conditionality of feelings, and seems to be used for refining the mind to see feelings and cultivate stronger equanimity (*upekkhā* — a term encompassing both a feeling experience and ‘looking on’ or understanding the nature of things, as in the final *bojjhaṅga*).
+> Pleasant feeling arises dependent on a contact to be experienced as pleasant. When they
+feel a pleasant feeling, they know: ‘I feel a pleasant feeling.’ They know: ‘With the
+cessation of that contact to be experienced as pleasant, the corresponding pleasant
+feeling ceases and stops.’ …
+When they feel a painful feeling, they know: ‘I feel a painful feeling.’ …
+When they feel a neutral feeling, they know: ‘I feel a neutral feeling.’ They know: ‘With
+the cessation of that contact to be experienced as neutral, the corresponding neutral
+feeling ceases and stops.’
+When you rub two sticks together, heat is generated and fire is produced. But when you
+part the sticks and lay them aside, any corresponding heat ceases and stops. In the same
+way, pleasant feeling arises dependent on a contact to be experienced as pleasant. …
 
-> There remains only **equanimity, pure, bright, pliable, workable, and radiant.**
-> It’s like when a deft **goldsmith or a goldsmith’s apprentice** prepares a forge, fires the crucible, picks up some gold with tongs and puts it in the crucible. From time to time they fan it, from time to time they sprinkle water on it, and from time to time they just watch over it. **That gold becomes pliable, workable, and radiant, not brittle, and is ready to be worked.** Then the goldsmith can successfully create any kind of ornament they want, whether a bracelet, earrings, a necklace, or a golden garland. In the same way, there remains only **equanimity, pure, bright, pliable, workable, and radiant.**
+The bolded sections above are identical to the terminology used in the vedanānupassanā section
+of the Satipaṭṭhāna Suttas. This affirms that this part of the practice is indeed vedanānupassanā,
+and that what is described is the full unfolding of satipaṭṭhāna meditation as described in the
+early Satipaṭṭhāna Sutta. The passage includes a simile for the nature of contact (phassa) and the
+conditionality of feelings, and seems to be used for refining the mind to see feelings and cultivate
+stronger equanimity (upekkhā — a term encompassing both a feeling experience and ‘looking
+on’ or understanding the nature of things, as in the final bojjhaṅga).
+> The calming of the mind’s reactivity and entanglement with mental experiences/contacts also
+mirrors the final stages of the vedanānupassanā tetrad of ānāpānassati: experiencing and
+calming the cittasaṅkhārā (mental activities/processes). These are defined as feelings and
+perceptions (MN 43, etc.), and are the surface-level phenomena which the mind generates,
+processes, and acts upon. It is by becoming aware of this process in its most subtle form —
+deeper meditation with purified mindfulness, tranquility and clarity — that the mind can let go
+and settle into a state of oneness and unity informed by a deep understanding of conditionality
+(as described in the above passage). The mind/awareness itself (citta) is developed as a result of
+this process, and the hindrances are gradually being abandoned at more subtle levels, implying
+still the fulfillment of cittānupassanā along the way.
 
-The above is a clear description of the mind in *samādhi*, most characteristic of the fourth *jhāna*. The simile of the goldsmith and refining gold is a recurring image for the development of the higher mind (*adhicitta*) and *samādhi* in meditation, and the terms characterizing the equanimity are standard descriptions of the mind which has been immersed in *samādhi* for cultivating wisdom. This then encompasses the *cittānupassanā* section. This was not detailed as specifically as in the third tetrad of *ānāpānasati*, as it was here described more from the perspective of *vedanānupassanā*. Nonetheless, the simile of the goldsmith informs us that the mind was observed, felt, adjusted, and purified into *samādhi* up to this point via a process of mutual tranquility and discernment characteristic of all early *satipaṭṭhāna* meditation.
+> There remains only equanimity, pure, bright, pliable, workable, and radiant.
+It’s like when a deft goldsmith or a goldsmith’s apprentice prepares a forge, fires the
+crucible, picks up some gold with tongs and puts it in the crucible. From time to time
+they fan it, from time to time they sprinkle water on it, and from time to time they just
+watch over it. That gold becomes pliable, workable, and radiant, not brittle, and is ready
+to be worked. Then the goldsmith can successfully create any kind of ornament they want,
+whether a bracelet, earrings, a necklace, or a golden garland. In the same way, there
+remains only equanimity, pure, bright, pliable, workable, and radiant.
 
-> They understand: ‘If I were to apply this equanimity, so pure and bright, to the dimension of infinite space, **my mind would develop accordingly**. And this equanimity of mine, relying on that and grasping it, would remain for a very long time.
-> If I were to apply this equanimity, so pure and bright, to the dimension of **infinite consciousness**, my mind would develop accordingly. … **dimension of nothingness** … **dimension of neither perception nor non-perception** …
+The above is a clear description of the mind in samādhi, most characteristic of the fourth jhāna.
+The simile of the goldsmith and refining gold is a recurring image for the development of the
+higher mind (adhicitta) and samādhi in meditation, and the terms characterizing the equanimity
+are standard descriptions of the mind which has been immersed in samādhi for cultivating
+wisdom. This then encompasses the cittānupassanā section. This was not detailed as specifically
+as in the third tetrad of ānāpānassati, as it was here described more from the perspective of
+vedanānupassanā. Nonetheless, the simile of the goldsmith informs us that the mind was
+observed, felt, adjusted, and purified into samādhi up to this point via a process of mutual
+tranquility and discernment characteristic of all Early Buddhist satipaṭṭhāna meditation.
+The simile and description of the goldsmith is found verbatim at AN 3.102 — a discourse
+describing the development of the mind into deep samādhi so as to realize the higher knowledges
+and awakening with a radiant, pliable mind. This discourse emphasizes the timely development
+of meditation via exertion, unification, and equanimity/looking on at the mind. The practitioner
+is encouraged not to rely on developing only one of these qualities without a proper balance of
+the others, and to know when to apply each one for proper mental development. It provides
+practical advice for the dhātuvibhaṅga meditation found here, which includes a dynamic process
+of investigation, exertion, mental unification, and equanimous reviewing.
 
-This passage continues and finalizes the description of *cittānupassanā*. There is an understanding (*pajānāti*) of the state of the mind in various forms: unified, exalted, abundant, etc. as well as an understanding of the current equanimity of the mind. This is a practice of understanding the potential and general nature that the mind can have in various forms of awareness. It then shifts to understanding this in terms of conditionality:
+> They understand: ‘If I were to apply this equanimity, so pure and bright, to the dimension
+of infinite space, my mind would develop accordingly. And this equanimity of mine,
+relying on that and grasping it, would remain for a very long time.
+If I were to apply this equanimity, so pure and bright, to the dimension of infinite
+consciousness, my mind would develop accordingly. … dimension of nothingness …
+dimension of neither perception nor non-perception …
 
-> They understand: ‘If I were to apply this equanimity, so pure and bright, to the dimension of infinite space, my mind would develop accordingly. **But that is conditioned.** … dimension of infinite consciousness … nothingness … neither-perception-nor-non-perception, my mind would develop accordingly. **But that is conditioned.’**
-> They neither make a choice nor form an intention to continue existence or to end existence. Because of this, **they don’t grasp at anything in the world.** Not grasping, they’re not anxious. Not being anxious, they **personally become extinguished.**
+This passage continues and finalizes the description of cittānupassanā. There is an understanding
+(pajānāti) of the state of the mind in various forms: unified, exalted, abundant, etc. as well as an
+understanding of the current equanimity of the mind. This is a practice of understanding the
+potential and general nature that the mind can have in various forms of awareness. Already it
+begins to subtly progress into the territory of dhammānupassanā, and then shifts to reflecting on
+these potentials of mind in terms of conditionality:
 
-These final descriptions of the meditative process conclude with full awakening and the fruits of the practice. There is a looking on at the mind with equanimity *upekkhā*, done in dependence on seclusion, dispassion, cessation, and evidently ripening in relinquishment — the final culmination of the cultivation of the *bojjhaṅga*s and observation of conditionality: *dhammānupassanā*. This also matches with the final tetrad of *ānāpānasati*, similarly culminating in relinquishment and in understanding the nature of the mind via the strong *samādhi* and meditative experience cultivated beforehand.
+> They understand: ‘If I were to apply this equanimity, so pure and bright, to the dimension
+of infinite space, my mind would develop accordingly. But that is conditioned. …
+dimension of infinite consciousness … nothingness …
+neither-perception-nor-non-perception, my mind would develop accordingly. But that is
+conditioned.’
 
-> Having seen with wisdom the giving up of covetousness and displeasure, **they watch over closely with equanimity. That’s why at that time a mendicant is meditating by observing an aspect of principles**—keen, aware, and mindful, rid of covetousness and displeasure for the world.
-> [MN 118](https://suttacentral.net/mn118/en/sujato)
+Here, there is clear reference to understanding the conditionality and principles of nature that
+govern awareness and corresponding body-mind (nāmarūpa) experiences.
 
-Moreover, there is a reference in this section of [MN 140](https://suttacentral.net/mn140/en/sujato) to the refrain in the Satipaṭṭhāna Sutta regarding not grasping anything in the world and knowledge and vision, the products of successful *satipaṭṭhāna* practice.
+> They neither make a choice nor form an intention to continue existence or to end
+existence. Because of this, they don’t grasp at anything in the world. Not grasping,
+they’re not anxious. Not being anxious, they personally become extinguished.
 
-Each step of the way, there is a cultivation of tranquility (*samatha*) and discernment (*vipassanā*) via all four applications of mindfulness. The above practice, then, is of much fruit and great benefit; it fulfils the four *satipaṭṭhāna*s, which fulfill the seven *bojjhaṅga*s, which fulfill knowledge and liberation. It matches with the descriptions of *satipaṭṭhāna* practice as found in the *mūla-satipaṭṭhāna sutta* (a hypothetical reconstruction of the early practices) and the development of *ānāpānasati* which is meant to fulfil the same principles.
+These final descriptions of the meditative process conclude with full awakening and the fruits of
+the practice. There is a looking on at the mind with equanimity upekkhā, done in dependence on
+seclusion, dispassion, cessation, and evidently ripening in relinquishment — the final
+culmination of the cultivation of the bojjhaṅgas and observation of conditionality:
+dhammānupassanā. This also matches with the final tetrad of ānāpānasati, similarly culminating
+in relinquishment and in understanding the nature of the mind via the strong samādhi and
+meditative experience cultivated beforehand.
 
-**Review**
+> Having seen with wisdom the giving up of covetousness and displeasure, they watch over
+closely with equanimity. That’s why at that time a mendicant is meditating by observing
+an aspect of principles—keen, aware, and mindful, rid of covetousness and displeasure
+for the world. (MN 118)
 
-*Kāyānupassanā* involves reviewing the body parts and properties of the body internally, externally, and internally-and-externally. It involves detaching the mind from the body for freedom from the hindrances, and understanding the nature of the body as *anattā* (for further tranquility and the cultivation of *samādhi*). *Vedanānupassanā* and *cittānupassanā* lead to an understanding and calming of feelings, culminating in deep *samādhi* in which the mind can evolve into various deep states of awareness. *Dhammānupassanā* reviews the conditionality and evolution of the mind into these states based on the previous experience and knowledge gained in the evolution of consciousness thus far — that is, the abandoning of the hindrances and evolution of the seven awakening factors — so as to culminate in a clear understanding of the mind and relinquishment of all assets (*vossagga*) via those awakening factors.
+The description of this step — emerging from the experience of the fourth jhāna and applying
+the mental equipoise developed therein — also matches with the description of noble
+sammāsamādhi at AN 5.28. This sutta describes the four jhāna formulas, followed by the fifth
+factor of right samādhi: grasping the sign of reviewing the stilling of the mind and
+relinquishment of experience (paccavekkhaṇānimitta). The simile given is of someone standing
+looking at someone sitting: one looks on at the previous state of mind with equanimity so as to
+understand the principles of it.
+Moreover, there is a reference in this final section of MN 140 to the refrain in the Satipaṭṭhāna
+Sutta regarding not grasping anything in the world and knowledge and vision: the products of
+successful satipaṭṭhāna practice.
 
-While I’m certainly aware that many scholars and teachers know of this passage, it is curious to me that very few have discussed it in detail when dissecting *satipaṭṭhānā* in Early Buddhism to the best of my knowledge. Please let me know if you have heard people discussing it in terms of *satipaṭṭhāna* before! I’d be glad to give credit where credit is due! :smiley:
+> na kiñci loke upādiyati (MN 140)
+> anissito ca viharati, na ca kiñci loke upādiyati (MN 10)
 
-Any thoughts on this practice or the cultivation of the four *satipaṭṭhānā* in Early Buddhism?
+Each step of the way, there is a cultivation of tranquility (samatha) and discernment (vipassanā)
+via all four applications of mindfulness. The meditator cultivates sustained awareness and
+recollection (sati), empowered by an investigative mind (dhammavicaya) and increasing
+ardency/energy in removing unbeneficial mind states and deepening one’s samathavipassanā
+(vīriya). The progress one makes with these qualities leads into an observation and
+transformation of feelings, leaning evermore into an elated joy (pīti), a strong tranquility of
+body-mind (passaddhi), and on into mental unification (samādhi). Ultimately, one purifies
+samādhi to a state of pure equanimity and looks on to the mind and its evolution with absolute
+clarity (upekkhā) for the liberating knowledge (vijjā) that culminates in freedom from suffering
+(vimutti).
+The above practice, then, is of much fruit and great benefit; it fulfills the four satipaṭṭhānas,
+which fulfill the seven bojjhaṅgas, which fulfill knowledge and liberation. It matches with the
+earliest, core descriptions of satipaṭṭhāna practice and the development of ānāpānassati which is
+explicitly said to fulfill the same function.
 
-Viel Mettā und frohes Üben.
+**Conclusion**
+
+Based on the Buddha’s description of elements meditation and early descriptions of satipaṭṭhāna,
+kāyānupassanā involves reviewing the body parts and properties of the body internally,
+externally, and internally-and-externally to develop a firm basis in calm, equipoise, and
+non-attachment. It involves detaching the mind from entanglement with the body for freedom
+from the hindrances, and understanding the nature of the body with sustained observation and
+investigation. The sustained and refined mindfulness collects the mind into deeper calm
+(samatha), making the way for mental clarity in regards to the body and one’s experience
+(vipassanā). This clarity then allows the mind to reach further into peace and unification, which
+again sharpens the profound capacity for clarity and insight.
+The six elements meditation provides a firm framework for this practice, specifically with the
+first five properties of earth, water, fire, wind, and space. The first two are defined with the exact
+same list of body parts as found in the body contemplation section of the Satipaṭṭhāna Sutta, and
+the latter three expand on this list of body parts. This seems to be sufficient grounds for seeing
+the bodily elements meditation as a mere variation of the fundamental kāyānupassanā meditation
+on the body parts.
+
+Vedanānupassanā and cittānupassanā lead to continued understanding and calming of the
+feelings arising during this practice—especially the intense joy, rapture, and bliss—culminating
+in deep samādhi. The mind progressively refines its awareness to pure equanimity as exemplified
+by the fourth jhāna. In the context of the elements meditation, these are two aspects of the
+viññāṇa-dhātu — the element/property of awareness. Vedanānupassanā is concerned with themental phenomena consciousness is aware of, and cittānupassanā is concerned with the
+refinement of that awareness accordingly into a state of radiance and unity.
+
+Dhammānupassanā reviews the conditionality and evolution of the mind into these states based
+on the direct experience gained in the evolution of consciousness thus far — that is, the
+abandoning of the hindrances and evolution of the seven awakening factors — so as to culminate
+in a clear understanding of the mind and relinquishment of all assets (vossagga). This aspect of
+satipaṭṭhāna meditation is most exemplified by the description of upekkhā in the elements
+meditation and the awakening factors, which looks on at the clarified property of consciousness
+to understand its peak potential and the ultimate conditionality of it all.
+
+Viel Mettā und frohes Üben!
 
 
