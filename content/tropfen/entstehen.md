@@ -80,8 +80,6 @@ Für viele mag die Beendigung aller Wiedergeburten wie ein fernes Ziel erscheine
 
 Dies ist in Kürze die Funktionsweise des Abhängigen Entstehens. Es zeigt uns, wie die Täuschung über den Weg der Wiedergeburt die Grundursache des Leidens ist. Es ist wichtig, zu erkennen, dass Wiedergeburt ein wesentlicher Bestandteil dieses Schemas ist. Weil Wiedergeburt die unmittelbare Ursache des Leidens ist, gäbe es kein Problem zu lösen, wenn es keine Wiedergeburt gäbe. Das Leiden, das uns in einem einzelnen Dasein als Mensch widerfährt, ist unbedeutend; es ist der potenziell endlose Kreislauf von Geburt und Tod, der das wirkliche Problem darstellt. Wenn wir einmal die wahre Natur des Leidens verstanden haben und die Tatsache erfassen, dass das Abhängige Entstehen erklärt, wie Leiden zustande kommt, werden wir klar sehen, dass Wiedergeburt für das Abhängige Entstehen wesentlich ist. Was wir dann tun müssen, ist, den Edlen Achtfachen Pfad zu üben, um die Täuschung aufzulösen. Indem wir die Täuschung auflösen, beenden wir jede künftige Wiedergeburt. Wenn es keine Wiedergeburt gibt, kommt das Leiden völlig zum Erliegen.
 
-#### Anmerkungen
-
 [^1]: Dies ist leicht vereinfacht im Vergleich zur üblichen Darstellung in den Suttas. Laut den Suttas beendet man die Täuschung oder das Leiden nicht sofort mit dem Sehen des Dhamma oder dem Stromeintritt, es dauert aber höchstens noch sieben Leben.
      
 [^2]: Der Buddha sprach auch von neutralen Gefühlen, aber sie sollen bei der vorliegenden Diskussion unberücksichtigt bleiben.
