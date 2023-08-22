@@ -7,7 +7,7 @@ link: https://pxhere.com/en/photo/1291659
 order: 3.5
 ---
 
-Die Hauptquelle für diese Notizen ist Bhikkhu Sujatos Buch *Eine Geschichte der Achtsamkeit* (A History of Mindfulness, [Kostenloses Ebook bei Lulu.com](https://www.lulu.com/shop/bhikkhu-sujato/a-history-of-mindfulness/ebook/product-20401381.html?q=sujato&page=1&pageSize=4), englisch). Eine vollständige Übersetzung dieses Werks ist nicht geplant. Hier folgen lediglich einige Auszüge, die für die untersuchte Frage relevant sind. Meine Bemerkungen sind großenteils Paraphrasen und Zusammenfassungen; einige Stellen gebe ich als eigentliche Übersetzung, die dann als Zitat gekennzeichnet ist. Zuletzt füge ich noch eine Übersetzung des rekonstruierten \*Satipaṭṭhāna-Mūla an, des mutmaßlichen Vorläufertextes, aus dem die heutigen Satipaṭṭhānasuttas hervorgegangen sind.
+Die Hauptquelle für diese Notizen ist Bhikkhu Sujatos Buch *Eine Geschichte der Achtsamkeit* (A History of Mindfulness, [Kostenloses Ebook bei Lulu.com](https://www.lulu.com/shop/bhikkhu-sujato/a-history-of-mindfulness/ebook/product-20401381.html?q=sujato&page=1&pageSize=4) oder [auf *archive.org*](https://archive.org/details/ahistoryofmindfulnesshowinsightworstedtranquillityinthesatipatthanasuttabhikkhusujato_202003_633_B), englisch). Eine vollständige Übersetzung dieses Werks ist nicht geplant. Hier folgen lediglich einige Auszüge, die für die untersuchte Frage relevant sind. Meine Bemerkungen sind großenteils Paraphrasen und Zusammenfassungen; einige Stellen gebe ich als eigentliche Übersetzung, die dann als Zitat gekennzeichnet ist. Zuletzt füge ich noch eine Übersetzung des rekonstruierten \*Satipaṭṭhāna-Mūla an, des mutmaßlichen Vorläufertextes, aus dem die heutigen Satipaṭṭhānasuttas hervorgegangen sind.
 
 Ergänzend findet sich noch ein Videovortrag, in dem der Autor ebenfalls auf die Frage eingeht.
 
@@ -112,6 +112,12 @@ Soweit diese Auszüge aus der „Geschichte der Achtsamkeit“. Hier konnten nur
 #### \*Satipaṭṭhāna-Mūla
 
 Zum Abschluss bringe ich noch Bhikkhu Sujatos rekonstruiertes „\*Satipaṭṭhāna-Mūla“. Die Übersetzung entspricht dem Vokabular, wie es gegenwärtig von mir in den Sutta-Übersetzungen benutzt wird, und nicht Bhikkhu Sujatos mittlerweile überholter Formulierung.
+
+>2023 macht Bhikkhu Sujato die folgende Bemerkung zu seiner Rekonstruktion:
+>
+>>Das ist eine Rekonstruktion des Satipaṭṭhānasutta, die ich machte, als ich *A History of Mindfulness* schrieb. Sie nimmt die Schlussfolgerungen dieser Studie und erstellt einen hypothetischen Quelltext für die heute existierenden Satipaṭṭhāna-Suttas, der nur die gemeinsamen Elemente enthält. Es ist ein Gedankenexperiment, das darauf abzielt, die Ergebnisse textkritischer Forschung lebendiger zu machen. Es ist natürlich unmöglich, zu sagen, ob ein solcher Text jemals tatsächlich existierte, aber wenn meine Methodik auf der richtigen Spur war, könnte etwas in der Art die ursprüngliche Quelle gewesen sein.
+
+Hier der Text:
 
 >*„Das ist der Pfad zum Einswerden, Mönche und Nonnen, um die Wesen zu läutern, Kummer und Weinen zu überwinden, Schmerz und Traurigkeit ein Ende zu machen, den Kreislauf des Leidens zu beenden und das Erlöschen zu verwirklichen: nämlich die vier Arten der Achtamketismeditation. Welche vier?* 
 >
