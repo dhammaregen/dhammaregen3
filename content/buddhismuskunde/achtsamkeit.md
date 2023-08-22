@@ -113,7 +113,7 @@ Soweit diese Auszüge aus der „Geschichte der Achtsamkeit“. Hier konnten nur
 
 Zum Abschluss bringe ich noch Bhikkhu Sujatos rekonstruiertes „\*Satipaṭṭhāna-Mūla“. Die Übersetzung entspricht dem Vokabular, wie es gegenwärtig von mir in den Sutta-Übersetzungen benutzt wird, und nicht Bhikkhu Sujatos mittlerweile überholter Formulierung.
 
->2023 macht Bhikkhu Sujato die folgende Bemerkung zu seiner Rekonstruktion:
+>2023 macht Bhikkhu Sujato [die folgende Bemerkung](https://discourse.suttacentral.net/t/satipa-hana-mula/30240) zu seiner Rekonstruktion:
 >
 >>Das ist eine Rekonstruktion des Satipaṭṭhānasutta, die ich machte, als ich *A History of Mindfulness* schrieb. Sie nimmt die Schlussfolgerungen dieser Studie und erstellt einen hypothetischen Quelltext für die heute existierenden Satipaṭṭhāna-Suttas, der nur die gemeinsamen Elemente enthält. Es ist ein Gedankenexperiment, das darauf abzielt, die Ergebnisse textkritischer Forschung lebendiger zu machen. Es ist natürlich unmöglich, zu sagen, ob ein solcher Text jemals tatsächlich existierte, aber wenn meine Methodik auf der richtigen Spur war, könnte etwas in der Art die ursprüngliche Quelle gewesen sein.
 
