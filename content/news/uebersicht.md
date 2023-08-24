@@ -13,10 +13,6 @@ Hier finden Sie eine kurze Themenübersicht der bisher erschienenen Newsletter. 
 - Eine große Hilfe (AN 3.24)
 - Internationaler Übersetzertag 2023
 - Hat der Buddha das Übersetzen des Dhamma befürwortet? (MN 139, Pli-tv-kd 15, AN 3.70)
-- Buddhismuskunde
-- Vier Phasen im Studium des frühen Buddhismus
-- Der Cariyapitaka ist ein merkwürdiges Buch
-- Suttanta
 
 ### [Juli 2023](#/wiki/news/2023-07)
 - *Dhammaregen* packt die Koffer
