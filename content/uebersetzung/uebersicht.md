@@ -11,7 +11,7 @@ order: 1
 
 Zu den [Suttas](#/search//de) (Suchkarte öffnen)
 
-Bitte klicken Sie auf „Such mir etwas aus!“ oder finden Sie Suchbegriffe über das Suchfeld. Sie können auch Sutta-Kennziffern in das Suchfeld eingeben, wie etwa `AN 10.61` oder `an10.61`.
+Bitte klicken Sie auf `Such mir etwas aus!` oder geben Sie Suchbegriffe ins Suchfeld ein. Sie können auch Sutta-Kennziffern in das Suchfeld eingeben, wie etwa `AN 10.61` oder `an10.61`.
 
 Bisher liegen folgende Suttas auf *Dhammaregen* vor:
 - Dīgha-Nikāya: vollständig
