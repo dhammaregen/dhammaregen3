@@ -356,7 +356,7 @@ Richtig verstanden ist Kamma eine Grundlage für Mitgefühl, weil wir verstehen,
 
 Der Theravada argumentiert für die Doktrin des Fehlens eines Selbst, indem er das Konventionelle auf das Absolute reduziert. Was wir für eine Person halten, ist tatsächlich nichts weiter als die fünf Aggregate. Wenn wir das sehen, werden wir das Fehlen eines Selbst verstehen und die Bindungen loslassen.
 
-Für die FBT auf der anderen Seite sind es gerade die fünf Aggregate, die als Selbst angesehen werden. Tatsächlich scheint es, als seien sie ursprünglich als ein Schema entwickelt worden, um Selbsttheorien einzuordnen. Wenn man versucht hätte, zu argumentieren: „Was du als dein Selbst ansiehst, ist ichts anderes als die Aggregate“, hätte man zur Antwort bekommen: „Ja, genau, das ist mein Selbst.“
+Für die FBT auf der anderen Seite sind es gerade die fünf Aggregate, die als Selbst angesehen werden. Tatsächlich scheint es, als seien sie ursprünglich als ein Schema entwickelt worden, um Selbsttheorien einzuordnen. Wenn man versucht hätte, zu argumentieren: „Was du als dein Selbst ansiehst, ist nichts anderes als die Aggregate“, hätte man zur Antwort bekommen: „Ja, genau, das ist mein Selbst.“
 
 Statt das Selbst auf die Aggregate zu reduzieren, bestand der Ansatz des Buddha darin, zu argumentieren, dass das, was man als Selbst ansieht – die Aggregate –, nicht die Merkmale eines Selbst besitzt. Da in unserer Erfahrung hier und jetzt Form, Gefühl, Wahrnehmung und der Rest unbeständig sind, wie können sie da ein Selbst sein, das schließlich ewig sein muss?
 
