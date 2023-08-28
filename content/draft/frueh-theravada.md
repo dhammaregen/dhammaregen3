@@ -13,7 +13,7 @@ Dies ist eine praktische Zusammenfassung einiger wichtiger Punkte, in denen sich
 - *Früher Buddhismus* sind die Lehren der „frühen buddhistischen Texte“ (FBT), das heißt, der kanonischen Lehrreden, die zur Zeit des Buddha oder kurz danach kodifiziert wurden und die uns auf Pali, Chinesisch, Tibetisch und Sanskrit überliefert worden sind.
 - *Theravada* ist die Schule des Buddhismus, die im Mahāvihāra in Anuradhapura in Sri Lanka gegründet wurde und die sich später in ganz Südostasien ausgebreitet hat. Sie betrachtet allein den Pali-Tipiṭaka als bindend.
 
-Wie alle religiösen Traditionen hat sich auch der Theravada über die Jahre weiterentwickelt und verändert. Viele seiner Lehren wurden im Visuddhimagga und anderen Kommentaren von Buddhaghosa (5. Jhd. n. Chr.) kodifiziert, andere haben sich bis in die moderne Zeit hinein fortentwickelt. In dieser Zusammenstellung konzentriere ich mich auf diejenigen Lehren, die innerhalb der Hauptströmung des Theravada allgemein anerkannt sind, so, wie sie von fachkundigen Wissenschaftlern und Praktizierenden gelehrt werden; grenzwertige Theorien und Volksgebräuche sind nicht berücksichtigt. Auch geht es nicht um zersetzende Tendenzen innerhalb des Theravada. Es geht um Überzeugungen und Bestrebungen, die gute Menschen haben, nicht darum, ob alle diesen gerecht werden.
+Wie alle religiösen Traditionen hat sich auch der Theravada über die Jahre weiterentwickelt und verändert. Viele seiner Lehren wurden im Visuddhimagga und anderen Kommentaren von Buddhaghosa (5. Jhd. n. Chr.) kodifiziert, andere haben sich bis in die moderne Zeit hinein fortentwickelt. In dieser Zusammenstellung konzentriere ich mich auf diejenigen Lehren, die innerhalb der Hauptströmung des Theravada allgemein anerkannt sind, so wie sie von fachkundigen Wissenschaftlern und Praktizierenden gelehrt werden; grenzwertige Theorien und Volksgebräuche sind nicht berücksichtigt. Auch geht es nicht um zersetzende Tendenzen innerhalb des Theravada. Es geht um Überzeugungen und Bestrebungen, die gute Menschen haben, nicht darum, ob alle diesen gerecht werden.
 
 Wenn neue Umstände ein neues Lesen alter Texte erforderlich machen, können Abweichungen nicht ausbleiben. Die Weiterentwicklung von Ideen ist wesentlicher Bestandteil einer lebendigen Tradition, und wir führen heute die Praxis der Kommentare fort, sich eingehend mit den Bedeutungen zu befassen und neue Auslegungen von Schriften zu entdecken. Dennoch ist es wichtig, dass wir ihre Behauptungen kritisch prüfen, da die Kommentare für sich in Anspruch nehmen, die kanonischen Texte zu erläutern, und da ihre Lesarten den Glauben und die Übung vieler Menschen beeinflussen.
 
@@ -139,11 +139,11 @@ Der Buddha der FBT ist menschlicher, und man kann sich leichter mit ihm identifi
 
 Der Theravada lehrt, wie alle modernen Schulen des Buddhismus, über den Bodhisatta, den „künftigen Buddha“, der aus Mitgefühl mit allen Lebewesen seine spirituellen Eignschaften über unzählige Leben hinweg entwickelte mit dem Ziel, Buddhaschaft zu erlangen. Es heißt, der Bodhisatta legte vor langer Zeit unter einem früheren Buddha ein entsprechendes Gelübde ab.
 
-In den FBT finden wir keine solche Vorstellung. Der Begriff *bodhisatta* beschreibt gewöhnlich den jungen Siddhattha während seines Strebens nach dem Erwachen, nachdem er sein Heim verlassen hat. Die Lehrreden dehen das, das ist wahr, bis zu Siddhatthas Geburt aus, aber das ist wahrscheinlich eine spätere Entwicklung.
+In den FBT finden wir keine solche Vorstellung. Der Begriff *bodhisatta* beschreibt gewöhnlich den jungen Siddhattha während seines Strebens nach dem Erwachen, nachdem er sein Heim verlassen hat. Die Lehrreden dehnen das, das ist wahr, bis zu Siddhatthas Geburt aus, aber das ist wahrscheinlich eine spätere Entwicklung.
 
 Statt der üblichen Bedeutung „Erleuchtungswesen“ (Sanskrit: *bodhisattva*) scheint „einer, der zum Erwachen entschlossen ist“ (Sanskrit: *bodhiśakta*) eine sachdienlichere Bedeutung zu sein. Die beiden Wörter unterscheiden sich im Sanskrit, aber sind im Pali gleich (*bodhisatta*).
 
-In den FBT zeigt sich klar die Bedeutung, dasss das, was den jungen Kandidaten auszeichnete, seine vollkommene Hingabe war, das Erwachen in diesem Leben zu erreichen. Darüber hinaus wird Mitgefühl nie als Teil seiner Motivation zum Erwachen erwähnt; dieses begründete vielmehr nach dem Erwachen seinen Entschluss zum Lehren.
+In den FBT zeigt sich klar die Bedeutung, dass das, was den jungen Kandidaten auszeichnete, seine vollkommene Hingabe war, das Erwachen in diesem Leben zu erreichen. Darüber hinaus wird Mitgefühl nie als Teil seiner Motivation zum Erwachen erwähnt; dieses begründete vielmehr nach dem Erwachen seinen Entschluss zum Lehren.
 
 #### Die Vollkommenheiten
 
@@ -159,7 +159,7 @@ Theravada-Anhänger lernen den Dhamma häufig zuerst als Kinder über das Medium
 
 Jātaka-Geschichten wurden als die älteste, vollständigste und am besten erhaltene Sammlung von Volkserzählungen der Welt anerkannt. Sie sind ein unschätzbarer Schatz der buddhistischen Kultur. Doch erzählen sie nicht, von vielleicht wenigen Ausnahmen abgesehen, die Geschichten der früheren Leben des Buddha.
 
-In den FBT finden wir ein paar Beispiele, in denen der Buddha aus einem früheren Leben erzählt, und solche Geschichten müssen die Keimzelle gewesen sein, aus denen sich die Idee der Jātakas entwickelte. 
+In den FBT finden wir ein paar Beispiele, in denen der Buddha aus einem früheren Leben erzählt, und solche Geschichten müssen die Keimzelle gewesen sein, aus der sich die Idee der Jātakas entwickelte. 
 Allerdings sind fast alle Jātakas, die wir heute haben, Volkserzählungen, die in den Buddhismus aufgenommen wurden. Es gibt zahlreiche Anzeichen dafür, dass sie ahistorisch sind, zum Beispiel setzen sie fast alle eine Stufe der Kultur, der Sprache, der politischen Verhältnisse und der Technologie voraus, die nur für wenige Jahrhunderte vor der Geburt des Buddha bestanden.
 
 Aus diesem Grund zählen Jātakas nicht zu den FBT, und obwohl Experten des frühen Buddhismus sie wegen ihrer erzählerischen Qualitäten und ihres Sinngehalts schätzen, betrachten wir sie nicht als bindende Texte.
@@ -204,7 +204,7 @@ Die seltenen Fälle, in denen es heißt, er habe historische Ereignisse vorherge
 
 Verschiedene buddhistische Traditionen geben den Glauben weiter, der Buddha hätte ihr Land besucht und eine Prophezeiung über das Blühen des Dhamma dort gemacht.
 
-Die FBT machen es allerdings klar, dass der Buddha die Gangesebene nicht verließ. Tausende von Suttas bezeichnen Orte in dieser Gegend, immer mit einem hohen Grad an interner Widerspruchsfreiheit, und diese korrleieren gut mit späteren Aufzeichnugnen und aktueller Archäologie. Es ist nicht nur keine Rede von Reisen in Länder außerhalb dieses Bereichs, sondern wenn solche Länder erwähnt werden, nehmen sie eine legendäre und fantasievolle Form an, was zeigt, dass sie nur vom Hörensagen und aus Berichten bekannt waren.
+Die FBT machen es allerdings klar, dass der Buddha die Gangesebene nicht verließ. Tausende von Suttas bezeichnen Orte in dieser Gegend, immer mit einem hohen Grad an interner Widerspruchsfreiheit, und diese korrelieren gut mit späteren Aufzeichnugnen und aktueller Archäologie. Es ist nicht nur keine Rede von Reisen in Länder außerhalb dieses Bereichs, sondern wenn solche Länder erwähnt werden, nehmen sie eine legendäre und fantasievolle Form an, was zeigt, dass sie nur vom Hörensagen und aus Berichten bekannt waren.
 
 #### Buddhabildnisse
 
@@ -238,7 +238,7 @@ Siehe auch *sabhāva* oder „innewohnende Essenz“.
 
 #### Geistmomente
 
-Der Theravada hat eine anschauliche Zeittheorie, die sich auf die Vorstellung von „Geistmomenten“ (*cittakkhaṇa*) gründet. Das sind im Wesentlichen Zeitatome, die kleinstmöglichen Perioden, in die Zeit unterteilt werden kann. Diese Theorie war in vielen Schulen des alten Buddhismus verbreitet, wenn es auch in den Einzelheiten Unterschiede gab wie etwa wie viele „Unter-Momente“ jeder Moment enthalten kann. Im Theravada  heißt es, ein Moment sei ein winziger Bruchteil der Dauer eines Blitzes.
+Der Theravada hat eine anschauliche Zeittheorie, die sich auf die Vorstellung von „Geistmomenten“ (*cittakkhaṇa*) gründet. Das sind im Wesentlichen Zeitatome, die kleinstmöglichen Perioden, in die Zeit unterteilt werden kann. Diese Theorie war in vielen Schulen des alten Buddhismus verbreitet, wenn es auch in den Einzelheiten Unterschiede gab wie etwa, wie viele „Unter-Momente“ jeder Moment enthalten kann. Im Theravada  heißt es, ein Moment sei ein winziger Bruchteil der Dauer eines Blitzes.
 
 Die FBT enthalten keine solche Theorie, und sie erwähnen „Geistmomente“ gar nicht. Die FBT erklären zwar keine ausdrückliche Zeittheorie, doch aus der Art, wie Zeit behandelt wird, können wir sehen, dass es kein essenzielles Substrat gibt, aus dem Veränderung abgeleitet wird. Vielmehr behandeln die FBT jede Größenordnung der Zeit als gleichermaßen „wirklich“ und bedeutsam. Der Zyklus der Äonen, Aufstieg und Fall von Zivilisationen, die Dauer des menschlichen Lebens oder das Vorbeiziehen eines Gedankens sind alles Aspekte der Veränderung, alle sind gleichermaßen unbeständig, und es gibt keinen Versuch, sie auf eine reduktive Art zu erklären, indem man sagt, die „wirkliche“ Veränderung spiele sich auf einer Ebene ab, und die anderen seien Erscheinungsformen davon.
 
