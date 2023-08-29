@@ -45,6 +45,7 @@ Viele Funktionen von *Dhammaregen* können mithilfe der Tastatur gesteuert werde
 | POS 1 | zum Tab-Menü |
 | TABULATOR | nächstes Element der Benutzeroberfläche auswählen |
 | UMSCHALTEN + TABULATOR | vorheriges Element der Benutzeroberfläche auswählen |
+| STRG + POS 1 | zur Startseite |
 
 #### Im Tab-Menü
 
