@@ -368,7 +368,7 @@ Der Fainess halber muss man sagen, dass der Visuddhimagga das anerkennt und zugi
 
 #### Nāmarūpa als „Geist und Körper“
 
-In Theravada it is common to hear the Pali phrase *nāmarūpa* defined as “mind and body”. *Nāma* is said to be made up of the four immaterial aggregates, including consciousness.
+Im Theravada ist es üblich, In Theravada it is common to hear the Pali phrase *nāmarūpa* defined as “mind and body”. *Nāma* is said to be made up of the four immaterial aggregates, including consciousness.
 
 The EBTs define *nāma* as “feeling, perception, intention, contact, and attention”, thus specifically excluding consciousness. Note, however, that there is a variety of treatments within the EBTs here. Sometimes we also find a definition that includes consciousness. However I would regard this as a nascent Abhidhammic influence.
 
