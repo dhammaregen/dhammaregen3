@@ -368,15 +368,15 @@ Der Fainess halber muss man sagen, dass der Visuddhimagga das anerkennt und zugi
 
 #### Nāmarūpa als „Geist und Körper“
 
-Im Theravada ist es üblich, In Theravada it is common to hear the Pali phrase *nāmarūpa* defined as “mind and body”. *Nāma* is said to be made up of the four immaterial aggregates, including consciousness.
+Im Theravada hört man häufig, dass die Pali-Wendung *nāmarūpa* als „Geist und Körper“ definiert wird. *Nāma*, heißt es, bestehe aus den vier nicht materiellen Aggregaten einschließlich des Bewusstseins.
 
-The EBTs define *nāma* as “feeling, perception, intention, contact, and attention”, thus specifically excluding consciousness. Note, however, that there is a variety of treatments within the EBTs here. Sometimes we also find a definition that includes consciousness. However I would regard this as a nascent Abhidhammic influence.
+Die FBT definieren *nāma* als „Gefühl, Wahrnehmung, Absicht, Berührung und Aufmerksamkeit“ und schließen somit speziell das Bewusstsein aus. Man beachte aber, dass das Wort innerhalb der FBT auf verschiedene Arten behandelt wird. Manchmal finden wir auch eine Definition, die Bewusstsein einschließt. Ich würde das allerdings als aufkeimenden Einfluss des Abhidhamma betrachten.
 
-It is worth noting that the Visuddhimagga follows the early interpretation in the context of dependent origination.
+Es verdient Beachtung, dass der Visuddhimagga der frühen Interpretation im Kontext des abhängigen Entstehens folgt.
 
-In the EBTs, there is no dualistic concept of “mind and body”. Mind and body are not separate things that have to be combined. Rather, mental and physical phenomena are experienced in relation with each other. Analysis aims to clarify this relation, but it does not begin by separating mind and body.
+In den FBT gibt es kein dualistisches Konzept von „Körper und Geist“. Geist und Körper sind keine getrennten Dinge, die zusammengesetzt werden müssen. Vielmehr werden mentale und physische Erscheinungen in wechselseitiger Abhängigkeit erfahren. Die Analyse zielt darauf, diese Beziehung klarzustellen, aber sie beginnt nicht damit, Körper und Geist zu trenen.
 
-For example, when the aggregates are analyzed, “form” is not separated from the four immaterial aggregates. Rather, it is consciousness that is distinguished, and against which all the others stand.
+Wenn zum Beispiel die Aggregate aufgegliedert werden, wird „Form“ nicht von den vier immateriellen Aggregaten getrennt. Es ist vielmehr das Bewusstsein, das abgegrenzt wird und dem alle anderen gegenüberstehen.
 
 #### Nimitta: die Grundlage für die Meditation
 
