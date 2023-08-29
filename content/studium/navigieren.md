@@ -1,9 +1,9 @@
 ---
 title: Navigieren auf Dhammaregen
 description: Navigieren mit und ohne Maus
-img: pexels-huy-phan-17479950.png
-img-alt: Maus und Tastatur
-link: https://www.pexels.com/photo/black-and-white-computer-keyboard-and-a-mouse-17479950/
+img: sergi-kabrera-2xU7rYxsTiM-unsplash.png
+img-alt: Tastatur
+link: https://unsplash.com/photos/2xU7rYxsTiM
 order: 1.5
 ---
 
