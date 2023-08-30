@@ -390,7 +390,7 @@ Das hat einige Interpreten dazu geführt, über das Ziel hinauszuschießen, inde
 
 #### Kasiṇa: meditative Totalität
 
-Der moderne Theravada erklärt, indem er aus dem Visuddhimagga schöpft, das *kasiṇa* als physische Scheibe, die als Grundlage für den Beginn der Meditation benutzt wird. Es kann ein reines Element wie ERde oder Wasser sein oder eine leuchtende, klare Farbe.
+Der moderne Theravada erklärt, indem er aus dem Visuddhimagga schöpft, das *kasiṇa* als physische Scheibe, die als Grundlage für den Beginn der Meditation benutzt wird. Es kann ein reines Element wie Erde oder Wasser sein oder eine leuchtende, klare Farbe.
 
 Die Wurzelbedeutung des Ausdrucks *kasiṇa* ist aber „allumfassend“ oder „total“, und in den FBT wird er immer in dieser Bedeutung gebraucht. Er ist eine Beschreibung eines Samādhi-Zustandes, kein Gegenstand, um Samādhi zu erlangen.
 
@@ -398,9 +398,9 @@ Die *kasiṇa*-Meditationen wurden aus ihrer relativen Unbekanntheit in den FBT 
 
 #### Ekāyana: wo alle Dinge als Eins zusammenkommen
 
-This term is found prominently in the Satipaṭṭhāna Sutta, where it is given a wide range of interpretations by the commentary. It appears, however, that none of these readings—or the still further readings offered in Chinese texts—are cogent, since they apparently were not aware that the Buddha was using a brahmanical term with a specific sense.
+Disen Ausdruck findet man in prominenter Position im Satipaṭṭhānasutta, wo ihm vom Kommentar ein breites Spektum an Interpretationen gegeben wird. Es zeigt sich aber, dass keine dieser Lesarten – wie auch keine der weiteren Lesarten, die von chinesischen Texten angeboten werden – stichhaltig ist, da sie sich anscheinend nicht darüber im Klaren waren, dass der Buddha einen brahmanischen Ausdruck mit einer spezifischen Bedeutung benutzte.
 
-The word *ekāyana* can be used in a variety of ways, but in a spiritual and philosophical sense it means “place of convergence”, where all things come together as one. This is the meaning here: the *satipaṭṭhānas* are the “basis of samādhi”, and their practice leads to the “convergence” of the mind in jhāna.
+Das Wort *ekāyana* kann auf viele verschiedene Arten gebraucht werden, aber im spirituellen und philosophischen Sinn bedeutet es „Ort des Einswerdens“, wo alle Dinge als eins zusammenkommen. Das ist hier die Bedeutung: Die *Satipaṭṭhānas* sind die „Grundlage des Samādhi“, und sie zu üben, führt zum „Einswerden“ des Geistes im Jhāna.
 
 #### Muta: das Gedachte
 
