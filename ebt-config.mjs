@@ -1,6 +1,6 @@
 const EbtConfig = {
   "appName": "Dhammaregen",
-  "basePath": "/dhammaregen3/",
+  "basePath": "/",
   "homePath": "#/wiki/startseite",
   "monolingual": "de",
   "privacyLink": "#/wiki/impressum",
