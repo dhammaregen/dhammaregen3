@@ -398,19 +398,19 @@ Die *kasiṇa*-Meditationen wurden aus ihrer relativen Unbekanntheit in den FBT 
 
 #### Ekāyana: wo alle Dinge als Eins zusammenkommen
 
-Disen Ausdruck findet man in prominenter Position im Satipaṭṭhānasutta, wo ihm vom Kommentar ein breites Spektum an Interpretationen gegeben wird. Es zeigt sich aber, dass keine dieser Lesarten – wie auch keine der weiteren Lesarten, die von chinesischen Texten angeboten werden – stichhaltig ist, da sie sich anscheinend nicht darüber im Klaren waren, dass der Buddha einen brahmanischen Ausdruck mit einer spezifischen Bedeutung benutzte.
+Diesen Ausdruck findet man in prominenter Position im Satipaṭṭhānasutta, wo ihm vom Kommentar ein breites Spektum an Interpretationen gegeben wird. Es zeigt sich aber, dass keine dieser Lesarten – wie auch keine der weiteren Lesarten, die von chinesischen Texten angeboten werden – stichhaltig ist, da sie sich anscheinend nicht darüber im Klaren waren, dass der Buddha einen brahmanischen Ausdruck mit einer spezifischen Bedeutung benutzte.
 
 Das Wort *ekāyana* kann auf viele verschiedene Arten gebraucht werden, aber im spirituellen und philosophischen Sinn bedeutet es „Ort des Einswerdens“, wo alle Dinge als eins zusammenkommen. Das ist hier die Bedeutung: Die *Satipaṭṭhānas* sind die „Grundlage des Samādhi“, und sie zu üben, führt zum „Einswerden“ des Geistes im Jhāna.
 
 #### Muta: das Gedachte
 
-There is a common sequence of phenomena in the EBTs: what is seen, heard, thought (*muta*), and cognized. From an early time in Theravada, and in many schools, *muta* was interpreted as meaning what is experienced by senses other than sight, sound, and cognition.
+Es gibt eine bekannte Abfolge von Erscheinungen in den FBT: was gesehen, gehört, gedacht (*muta*) und erkannt wird. Von einer frühen Zeit an wurde *muta* im Theravada und in vielen Schulen so interpretiert, als bedeute es, was von den Sinnen außer Sehen, Hören und Denken erfahren wird.
 
-*Muta* is, however, the past participle of *maññati* (“thought”), and it always has this meaning in the EBTs.
+*Muta* ist allerdings das Partizip der Vergangenheit von *maññati* („Gedanke“), und es hat in den FBT immer diese Bedeutung.
 
-This set of phenomena is derived from the Upanishads. And, as K.L. Jayatilleke has shown, they were meant, not as a comprehensive description of sense cognition, but as an analysis of the means of knowing, especially of spiritual teachings.
+Diese Reihe von Erscheinungen ist aus den Upaniṣaden hergeleitet. Und wie K.L. Jayatilleke gezeigt hat, war sie nicht als umfassende Beschreibung der Sinneswahrnehmung gedacht, sondern als eine Aufgliederung der Mittel zur Erkenntnis, besonders von spirituellen Lehren.
 
-The meaning was retro-fitted by the Abhidhammikas to become an abbreviated expression of the six senses. The Abhidhamma is not concerned with responding to brahmins, but with making different Buddhist teachings fit together. This ends up shifting the focus and meaning of the passages in which they occur: originally, the six senses focus on sensuality and overcoming desire, while the four including *muta* focus on the means of learning spiritual teachings and overcoming dogmatic views.
+Die Bedeutung wurde von den Abhidhammikas nachträglich so erweitert, dass es eine Kurzform für die sechs Sinne wurde. Der Abhidhamma befasst sich nicht damit, auf Brahmanen einzugehen, sondern damit, verschiedene buddhistische Lehren zueinander passend zu machen. Das führt dazu, dass der Schwerpunkt und die Bedeutung der Passagen verschoben werden, in denen sie vorkommen: Ursprünglich steht bei den sechs Sinnen die Sinnlichkeit und das Überwinden von Begierde im Fokus, wohingegen die Vier einschließlich *muta* sich auf Mittel zum Lernen spiritueller Lehren und zum Überwinden dogmatischer Ansichten ausrichten.
 
 #### Saṅkhāra: Entscheidungen
 
