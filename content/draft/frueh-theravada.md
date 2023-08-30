@@ -404,13 +404,13 @@ Das Wort *ekāyana* kann auf viele verschiedene Arten gebraucht werden, aber im 
 
 #### Muta: das Gedachte
 
-Es gibt eine bekannte Abfolge von Erscheinungen in den FBT: was gesehen, gehört, gedacht (*muta*) und erkannt wird. Von einer frühen Zeit an wurde *muta* im Theravada und in vielen Schulen so interpretiert, als bedeute es, was von den Sinnen außer Sehen, Hören und Denken erfahren wird.
+Es gibt eine bekannte Abfolge von Erscheinungen in den FBT: was gesehen, gehört, gedacht (*muta*) und erkannt wird. Von einer frühen Zeit an wurde *muta* im Theravada und in vielen Schulen so interpretiert, als bedeute es, was von den anderen Sinnen außer dem Seh-, dem Hör- und dem Denksinn erfahren wird.
 
-*Muta* ist allerdings das Partizip der Vergangenheit von *maññati* („Gedanke“), und es hat in den FBT immer diese Bedeutung.
+*Muta* ist allerdings das Partizip der Vergangenheit von *maññati* („gedacht“), und es hat in den FBT immer diese Bedeutung.
 
 Diese Reihe von Erscheinungen ist aus den Upaniṣaden hergeleitet. Und wie K.L. Jayatilleke gezeigt hat, war sie nicht als umfassende Beschreibung der Sinneswahrnehmung gedacht, sondern als eine Aufgliederung der Mittel zur Erkenntnis, besonders von spirituellen Lehren.
 
-Die Bedeutung wurde von den Abhidhammikas nachträglich so erweitert, dass es eine Kurzform für die sechs Sinne wurde. Der Abhidhamma befasst sich nicht damit, auf Brahmanen einzugehen, sondern damit, verschiedene buddhistische Lehren zueinander passend zu machen. Das führt dazu, dass der Schwerpunkt und die Bedeutung der Passagen verschoben werden, in denen sie vorkommen: Ursprünglich steht bei den sechs Sinnen die Sinnlichkeit und das Überwinden von Begierde im Fokus, wohingegen die Vier einschließlich *muta* sich auf Mittel zum Lernen spiritueller Lehren und zum Überwinden dogmatischer Ansichten ausrichten.
+Die Bedeutung wurde von den Abhidhammikas nachträglich so angepasst, dass es eine Kurzform für die sechs Sinne wurde. Der Abhidhamma befasst sich nicht damit, auf Brahmanen einzugehen, sondern damit, verschiedene buddhistische Lehren zueinander passend zu machen. Das führt dazu, dass der Schwerpunkt und die Bedeutung der Passagen verschoben werden, in denen sie vorkommen: Ursprünglich steht bei den sechs Sinnen die Sinnlichkeit und das Überwinden von Begierde im Fokus, wohingegen die Vier einschließlich *muta* sich auf Mittel zum Lernen spiritueller Lehren und zum Überwinden dogmatischer Ansichten ausrichten.
 
 #### Saṅkhāra: Entscheidungen
 
