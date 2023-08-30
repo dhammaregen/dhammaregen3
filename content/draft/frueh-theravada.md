@@ -386,15 +386,15 @@ Die FBT gebrauchen hingegen das Wort *nimitta* nie auf diese Weise. *Nimitta* is
 
 In der Meditation bezieht sich *nimitta* auf eine bestimmte Eigenschaft oder einen Aspekt der Erfahrung, der, wenn man sich ihm zuwendet, das Wachsen ähnlicher oder verwandter Eigenschaften fördert. Wenn man daher die Aufmerksamkeit dem „Anzeichen für Schönheit“ (*subhanimitta*) zuwendet, entsteht dadurch Begierde, während die „Grundlage für Samādhi“ (*samādhinimitta*) die vier Arten der Achtsamkeitsmeditation sind, d. h. die Übungen, die zum Samādhi hinführen.
 
-Das hat einige Interpreten dazu geführt, über das Ziel hinauszuschießen, indem sie die Behauptung aufstellen, dass die Kommentare nicht nur den *Ausdruck* geändert, sondern dass sie die ganze *Idee* von einem Licht, das man in der Meditation sehe, erfunden hätten. Der Bericht der Kommentare fügt zu den Suttas eine Menge Einzelheiten hinzu – was schließlich der Sinn und Zweck eines Kommentars ist –, aber in den FBT finden wir, dass „Lichter“ und „Formen“ ein normaler Aspekt der Samādhi-Erfahrung sind. Sicherlich beziehen sich diese Begriffe, die in vielfältiger Art in vielen Zusammenhängen vorkommen, auf die gleiche Art von Erfahrung, die moderne Theravāda-Anhänger *nimitta* nennen.
+Das hat einige Interpreten dazu geführt, über das Ziel hinauszuschießen, indem sie die Behauptung aufstellen, dass die Kommentare nicht nur den *Ausdruck* geändert, sondern dass sie die ganze *Idee* von einem Licht, das man in der Meditation sehe, erfunden hätten. Der Bericht der Kommentare fügt zu den Suttas eine Menge Einzelheiten hinzu – was schließlich der Sinn und Zweck eines Kommentars ist –, aber in den FBT finden wir, dass „Lichter“ und „Formen“ ein normaler Aspekt der Samādhi-Erfahrung sind. Sicherlich beziehen sich diese Begriffe, die in vielfältiger Art in vielen Zusammenhängen vorkommen, auf die gleiche Art von Erfahrung, die moderne Theravada-Anhänger *nimitta* nennen.
 
 #### Kasiṇa: meditative Totalität
 
-Modern Theravada, drawing on the Visuddhimagga, explains the *kasiṇa* as a physical disk that is used as a basis for beginning meditation. It may be a pure element, such as earth or water, or a bright and clear color.
+Der moderne Theravada erklärt, indem er aus dem Visuddhimagga schöpft, das *kasiṇa* als physische Scheibe, die als Grundlage für den Beginn der Meditation benutzt wird. Es kann ein reines Element wie ERde oder Wasser sein oder eine leuchtende, klare Farbe.
 
-The root meaning of the term *kasiṇa*, however, is “universal” or “totality” and in the EBTs it is always used in this way. It is a description of a state of samādhi, not an object used to gain samādhi.
+Die Wurzelbedeutung des Ausdrucks *kasiṇa* ist aber „allumfassend“ oder „total“, und in den FBT wird er immer in dieser Bedeutung gebraucht. Er ist eine Beschreibung eines Samādhi-Zustandes, kein Gegenstand, um Samādhi zu erlangen.
 
-The *kasiṇa* meditations were raised from their relative obscurity in the EBTs and placed at the start of the list of meditations as found in the Abhidhamma. This sequence, which was followed by the Visuddhimagga, seems to have contributed to the idea of the meditation “object”: something that you watch, but which itself is independent of the observer.
+Die *kasiṇa*-Meditationen wurden aus ihrer relativen Unbekanntheit in den FBT herausgenommen und an den Anfang der Aufzählung von Meditationen gesetzt, wie man sie im Abhidhamma findet. Diese Reihenfolge, die der Visuddhimagga übernahm, scheint zu der Vorstellung vom Meditations„objekt“ beigetragen zu haben: etwas, das man beobachtet, aber das selbst unabhängig vom Beobachter ist.
 
 #### Ekāyana: wo alle Dinge als Eins zusammenkommen
 
