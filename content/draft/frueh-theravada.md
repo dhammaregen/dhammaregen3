@@ -419,7 +419,7 @@ In den FBT finden wir, dass das Wort *saṅkhāra* in vielen Bedeutungen gebrauc
 * Wille oder Absicht (d. h. *kamma*)
 * Bedingte Erscheinungen (d. h. alles außer *nibbāna*)
 
-Der Theravada erkennt diese beiden Bedeutungen an; in der Wendung „alle *Saṅkhāras* sind unbeständig“ bedeutet es zum Beispiel „bedingte Erscheinung“, während es beim abhängigen Entstehen Wille bedeutet.
+Der Theravada erkennt diese beiden Bedeutungen an; in der Wendung „alle *Saṅkhāras* sind unbeständig“ bedeutet es zum Beispiel „bedingte Erscheinung“, während es beim abhängigen Entstehen „Wille“ bedeutet.
 
 Jedoch in dem wichtigen Zusammenhang der fünf Aggregate gibt der Theravada dem Wort *saṅkhāra* einen ziemlich merkwürdigen Bedeutungsspielraum. Dort soll es „alle bedingten Erscheinungen außer den Dingen, die von den anderen Aggregaten abgedeckt sind“ bedeuten. Auch das stammt wieder von einem Versuch, die Aggregate nachträglich so anzupassen, dass sie zu den methodischen Bedürfnissen des Abhidhamma passen.
 
@@ -429,15 +429,15 @@ Die Betrachtung der Aggregate offenbart, dass die verschiedenen Kandidaten für 
 
 Somit hat *saṅkhāra* bei den fünf Aggregaten die gleiche Bedeutung, die es auch beim abhängigen Entstehen und anderswo hat: Wille. Es ist die Identifizierung des Selbst mit dem Willen: „Ich bin derjenige, der entscheidet.“ Nirgends legen die FBT nahe, dass die Bedeutung breiter sein könnte als das.
 
-In modernem Englisch wird ein moralishc relevanter Willensakt normalerweise alş *choice* („Entscheidung“) beschrieben. Man kann gute Entscheidungen oder schlechte Entscheidungen treffen, aber man kann nicht gute oder schlechte Willen haben; und „gute Absichten“ ist zwar idiomatisch, hat aber doch einen anderen Beiklang.
+In modernem Englisch wird ein moralisch relevanter Willensakt normalerweise als *choice* („Entscheidung“) beschrieben. Man kann gute Entscheidungen oder schlechte Entscheidungen treffen, aber man kann nicht gute oder schlechte Willen haben; und „gute Absichten“ ist zwar idiomatisch, hat aber doch einen anderen Beiklang.
 
 #### Der strahlende Geist
 
-The Theravadin commentaries dabble with the idea that Nibbana may be understood as a form of transcendent consciousness or “radiant mind”. While the meaning and influence of these ideas within the commentarial tradition is debatable, it has become a common, indeed virtually standard, view in many parts of modern Theravada.
+Die Theravada-Kommentare bemühen sich unbeholfen um die Vorstellung, Nibbana könne als eine Form eines transzendenten Bewusstseins oder „strahlenden Geistes“ verstanden werden. Bedeutung und Einfluss dieser Vorstellungen innerhalb der Kommentartradition sind fraglich, doch sie wurden in weiten Teilen des modernen Theravada eine verbreitete, ja regelrecht normale Ansicht.
 
-For the EBTs, on the other hand, consciousness of any form is suffering, and Nibbana is the cessation of suffering. The “radiant mind” and similar terms refer to jhāna.
+Für die FBT auf der anderen Seite ist jede Art von Bewusstsein Leiden, und Nibbana ist das Aufhören des Leidens. Der „strahlende Geist“ und ähnliche Begriffe beziehen sich auf die Jhānas.
 
-Passages quoted in support of the transcendent consciousness thesis invariably end up cherry-picking a few passages of dubious interpretation, ignoring the vast mass of clear teachings on this topic.
+Stellen, die zum Untermauern der These vom transzendenten Bewusstsein zitiert werden, landen ausnahmslos dabei, dass sie ein paar Passagen von dubioser Interpretation herauspicken und die große Masse eindeutiger Lehren über das Thema missachten.
 
 #### Rūpa-Kalāpas und die höchste Analyse der Materie
 
