@@ -441,9 +441,9 @@ Stellen, die zum Untermauern der These vom transzendenten Bewusstsein zitiert we
 
 #### Rūpa-Kalāpas und die höchste Analyse der Materie
 
-Der Abhidhamma des Theravada befasst sich hauptsächlich mit der Analyse des Geistes, aber er äußert sich auch in beträchtlicher Ausführlichkeit über die Natur der Materie. Die zugrunde liegenden physikalischen Wirklichkeiten der Elemente, Sinnesobjekte usw. werden aufgeführt, und es heißt, sie manifestieren sich in Konglomeraten (in etwas „Molekülen“ vergleichbar), die *Kalāpas* genannt werden. Die Analyse wird mit Präzision und Ausführlichkeit verfolgt, gelegentlich von empirischen Beobachtungen geprägt – Schall ist langsamer als Licht, denn wenn man einen Mann von Weitem Holz hacken sieht, sieht man, wie die Axt einen Klotz trifft, bevor man das Geräusch hört.
+Der Abhidhamma des Theravada befasst sich hauptsächlich mit der Analyse des Geistes, aber er äußert sich auch in beträchtlicher Ausführlichkeit über die Natur der Materie. Die zugrunde liegenden physikalischen Wirklichkeiten der Elemente, Sinnesobjekte usw. werden aufgeführt, und es heißt, sie manifestieren sich in Konglomeraten (in etwa „Molekülen“ vergleichbar), die *Kalāpas* genannt werden. Die Analyse wird mit Präzision und Ausführlichkeit verfolgt, gelegentlich von empirischen Beobachtungen geprägt – Schall ist langsamer als Licht, denn wenn man einen Mann von Weitem Holz hacken sieht, sieht man, wie die Axt einen Klotz trifft, bevor man das Geräusch hört.
 
-Es ist unklar, inwieweit diese Wirklichkeiten – oder auch nur irgendeiner der Bestandteile der „höchsten Wirklichkeit“ – als etwas angesehen wurden, das man tatsächlich in der Meditation sieht. Der hauptschwerpunkt lag eindeutig auf theoretischer Klarstellung und Genauigkeit.
+Es ist unklar, inwieweit diese Wirklichkeiten – oder auch nur irgendeiner der Bestandteile der „höchsten Wirklichkeit“ – als etwas angesehen wurden, das man tatsächlich in der Meditation sieht. Der Hauptschwerpunkt lag eindeutig auf theoretischer Klarstellung und Genauigkeit.
 
 Die meisten dieser Einzelheiten findet man nicht in den FBT. Es gibt zwar viele Punkte, in denen sich die Materie, wie sie im Abhidhamma beschrieben wird und wie sie von der modernen Wissenschaft beschrieben wird, gleichen und übereinstimmen, aber es gibt auch viele Unterschiede. Im Abhidhamma werden zum Beispiel „Licht“ und „Schall“ als im absoluten Sinn bestehende Wirklichkeiten angesehen. Die Physik hingegen sieht „Licht“ als aus Photonen, einer Art Partikel, bestehend an, während „Schall“ Druckwellen in einem Medium ist und keinen bestimmten zugrunde liegenden physikalischen Partikel hat. Solche und viele ähnliche Unterscheidungen findet man im Abhidhamma nicht.
 
@@ -459,9 +459,9 @@ One of the first bits of Pali that you will hear is the *anumodanā* (“blessin
 
 But these *anumodanā* verses are late. In the EBTs, the Buddha himself gave the *anumodanā*, and in these early forms we find, not the imperative *-tu* but the indicative *-ti*, conveying the sense “it is”. Such verses are concerned not with giving a blessing, but with teaching cause and effect. If *you* do this good deed of generosity, then the following *will happen*. Not because of the *anumodanā* given by the Sangha, but because of the power of your own good deeds.
 
-> *Aggasmiṁ dānaṁ dadataṁ*
-> *aggaṁ puññaṁ pavaḍḍhati*
-> Wer so den Besten Spenden gibt,
+> *Aggasmiṁ dānaṁ dadataṁ*  
+> *aggaṁ puññaṁ pavaḍḍhati*  
+> Wer so den Besten Spenden gibt,  
 > dem erwächst das beste Verdienst.
 
 The meaning of *anumodanā* is not “blessing” but “rejoicing after”. It acts as a reminder, when doing good, to be happy at the good deeds of oneself and others.
