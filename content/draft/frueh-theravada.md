@@ -414,22 +414,22 @@ Die Bedeutung wurde von den Abhidhammikas nachträglich so angepasst, dass es ei
 
 #### Saṅkhāra: Entscheidungen
 
-In the EBTs we find the word *saṅkhāra* used in many senses, among which the following are the most doctrinally significant:
+In den FBT finden wir, dass das Wort *saṅkhāra* in vielen Bedeutungen gebraucht wird, von denen die folgenden aus doktrinaler Sicht am wichtigsten sind:
 
-* volition or intention (i.e. kamma)
-* conditioned phenomena (i.e. everything except for Nibbana)
+* Wille oder Absicht (d. h. *kamma*)
+* Bedingte Erscheinungen (d. h. alles außer *nibbāna*)
 
-Theravada acknowledges these two senses; for example, in the phrase “all *saṅkhāras* are impermanent” it means “conditioned phenomena”, while in dependent origination it means volition.
+Der Theravada erkennt diese beiden Bedeutungen an; in der Wendung „alle *Saṅkhāras* sind unbeständig“ bedeutet es zum Beispiel „bedingte Erscheinung“, während es beim abhängigen Entstehen Wille bedeutet.
 
-However, in the important context of the five aggregates, Theravada gives *saṅkhāra* a rather odd scope. There, it is said to mean “all conditioned phenomena apart from the things covered in the other aggregates”. Once more, this stems from an attempt to retro-fit the aggregates to suit the systematic needs of the Abhidhamma.
+Jedoch in dem wichtigen Zusammenhang der fünf Aggregate gibt der Theravada dem Wort *saṅkhāra* einen ziemlich merkwürdigen Bedeutungsspielraum. Dort soll es „alle bedingten Erscheinungen außer den Dingen, die von den anderen Aggregaten abgedeckt sind“ bedeuten. Auch das stammt wieder von einem Versuch, die Aggregate nachträglich so anzupassen, dass sie zu den methodischen Bedürfnissen des Abhidhamma passen.
 
-The aggregates were never intended to be a comprehensive classification of all phenomena; notably, the word “all” is used of the six senses, not the aggregates. Rather, the aggregates were a handy scheme for classifying theories of self. Some people took the self to be material, others to be a feeling, and so on, while others took it as a combination of these things.
+Die Aggregate waren nie dafür gedacht, eine umfassende Einteilung aller Phänomene zu sein; bemerkenswerterweise wird das Wort „alles“ für die sechs Sinne gebraucht, nicht für die Aggregate. Die Aggregate waren vielmehr ein praktisches Schema, um Selbsttheorien einzuteilen. Manche Menschen nahmen das Selbst als etwas Körperliches, andere als ein Gefühl und so weiter, während wieder andere es als eine Kombination dieser Dinge ansahen.
 
-Contemplation of the aggregates reveals that the various candidates for a self do not live up to the expectations we have for a self, as they inevitably change and fail to provide the satisfaction we crave.
+Die Betrachtung der Aggregate offenbart, dass die verschiedenen Kandidaten für ein Selbst die Erwartugnen, die wir an ein Selbst haben, nicht erfüllen, da sie sich ausnahmslos verändern und nicht in der Lage sind, die Befriedigung zu bieten, nach der wir verlangen.
 
-Thus *saṅkhāra* in the five aggregates has the same meaning it does in dependent origination and elsewhere: volition. It is the identification of the self with the will: “I am the decider”. Nowhere do the EBTs suggest that the sense is broader than this.
+Somit hat *saṅkhāra* bei den fünf Aggregaten die gleiche Bedeutung, die es auch beim abhängigen Entstehen und anderswo hat: Wille. Es ist die Identifizierung des Selbst mit dem Willen: „Ich bin derjenige, der entscheidet.“ Nirgends legen die FBT nahe, dass die Bedeutung breiter sein könnte als das.
 
-In modern English, a morally relevant act of will is usually described as a “choice”. One can make good choices and bad choices, but not good volitions or bad volitions; and “good intentions” while idiomatic, has a rather different connotation.
+In modernem Englisch wird ein moralishc relevanter Willensakt normalerweise alş *choice* („Entscheidung“) beschrieben. Man kann gute Entscheidungen oder schlechte Entscheidungen treffen, aber man kann nicht gute oder schlechte Willen haben; und „gute Absichten“ ist zwar idiomatisch, hat aber doch einen anderen Beiklang.
 
 #### Der strahlende Geist
 
