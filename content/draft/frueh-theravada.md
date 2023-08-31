@@ -416,8 +416,8 @@ Die Bedeutung wurde von den Abhidhammikas nachträglich so angepasst, dass es ei
 
 In den FBT finden wir, dass das Wort *saṅkhāra* in vielen Bedeutungen gebraucht wird, von denen die folgenden aus doktrinaler Sicht am wichtigsten sind:
 
-* Wille oder Absicht (d. h. *kamma*)
-* Bedingte Erscheinungen (d. h. alles außer *nibbāna*)
+* Wille oder Absicht (d. h. Kamma)
+* Bedingte Erscheinungen (d. h. alles außer Nibbana)
 
 Der Theravada erkennt diese beiden Bedeutungen an; in der Wendung „alle *Saṅkhāras* sind unbeständig“ bedeutet es zum Beispiel „bedingte Erscheinung“, während es beim abhängigen Entstehen „Wille“ bedeutet.
 
@@ -441,17 +441,17 @@ Stellen, die zum Untermauern der These vom transzendenten Bewusstsein zitiert we
 
 #### Rūpa-Kalāpas und die höchste Analyse der Materie
 
-The Theravada Abhidhamma focusses mainly on the analysis of mind, but it also goes into quite a lot of detail as to the nature of matter. The underlying physical realities of the elements, sense objects, and so on are specified, and are said to manifest in conglomerates (somewhat analogous to “molecules”) called *kalāpas*. The analysis is pursued with rigor and detail, occasionally informed by empirical observations—sound is slower than light, for when you see a man chopping wood in the distance, you can see an axe hitting a log before you hear the sound.
+Der Abhidhamma des Theravada befasst sich hauptsächlich mit der Analyse des Geistes, aber er äußert sich auch in beträchtlicher Ausführlichkeit über die Natur der Materie. Die zugrunde liegenden physikalischen Wirklichkeiten der Elemente, Sinnesobjekte usw. werden aufgeführt, und es heißt, sie manifestieren sich in Konglomeraten (in etwas „Molekülen“ vergleichbar), die *Kalāpas* genannt werden. Die Analyse wird mit Präzision und Ausführlichkeit verfolgt, gelegentlich von empirischen Beobachtungen geprägt – Schall ist langsamer als Licht, denn wenn man einen Mann von Weitem Holz hacken sieht, sieht man, wie die Axt einen Klotz trifft, bevor man das Geräusch hört.
 
-It is unclear to what extent these realities—or indeed any of the constituents of “ultimate reality”—were regarded as things to be actually seen in meditation. Clearly the main focus was theoretical clarification and precision.
+Es ist unklar, inwieweit diese Wirklichkeiten – oder auch nur irgendeiner der Bestandteile der „höchsten Wirklichkeit“ – als etwas angesehen wurden, das man tatsächlich in der Meditation sieht. Der hauptschwerpunkt lag eindeutig auf theoretischer Klarstellung und Genauigkeit.
 
-Most of these details are not found in the EBTs. While there are many points of similarity and congruence between matter as described by the Abhidhamma and that described by modern science, there are also many differences. In the Abhidhamma, for example, both “light” and “sound” are regarded as ultimately-existing realities. However, physics sees “light” as being photons, a kind of particle, while sound is waves of pressure in a medium, and has no specific underlying physical particle. Such distinctions, and many like them, are not found in Abhidhamma.
+Die meisten dieser Einzelheiten findet man nicht in den FBT. Es gibt zwar viele Punkte, in denen sich die Materie, wie sie im Abhidhamma beschrieben wird und wie sie von der modernen Wissenschaft beschrieben wird, gleichen und übereinstimmen, aber es gibt auch viele Unterschiede. Im Abhidhamma werden zum Beispiel „Licht“ und „Schall“ als im absoluten Sinn bestehende Wirklichkeiten angesehen. Die Physik hingegen sieht „Licht“ als aus Photonen, einer Art Partikel, bestehend an, während „Schall“ Druckwellen in einem Medium ist und keinen bestimmten zugrunde liegenden physikalischen Partikel hat. Solche und viele ähnliche Unterscheidungen findet man im Abhidhamma nicht.
 
 #### Körperliche Grundlage des Geistes
 
-The Abhidhamma locates the physical basis for the mind in a tiny *kalāpa* of sensitive matter in the heart.
+Der Abhidhamma lokalisiert die körperliche Grundlage des Geistes in einem winzigen *kalāpa* von empfindender Materie im Herzen.
 
-The EBTs speak of the interdependence of the mind and the body, but do not locate the mind in any particular physical organ.
+Die FBT sprechen von wechselseitiger Abhängigkeit zwischen Geist und Körper, aber lokalisieren den Geist in keinem bestimmten körperlichen Organ.
 
 #### Ti statt tu
 
@@ -461,8 +461,8 @@ But these *anumodanā* verses are late. In the EBTs, the Buddha himself gave the
 
 > *Aggasmiṁ dānaṁ dadataṁ*
 > *aggaṁ puññaṁ pavaḍḍhati*
-> Giving gifts to the best,
-> the best merit grows.
+> Wer so den Besten Spenden gibt,
+> dem erwächst das beste Verdienst.
 
 The meaning of *anumodanā* is not “blessing” but “rejoicing after”. It acts as a reminder, when doing good, to be happy at the good deeds of oneself and others.
 
@@ -474,13 +474,13 @@ Similar ideas are alluded to once or twice in the EBTs, but they were not a majo
 
 Such practices mostly benefit those who have stayed behind. They give the family a sense of purpose, and unite them in performing a wholesome action at a time when they may be feeling lost or hopeless.
 
-### sangha
+### Saṅgha
 
 The code of conduct for Buddhist monastics is laid out in detail in a set of books called the Vinaya-piṭaka, which accompanies the Suttas. The Sangha of all schools has always looked to the Vinaya as its foundational document, and has preserved largely similar Vinayas in multiple languages.
 
 Neither the EBTs nor Theravada use the word “Sangha” to refer to a spiritual community in general.
 
-#### monastics and money
+#### Mönche und Nonnen und Geld
 
 All of the Vinayas prohibit monks and nuns from using money. This was, in fact, the defining event of the Second Council, held 100 years after the Buddha, where the collecting and use of money was categorically rejected by the entire Sangha.
 
@@ -488,7 +488,7 @@ These days, the vast majority of monks and nuns within Theravada use money. Thos
 
 The mere use of money is, however, perhaps less significant than the use to which it is put. It is one thing to have a bit of cash for catching a bus or buying a book, and quite another to accumulate a large collection of antique cars. And it is quite possible to technically keep the rules about money while holding sway over vast resources. But it is still the case that keeping the money rules wards off a large realm of temptation and corruption.
 
-#### hierarchy
+#### Hierarchie
 
 Modern Theravada is hierarchical, and has often adopted complex sets of titles, awards, and privileges, all of which make up a hierarchically-based system of power.
 
@@ -496,7 +496,7 @@ Nothing like this is found in the Vinaya. There are no titles, no badges awarded
 
 The Vinaya does not allow for the exercise of power by one monastic over another. In the Sangha, all are equal, and the only coercive power rests in the Sangha as a whole, when it acts in consensus and according to the Vinaya. Indeed, a junior monastic *should* disobey their elder if they are asked to do something contrary to the Dhamma and Vinaya.
 
-#### state-appointed sangha officials
+#### Staatlich ernannte Amtsträger des Saṅgha
 
 Different Theravada countries, while sharing the same canon and communion, have developed national systems of internal governance.
 
@@ -504,7 +504,7 @@ In Thailand, the governing council is appointed by the King, and then it appoint
 
 No such system is found in the Vinaya. On the contrary, the role of kings is to support the Sangha, not control it. Ordination is performed by any qualified monastics.
 
-#### abbots
+#### Äbte
 
 Theravada monasteries are usually run effectively by the fiat of the abbot. This varies from place to place, but almost everywhere we find the abbot has final say.
 
@@ -512,7 +512,7 @@ There is no concept of an abbot in the Vinaya. Decisions are made by the Sangha 
 
 The relationship to seniority is one of respect, not command. Obviously junior Sangha members are expected to listen to the advice and guidance of the seniors, and normally would follow that. However there is no expectation that they must always follow it, and no punishment or other consequences for disobedience.
 
-#### nikāyas
+#### Nikāyas
 
 Theravada countries have organized their monastic communities in various nikāyas, i.e. orders. (Note that this is a different sense of the word than the “nikāyas” of the Pali canon.) These are administrative bodies that manage monastery properties, organize education, facilitate ordinations, and the like. In some cases, certain nikāyas will not perform acts of the Sangha with those outside their own nikāya, who are considered to be of different communion (*saṁvāsa*).
 
@@ -520,19 +520,19 @@ There is no such organizational structure found in the EBTs. It is, of course, r
 
 In Sri Lanka, the mainstream Siam Nikaya performs ordination according to caste, which, it should hardly need saying, goes against everything the Buddha said on the topic of caste.
 
-#### ordination lineages
+#### Ordinationslinien
 
 Modern Buddhism of all schools, including Theravada, places great stock in the notion of ordination lineages, and the desire for a pure lineage underlies much of the shape of the modern Sangha.
 
 The Vinaya contains no concept of an ordination lineage. Ordination into the Sangha is designed to facilitate proper support and education for the new student, and is not a quasi-magical initiation. No order of Sangha alive today can prove that its own ordination lineage is “valid” according to its own standards; the historical records simply don’t exist.
 
-#### nuns
+#### Nonnen
 
 The Buddha established an order of fully-ordained nuns (*bhikkhunī*). Since around the 12th century, Theravada has lacked a universally accepted bhikkhunī order. Instead of the Buddha’s vision of a spiritual role for women, a variety of other avenues have been developed. While these provide avenues for many women to practice the Dhamma, they do not enjoy the legitimacy of the bhikkhunī order or the governance of the Vinaya, and are carefully set up to ensure the subservience of women. This has led to a situation where some monks believe and act as if nuns are lesser, and assume they have power of command over them.
 
 In the Vinaya, the bhikkhunī order is constituted as a fully-empowered and independent order, who undertook ordinations, teaching, practice, and institutional development. This remained the case during the 1500 years Buddhism thrived in India, and remains the case in places with a healthy bhikkhunī order.
 
-#### patriarchy
+#### Patriarchat
 
 Discussion of bhikkhunīs by Theravadin patriarchs focuses on the control offered to them by the so-called garudhammas, and argues for the illegitimacy of the ordination lineage of bhikkhunīs.
 
@@ -542,7 +542,7 @@ Research shows that the garudhammas were a later addition, and in their original
 
 Regardless of the historical situation, the garudhammas, even in their developed form, fall far short of justifying the control of nuns by monks, still less their extinction. The burden of the garudhammas is to set up relations of respect and support, not dominance and control.
 
-#### ordination of bhikkhunīs by bhikkhus
+#### Ordination von Bhikkhunīs durch Bhikkhus
 
 The Pali Vinaya explictly states that monks may ordain bhikkhunīs. This allowance was set up in the early days, when there were no senior nuns. Later, it was superseded in practice by the dual ordination by monks and nuns. However the original allowance was never suspended and remains in operation.
 
@@ -550,7 +550,7 @@ The central institutions of modern Theravada, however, do not follow this direct
 
 Having said which, it is important to remember that Theravadin communities are diverse, and there are many different views and practices within the monastic Sangha. There are many monks who reject the rulings of those in power.
 
-#### believing women
+#### Frauen Glauben schenken
 
 The Vinaya deals with cases where a monk is accused of sexual misconduct by a trustworthy laywoman. In such cases, the monk should be dealt with according to the testimony of the woman, in contrast with the usual situation where the monk’s confession is required.
 
@@ -558,7 +558,7 @@ The Theravadin commentaries roll back this allowance, no longer trusting the lay
 
 There are many similar cases throughout the Vinaya, where rules intended for the protection of women are turned into rules discriminating against them. For example, the Vinaya says that a monk must not sexually grope a woman with a lustful mind. Modern Theravada holds that a monk, regardless of their mental state, can under no circumstances touch a woman.
 
-#### sectarianism
+#### Sektenwesen
 
 Closely related to the notion of ordination lineage is the idea of sectarian purity. Theravada generally, and certain strands within Theravada in particular, place great weight on their own status as a pure, original representation of the teaching. This leads to the deprecation and dismissal of Sangha of other sects and traditions, who are sometimes seen as not really monastics, or even not really Buddhists.
 
@@ -566,7 +566,7 @@ For the Buddha, “purity” is internal, not external. It does not reside in a 
 
 Within all sects and traditions of Buddhism, there are those who practice with sincerity and compassion, and those driven by greed and conceit. So long as we have the opportunity to let go of the unwholesome and develop the wholesome, we can grow in the Dhamma wherever we are.
 
-#### the noble persons as mind-moments
+#### Die edlen Menschen und Geistmomente
 
 As well as referring to the monastic community, the Buddha used the word Sangha to refer to the community of enlightened disciples, i.e. the four persons on the paths and fruits.
 
