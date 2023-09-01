@@ -477,17 +477,17 @@ Solche Praktiken nutzen am meisten den Hinterbliebenen. Sie geben der Familie da
 
 ### Saṅgha
 
-Die Ordenssatzung für buddhistische Mönche und Nonnen ist ausführlich in einem Satz Bücher dargelegt, der Vinaya-piṭaka genannt wird und der die Suttas begleitet. Der Saṅgha aller Schulen hat immer den Vinaya als sein grundlegendes Dokument angesehen und hat weitgehend ähnliche Vinayas in mehreren Sprachen bewahrt.
+Die Ordenssatzung für buddhistische Mönche und Nonnen ist ausführlich in einem Satz Bücher dargelegt, der Vinaya-Piṭaka genannt wird und der die Suttas begleitet. Der Saṅgha aller Schulen hat immer den Vinaya als sein grundlegendes Dokument angesehen und hat weitgehend ähnliche Vinayas in mehreren Sprachen bewahrt.
 
 Weder die FBT noch der Theravada benutzen das Wort „Saṅgha“, um sich auf eine spirituelle Gemeinschaft im Allgemeinen zu beziehen.
 
-#### Mönche und Nonnen und Geld
+#### Ordensangehörige und Geld
 
-All of the Vinayas prohibit monks and nuns from using money. This was, in fact, the defining event of the Second Council, held 100 years after the Buddha, where the collecting and use of money was categorically rejected by the entire Sangha.
+Alle Vinayas verbieten Mönchen und Nonnen, Geld zu beutzen. Das war tatsächlich das bestimmende Ereignis des zweiten Konzils, das hundert Jahre nach dem Buddha abgehalten wurde und bei dem das Sammeln und Benutzen von Geld vom gesamten Saṅgha kategorisch zurückgewiesen wurde.
 
-These days, the vast majority of monks and nuns within Theravada use money. Those who avoid using money are restricted to some small circles, usually in the forest traditions.
+Heutzutage benutzt die große Mehrheit der Mönche und Nonnen im Theravada Geld. Diejenigen, die den Gebrauch von Gld vermeiden, beschränken sich auf kleine Kreise, gewöhnlich in den Waldtraditionen.
 
-The mere use of money is, however, perhaps less significant than the use to which it is put. It is one thing to have a bit of cash for catching a bus or buying a book, and quite another to accumulate a large collection of antique cars. And it is quite possible to technically keep the rules about money while holding sway over vast resources. But it is still the case that keeping the money rules wards off a large realm of temptation and corruption.
+Allein das Benutzen von Geld ist aber vielleicht weniger bedeutsam als die Zwecke, zu denen es benutzt wird. Ein bisschen Bargeld zu haben, um einen Bus zu nehmen oder ein Buch zu kaufen, ist eine Sache; eine große Sammlung antiker Autos zusammenzutragen, doch eine andere. Und es ist durchaus möglich, technisch die Regeln über Geld einzuhalten und gleichzeitig ausgedehnte Ressourcen zu bestimmern. Aber es ist doch so, dass das Einhalten der Geldregeln einen großen Bereich an Versuchung und Korruption fernhält.
 
 #### Hierarchie
 
