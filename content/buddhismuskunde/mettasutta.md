@@ -1,5 +1,5 @@
 ---
-title: Ein neues Verständnis des Mettāsutta, das alles ändert
+title: Ein neues Verständnis des Mettāsutta, das alles ändert 🤯
 description: Bhikkhu Sujato, 2022
 img: sujato.png
 img-alt: Foto von Bhante Sujato
