@@ -455,16 +455,17 @@ Die FBT sprechen von wechselseitiger Abhängigkeit zwischen Geist und Körper, a
 
 #### Ti statt tu
 
-One of the first bits of Pali that you will hear is the *anumodanā* (“blessing”) chant by the monastics at the meal offering. These days we often use a Pali verbal form that ends in *-tu*. This is the imperative form, which conveys the sense, “may it be”. For example, *bhava**tu** sabbamaṅgalaṁ, rakkhan**tu** sabbadevatā* “may you have all fortune, may the gods all protect you”. The sense is that the Saṅgha, by giving the *anumodanā*, grants a blessing to the lay community.
+Eins der ersten Stückchen Pali, die Sie zu hören bekommen, ist der *anumodanā*-Chant („Segenschant“) der Mönchen oder Nonnen bei der Essensspende. Heutzutage benutzen wir oft eine Pali-Wortform, die auf *-tu* endet. Das ist die Imperativform, die die Bedeutung hat „möge es sein“. Zum Beispiel *bhava**tu** sabbamaṅgalaṁ, rakkhan**tu** sabbadevatā*, „Möget ihr alles Glück haben, mögen alle Götter euch beschützen“. Das bedeutet, dass der Saṅgha, indem er das *anumodanā* gibt, der Laiengemeinschaft einen Segen erteilt.
 
-But these *anumodanā* verses are late. In the EBTs, the Buddha himself gave the *anumodanā*, and in these early forms we find, not the imperative *-tu* but the indicative *-ti*, conveying the sense “it is”. Such verses are concerned not with giving a blessing, but with teaching cause and effect. If *you* do this good deed of generosity, then the following *will happen*. Not because of the *anumodanā* given by the Sangha, but because of the power of your own good deeds.
+Aber diese *anumodanā*-Verse sind spät. In den FBT gab der Buddha selbst das *anumodanā*, und in diesen frühen Formen finden wir nicht den Imperativ auf *-tu*, sondern den Indikativ auf *-ti* mit der Bedeutung „es ist“. Solche Strophen haben nicht das Anliegen, einen Segen zu erteilen, sondern damit, Ursache und Wirkung zu lehren. Wenn *du* diese gute Tat der Großzügigkeit tust, dann *wird* das Folgende *geschehen*. Nicht wegen des *anumodanā*, das vom Saṅgha gegeben wird, sondern durch die Macht deiner eigenen guten Taten.
 
 > *Aggasmiṁ dānaṁ dadataṁ*  
 > *aggaṁ puññaṁ pavaḍḍhati*  
 > Wer so den Besten Spenden gibt,  
-> dem erwächst das beste Verdienst.
+> dem erwächst das beste Verdienst.  
+> (z. B. in [AN 4.34:7.1](#/sutta/an4.34:7.1/de/sabbamitta))
 
-The meaning of *anumodanā* is not “blessing” but “rejoicing after”. It acts as a reminder, when doing good, to be happy at the good deeds of oneself and others.
+Die Bedeutung von *anumodanā* ist nicht „Segen“, sondern „sich freuen über“. Es fungiert als Erinnerung daran, dass man, wenn man etwas Gutes tut, über die eigenen guten Taten und die anderer glücklich sein soll.
 
 #### Betonung der Übertragung von Verdiensten
 
