@@ -1,5 +1,5 @@
 ---
-title: Abhängiges Entstehen
+title: fn-Abhängiges Entstehen
 description: Bhikkhu Brahmāli, 2012
 img: ammonite.png
 img-alt: Ein Ammonit
