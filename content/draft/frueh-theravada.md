@@ -455,9 +455,9 @@ Die FBT sprechen von wechselseitiger Abhängigkeit zwischen Geist und Körper, a
 
 #### Ti statt tu
 
-Eins der ersten Stückchen Pali, die Sie zu hören bekommen, ist der *anumodanā*-Chant („Segenschant“) der Mönchen oder Nonnen bei der Essensspende. Heutzutage benutzen wir oft eine Pali-Wortform, die auf *-tu* endet. Das ist die Imperativform, die die Bedeutung hat „möge es sein“. Zum Beispiel *bhava**tu** sabbamaṅgalaṁ, rakkhan**tu** sabbadevatā*, „Möget ihr alles Glück haben, mögen alle Götter euch beschützen“. Das bedeutet, dass der Saṅgha, indem er das *anumodanā* gibt, der Laiengemeinschaft einen Segen erteilt.
+Eins der ersten Stückchen Pali, die Sie zu hören bekommen, ist der *anumodanā*-Chant („Segenschant“) der Mönche oder Nonnen bei der Essensspende. Heutzutage benutzen wir oft eine Pali-Wortform, die auf *-tu* endet. Das ist die Imperativform, die die Bedeutung hat „möge es sein“. Zum Beispiel *bhava**tu** sabbamaṅgalaṁ, rakkhan**tu** sabbadevatā*, „Möget ihr alles Glück haben, mögen alle Götter euch beschützen“. Das bedeutet, dass der Saṅgha, indem er das *anumodanā* gibt, der Laiengemeinschaft einen Segen erteilt.
 
-Aber diese *anumodanā*-Verse sind spät. In den FBT gab der Buddha selbst das *anumodanā*, und in diesen frühen Formen finden wir nicht den Imperativ auf *-tu*, sondern den Indikativ auf *-ti* mit der Bedeutung „es ist“. Solche Strophen haben nicht das Anliegen, einen Segen zu erteilen, sondern damit, Ursache und Wirkung zu lehren. Wenn *du* diese gute Tat der Großzügigkeit tust, dann *wird* das Folgende *geschehen*. Nicht wegen des *anumodanā*, das vom Saṅgha gegeben wird, sondern durch die Macht deiner eigenen guten Taten.
+Aber diese *anumodanā*-Verse sind spät. In den FBT gab der Buddha selbst das *anumodanā*, und in diesen frühen Formen finden wir nicht den Imperativ auf *-tu*, sondern den Indikativ auf *-ti* mit der Bedeutung „es ist“. Solche Strophen haben nicht das Anliegen, einen Segen zu erteilen, sondern sie wollen Ursache und Wirkung lehren. Wenn *du* diese gute Tat der Großzügigkeit tust, dann *wird* das Folgende *geschehen*. Nicht wegen des *anumodanā*, das vom Saṅgha gegeben wird, sondern durch die Macht deiner eigenen guten Taten.
 
 > *Aggasmiṁ dānaṁ dadataṁ*  
 > *aggaṁ puññaṁ pavaḍḍhati*  
@@ -469,11 +469,11 @@ Die Bedeutung von *anumodanā* ist nicht „Segen“, sondern „sich freuen üb
 
 #### Betonung der Übertragung von Verdiensten
 
-One of the most popular practices in Theravada is the transference of merits to departed relatives when offering a meal to the Sangha (*pattidāna*).
+Eine der beliebtesten Praktiken im Theravada ist die Übertragung von Verdiensten an verstorbene Verwandte, wenn man dem Saṅgha ein Mahl spendet (*pattidāna*).
 
-Similar ideas are alluded to once or twice in the EBTs, but they were not a major part of the Buddha’s teachings. The Buddha emphasized that a happy afterlife was dependent on doing good while we have the chance, not on the acts done by our relatives after we die.
+In den FBT gibt es ein- oder zweimal Anspielungen auf ähnliche Vorstellungen, doch sie waren kein wesentlicher Teil der Lehren des Buddha. Der Buddha betonte, dass ein glückliches Leben nach dem Tod davon abhängt, Gutes zu tun, solange man dazu die Gelegenheit hat, nicht von dem, was unsere Verwandten tun, nachdem wir gestorben sind.
 
-Such practices mostly benefit those who have stayed behind. They give the family a sense of purpose, and unite them in performing a wholesome action at a time when they may be feeling lost or hopeless.
+Solche Praktiken nutzen am meisten den Hinterbliebenen. Sie geben der Familie das Gefühl, ein Ziel zu haben, und verbinden sie im Vollbringen einer heilsamen Handlung zu einer Zeit, zu der sie sich vielleicht verloren oder hoffnungslos fühlen.
 
 ### Saṅgha
 
