@@ -485,9 +485,9 @@ Weder die FBT noch der Theravada benutzen das Wort „Saṅgha“, um sich auf e
 
 Alle Vinayas verbieten Mönchen und Nonnen, Geld zu beutzen. Das war tatsächlich das bestimmende Ereignis des zweiten Konzils, das hundert Jahre nach dem Buddha abgehalten wurde und bei dem das Sammeln und Benutzen von Geld vom gesamten Saṅgha kategorisch zurückgewiesen wurde.
 
-Heutzutage benutzt die große Mehrheit der Mönche und Nonnen im Theravada Geld. Diejenigen, die den Gebrauch von Gld vermeiden, beschränken sich auf kleine Kreise, gewöhnlich in den Waldtraditionen.
+Heutzutage benutzt die große Mehrheit der Mönche und Nonnen im Theravada Geld. Diejenigen, die den Gebrauch von Geld vermeiden, beschränken sich auf kleine Kreise, gewöhnlich in den Waldtraditionen.
 
-Allein das Benutzen von Geld ist aber vielleicht weniger bedeutsam als die Zwecke, zu denen es benutzt wird. Ein bisschen Bargeld zu haben, um einen Bus zu nehmen oder ein Buch zu kaufen, ist eine Sache; eine große Sammlung antiker Autos zusammenzutragen, doch eine andere. Und es ist durchaus möglich, technisch die Regeln über Geld einzuhalten und gleichzeitig ausgedehnte Ressourcen zu bestimmern. Aber es ist doch so, dass das Einhalten der Geldregeln einen großen Bereich an Versuchung und Korruption fernhält.
+Allein das Benutzen von Geld ist aber vielleicht weniger bedeutsam als die Zwecke, zu denen es benutzt wird. Ein bisschen Bargeld zu haben, um einen Bus zu nehmen oder ein Buch zu kaufen, ist eine Sache; eine große Sammlung antiker Autos zusammenzutragen, doch eine andere. Und es ist durchaus möglich, technisch die Regeln über Geld einzuhalten und gleichzeitig über ausgedehnte Ressourcen zu bestimmern. Aber es ist doch so, dass das Einhalten der Geldregeln einen großen Bereich an Versuchung und Korruption fernhält.
 
 #### Hierarchie
 
