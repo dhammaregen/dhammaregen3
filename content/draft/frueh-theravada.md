@@ -477,9 +477,9 @@ Solche Praktiken nutzen am meisten den Hinterbliebenen. Sie geben der Familie da
 
 ### Saṅgha
 
-The code of conduct for Buddhist monastics is laid out in detail in a set of books called the Vinaya-piṭaka, which accompanies the Suttas. The Sangha of all schools has always looked to the Vinaya as its foundational document, and has preserved largely similar Vinayas in multiple languages.
+Die Ordenssatzung für buddhistische Mönche und Nonnen ist ausführlich in einem Satz Bücher dargelegt, der Vinaya-piṭaka genannt wird und der die Suttas begleitet. Der Saṅgha aller Schulen hat immer den Vinaya als sein grundlegendes Dokument angesehen und hat weitgehend ähnliche Vinayas in mehreren Sprachen bewahrt.
 
-Neither the EBTs nor Theravada use the word “Sangha” to refer to a spiritual community in general.
+Weder die FBT noch der Theravada benutzen das Wort „Saṅgha“, um sich auf eine spirituelle Gemeinschaft im Allgemeinen zu beziehen.
 
 #### Mönche und Nonnen und Geld
 
