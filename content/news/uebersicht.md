@@ -8,12 +8,12 @@ order: -9999
 
 Hier finden Sie eine kurze Themenübersicht der bisher erschienenen Newsletter. Klicken sie auf die Überschrift, um zu einem Newsletter zu gelangen.
 
-<!-- ### [September 2023](#/wiki/news/2023-09)
+### [September 2023](#/wiki/news/2023-09)
 - Dhammaregen (Was ist neu?)
 - Eine große Hilfe (AN 3.24)
 - Internationaler Übersetzertag 2023
 - Hat der Buddha das Übersetzen des Dhamma befürwortet? (MN 139, Pli-tv-kd 15, AN 3.70)
-- Bilara (Spendenaufruf) -->
+- Bilara (Spendenaufruf)
 
 ### [Juli 2023](#/wiki/news/2023-07)
 - *Dhammaregen* packt die Koffer
