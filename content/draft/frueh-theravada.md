@@ -491,11 +491,11 @@ Allein das Benutzen von Geld ist aber vielleicht weniger bedeutsam als die Zweck
 
 #### Hierarchie
 
-Modern Theravada is hierarchical, and has often adopted complex sets of titles, awards, and privileges, all of which make up a hierarchically-based system of power.
+Der moderne Theravada ist hierarchisch strukturiert und hat oft komplexe Systeme von Titeln, Auszeichnungen und Privilegien angenommen, die alle ein hierarchiebasiertes Machtsystem darstellen.
 
-Nothing like this is found in the Vinaya. There are no titles, no badges awarded to those of sufficient seniority or achievements. The Buddha is simply referred to as *bhante*, as are the great disciples.
+Nichts dergleichen findet man im Vinaya. Da gibt es keine Titel, keine Abzeichen, die denen verliehen werden, die ausreichend Ordensjahre oder Errungenschaften vorzuweisen haben. Der Buddha wird einfach mit *Bhante* angesprochen, und ebenso die großen Schüler.
 
-The Vinaya does not allow for the exercise of power by one monastic over another. In the Sangha, all are equal, and the only coercive power rests in the Sangha as a whole, when it acts in consensus and according to the Vinaya. Indeed, a junior monastic *should* disobey their elder if they are asked to do something contrary to the Dhamma and Vinaya.
+Der Vinaya erlaubt keinem Ordensangehörigen, Macht über einen anderen Ordensangehörigen auszuüben. Im Saṅgha sind alle gleich, und die einzige zwingende Macht liegt beim Saṅgha als Ganzem, wenn er im Konsens und gemäß dem Vinaya handelt. Tatsächlich *soll* ein kürzer ordinierter Mönch seinem Ältesten den Gehorsam verweigern, wenn dieser ihn anweist, etwas zu tun, das dem Dhamma und dem Vinaya entgegengeht.
 
 #### Staatlich ernannte Amtsträger des Saṅgha
 
