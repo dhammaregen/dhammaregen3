@@ -499,11 +499,11 @@ Der Vinaya erlaubt keinem Ordensangehörigen, Macht über einen anderen Ordensan
 
 #### Staatlich ernannte Amtsträger des Saṅgha
 
-Different Theravada countries, while sharing the same canon and communion, have developed national systems of internal governance.
+Verschiedene Theravadaländer haben zwar den gleichen Kanon und die gleiche Gemeinschaft, aber sie haben nationale Systeme interner Kontrolle entwickelt.
 
-In Thailand, the governing council is appointed by the King, and then it appoints preceptors, who are the only Sangha members legally empowered to perform ordination.
+In Thailand wird das herrschende Kollegium vom König berufen, und es beruft seinerseits Präzeptoren, die als einzige Saṅghamitglieder rechtlich ermächtigt sind, die Ordinationen zu erteilen.
 
-No such system is found in the Vinaya. On the contrary, the role of kings is to support the Sangha, not control it. Ordination is performed by any qualified monastics.
+Kein solches System findet man im Vinaya. Im Gegenteil, die Rolle des Königs ist es, den Saṅgha zu unterstützen, nicht, ihn zu kontrollieren. Die Ordination wird von jedem Ordensmitglied erteilt, das die Voraussetzungen dafür erfüllt.
 
 #### Äbte
 
