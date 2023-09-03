@@ -515,11 +515,11 @@ Das Verhältnis zu den Ordensälteren ist auf Respekt gegründet, nicht auf Befe
 
 #### Nikāyas
 
-Theravada countries have organized their monastic communities in various nikāyas, i.e. orders. (Note that this is a different sense of the word than the “nikāyas” of the Pali canon.) These are administrative bodies that manage monastery properties, organize education, facilitate ordinations, and the like. In some cases, certain nikāyas will not perform acts of the Sangha with those outside their own nikāya, who are considered to be of different communion (*saṁvāsa*).
+Theravadaländer haben ihre Klostergemeinschaften in verschiedene Nikāyas, d. h. Orden, gegliedert. (Man beachte, dass dies eine andere Bedeutung des Wortes ist als bei den „Nikāyas“ des Palikanons.) Diese sind Verwaltungsgremien, die Klosterbesitz verwalten, die Ausbildung organisieren, Ordinationen vermitteln und Ähnliches. In manchen Fällen führen gewisse Nikāyas keine Saṅghaverfahren mit Mönchen außerhalb ihres eigenen Nikāya durch und betrachten diese als einer anderen Gemeinschaft (*saṁvāsa*) angehörig.
 
-There is no such organizational structure found in the EBTs. It is, of course, reasonable to expect that in modern times, with our more complex world, new administrative structures should be formed. However the idea that entire groups of other Sangha should be automatically excluded from performing acts of the Sangha is contrary to the letter and the spirit of the Vinaya. In the Vinaya, dividing or excluding Sangha is only permissible in cases where an individual or group has committed a grave offense and it is no longer possible to consider them as part of the same community.
+Eine solche Organisationsstruktur findet sich in den FBT nicht. Es ist natürlich vernünftig, zu erwarten, dass sich in unserer modernen Zeit mit unserer komplexeren Welt neue Verwaltungsstrukturen herausbilden. Die Idee allerdings, dass ganze Gruppen anderer Saṅghamitglieder von der Durchführung von Saṅghaverfahren von vornherein ausgeschlossen sein sollen, widerspricht sowohl dem Buchstaben als auch dem Geist des Vinaya. Im Vinaya ist das Teilen des Saṅgha oder Ausschließen von Saṅghamitgliedern nur in Fällen erlaubt, in denen ein Einzelner oder eine Gruppe einen schwerwiegenden Verstoß begangen hat und es nicht länger möglich ist, diese als Teil der gleichen Gemeinschaft zu betrachten.
 
-In Sri Lanka, the mainstream Siam Nikaya performs ordination according to caste, which, it should hardly need saying, goes against everything the Buddha said on the topic of caste.
+In Sri Lanka führt der am stärksten vertretene Siam-Nikāya Ordinationen entsprechend der Kaste durch, was, wie man wohl kaum sagen muss, zu allem, was der Buddha zum Thema Kaste gesagt hat, im Widerspruch steht.
 
 #### Ordinationslinien
 
