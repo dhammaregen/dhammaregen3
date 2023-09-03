@@ -529,9 +529,9 @@ Der Vinaya enthält kein Konzept einer Ordinationslinie. Die Aufnahme in den Sa�
 
 #### Nonnen
 
-The Buddha established an order of fully-ordained nuns (*bhikkhunī*). Since around the 12th century, Theravada has lacked a universally accepted bhikkhunī order. Instead of the Buddha’s vision of a spiritual role for women, a variety of other avenues have been developed. While these provide avenues for many women to practice the Dhamma, they do not enjoy the legitimacy of the bhikkhunī order or the governance of the Vinaya, and are carefully set up to ensure the subservience of women. This has led to a situation where some monks believe and act as if nuns are lesser, and assume they have power of command over them.
+Der Buddha richtete einen Orden voll ordinierter Nonnen (*bhikkhunī*) ein. Seit etwa dem 12. Jahrhundert hat der Theravada keinen allgemein akzeptierten Bhikkhuniorden mehr. An Stelle der Vision des Buddha für eine spirituellen Rolle für Frauen wurden mannigfache andere Möglichkeiten entwickelt. Diese bieten zwar vielen Frauen die Möglichkeit, den Dhamma zu üben, doch sie genießen nicht die Legitimität des Bhikkhuniordens oder die Führung durch den Vinaya und sind mit Bedacht so ausgelegt, dass sie die Unterwürfigkeit von Frauen sicherstellen. Das hat zu einer Situation geführt, in der manche Mönche glauben und sich verhalten, als seien Nonnen weniger wert, und annehmen, sie hätten ein Weisungsrecht über sie.
 
-In the Vinaya, the bhikkhunī order is constituted as a fully-empowered and independent order, who undertook ordinations, teaching, practice, and institutional development. This remained the case during the 1500 years Buddhism thrived in India, and remains the case in places with a healthy bhikkhunī order.
+Im Vinaya ist der Bhikkhuniorden als vollständig eigenverantwortlicher und unabhängiger Orden eingerichtet, der Ordinationen vornahm, lehrte, übte und seine Institution entwickelte. Das blieb so während der etwa 1500 Jahre, in denen der Buddhismus in Indien gedieh, und ist immer noch so an Orten mit einem gesunden Bhikkhuniorden.
 
 #### Patriarchat
 
