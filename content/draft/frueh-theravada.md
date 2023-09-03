@@ -529,19 +529,19 @@ Der Vinaya enthält kein Konzept einer Ordinationslinie. Die Aufnahme in den Sa�
 
 #### Nonnen
 
-Der Buddha richtete einen Orden voll ordinierter Nonnen (*bhikkhunī*) ein. Seit etwa dem 12. Jahrhundert hat der Theravada keinen allgemein akzeptierten Bhikkhuniorden mehr. An Stelle der Vision des Buddha für eine spirituellen Rolle für Frauen wurden mannigfache andere Möglichkeiten entwickelt. Diese bieten zwar vielen Frauen die Möglichkeit, den Dhamma zu üben, doch sie genießen nicht die Legitimität des Bhikkhuniordens oder die Führung durch den Vinaya und sind mit Bedacht so ausgelegt, dass sie die Unterwürfigkeit von Frauen sicherstellen. Das hat zu einer Situation geführt, in der manche Mönche glauben und sich verhalten, als seien Nonnen weniger wert, und annehmen, sie hätten ein Weisungsrecht über sie.
+Der Buddha richtete einen Orden voll ordinierter Nonnen (*bhikkhunī*) ein. Seit etwa dem 12. Jahrhundert hat der Theravada keinen allgemein akzeptierten Bhikkhuniorden mehr. An Stelle der Vision des Buddha für eine spirituellen Rolle der Frauen wurden mannigfache andere Möglichkeiten entwickelt. Diese bieten zwar vielen Frauen die Möglichkeit, den Dhamma zu üben, genießen jedoch nicht die Legitimität des Bhikkhuniordens oder die Autorität des Vinaya und sind mit Bedacht so ausgelegt, dass sie eine unterwürfige Rolle von Frauen sicherstellen. Das hat zu einer Situation geführt, in der manche Mönche glauben und sich verhalten, als seien Nonnen weniger wert, und annehmen, sie hätten ein Weisungsrecht über sie.
 
 Im Vinaya ist der Bhikkhuniorden als vollständig eigenverantwortlicher und unabhängiger Orden eingerichtet, der Ordinationen vornahm, lehrte, übte und seine Institution entwickelte. Das blieb so während der etwa 1500 Jahre, in denen der Buddhismus in Indien gedieh, und ist immer noch so an Orten mit einem gesunden Bhikkhuniorden.
 
 #### Patriarchat
 
-Discussion of bhikkhunīs by Theravadin patriarchs focuses on the control offered to them by the so-called garudhammas, and argues for the illegitimacy of the ordination lineage of bhikkhunīs.
+Wenn Theravada-Patriarchen über Bhikkhunis diskutieren, geht es vor allem um die Kontrolle, die ihnen von den sogenannten *Garudhammas* zugestanden wird, und darum, die Unrechtmäßigkeit der Ordinationslinie der Bhikkhunis darzulegen.
 
-These arguments turn the purpose of Vinaya upside-down: Vinaya was established in order to support people to practice the Dhamma and seek liberation, not to prevent and undermine them. For such patriarchs, Vinaya has become, not a platform for liberation, but a means of entrenching privilege.
+Diese Debatten stellen den Sinn des Vinaya auf den Kopf: Der Vinaya wurde eingerichtet, um Menschen darin zu unterstützen, den Dhamma zu üben und Befreiung zu suchen, nicht, um sie davon abzuhalten und sie zu schwächen. Für solche Patriarchen wurde der Vinaya statt eines Sprungbretts zur Befreiung zu einem Mittel, ihr Privileg zu verschanzen.
 
-Research shows that the garudhammas were a later addition, and in their original form were probably established solely for the Buddha’s step-mother, due to her maternal pride in her son. The pride of the Sakyans is a byword in Buddhism, and special disciplinary measures were required for many of the Buddha’s relatives: Devadatta, Upananda, Nanda, Channa.
+Recherchen zeigen, dass die *Garudhammas* ein späterer Zusatz waren, und in ihrer ursprünglichen Form wurden sie wahrscheinlich einzig für die Stiefmutter des Buddha erlassen, aufgrund ihres mütterlichen Stolzes auf ihren Sohn. Der Stolz der Sakyer ist im Buddhismus sprichwörtlich, und für viele der Verwandten des Buddha waren besondere Disziplinarmaßnahmen erforderlich: Devadatta, Upananda, Nanda, Channa.
 
-Regardless of the historical situation, the garudhammas, even in their developed form, fall far short of justifying the control of nuns by monks, still less their extinction. The burden of the garudhammas is to set up relations of respect and support, not dominance and control.
+Unabhängig von der historischen Situation rechtfertigen die *Garudhammas*, selbst in ihrer entwickelten Form, keineswegs, dass Nonnen von Mönchen kontrolliert werden, erst recht nicht, dass sie ausgerottet werden. Der Grundgedanke der *Garudhammas* ist, respektvolle und unterstützende Beziehungen zu schaffen, nicht Dominanz und Kontrolle.
 
 #### Ordination von Bhikkhunīs durch Bhikkhus
 
