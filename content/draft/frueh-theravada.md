@@ -507,11 +507,11 @@ Kein solches System findet man im Vinaya. Im Gegenteil, die Rolle des Königs is
 
 #### Äbte
 
-Theravada monasteries are usually run effectively by the fiat of the abbot. This varies from place to place, but almost everywhere we find the abbot has final say.
+Theravadaklöster werden gewöhnlich durch das Plazet des Abtes erfolgreich geleitet. Das variiert von einem Kloster zum andern, aber fast überall hat der Abt das letzte Wort.
 
-There is no concept of an abbot in the Vinaya. Decisions are made by the Sangha as a whole in accordance with the Dhamma-Vinaya. Sangha officials may be delegated, with authority over their domain, but none who has authority over the domains of others.
+Das Konzept eines Abtes gibt es im Vinaya nicht. Entscheidungen werden vom Saṅgha als Ganzem in Übereinstimmung mit dem Dhamma-Vinaya getroffen. Es können Saṅgha-Amtsträger ernannt werden, die Befugnis über ihren Bereich haben, aber niemand hat Befugnis über die Bereiche anderer.
 
-The relationship to seniority is one of respect, not command. Obviously junior Sangha members are expected to listen to the advice and guidance of the seniors, and normally would follow that. However there is no expectation that they must always follow it, and no punishment or other consequences for disobedience.
+Das Verhältnis zu den Ordensälteren ist auf Respekt gegründet, nicht auf Befehl. Natürlich wird von jüngeren Ordensmitgliedern erwartet, auf den Rat und die Führung der Älteren zu hören, und normalerweise befolgen sie diese. Doch es gibt nicht die Erwartung, dass sie diesen immer folgen müssen, und es gibt keine Strafe oder andere Konsequenzen für Ungehorsam.
 
 #### Nikāyas
 
