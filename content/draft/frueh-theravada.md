@@ -523,9 +523,9 @@ In Sri Lanka führt der am stärksten vertretene Siam-Nikāya Ordinationen entsp
 
 #### Ordinationslinien
 
-Modern Buddhism of all schools, including Theravada, places great stock in the notion of ordination lineages, and the desire for a pure lineage underlies much of the shape of the modern Sangha.
+Der moderne Buddhismus aller Schulen einschließlich des Theravada legt großen Wert auf die Vorstellung von Ordinationslinien, und der Wunsch nach einer reinen Abstammungslinie trägt viel zur Ausprägung des modernen Saṅgha bei.
 
-The Vinaya contains no concept of an ordination lineage. Ordination into the Sangha is designed to facilitate proper support and education for the new student, and is not a quasi-magical initiation. No order of Sangha alive today can prove that its own ordination lineage is “valid” according to its own standards; the historical records simply don’t exist.
+Der Vinaya enthält kein Konzept einer Ordinationslinie. Die Aufnahme in den Saṅgha ist so ausgelegt, dass sie angemessene Unterstützung und Ausbildung für den Neuling ermöglicht; sie ist keine quasi-magische Initiation. Kein heute lebendiger Saṅghaorden kann beweisen, dass seine eigene Ordinationslinie nach seien eigenen Standards „gültig“ ist; die historischen Aufzeichnungen gibt es schlichtweg nicht.
 
 #### Nonnen
 
