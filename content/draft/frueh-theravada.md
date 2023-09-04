@@ -553,11 +553,11 @@ Daneben ist es wichtig, nicht zu vergessen, dass die Theravada-Gemeinschaften ve
 
 #### Frauen Glauben schenken
 
-Der Vinaya behandelt Fälle, in denen ein Mönch von einer vertrauenswürdigen Laienfrau eines sexuellen Fehlverhaltens beschuldigt wird. In solchen Fällen soll mit dem Mönch entsprechend dem Zeugnis der Frau verfahren werden, im Unterschied zu der üblichen Situation, in der das Eingeständnis des Mönchs erforderlich ist.
+Der Vinaya behandelt Fälle, in denen ein Mönch von einer vertrauenswürdigen Laienfrau eines sexuellen Fehlverhaltens beschuldigt wird. In solchen Fällen soll mit dem Mönch entsprechend dem Zeugnis der Frau verfahren werden, im Unterschied zu der üblichen Vorgehensweise, in der das Eingeständnis des Mönchs erforderlich ist.
 
-Die Theravada-Kommentare kippen diese Regelung, sodass dem Zeugnis der Laienfrau nicht mehr zu trauen ist. Das wurde von dem zu der Zeit obersten Patriarchen des thailändischen Buddhismus abgelehnt, der in seinem Vinayamukha – einem Standard-Handbuch des Vinaya bis auf den heutigen Tag – darauf hinwies, dass das die Idee einer „vertrauenswürdigen“ Laienfrau hinfällig  macht.
+Die Theravada-Kommentare kippen diese Regelung, sodass dem Zeugnis der Laienfrau nicht getraut wird. Das wurde von dem zu der Zeit obersten Patriarchen des thailändischen Buddhismus abgelehnt, der in seinem Vinayamukha – einem Standard-Handbuch des Vinaya bis auf den heutigen Tag – darauf hinwies, dass das die Idee einer „vertrauenswürdigen“ Laienfrau hinfällig  macht.
 
-Es gibt viele ähnliche Fälle im gesamten Vinaya, in denen Regeln, die zum Schutz von Frauen gedacht waren, in soche verwandelt werden, die sie diskriminieren. Zum Beispiel sagt der Vinaya, ein Mönch dürfe eine Frau nicht mit wollüstigem Geist sexuell begrapschen. Der moderne Theravada behauptet, dass ein Mönch unabhängig von seinem geistigen Zustand unter keinen Umständen eine Frau berühren dürfe.
+Es gibt viele ähnliche Fälle im gesamten Vinaya, in denen Regeln, die zum Schutz von Frauen gedacht waren, in soche verwandelt werden, die sie diskriminieren. Zum Beispiel sagt der Vinaya, ein Mönch dürfe eine Frau nicht mit wollüstigem Geist sexuell begrapschen. Der moderne Theravada behauptet, dass ein Mönch unabhängig von seinem Geisteszustand unter keinen Umständen eine Frau berühren dürfe.
 
 #### Sektenwesen
 
