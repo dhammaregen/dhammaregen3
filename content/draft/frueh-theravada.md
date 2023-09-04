@@ -549,15 +549,15 @@ Der Pali-Vinaya stellt ausdrücklich fest, dass Mönche Bhikkhunīs ordinieren k
 
 Die zentralen Institutionen des Theravada folgen allerdings dieser vom Buddha direkt erlassenen Entscheidung nicht und behaupten, es gebe keine gültige Möglichkeit, Bhikkhunīs zu ordinieren.
 
-Daneben ist es wichtig, nicht zu vergessen, dass die Theravada-Gemeinschaften verschieden sind, und es gibt viele verschiedene Ansichten und Praktiken innerhalb des ordinierten Saṅgha. Es gibt viele Mönche, die die Entscheidungen derer, die in Machtpositionen sind, zurückweisen.
+Daneben ist es wichtig, nicht zu vergessen, dass die Theravada-Gemeinschaften verschieden sind, und es gibt viele verschiedene Ansichten und Praktiken innerhalb des ordinierten Saṅgha. Es gibt viele Mönche, die die Entscheidungen derer, die in Machtpositionen sind, ablehnen.
 
 #### Frauen Glauben schenken
 
-The Vinaya deals with cases where a monk is accused of sexual misconduct by a trustworthy laywoman. In such cases, the monk should be dealt with according to the testimony of the woman, in contrast with the usual situation where the monk’s confession is required.
+Der Vinaya behandelt Fälle, in denen ein Mönch von einer vertrauenswürdigen Laienfrau eines sexuellen Fehlverhaltens beschuldigt wird. In solchen Fällen soll mit dem Mönch entsprechend dem Zeugnis der Frau verfahren werden, im Unterschied zu der üblichen Situation, in der das Eingeständnis des Mönchs erforderlich ist.
 
-The Theravadin commentaries roll back this allowance, no longer trusting the laywoman’s testimony. This was rejected by the then-Supreme Patriarch of Thai Buddhism, who in his Vinayamukha—a standard manual of Vinaya to this day—pointed out that it rendered moot the idea of a “trustworthy” laywoman.
+Die Theravada-Kommentare kippen diese Regelung, sodass dem Zeugnis der Laienfrau nicht mehr zu trauen ist. Das wurde von dem zu der Zeit obersten Patriarchen des thailändischen Buddhismus abgelehnt, der in seinem Vinayamukha – einem Standard-Handbuch des Vinaya bis auf den heutigen Tag – darauf hinwies, dass das die Idee einer „vertrauenswürdigen“ Laienfrau hinfällig  macht.
 
-There are many similar cases throughout the Vinaya, where rules intended for the protection of women are turned into rules discriminating against them. For example, the Vinaya says that a monk must not sexually grope a woman with a lustful mind. Modern Theravada holds that a monk, regardless of their mental state, can under no circumstances touch a woman.
+Es gibt viele ähnliche Fälle im gesamten Vinaya, in denen Regeln, die zum Schutz von Frauen gedacht waren, in soche verwandelt werden, die sie diskriminieren. Zum Beispiel sagt der Vinaya, ein Mönch dürfe eine Frau nicht mit wollüstigem Geist sexuell begrapschen. Der moderne Theravada behauptet, dass ein Mönch unabhängig von seinem geistigen Zustand unter keinen Umständen eine Frau berühren dürfe.
 
 #### Sektenwesen
 
