@@ -561,11 +561,11 @@ Es gibt viele ähnliche Fälle im gesamten Vinaya, in denen Regeln, die zum Schu
 
 #### Sektenwesen
 
-Eng mit der Vorstellung von einer Ordinationslinie verbunden ist die Vorstllung von der Reinheit einer Sekte. Der Theravada im Allgemeinen und gewisse Strömungen im Theravada im Besonderen legen großen Wert auf ihren eigenen Status als reine, ursprüngliche Repräsentation der Lehre. Das führt dazu, dass auf Saṅghaangehörige anderer Sekten und Traditionen herabgesehen und diese nicht ernst genommen und manchmal als keine richtigen Mönche und Nonnen oder sogar als keine richtigen Buddhisten angesehen werden.
+Eng mit der Vorstellung von einer Ordinationslinie verbunden ist die Vorstllung von der Reinheit einer Gruppierung. Der Theravada im Allgemeinen und gewisse Strömungen im Theravada im Besonderen legen großen Wert auf ihren eigenen Status als reine, ursprüngliche Repräsentation der Lehre. Das führt dazu, dass auf Saṅghaangehörige anderer Gruppierungen und Traditionen herabgesehen und diese nicht ernst genommen und manchmal als keine richtigen Mönche und Nonnen oder sogar als keine richtigen Buddhisten angesehen werden.
 
-Für den Buddha ist „Reinheit“ innerlich, nicht äußerlich. Sie sitzt nicht in der Identität einer Gruppe, sondern in der mit reinem Herzen durchgeführten Übung von Menschen. Sobald wir Reinheit mit einer Sekte gleichsetzen, laden wir im selben Moment Menschen von schamlosem Verhalten ein, sich unter dem Deckmantel der Reinheit zu verstecken.
+Für den Buddha ist „Reinheit“ innerlich, nicht äußerlich. Sie sitzt nicht in der Identität einer Gruppe, sondern in der mit reinem Herzen durchgeführten Übung von Menschen. Sobald wir Reinheit mit einer Gruppierung gleichsetzen, laden wir im selben Moment Menschen von schamlosem Verhalten ein, sich unter dem Deckmantel der Reinheit zu verstecken.
 
-In allen Sekten und Traditionen des Buddhismus gibt es Solche, die mit Ernsthaftigkeit und Mitgefühl praktizieren, und Solche, die von Gier und Anmaßung angetrieben werden. Solange wir die Gelegenheit haben, das Unheilsame loszulassen und das Heilsame zu entwickeln, solange können wir im Dhamma wachse, ganz gleich, wo wir sind.
+In allen Gruppierungen und Traditionen des Buddhismus gibt es Solche, die mit Ernsthaftigkeit und Mitgefühl praktizieren, und Solche, die von Gier und Anmaßung angetrieben werden. Solange wir die Gelegenheit haben, das Unheilsame loszulassen und das Heilsame zu entwickeln, solange können wir im Dhamma wachsen, ganz gleich, wo wir sind.
 
 #### Die edlen Menschen und Geistmomente
 
