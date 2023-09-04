@@ -555,17 +555,17 @@ Daneben ist es wichtig, nicht zu vergessen, dass die Theravada-Gemeinschaften ve
 
 Der Vinaya behandelt Fälle, in denen ein Mönch von einer vertrauenswürdigen Laienfrau eines sexuellen Fehlverhaltens beschuldigt wird. In solchen Fällen soll mit dem Mönch entsprechend dem Zeugnis der Frau verfahren werden, im Unterschied zu der üblichen Vorgehensweise, in der das Eingeständnis des Mönchs erforderlich ist.
 
-Die Theravada-Kommentare kippen diese Regelung, sodass dem Zeugnis der Laienfrau nicht getraut wird. Das wurde von dem zu der Zeit obersten Patriarchen des thailändischen Buddhismus abgelehnt, der in seinem Vinayamukha – einem Standard-Handbuch des Vinaya bis auf den heutigen Tag – darauf hinwies, dass das die Idee einer „vertrauenswürdigen“ Laienfrau hinfällig  macht.
+Die Theravada-Kommentare kippen diese Regelung, sodass dem Zeugnis der Laienfrau nicht mehr getraut wird. Das wurde von dem zu der Zeit obersten Patriarchen des thailändischen Buddhismus abgelehnt, der in seinem Vinayamukha – einem Standard-Handbuch des Vinaya bis auf den heutigen Tag – darauf hinwies, dass das die Idee einer „vertrauenswürdigen“ Laienfrau hinfällig  macht.
 
 Es gibt viele ähnliche Fälle im gesamten Vinaya, in denen Regeln, die zum Schutz von Frauen gedacht waren, in soche verwandelt werden, die sie diskriminieren. Zum Beispiel sagt der Vinaya, ein Mönch dürfe eine Frau nicht mit wollüstigem Geist sexuell begrapschen. Der moderne Theravada behauptet, dass ein Mönch unabhängig von seinem Geisteszustand unter keinen Umständen eine Frau berühren dürfe.
 
 #### Sektenwesen
 
-Closely related to the notion of ordination lineage is the idea of sectarian purity. Theravada generally, and certain strands within Theravada in particular, place great weight on their own status as a pure, original representation of the teaching. This leads to the deprecation and dismissal of Sangha of other sects and traditions, who are sometimes seen as not really monastics, or even not really Buddhists.
+Eng mit der Vorstellung von einer Ordinationslinie verbunden ist die Vorstllung von der Reinheit einer Sekte. Der Theravada im Allgemeinen und gewisse Strömungen im Theravada im Besonderen legen großen Wert auf ihren eigenen Status als reine, ursprüngliche Repräsentation der Lehre. Das führt dazu, dass auf Saṅghaangehörige anderer Sekten und Traditionen herabgesehen und diese nicht ernst genommen und manchmal als keine richtigen Mönche und Nonnen oder sogar als keine richtigen Buddhisten angesehen werden.
 
-For the Buddha, “purity” is internal, not external. It does not reside in a group identity, but in the pure-hearted practice of people. Once we identify purity with a sect, we immediately invite those of corrupt behavior to hide under the cloak of purity.
+Für den Buddha ist „Reinheit“ innerlich, nicht äußerlich. Sie sitzt nicht in der Identität einer Gruppe, sondern in der mit reinem Herzen durchgeführten Übung von Menschen. Sobald wir Reinheit mit einer Sekte gleichsetzen, laden wir im selben Moment Menschen von schamlosem Verhalten ein, sich unter dem Deckmantel der Reinheit zu verstecken.
 
-Within all sects and traditions of Buddhism, there are those who practice with sincerity and compassion, and those driven by greed and conceit. So long as we have the opportunity to let go of the unwholesome and develop the wholesome, we can grow in the Dhamma wherever we are.
+In allen Sekten und Traditionen des Buddhismus gibt es Solche, die mit Ernsthaftigkeit und Mitgefühl praktizieren, und Solche, die von Gier und Anmaßung angetrieben werden. Solange wir die Gelegenheit haben, das Unheilsame loszulassen und das Heilsame zu entwickeln, solange können wir im Dhamma wachse, ganz gleich, wo wir sind.
 
 #### Die edlen Menschen und Geistmomente
 
