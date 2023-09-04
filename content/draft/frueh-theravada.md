@@ -545,11 +545,11 @@ Unabhängig von der historischen Situation rechtfertigen die *Garudhammas*, selb
 
 #### Ordination von Bhikkhunīs durch Bhikkhus
 
-The Pali Vinaya explictly states that monks may ordain bhikkhunīs. This allowance was set up in the early days, when there were no senior nuns. Later, it was superseded in practice by the dual ordination by monks and nuns. However the original allowance was never suspended and remains in operation.
+Der Pali-Vinaya stellt ausdrücklich fest, dass Mönche Bhikkhunīs ordinieren können. Diese Erlaubnis wurde in den ersten Tagen erteilt, als es noch keine altehrwürdigen Nonnen gab. Später wurde sie in der Praxis von der dualen Ordination durch Mönche und Nonnen abgelöst. Doch die ursprüngliche Erlaubnis wurde nie aufgehoben und bleibt in Kraft.
 
-The central institutions of modern Theravada, however, do not follow this direct ruling by the Buddha, and hold that there is no valid way to ordain bhikkhunīs.
+Die zentralen Institutionen des Theravada folgen allerdings dieser vom Buddha direkt erlassenen Entscheidung nicht und behaupten, es gebe keine gültige Möglichkeit, Bhikkhunīs zu ordinieren.
 
-Having said which, it is important to remember that Theravadin communities are diverse, and there are many different views and practices within the monastic Sangha. There are many monks who reject the rulings of those in power.
+Daneben ist es wichtig, nicht zu vergessen, dass die Theravada-Gemeinschaften verschieden sind, und es gibt viele verschiedene Ansichten und Praktiken innerhalb des ordinierten Saṅgha. Es gibt viele Mönche, die die Entscheidungen derer, die in Machtpositionen sind, zurückweisen.
 
 #### Frauen Glauben schenken
 
