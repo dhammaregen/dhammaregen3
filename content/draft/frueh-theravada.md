@@ -569,14 +569,14 @@ In allen Gruppierungen und Traditionen des Buddhismus gibt es Solche, die mit Er
 
 #### Die edlen Menschen und Geistmomente
 
-As well as referring to the monastic community, the Buddha used the word Sangha to refer to the community of enlightened disciples, i.e. the four persons on the paths and fruits.
+Der Buddha bezog sich mit dem Wort Saṅgha auf die klösterliche Gemeinschaft, und daneben gebrauchte er es auch, um von der Gemeinschaft der erleuchteten Schüler zu sprechen, d. h. von den vier Arten von Menschen, die die Pfade und Früchte erreicht haben.
 
-In Theravada, these came to be understood as having the “ultimate” meaning of a few mind-moments: a flash of realization as one steps to a new level of the path.
+Im Theravada hat sich das Verständnis durchgesetzt, dass damit im „absoluten“ Sinn wenige Geistmomente gemeint sind: ein Blitz der Verwirklichung, wenn man eine neue Ebene des Pfade betritt.
 
-In the EBTs, in line with the fact that the entire idea of mind-moments is not found, those on the path are clearly “persons” who are practicing a path, and who might, for example, sit down and eat a meal.
+In Übereinstimmung mit der Tatsache, dass man die ganze Vorstellung von Geistmomenten in den FBT nicht findet, sind dort diejenigen, die auf dem Pfad sind, eindeutig „Personen“, die einen Pfad üben und die sich zum Beispiel hinsetzen und eine Mahlzeit zu sich nehmen.
 
-The contradiction on this point between the Suttas and the commentaries is so clear that is was, for me, the defining issue that made me realize I could not always trust the commentaries. Previously, I had been convinced of the essential correctness of the commentarial perspective, but this was impossible to sustain once I studied the relevant Sutta passages, which are many and definitive.
+In diesem Punkt ist der Widerspruch zwischen den Suttas und den Kommentaren so klar, dass er für mich die entscheidende Sache war, durch die ich verstand, dass ich den Kommentaren nicht immer vertrauen kann. Bis dahin war ich von der grundsätzlichen Richtigkeit der Perspektive der Kommentare überzeugt gewesen, aber diese Überzeugung konnte unmöglich aufrechterhalten werden, sobald ich die entsprechenden Suttastellen studierte, von denen es viele gibt und die eindeutig sind.
 
-This change was hard for me to accept; it’s never easy to admit when you’re wrong, and it’s also not easy to step out from the comforting shelter of orthodoxy. But ultimately it gave me strength, because I realized that the tradition was not a set of dogmas that I had to adhere to, but a living conversation that I was a part of.
+Dieser Wechsel war schwer zu akzeptieren; es ist nie leicht, zuzugeben, dass man falsch liegt, und es ist auch  nicht leicht, aus dem behaglichen Schutz der Orthodoxie herauszutreten. Aber letzten Endes verlieh es mir Stärke, weil ich erkannte, dass die Tradition kein Satz von Dogmen ist, an denen ich festhalten muss, sondern ein lebendiger Austausch, von dem ich ein Teil war.
 
-Let’s aspire to leave our tradition healthier than we found it. Mere preservation is not enough. Each one of us, regardless of what school, tradition, or religion we adhere to, is swimming in the great stream of the Buddha’s teachings. We all belong here. The Buddha offered his teaching to all of us so that we may be free.
+So wollen wir danach trachten, unsere Tradition gesünder zu interlassen als wir sie vorfanden. Reine Bewahrung ist nicht genug. Jeder von uns, unabhängig von Schule, Tradition oder Religion, der wir angehören, schwimmt im großen Strom der Lehren des Buddha. Wir alle gehören hierhin. Der Buddha schenkte seine Lehren allen von uns, damit wir frei werden können.
