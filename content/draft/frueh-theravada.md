@@ -113,7 +113,7 @@ Das intensive Retreat hat vielen Menschen, auch mir, eine entscheidende Initialz
 
 Es ist vielleicht eine menschliche Neigung und nicht so sehr eine Neigung des Theravada, aber man sieht häufig Theravada-Anhänger dabei, zu analysieren und darüber zu debattieren, was das *absolute Minimum* ist, das sie üben und erreichen können.
 
-Mehrere moderne Meditationsschulen wurden auf der Vorstellung aufgebaut, dass man den Stromeintritt gewinnen soll als das absolute Minimum, um auf den Pfad zu gelangen. Die gesamte Struktur ihrer Retreats gründet sich auf diese Vorstellung. Sobald man diesen Wert im Geist der Menschen verankert, neigen sie dazu, den Fokus zu verschieben von „Was kann ich loslassen?“ zu „Habe ich es schon geschafft?“ Diese Art des weltlichen Denkens ist mehr dem Materialismus des 20. Jahrhunderts geschuldet als dem Buddha.
+Mehrere moderne Meditationsschulen wurden auf der Vorstellung aufgebaut, dass man den Stromeintritt gewinnen soll als das absolute Minimum, um auf den Pfad zu gelangen. Die gesamte Struktur ihrer Retreats gründet sich auf diese Vorstellung. Sobald man diesen Wert im Geist der Menschen verankert, neigen sie dazu, den Fokus zu verschieben von „was kann ich loslassen?“ zu „habe ich es schon geschafft?“ Diese Art des weltlichen Denkens ist mehr dem Materialismus des 20. Jahrhunderts geschuldet als dem Buddha.
 
 Insbesondere wird dabei die Rolle der Jhānas zum Problem erhoben. Moderne Theravada-Anhänger argumentieren ständig, dass man sie nicht brauche oder dass sie in Wirklichkeit bloß oberflächliche Meditationszustände seien, in denen man sich wegdenke und glücklich fühle. Sie warnen einen, sich nicht an die Jhānas zu hängen, und argumentieren, es „reiche aus“, einfach nur auf alltägliche Geisteszustände achtsam zu sein. Das ist von den FBT weit entfernt, wo die Jhānas einen Höhepunkt auf dem Pfad darstellen und ausnahmslos als tiefgründige Geisteszustände gepriesen werden, die aus weitreichendem Loslassen hervorgehen.
 
@@ -139,7 +139,7 @@ Der Buddha der FBT ist menschlicher, und man kann sich leichter mit ihm identifi
 
 Der Theravada lehrt, wie alle modernen Schulen des Buddhismus, über den Bodhisatta, den „künftigen Buddha“, der aus Mitgefühl mit allen Lebewesen seine spirituellen Eignschaften über unzählige Leben hinweg entwickelte mit dem Ziel, Buddhaschaft zu erlangen. Es heißt, der Bodhisatta legte vor langer Zeit unter einem früheren Buddha ein entsprechendes Gelübde ab.
 
-In den FBT finden wir keine solche Vorstellung. Der Begriff *bodhisatta* beschreibt gewöhnlich den jungen Siddhattha während seines Strebens nach dem Erwachen, nachdem er sein Heim verlassen hat. Die Lehrreden dehnen das, das ist wahr, bis zu Siddhatthas Geburt aus, aber das ist wahrscheinlich eine spätere Entwicklung.
+In den FBT finden wir keine solche Vorstellung. Der Begriff *bodhisatta* beschreibt gewöhnlich den jungen Siddhattha während seines Strebens nach dem Erwachen, nachdem er sein Heim verlassen hat. Die Lehrreden dehnen das, es ist wahr, bis zu Siddhatthas Geburt aus, aber das ist wahrscheinlich eine spätere Entwicklung.
 
 Statt der üblichen Bedeutung „Erleuchtungswesen“ (Sanskrit: *bodhisattva*) scheint „einer, der zum Erwachen entschlossen ist“ (Sanskrit: *bodhiśakta*) eine sachdienlichere Bedeutung zu sein. Die beiden Wörter unterscheiden sich im Sanskrit, aber sind im Pali gleich (*bodhisatta*).
 
@@ -168,13 +168,13 @@ Aus diesem Grund zählen Jātakas nicht zu den FBT, und obwohl Experten des frü
 
 Die Tradition sagt uns, der Buddha stamme aus einer bedeutenden königlichen Familie, und sein Vater sei der König der Sakyer gewesen.
 
-Nach den FBT waren die Sakyer eine aristokratische Republik, die ihre Anführer aus den führenden landbesitzenden Stämmen wählte. Solche Anführer waren als *rājā* bekannt, und in diesem Sinn können wir tatsächlich zustimmen, dass die Familie des Buddha königlich war. Aber das Führungsmodell unterschied sich deutlich von der Idee einer absoluten erblichen Monarchie, die in der Vorstellung von einem „König“ einbegriffen ist.
+Nach den FBT waren die Sakyer eine aristokratische Republik, die ihre Anführer aus den führenden landbesitzenden Stämmen wählte. Solche Anführer waren als *rājā* bekannt, und in diesem Sinn können wir tatsächlich zustimmen, dass die Familie des Buddha königlich war. Aber das Führungsmodell unterschied sich deutlich von der Idee einer absoluten erblichen Monarchie, die zur Vorstellung von einem „König“ gehört.
 
 #### Die vier Zeichen
 
 Die Tradition sagt uns, Siddhattha sei vom unerwarteten Anblick von vier Zeichen zum Fortziehen bewogen worden, die sein Vater versucht habe, vor ihm zu verbergen: einem Alten, einem Kranken, einem Toten und einem Hauslosen.
 
-Die FBT hingegen erzählen diese Geschichte über den Buddha Vipassī und setzen sie in eine Zeit weit zurück in legendärer Vergangenheit. Unser Buddha der Gegenwart gab einen ähnlichen Beweggrund für sein Fortziehen an – ein Entrinnen von Wiedergeburt, Alter und Tod zu suchen –, aber ohne die dramatische Erzählung von den vier Zeichen. In dem übersehenen Attadaṇḍa-Sutta erklärt er weiter, dass er fortgezogen sei, nachdem er den Unfrieden und die gewaltsamen Konflikte in der Welt gesehen habe.
+Die FBT hingegen erzählen diese Geschichte über den Buddha Vipassī und setzen sie in eine Zeit weit zurück in legendärer Vergangenheit. Unser Buddha der Gegenwart gab einen ähnlichen Beweggrund für sein Fortziehen an – ein Entrinnen von Wiedergeburt, Alter und Tod zu suchen –, aber ohne die dramatische Erzählung von den vier Zeichen. In dem übersehenen [Attadaṇḍa-Sutta](#/sutta/snp4.15/de/sabbamitta) erklärt er weiter, dass er fortgezogen sei, nachdem er den Unfrieden und die gewaltsamen Konflikte in der Welt gesehen habe.
 
 #### Tathāgata
 
@@ -204,7 +204,7 @@ Die seltenen Fälle, in denen es heißt, er habe historische Ereignisse vorherge
 
 Verschiedene buddhistische Traditionen geben den Glauben weiter, der Buddha hätte ihr Land besucht und eine Prophezeiung über das Blühen des Dhamma dort gemacht.
 
-Die FBT machen es allerdings klar, dass der Buddha die Gangesebene nicht verließ. Tausende von Suttas bezeichnen Orte in dieser Gegend, immer mit einem hohen Grad an interner Widerspruchsfreiheit, und diese korrelieren gut mit späteren Aufzeichnugnen und aktueller Archäologie. Es ist nicht nur keine Rede von Reisen in Länder außerhalb dieses Bereichs, sondern wenn solche Länder erwähnt werden, nehmen sie eine legendäre und fantasievolle Form an, was zeigt, dass sie nur vom Hörensagen und aus Berichten bekannt waren.
+Die FBT machen es allerdings klar, dass der Buddha die Gangesebene nicht verließ. Tausende von Suttas bezeichnen Orte in dieser Gegend, immer mit einem hohen Grad an interner Widerspruchsfreiheit, und diese korrelieren gut mit späteren Aufzeichnugnen und aktueller Archäologie. Es ist nicht nur keine Rede von Reisen in Länder außerhalb dieses Bereichs, sondern wenn solche Länder erwähnt werden, nehmen sie eine legendenhafte und fantasievolle Form an, was zeigt, dass sie nur vom Hörensagen und aus Berichten bekannt waren.
 
 #### Buddhabildnisse
 
@@ -264,7 +264,7 @@ Obwohl nun die Wiedergeburt nicht vom letzten „Gedanken“ geleitet wird, gibt
 
 Normalerweise stirbt man nicht so, und die meisten Menschen begehen zum Zeitpunkt des Todes keine moralisch bedeutsamen Taten. Ihre Wiedergeburt wird zum größten Teil durch die Taten bestimmt werden, die sie im Lauf ihres Lebens getan haben. Tatsächlich wird dieses Verständnis in der Abhidhamma-Tradition fortgeführt, die die verschiedenen Arten von Kamma beschreibt, die zur Zeit des Todes vorherrschen können. Praktisch gesehen wird das Kamma in Todesnähe aber stark herausgestellt.
 
-Offensichtlich ist es eine gute Sache, Sterbende zu unterstützen und ihnen zu helfen, einen heilsamen Geisteszustand aufrechtzuerhalten. Aber wir müssen keine Angst haben, dass ein einzelner verirrter Gedanke uns zu einer schlechten Wiedergeburt stößt. Wie der Buddha zu seinem Verwandten Mahānāma sagte: „Hab keine Furcht, hab keine Furcht!“ Jemand, der ein gutes Leben geführt hat, wird eine gute Wiedergeburt haben.
+Offensichtlich ist es eine gute Sache, Sterbende zu unterstützen und ihnen zu helfen, einen heilsamen Geisteszustand aufrechtzuerhalten. Aber wir müssen keine Angst haben, dass ein einzelner verirrter Gedanke uns zu einer schlechten Wiedergeburt stößt. Wie der Buddha zu seinem Verwandten Mahānāma sagte: „[Hab keine Furcht, hab keine Furcht!](#/sutta/sn55.21:2.1/de/sabbamitta)“ Jemand, der ein gutes Leben geführt hat, wird eine gute Wiedergeburt haben.
 
 #### Der Zwischenzustand
 
@@ -368,7 +368,7 @@ Der Fainess halber muss man sagen, dass der Visuddhimagga das anerkennt und zugi
 
 #### Nāmarūpa als „Geist und Körper“
 
-Im Theravada hört man häufig, dass die Pali-Wendung *nāmarūpa* als „Geist und Körper“ definiert wird. *Nāma*, heißt es, bestehe aus den vier nicht materiellen Aggregaten einschließlich des Bewusstseins.
+Im Theravada hört man häufig, dass die Pali-Wendung *nāmarūpa* als „Geist und Körper“ definiert wird. *Nāma*, heißt es, bestehe aus den vier nicht-materiellen Aggregaten einschließlich des Bewusstseins.
 
 Die FBT definieren *nāma* als „Gefühl, Wahrnehmung, Absicht, Berührung und Aufmerksamkeit“ und schließen somit speziell das Bewusstsein aus. Man beachte aber, dass das Wort innerhalb der FBT auf verschiedene Arten behandelt wird. Manchmal finden wir auch eine Definition, die Bewusstsein einschließt. Ich würde das allerdings als aufkeimenden Einfluss des Abhidhamma betrachten.
 
@@ -378,7 +378,7 @@ In den FBT gibt es kein dualistisches Konzept von „Körper und Geist“. Geist
 
 Wenn zum Beispiel die Aggregate aufgegliedert werden, wird „Form“ nicht von den vier immateriellen Aggregaten getrennt. Es ist vielmehr das Bewusstsein, das abgegrenzt wird und dem alle anderen gegenüberstehen.
 
-#### Nimitta: die Grundlage für die Meditation
+#### Nimitta: Grundlage für die Meditation
 
 Der Visuddhimagga beschreibt ausführlich die Entwicklung des sogenannten *nimitta* in der Meditation. Das *nimitta* ist eine Wahrnehmung, die typischerweise als Licht gesehen wird, die aufkommt und sich stabilisiert, je mehr man beim Meditieren frei von Hindernissen wird. Diese Terminologie ist inzwischen in den modernen Meditationsdiskurs eingraviert.
 
@@ -398,19 +398,19 @@ Die *kasiṇa*-Meditationen wurden aus ihrer relativen Unbekanntheit in den FBT 
 
 #### Ekāyana: wo alle Dinge als Eins zusammenkommen
 
-Diesen Ausdruck findet man in prominenter Position im Satipaṭṭhānasutta, wo ihm vom Kommentar ein breites Spektum an Interpretationen gegeben wird. Es zeigt sich aber, dass keine dieser Lesarten – wie auch keine der weiteren Lesarten, die von chinesischen Texten angeboten werden – stichhaltig ist, da sie sich anscheinend nicht darüber im Klaren waren, dass der Buddha einen brahmanischen Ausdruck mit einer spezifischen Bedeutung benutzte.
+Diesen Ausdruck findet man in prominenter Position im Satipaṭṭhānasutta, wo ihm vom Kommentar ein breites Spektum an Interpretationen gegeben wird. Es zeigt sich aber, dass keine dieser Lesarten – wie auch keine der weiteren Lesarten, die von chinesischen Texten angeboten werden – stichhaltig ist, da die Autoren sich anscheinend nicht darüber im Klaren waren, dass der Buddha einen brahmanischen Ausdruck mit einer spezifischen Bedeutung benutzte.
 
-Das Wort *ekāyana* kann auf viele verschiedene Arten gebraucht werden, aber im spirituellen und philosophischen Sinn bedeutet es „Ort des Einswerdens“, wo alle Dinge als eins zusammenkommen. Das ist hier die Bedeutung: Die *Satipaṭṭhānas* sind die „Grundlage des Samādhi“, und sie zu üben, führt zum „Einswerden“ des Geistes im Jhāna.
+Das Wort *ekāyana* kann auf viele verschiedene Arten gebraucht werden, aber im spirituellen und philosophischen Sinn bedeutet es „Ort des Einswerdens“, wo alle Dinge als Eins zusammenkommen. Das ist hier die Bedeutung: Die *Satipaṭṭhānas* sind die „Grundlage des Samādhi“, und sie zu üben, führt zum „Einswerden“ des Geistes im Jhāna.
 
 #### Muta: das Gedachte
 
-Es gibt eine bekannte Abfolge von Erscheinungen in den FBT: was gesehen, gehört, gedacht (*muta*) und erkannt wird. Von einer frühen Zeit an wurde *muta* im Theravada und in vielen Schulen so interpretiert, als bedeute es, was von den anderen Sinnen außer dem Seh-, dem Hör- und dem Denksinn erfahren wird.
+Es gibt eine bekannte Abfolge von Erscheinungen in den FBT: was gesehen, gehört, gedacht (*muta*) und erkannt wird. Von einer frühen Zeit an wurde *muta* im Theravada und in vielen Schulen so interpretiert, als bedeute es das, was von den anderen Sinnen außer dem Seh-, dem Hör- und dem Denksinn erfahren wird.
 
 *Muta* ist allerdings das Partizip der Vergangenheit von *maññati* („gedacht“), und es hat in den FBT immer diese Bedeutung.
 
 Diese Reihe von Erscheinungen ist aus den Upaniṣaden hergeleitet. Und wie K.L. Jayatilleke gezeigt hat, war sie nicht als umfassende Beschreibung der Sinneswahrnehmung gedacht, sondern als eine Aufgliederung der Mittel zur Erkenntnis, besonders von spirituellen Lehren.
 
-Die Bedeutung wurde von den Abhidhammikas nachträglich so angepasst, dass es eine Kurzform für die sechs Sinne wurde. Der Abhidhamma befasst sich nicht damit, auf Brahmanen einzugehen, sondern damit, verschiedene buddhistische Lehren zueinander passend zu machen. Das führt dazu, dass der Schwerpunkt und die Bedeutung der Passagen verschoben werden, in denen sie vorkommen: Ursprünglich steht bei den sechs Sinnen die Sinnlichkeit und das Überwinden von Begierde im Fokus, wohingegen die Vier einschließlich *muta* sich auf Mittel zum Lernen spiritueller Lehren und zum Überwinden dogmatischer Ansichten ausrichten.
+Die Bedeutung wurde von den Abhidhammikas nachträglich so angepasst, dass es eine Kurzform für die sechs Sinne wurde. Der Abhidhamma befasst sich nicht damit, auf Brahmanen einzugehen, sondern damit, verschiedene buddhistische Lehren zueinander passend zu machen. Das führt dazu, dass Schwerpunkt und Bedeutung der Passagen verschoben werden, in denen sie vorkommen: Ursprünglich steht bei den sechs Sinnen die Sinnlichkeit und das Überwinden von Begierde im Fokus, wohingegen die Vier einschließlich *muta* sich auf Mittel zum Lernen spiritueller Lehren und zum Überwinden dogmatischer Ansichten ausrichten.
 
 #### Saṅkhāra: Entscheidungen
 
@@ -437,7 +437,7 @@ Die Theravada-Kommentare bemühen sich unbeholfen um die Vorstellung, Nibbana k�
 
 Für die FBT auf der anderen Seite ist jede Art von Bewusstsein Leiden, und Nibbana ist das Aufhören des Leidens. Der „strahlende Geist“ und ähnliche Begriffe beziehen sich auf die Jhānas.
 
-Stellen, die zum Untermauern der These vom transzendenten Bewusstsein zitiert werden, landen ausnahmslos dabei, dass sie ein paar Passagen von dubioser Interpretation herauspicken und die große Masse eindeutiger Lehren über das Thema missachten.
+Stellen, die zum Untermauern der These vom transzendenten Bewusstsein zitiert werden, laufen ausnahmslos darauf hinaus, dass sie ein paar Passagen von dubioser Interpretation herauspicken und die große Masse eindeutiger Lehren über das Thema missachten.
 
 #### Rūpa-Kalāpas und die höchste Analyse der Materie
 
@@ -455,15 +455,14 @@ Die FBT sprechen von wechselseitiger Abhängigkeit zwischen Geist und Körper, a
 
 #### Ti statt tu
 
-Eins der ersten Stückchen Pali, die Sie zu hören bekommen, ist der *anumodanā*-Chant („Segenschant“) der Mönche oder Nonnen bei der Essensspende. Heutzutage benutzen wir oft eine Pali-Wortform, die auf *-tu* endet. Das ist die Imperativform, die die Bedeutung hat „möge es sein“. Zum Beispiel *bhava**tu** sabbamaṅgalaṁ, rakkhan**tu** sabbadevatā*, „Möget ihr alles Glück haben, mögen alle Götter euch beschützen“. Das bedeutet, dass der Saṅgha, indem er das *anumodanā* gibt, der Laiengemeinschaft einen Segen erteilt.
+Eins der ersten Stückchen Pali, die Sie zu hören bekommen, ist der *anumodanā*-Chant („Segenschant“) der Mönche oder Nonnen bei der Essensspende. Heutzutage benutzen wir oft eine Pali-Wortform, die auf *-tu* endet. Das ist die Imperativform, die die Bedeutung hat „es möge sein“. Zum Beispiel *bhava**tu** sabbamaṅgalaṁ, rakkhan**tu** sabbadevatā*, „Möget ihr alles Glück haben, mögen alle Götter euch beschützen“. Das bedeutet, dass der Saṅgha, indem er das *anumodanā* gibt, der Laiengemeinschaft einen Segen erteilt.
 
 Aber diese *anumodanā*-Verse sind spät. In den FBT gab der Buddha selbst das *anumodanā*, und in diesen frühen Formen finden wir nicht den Imperativ auf *-tu*, sondern den Indikativ auf *-ti* mit der Bedeutung „es ist“. Solche Strophen haben nicht das Anliegen, einen Segen zu erteilen, sondern sie wollen Ursache und Wirkung lehren. Wenn *du* diese gute Tat der Großzügigkeit tust, dann *wird* das Folgende *geschehen*. Nicht wegen des *anumodanā*, das vom Saṅgha gegeben wird, sondern durch die Macht deiner eigenen guten Taten.
 
-> *Aggasmiṁ dānaṁ dadataṁ*  
+> *[Aggasmiṁ dānaṁ dadataṁ](#/sutta/an4.34:7.1/de/sabbamitta)*  
 > *aggaṁ puññaṁ pavaḍḍhati*  
 > Wer so den Besten Spenden gibt,  
-> dem erwächst das beste Verdienst.  
-> (z. B. in [AN 4.34:7.1](#/sutta/an4.34:7.1/de/sabbamitta))
+> dem erwächst das beste Verdienst.
 
 Die Bedeutung von *anumodanā* ist nicht „Segen“, sondern „sich freuen über“. Es fungiert als Erinnerung daran, dass man, wenn man etwas Gutes tut, über die eigenen guten Taten und die anderer glücklich sein soll.
 
@@ -487,7 +486,7 @@ Alle Vinayas verbieten Mönchen und Nonnen, Geld zu beutzen. Das war tatsächlic
 
 Heutzutage benutzt die große Mehrheit der Mönche und Nonnen im Theravada Geld. Diejenigen, die den Gebrauch von Geld vermeiden, beschränken sich auf kleine Kreise, gewöhnlich in den Waldtraditionen.
 
-Allein das Benutzen von Geld ist aber vielleicht weniger bedeutsam als die Zwecke, zu denen es benutzt wird. Ein bisschen Bargeld zu haben, um einen Bus zu nehmen oder ein Buch zu kaufen, ist eine Sache; eine große Sammlung antiker Autos zusammenzutragen, doch eine andere. Und es ist durchaus möglich, technisch die Regeln über Geld einzuhalten und gleichzeitig über ausgedehnte Ressourcen zu bestimmern. Aber es ist doch so, dass das Einhalten der Geldregeln einen großen Bereich an Versuchung und Korruption fernhält.
+Allein das Benutzen von Geld ist aber vielleicht weniger bedeutsam als die Zwecke, zu denen es benutzt wird. Ein bisschen Bargeld zu haben, um einen Bus zu nehmen oder ein Buch zu kaufen, ist eine Sache; eine große Sammlung antiker Autos zusammenzutragen, doch eine andere. Und es ist durchaus möglich, technisch die Regeln über Geld einzuhalten und gleichzeitig über ausgedehnte Ressourcen zu bestimmern. Doch es ist schon so, dass das Einhalten der Geldregeln einen großen Bereich an Versuchung und Korruption fernhält.
 
 #### Hierarchie
 
@@ -525,11 +524,11 @@ In Sri Lanka führt der am stärksten vertretene Siam-Nikāya Ordinationen entsp
 
 Der moderne Buddhismus aller Schulen einschließlich des Theravada legt großen Wert auf die Vorstellung von Ordinationslinien, und der Wunsch nach einer reinen Abstammungslinie trägt viel zur Ausprägung des modernen Saṅgha bei.
 
-Der Vinaya enthält kein Konzept einer Ordinationslinie. Die Aufnahme in den Saṅgha ist so ausgelegt, dass sie angemessene Unterstützung und Ausbildung für den Neuling ermöglicht; sie ist keine quasi-magische Initiation. Kein heute lebendiger Saṅghaorden kann beweisen, dass seine eigene Ordinationslinie nach seien eigenen Standards „gültig“ ist; die historischen Aufzeichnungen gibt es schlichtweg nicht.
+Der Vinaya enthält kein Konzept einer Ordinationslinie. Die Aufnahme in den Saṅgha ist so ausgelegt, dass sie angemessene Unterstützung und Ausbildung für den Neuling ermöglicht; sie ist keine quasi-magische Initiation. Kein heute lebendiger Saṅghaorden kann beweisen, dass seine eigene Ordinationslinie nach seien eigenen Standards „gültig“ ist; die historischen Aufzeichnungen sind schlichtweg nicht vorhanden.
 
 #### Nonnen
 
-Der Buddha richtete einen Orden voll ordinierter Nonnen (*bhikkhunī*) ein. Seit etwa dem 12. Jahrhundert hat der Theravada keinen allgemein akzeptierten Bhikkhuniorden mehr. An Stelle der Vision des Buddha für eine spirituellen Rolle der Frauen wurden mannigfache andere Möglichkeiten entwickelt. Diese bieten zwar vielen Frauen die Möglichkeit, den Dhamma zu üben, genießen jedoch nicht die Legitimität des Bhikkhuniordens oder die Autorität des Vinaya und sind mit Bedacht so ausgelegt, dass sie eine unterwürfige Rolle von Frauen sicherstellen. Das hat zu einer Situation geführt, in der manche Mönche glauben und sich verhalten, als seien Nonnen weniger wert, und annehmen, sie hätten ein Weisungsrecht über sie.
+Der Buddha richtete einen Orden von voll ordinierten Nonnen (*bhikkhunī*) ein. Seit etwa dem 12. Jahrhundert hat der Theravada keinen allgemein akzeptierten Bhikkhuniorden mehr. An Stelle der Vision des Buddha für eine spirituellen Rolle der Frauen wurden mannigfache andere Möglichkeiten entwickelt. Diese bieten zwar vielen Frauen die Möglichkeit, den Dhamma zu üben, genießen jedoch nicht die Legitimität des Bhikkhuniordens oder die Autorität des Vinaya und sind mit Bedacht so ausgelegt, dass sie eine unterwürfige Rolle von Frauen sicherstellen. Das hat zu einer Situation geführt, in der manche Mönche glauben, Nonnen seien weniger wert, sich entsprechend verhalten und annehmen, sie hätten ein Weisungsrecht über sie.
 
 Im Vinaya ist der Bhikkhuniorden als vollständig eigenverantwortlicher und unabhängiger Orden eingerichtet, der Ordinationen vornahm, lehrte, übte und seine Institution entwickelte. Das blieb so während der etwa 1500 Jahre, in denen der Buddhismus in Indien gedieh, und ist immer noch so an Orten mit einem gesunden Bhikkhuniorden.
 
@@ -561,7 +560,7 @@ Es gibt viele ähnliche Fälle im gesamten Vinaya, in denen Regeln, die zum Schu
 
 #### Sektenwesen
 
-Eng mit der Vorstellung von einer Ordinationslinie verbunden ist die Vorstllung von der Reinheit einer Gruppierung. Der Theravada im Allgemeinen und gewisse Strömungen im Theravada im Besonderen legen großen Wert auf ihren eigenen Status als reine, ursprüngliche Repräsentation der Lehre. Das führt dazu, dass auf Saṅghaangehörige anderer Gruppierungen und Traditionen herabgesehen und diese nicht ernst genommen und manchmal als keine richtigen Mönche und Nonnen oder sogar als keine richtigen Buddhisten angesehen werden.
+Eng mit der Vorstellung von einer Ordinationslinie verbunden ist die Vorstllung von der Reinheit einer Gruppierung. Der Theravada im Allgemeinen und gewisse Strömungen im Theravada im Besonderen legen großen Wert auf ihren eigenen Status als reine, ursprüngliche Repräsentation der Lehre. Das führt dazu, dass auf Saṅghaangehörige anderer Gruppierungen und Traditionen herabgesehen und diese nicht ernst genommen und manchmal als keine richtigen Mönche und Nonnen oder gar als keine richtigen Buddhisten angesehen werden.
 
 Für den Buddha ist „Reinheit“ innerlich, nicht äußerlich. Sie sitzt nicht in der Identität einer Gruppe, sondern in der mit reinem Herzen durchgeführten Übung von Menschen. Sobald wir Reinheit mit einer Gruppierung gleichsetzen, laden wir im selben Moment Menschen von schamlosem Verhalten ein, sich unter dem Deckmantel der Reinheit zu verstecken.
 
@@ -577,6 +576,6 @@ In Übereinstimmung mit der Tatsache, dass man die ganze Vorstellung von Geistmo
 
 In diesem Punkt ist der Widerspruch zwischen den Suttas und den Kommentaren so klar, dass er für mich die entscheidende Sache war, durch die ich verstand, dass ich den Kommentaren nicht immer vertrauen kann. Bis dahin war ich von der grundsätzlichen Richtigkeit der Perspektive der Kommentare überzeugt gewesen, aber diese Überzeugung konnte unmöglich aufrechterhalten werden, sobald ich die entsprechenden Suttastellen studierte, von denen es viele gibt und die eindeutig sind.
 
-Dieser Wechsel war schwer zu akzeptieren; es ist nie leicht, zuzugeben, dass man falsch liegt, und es ist auch  nicht leicht, aus dem behaglichen Schutz der Orthodoxie herauszutreten. Aber letzten Endes verlieh es mir Stärke, weil ich erkannte, dass die Tradition kein Satz von Dogmen ist, an denen ich festhalten musste, sondern ein lebendiger Austausch, von dem ich ein Teil war.
+Dieser Wechsel war schwer zu akzeptieren; es ist nie leicht, zuzugeben, dass man Unrecht hat, und es ist auch  nicht leicht, aus dem behaglichen Schutz der Orthodoxie herauszutreten. Aber letzten Endes verlieh es mir Stärke, weil ich erkannte, dass die Tradition kein Satz von Dogmen ist, an denen ich festhalten muss, sondern ein lebendiger Austausch, von dem ich ein Teil bin.
 
-So wollen wir danach trachten, unsere Tradition gesünder zu interlassen als wir sie vorfanden. Reine Bewahrung ist nicht genug. Jeder von uns, unabhängig von Schule, Tradition oder Religion, der wir angehören, schwimmt im großen Strom der Lehren des Buddha. Wir alle gehören dazu. Der Buddha schenkte seine Lehren allen von uns, damit wir frei werden können.
+So wollen wir danach trachten, unsere Tradition gesünder zu hinterlassen, als wir sie vorfanden. Reine Bewahrung ist nicht genug. Jeder von uns, unabhängig von Schule, Tradition oder Religion, der wir angehören, schwimmt im großen Strom der Lehren des Buddha. Wir alle gehören dazu. Der Buddha schenkte seine Lehren allen von uns, damit wir frei werden können.
