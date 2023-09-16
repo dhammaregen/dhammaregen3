@@ -7,11 +7,9 @@ link: https://pxhere.com/en/photo/1291659
 order: 7
 ---
 
-[Zum Originaltext](https://discourse.suttacentral.net/t/the-six-elements-fulfil-the-four-satipa-hanas-overlooked-meditation-instructions/29837)
+[Zum Originaltext](https://discourse.suttacentral.net/uploads/short-url/u5nDhSSsMnZiQ2kPXZQoMr39Lqe.pdf) (Zum Herunterladen, 182,5 KB)
 
-https://discourse.suttacentral.net/uploads/short-url/u5nDhSSsMnZiQ2kPXZQoMr39Lqe.pdf (Zum Herunterladen, 182,5 KB)
-
-*The Dhātuvibhanga Sutta ([MN 140](#/sutta/mn140/de/sabbamitta)) and its explanation of the six elements meditation has been largely overlooked in modern discourse on Early Buddhist satipaṭṭhāna practice. This essay will attempt to draw out some of the implications and practical instructions found in the Dhātuvibhaṅga Sutta so as to better understand the scope and progression of the satipaṭṭhāna pericope in the Early Buddhist texts (‘EBTs’).*
+*Das Dhātuvibhangasutta ([MN 140](#/sutta/mn140/de/sabbamitta)) und seine Erklärung der Meditation über die sechs Elemente wurde im modernen Diskurs über frühe buddhistische Satipaṭṭhāna-Praxis weithin übersehen. Dieser Essay will versuchen, einige der Implikationen und praktischen Anweisungen herauszuarbeiten, die man im Dhātuvibhangasutta findet, um den Umfang und das Fortschreiten der Satipaṭṭhāna-Perikope in den frühen buddhistischen Texten (FBT) besser zu verstehen.*
 
 Most teachers, when discussing the detailed practice of *satipaṭṭhāna* from the perspective of Early Buddhism, tend to look to the 16-phase *ānāpānassati* (mindfulness of in-and-out breathing) instructions for guidance. These can be found principally in the Ānāpāna-Saṁyutta ([SN 54](#/sutta/sn54.1/de/sabbamitta)) and the Ānāpānassati-Sutta ([MN 118](#/sutta/mn118/de/sabbamitta)). In this practice, the breath is brought to the foreground as the theme of mindfulness through which the practitioner develops right mindfulness into right unification (*samādhi*) and on into right knowledge and liberation (*sammāñāṇa/sammāvimutti*). 
 
