@@ -7,7 +7,7 @@ order: -9999
 ---
 
 
-### Current Time
+### Aktuelle Zeit
 <span id="page_utc" class="utc-time">...</span>
 
 <script>
