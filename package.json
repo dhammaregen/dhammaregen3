@@ -1,13 +1,13 @@
 {
   "name": "ebt-site3",
-  "version": "1.54.209",
+  "version": "1.54.210",
   "description": "Site template for EBT-Vue3 applications",
   "main": "src/index.mjs",
   "private": false,
   "dependencies": {
-    "ebt-vue3": "^1.318.5",
+    "ebt-vue3": "^1.318.6",
     "vue": "^3.2.37",
-    "vuetify": "^3.3.17",
+    "vuetify": "^3.3.18",
     "webfontloader": "^1.0.0"
   },
   "devDependencies": {
