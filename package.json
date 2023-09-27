@@ -5,9 +5,9 @@
   "main": "src/index.mjs",
   "private": false,
   "dependencies": {
-    "ebt-vue3": "^1.318.6",
+    "ebt-vue3": "^1.318.7",
     "vue": "^3.2.37",
-    "vuetify": "^3.3.18",
+    "vuetify": "^3.3.19",
     "webfontloader": "^1.0.0"
   },
   "devDependencies": {
