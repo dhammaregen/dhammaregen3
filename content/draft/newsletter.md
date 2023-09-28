@@ -1,6 +1,6 @@
 ---
 title: Dhammaregen-Newsletter
-description: Oktober 2023
+description: ??? 2023
 img: letter.png
 img-alt: Brief, der in einer Baumgabel steckt
 order: -30
