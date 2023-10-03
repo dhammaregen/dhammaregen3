@@ -20,14 +20,14 @@ Man beachte, dass dies noch den längeren Kommentar von Śaṅkāra enthält (be
 
 In dieser recht reizenden Geschichte fragt der König Janaka Yājñavalkya: „Was ist das Licht eines Menschen?“ Yājñavalkya, der sich an diesem Tag anscheinend etwas emotional fühlt, versucht, eine direkte Antwort zu vermeiden, und antwortet so einfach, wie er nur kann; nur auf wiederholtes Nachfragen schreitet er zu tiefgründigeren Antworten fort.
 
-This is the same as [MN 31](https://suttacentral.net/mn31/en/sujato), where Anuruddha gives the most basic answer to the Buddha when asked about meditation, then only gradually reveals the true depths of his practice.
+Das ist das Gleiche wie in MN 31, wo Anuruddha, als er zu seiner Meditation befragt wird, dem Buddha so einfach wie nur möglich antwortet und nur allmählich die wirkliche Tiefe seiner Praxis offenbart.
 
-Interesting parallel, but I didn’t think too much of it.
+Interessante Parallele, aber ich dachte mir nicht zu viel dabei. 
 
-Returning years later to the sutta, I noticed a term that had a distinctly Upanishadic ring to it: *attakāmarūpa*.
+Als ich Jahre später zu dem Sutta zurückkam, fiel mir ein Ausdruck auf, der einen eindeutig upanishadischen Beiklang hat: *attakāmarūpa*.
 
-> *Santettha tayo kulaputtā attakāmarūpā viharanti.*
-> There are three gentlemen staying here who are *attakāmarūpā*.
+> *Santettha tayo kulaputtā attakāmarūpā viharanti.*  
+> Hier halten sich drei ehrbare Menschen auf, die *attakāmarūpā* sind.
 
 This is explained by the commentary as one whose nature (*sabhāva*, glossing *rūpa*) is to desire (*kāma*) their own welfare (*attano hitaṁ*). Translators have generally followed the commentary, with the notable exception of IB Horner, who translated “desiring Self”. Most translators ignore the *rūpa* part, except Thanissaro who renders it “seemingly”, as if it were ranch.
 
