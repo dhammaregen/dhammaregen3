@@ -22,7 +22,7 @@ In dieser recht reizenden Geschichte fragt der König Janaka Yājñavalkya: „W
 
 Das ist das Gleiche wie in MN 31, wo Anuruddha, als er zu seiner Meditation befragt wird, dem Buddha so einfach wie nur möglich antwortet und nur allmählich die wirkliche Tiefe seiner Praxis offenbart.
 
-Interessante Parallele, aber ich dachte mir nicht zu viel dabei. 
+Interessante Parallele, aber ich dachte mir nichts weiter dabei. 
 
 Als ich Jahre später zu dem Sutta zurückkam, fiel mir ein Ausdruck auf, der einen eindeutig upanishadischen Beiklang hat: *attakāmarūpa*.
 
