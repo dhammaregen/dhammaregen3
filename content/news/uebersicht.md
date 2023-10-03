@@ -8,6 +8,11 @@ order: -9999
 
 Hier finden Sie eine kurze Themenübersicht der bisher erschienenen Newsletter. Klicken sie auf die Überschrift, um zu einem Newsletter zu gelangen.
 
+### [Oktober 2023](#/wiki/news/2023-10)
+- Girimānanda (AN 10.60, Thag 5.3)
+- Auf wie viele Arten kann man sein Erwachen in Worte fassen? (Thag 1.120, Thag 1.56, Thag 1.6, Thag 1.89, Thag 2.32, Thag 2.4, Thag 2.43)
+- Bhikkhu Sujato: Wie sich der frühe Buddhismus vom Theravada unterscheidet
+
 ### [September 2023](#/wiki/news/2023-09)
 - Dhammaregen (Was ist neu?)
 - Eine große Hilfe (AN 3.24)
