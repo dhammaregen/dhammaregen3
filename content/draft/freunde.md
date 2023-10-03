@@ -1,14 +1,16 @@
 ---
-title: The Sakyan friends and their light
+title: Die Sakyer-Freunde und ihr Licht
 description: Bhikkhu Sujato, 2023
 img:  sujato.png
 img-alt: Foto von Bhante Sujato
 order: 7
 ---
 
-This is a brief note on my ongoing research on the cycle of texts featuring the three Sakyan friends, Anuruddha, Nandiya, and Kimbila. It’s mainly found in [MN 32](https://suttacentral.net/mn32/en/sujato) and [MN 128](https://suttacentral.net/mn128/en/sujato), with part in the Vinaya ([pli-tv-kd10](https://suttacentral.net/pli-tv-kd10/en/brahmali):4.2.1) and a reference in the Theragatha ([Thag 2.18](https://suttacentral.net/thag2.18/en/sujato)), which is where we find the term “Sakyan friends” (*sakyaputtā sahāyakā*).
+[Zum Originaltext](https://discourse.suttacentral.net/t/the-sakyan-friends-and-their-light/30712)
 
-The story is well known and I won’t repeat it here. Have a read!
+Das ist eine kurze Notiz zu meinen laufenden Recherchen über den Zyklus von Texten, die von den drei Sakyer-Freunden Anuruddha, Nandiya und Kimbila handeln. Sie finden sich hauptsächlich in [MN 31](#/sutta/mn31/de/sabbamitta) und [MN 128](#/sutta/mn128/de/sabbamitta), ein Teil noch im Vinaya ([Pli-tv-kd10](https://suttacentral.net/pli-tv-kd10/de/maitrimurti-traetow?lang=de&reference=main&highlight=true#4)) und ein Hinweis im Theragāthā ([Thag 2.18](#/sutta/thag2.18/de/sabbamitta)); dort finden wir auch den Ausdruck „Sakyer-Freunde“ (*sakyaputtā sahāyakā*).
+
+Die Geschichte ist sehr bekannt und ich will sie hier nicht wiederholen. Lesen sie selbst!
 
 Some years ago, when first translating this, I made a passing note to myself to the effect that the narrative structure, especially of [MN 31](https://suttacentral.net/mn31/en/sujato), and to a lesser degree [MN 128](https://suttacentral.net/mn128/en/sujato), was reminiscent of Bṛhadāraṇyaka Upaniṣad 4.3. Do yourself a favor:
 
@@ -65,7 +67,7 @@ Hang on.
 
 Wait a minute.
 
-:bulb:
+💡
 
 [MN 128](https://suttacentral.net/mn128/en/sujato) is *all about that*. It goes step by step through “seeing lights and vision of forms”. A different word for “light” (*obhāsa* vs. *jyoti*), and obviously a different metaphysical context, but the basic idea is the same: how do we find the light inside ourselves?
 
@@ -84,4 +86,28 @@ There might well be other details, I’m still looking into it.
 But there is one curious wrinkle to this finding. Check the commentary to 4.3.7. Śaṅkāra has a long discussion of this line, and he includes a lengthy series of objections and rebuttals from a Buddhist point of view. I’m no expert on Śaṅkāra, but I believe this is quite unusual. In fact, I don’t think he discusses Buddhism in detail anywhere else in this commentary, although, to be sure, he does do so in other places.
 
 I don’t know what to make of this. Maybe nothing. But it does seem odd that when commenting on a passage that sparked a Buddhist response, he felt the need to respond to Buddhists. I don’t know that Śaṅkāra even knew the suttas. He usually talks about the later schools. But could there be some memory somehow of the connection?
+
+As an addendum to this. The introduction is very distinctive, and clearly there is one set of narrative events that is used for two quite different discussions at [MN 31](https://suttacentral.net/mn31/en/sujato) and [MN 128](https://suttacentral.net/mn128/en/sujato). Which begs the question, which one is the real one? This is noted by both Vens Bodhi and Analayo, but their discussions left out the crucial detail of geography.
+
+* tl;dr: [MN 128](https://suttacentral.net/mn128/en/sujato) is the original context, the introduction was later added to [MN 31](https://suttacentral.net/mn31/en/sujato).
+
+The main points are these:
+
+* [MN 128](https://suttacentral.net/mn128/en/sujato) along with the Vinaya account directly follow the quarrel at Kosambi.
+* [MN 31](https://suttacentral.net/mn31/en/sujato) doesn’t mention the quarrel at Kosambi.
+* Nonetheless, [MN 31](https://suttacentral.net/mn31/en/sujato) still includes passages about the harmony of the three friends, suggesting the Kosambi background.
+* [MN 128](https://suttacentral.net/mn128/en/sujato) is set at the Eastern Bamboo Park in Ceti near Kosambi, and thus was a natural place for the Buddha to visit after leaving Kosambi.
+* [MN 31](https://suttacentral.net/mn31/en/sujato) is set in Ñātika near Vesali, about 400 km east of Kosambi. There’s no way the Buddha went there right away.
+* In addition, in [MN 128](https://suttacentral.net/mn128/en/sujato) they are still developing their meditation, whereas in [MN 31](https://suttacentral.net/mn31/en/sujato) they are already arahants, so it must be later.
+
+Thus [MN 128](https://suttacentral.net/mn128/en/sujato) gives the original narrative context where the three friends were meditating together near Kosambi. [MN 31](https://suttacentral.net/mn31/en/sujato) tells of a later encounter far to the east. The [MN 128](https://suttacentral.net/mn128/en/sujato) introduction must have been added to [MN 31](https://suttacentral.net/mn31/en/sujato) at some later date, although not too late as it is found in the Chinese parallel as well. No doubt it was added because of its popularity.
+
+---
+Also just to note the connection between the ending here and the account of the lay followers of Ñātika in [DN 16](https://suttacentral.net/dn16/en/sujato). As I’ve noted before, Ñātika was the home town of Mahāvīra “the Jain ascetic of Ñātika”, which explains the rather unusual lengths that [DN 16](https://suttacentral.net/dn16/en/sujato) takes to expound the rebirth destinies of the inhabitants of this otherwise little known town.
+
+In [MN 31](https://suttacentral.net/mn31/en/sujato), too, we have the unusual circumstance that a yakkha shows up and extols the three friends with great praise that is taken up to the Brahma realm. While doubtless considered a boon, the presence of three monks meditating in a park was not that unusual, begging the question as to why this exorbitant ending.
+
+Like the account of the rebirths of the Ñātika devotees, it is best understood as serving to exalt Buddhism in the home town of Mahāvīra.
+
+
 
