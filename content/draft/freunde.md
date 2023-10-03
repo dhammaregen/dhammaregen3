@@ -12,13 +12,13 @@ Das ist eine kurze Notiz zu meinen laufenden Recherchen über den Zyklus von Tex
 
 Die Geschichte ist sehr bekannt und ich will sie hier nicht wiederholen. Lesen sie selbst!
 
-Some years ago, when first translating this, I made a passing note to myself to the effect that the narrative structure, especially of [MN 31](https://suttacentral.net/mn31/en/sujato), and to a lesser degree [MN 128](https://suttacentral.net/mn128/en/sujato), was reminiscent of Bṛhadāraṇyaka Upaniṣad 4.3. Do yourself a favor:
+Vor einigen Jahren, als ich diese Texte anfangs übersetzte, machte ich eine rasche Anmerkung für mich selbst, die besagte, dass die Erzählstruktur, besonders in MN 31 und zu einem geringeren Grad auch in MN 128, an Bṛhadāraṇyaka-Upaniṣad 4.3 erinnert. Gönnen Sie es sich:
 
-https://www.wisdomlib.org/hinduism/book/the-brihadaranyaka-upanishad/d/doc120049.html
+https://archive.org/details/sechzigupanishad00deusuoft/page/466/mode/2up?view=theater (englische Fassung: https://www.wisdomlib.org/hinduism/book/the-brihadaranyaka-upanishad/d/doc120049.html)
 
-Note that this includes the lengthy commentary by Śaṅkāra, so skip that when just reading the text. But we’ll return to it.
+Beachte, dass dies noch einen längeren Kommentar von Śaṅkāra (betrifft die englische Fassung; AdÜ), den können Sie überspringen, wenn Sie nur den Text lesen. Doch wir werden darauf zurückkommen.
 
-In this rather charming story, King Janaka asks Yājñavalkya, “What is a person’s light?” Yājñavalkya, apparently feeling a bit emo on the day, tries to avoid answering directly, giving the most basic answer he can and only moving towards more profound answers when repeatedly prompted.
+In dieser recht reizenden Geschichte fragt der König Janaka Yājñavalkya: „Was ist das Licht eines Menschen?“ Yājñavalkya, der sich an diesem Tag anscheinend etwas emotional fühlt, versucht, eine direkte Antwort zu vermeiden, und gibt die einfachste Antwort, die ihm einfällt, und schreitet nur auf wiederholtes Nachfragen zu tiefgründigeren Antworten fort.
 
 This is the same as [MN 31](https://suttacentral.net/mn31/en/sujato), where Anuruddha gives the most basic answer to the Buddha when asked about meditation, then only gradually reveals the true depths of his practice.
 
@@ -63,9 +63,9 @@ Which, as it turns out, *is the same chapter* as the one on the search for the l
 
 The theme of BU 4.3, however, is quite different, as it concerns the search for the inner light.
 
-Hang on.
+Doch Halt.
 
-Wait a minute.
+Warten Sie.
 
 💡
 
@@ -87,6 +87,7 @@ But there is one curious wrinkle to this finding. Check the commentary to 4.3.7.
 
 I don’t know what to make of this. Maybe nothing. But it does seem odd that when commenting on a passage that sparked a Buddhist response, he felt the need to respond to Buddhists. I don’t know that Śaṅkāra even knew the suttas. He usually talks about the later schools. But could there be some memory somehow of the connection?
 
+---
 As an addendum to this. The introduction is very distinctive, and clearly there is one set of narrative events that is used for two quite different discussions at [MN 31](https://suttacentral.net/mn31/en/sujato) and [MN 128](https://suttacentral.net/mn128/en/sujato). Which begs the question, which one is the real one? This is noted by both Vens Bodhi and Analayo, but their discussions left out the crucial detail of geography.
 
 * tl;dr: [MN 128](https://suttacentral.net/mn128/en/sujato) is the original context, the introduction was later added to [MN 31](https://suttacentral.net/mn31/en/sujato).
