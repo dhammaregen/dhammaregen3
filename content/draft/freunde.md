@@ -14,11 +14,11 @@ Die Geschichte ist sehr bekannt und ich will sie hier nicht wiederholen. Lesen s
 
 Vor einigen Jahren, als ich diese Texte anfangs übersetzte, machte ich eine rasche Anmerkung für mich selbst, die besagte, dass die Erzählstruktur, besonders in MN 31 und zu einem geringeren Grad auch in MN 128, an Bṛhadāraṇyaka-Upaniṣad 4.3 erinnert. Gönnen Sie es sich:
 
-https://archive.org/details/sechzigupanishad00deusuoft/page/466/mode/2up?view=theater (englische Fassung: https://www.wisdomlib.org/hinduism/book/the-brihadaranyaka-upanishad/d/doc120049.html)
+[https://archive.org/details/sechzigupanishad00deusuoft/page/466/mode/2up?view=theater](https://archive.org/details/sechzigupanishad00deusuoft/page/466/mode/2up?view=theater) ([englische Fassung](https://www.wisdomlib.org/hinduism/book/the-brihadaranyaka-upanishad/d/doc120049.html))
 
-Beachte, dass dies noch einen längeren Kommentar von Śaṅkāra (betrifft die englische Fassung; AdÜ), den können Sie überspringen, wenn Sie nur den Text lesen. Doch wir werden darauf zurückkommen.
+Man beachte, dass dies noch den längeren Kommentar von Śaṅkāra enthält (betrifft die englische Fassung; AdÜ); überspringen Sie den, wenn Sie nur den Text lesen. Doch wir werden darauf zurückkommen.
 
-In dieser recht reizenden Geschichte fragt der König Janaka Yājñavalkya: „Was ist das Licht eines Menschen?“ Yājñavalkya, der sich an diesem Tag anscheinend etwas emotional fühlt, versucht, eine direkte Antwort zu vermeiden, und gibt die einfachste Antwort, die ihm einfällt, und schreitet nur auf wiederholtes Nachfragen zu tiefgründigeren Antworten fort.
+In dieser recht reizenden Geschichte fragt der König Janaka Yājñavalkya: „Was ist das Licht eines Menschen?“ Yājñavalkya, der sich an diesem Tag anscheinend etwas emotional fühlt, versucht, eine direkte Antwort zu vermeiden, und antwortet so einfach, wie er nur kann; nur auf wiederholtes Nachfragen schreitet er zu tiefgründigeren Antworten fort.
 
 This is the same as [MN 31](https://suttacentral.net/mn31/en/sujato), where Anuruddha gives the most basic answer to the Buddha when asked about meditation, then only gradually reveals the true depths of his practice.
 
