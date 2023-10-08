@@ -10,11 +10,11 @@ order: 7
 
 Das ist eine kurze Notiz zu meinen laufenden Recherchen über den Zyklus von Texten, die von den drei Sakyer-Freunden Anuruddha, Nandiya und Kimbila handeln. Sie finden sich hauptsächlich in [MN 31](#/sutta/mn31/de/sabbamitta) und [MN 128](#/sutta/mn128/de/sabbamitta), ein Teil noch im Vinaya ([Pli-tv-kd10](https://suttacentral.net/pli-tv-kd10/de/maitrimurti-traetow?lang=de&reference=main&highlight=true#4)) und ein Hinweis im Theragāthā ([Thag 2.18](#/sutta/thag2.18/de/sabbamitta)); dort finden wir auch den Ausdruck „Sakyer-Freunde“ (*sakyaputtā sahāyakā*).
 
-Die Geschichte ist sehr bekannt und ich will sie hier nicht wiederholen. Lesen sie selbst!
+Die Geschichte ist sehr bekannt und ich will sie hier nicht wiederholen. Lesen Sie selbst!
 
 Vor einigen Jahren, als ich diese Texte anfangs übersetzte, machte ich eine rasche Anmerkung für mich selbst, die besagte, dass die Erzählstruktur, besonders in MN 31 und zu einem geringeren Grad auch in MN 128, an Bṛhadāraṇyaka-Upaniṣad 4.3 erinnert. Gönnen Sie es sich:
 
-[https://archive.org/details/sechzigupanishad00deusuoft/page/466/mode/2up?view=theater](https://archive.org/details/sechzigupanishad00deusuoft/page/466/mode/2up?view=theater) ([englische Fassung](https://www.wisdomlib.org/hinduism/book/the-brihadaranyaka-upanishad/d/doc120049.html))
+[https://archive.org/details/sechzigupanishad00deusuoft/page/466/mode/2up?view=theater](https://archive.org/details/sechzigupanishad00deusuoft/page/466/mode/2up?view=theater) (englische Fassung[hier]](https://www.wisdomlib.org/hinduism/book/the-brihadaranyaka-upanishad/d/doc120049.html))
 
 Man beachte, dass dies noch den längeren Kommentar von Śaṅkāra enthält (betrifft die englische Fassung; AdÜ); überspringen Sie den, wenn Sie nur den Text lesen. Doch wir werden darauf zurückkommen.
 
@@ -29,29 +29,29 @@ Als ich Jahre später zu dem Sutta zurückkam, fiel mir ein Ausdruck auf, der ei
 > *Santettha tayo kulaputtā attakāmarūpā viharanti.*  
 > Hier halten sich drei ehrbare Menschen auf, die *attakāmarūpā* sind.
 
-This is explained by the commentary as one whose nature (*sabhāva*, glossing *rūpa*) is to desire (*kāma*) their own welfare (*attano hitaṁ*). Translators have generally followed the commentary, with the notable exception of IB Horner, who translated “desiring Self”. Most translators ignore the *rūpa* part, except Thanissaro who renders it “seemingly”, as if it were ranch.
+Vom Kommentar wird das erklärt als jemand, dessen Natur (*sabhāva*, als Erläuterung für *rūpa*) es ist, sein eigenes Wohl (*attano hitaṁ*) zu wünschen (*kāma*). Übersetzer sind im Allgemeinen dem Kommentar gefolgt, mit der bemerkenswerten Ausnahme von I.B. Horner, die „das Selbst wünschend“ übersetzte. Die meisten Übersetzer übergehen den *rūpa*-Teil, mit Ausnahme von Thanissaro, der es mit „scheinbar“ wiedergibt, als wäre es nur so dahergesagt.
 
-The commentarial approach, which normalizes the term in an acceptably Buddhist way, has never been entirely satisfactory, as it renders a very particular and unique phrase with something generic like “seeking their own good”.
+Die Herangehensweise des Kommentars, die den Ausdruck auf eine Art angleicht, dass er aus buddhistischer Sicht akzeptabel ist, war nie ganz zufriedenstellend, da sie eine sehr besondere und einzigartige Wendung mit etwas Allgemeinem wie „das eigene Wohl suchen“ wiedergibt.
 
-> There are three gentlemen staying here who are *seeking their own good*.
+> Hier halten sich drei ehrbare Menschen auf, die *ihr eigenes Wohl suchen*.
 
-Anyway I checked the early Sanskrit texts and it turns out there is a close analogy in the Upanishads (Bṛhadāraṇyaka Upaniṣad 4.3.21).
+Ich habe jedenfalls die frühen Sanskrittexte durchgesehen, und es stellt sich heraus, dass es in den Upaniṣaden (Bṛhadāraṇyaka-Upaniṣad 4.3.21) eine ganz analoge Stelle gibt.
 
 > *ātmakāmam āptakāmam akāmaṁ rūpaṁ*
 
-And similarly:
+Und ähnlich:
 
 > *niṣkāma āptakāma ātmakāmo*
 
-The exact sense of this phrase is a little tricky, and must be read in context. The two prefixes *ātma-* and *āpta-* are clearly euphonious and their order is reversed in variants.
+Die genaus Bedeutung dieser Wendung ist ein wenig knifflig und muss im Zusammenhang gelesen werden. Die beiden Vorsilben *ātma-* und *āpta-* sind eindeutig des Klangs wegen verwendet, und ihre Reihenfolge ist in manchen Varianten umgekehrt.
 
-But the basic sense is something like: “having attained their only desire, the Self, their nature (or form) is without desire”. It refers to a state of realization of oneness with Brahma in deep sleep or at death.
+Doch die grundlegende Bedeutung ist in etwa: „Nachdem sie ihren einzigen Wunsch, das Selbst, erlangt haben, ist ihre Natur (oder Form) frei von Wünschen.“ Es bezieht sich auf einen Zusatand des Einsseins mit Brahmā im Tiefschlaf oder im Tod.
 
-The use of *rūpa* here confirms the gloss *sabhāva* in the commentary (note that *sabhāva* itself is elsewhere glossed *sarūpa*). It indicates the “true nature” of the person.
+Der Gebrauch von *rūpa* hier bestätigt die Erläuterung als *sabhāva* im Kommentar (man beachte, dass *sabhāva* selbst an anderer Stelle als *sarūpa* erklärt wird). Es weist auf die „wahre Natur“ des Menschen hin.
 
-Thus there seems no doubt the true sense of the Pali phrase is:
+Daher scheint es keinen Zweifel zu geben, dass die eigentliche Bedeutung der Paliwendung ist:
 
-> There are three gentlemen staying here whose *nature is to desire only the self.*
+> Hier halten sich drei ehrbare Menschen auf, *deren Natur es ist, nur das Selbst zu wünschen*.
 
 If it be objected that this is not a Buddhist sentiment, then the answer is: why should it be? The term occurs only once, spoken by an anonymous park keeper—not a monastery attendant, just the gardener of a public park—who *does not recognize the Buddha*.
 
