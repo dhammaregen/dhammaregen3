@@ -14,7 +14,7 @@ Die Geschichte ist sehr bekannt und ich will sie hier nicht wiederholen. Lesen S
 
 Vor einigen Jahren, als ich diese Texte anfangs übersetzte, machte ich eine rasche Anmerkung für mich selbst, die besagte, dass die Erzählstruktur, besonders in MN 31 und zu einem geringeren Grad auch in MN 128, an Bṛhadāraṇyaka-Upaniṣad 4.3 erinnert. Gönnen Sie es sich:
 
-[https://archive.org/details/sechzigupanishad00deusuoft/page/466/mode/2up?view=theater](https://archive.org/details/sechzigupanishad00deusuoft/page/466/mode/2up?view=theater) (englische Fassung[hier]](https://www.wisdomlib.org/hinduism/book/the-brihadaranyaka-upanishad/d/doc120049.html))
+[https://archive.org/details/sechzigupanishad00deusuoft/page/466/mode/2up?view=theater](https://archive.org/details/sechzigupanishad00deusuoft/page/466/mode/2up?view=theater) (englische Fassung[hier](https://www.wisdomlib.org/hinduism/book/the-brihadaranyaka-upanishad/d/doc120049.html))
 
 Man beachte, dass dies noch den längeren Kommentar von Śaṅkāra enthält (betrifft die englische Fassung; AdÜ); überspringen Sie den, wenn Sie nur den Text lesen. Doch wir werden darauf zurückkommen.
 
