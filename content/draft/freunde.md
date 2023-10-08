@@ -59,7 +59,7 @@ Es gibt keinen Grund, zu denken, dass er Buddhist war, und allen Grund, zu denke
 
 Dieser linguistische Gebrauch ist hochspezifisch und führt diesen Wortwechsel auf die genannte Stelle in der Bṛhadāraṇyaka-Upaniṣad zurück.
 
-Und diese, so stellt sich heraus, *ist im gleichen Kapitel* wie diejenige über die Suche nach dem Licht! Da habe ich mehrere Jahre gebraucht von einer Notiz über eine gewisse Ähnlichkeit in der Erzählstruktur bis dahin, dass ich unabhängig davon eine viel spezifischer linguistische Gemeinsamkeit entdeckte.
+Und diese, so stellt sich heraus, *ist im gleichen Kapitel* wie diejenige über die Suche nach dem Licht! Da habe ich mehrere Jahre gebraucht von einer Notiz über eine gewisse Ähnlichkeit in der Erzählstruktur bis dahin, dass ich unabhängig davon eine viel spezifischere linguistische Gemeinsamkeit entdeckte.
 
 Das Thema von Bṛhadāraṇyaka-Upaniṣad 4.3 ist allerdings ein völlig anderes, da es sich mit der Suche nach dem inneren Licht befasst.
 
@@ -71,7 +71,7 @@ Warten Sie.
 
 In MN 128 *geht es genau darum*. Es geht Schritt für Schritt zum „Sehen von Licht und dem Wahrnehmen von Formen“ (*obhāsa* vs. *jyoti*), und offensichtlich ist der metaphysische Kontext ein anderer, aber die Grundidee ist die gleiche: Wie finden wir das Licht in uns selbst?
 
-Eins ist ein Zufall, zwei ein Hinweis, und drei … im Wesntlichen so gut es nur sein kann.
+Eins ist ein Zufall, zwei ein Hinweis, und drei … im Wesentlichen so gut es nur sein kann.
 
 Somit teilen diese Suttas mit Bṛhadāraṇyaka-Upaniṣad 4.3:
 
@@ -81,9 +81,9 @@ Somit teilen diese Suttas mit Bṛhadāraṇyaka-Upaniṣad 4.3:
 
 Das ist es, ich nenne es: Der Suttazyklus über die drei Sakyer-Freunde schöpft von Bṛhadāraṇyaka-Upaniṣad 4.3.
 
-Es könnte wohl noch mehr Punkte geben, ich untersuche das immer noch.
+Es könnte wohl noch mehr Punkte geben, ich untersuche das noch weiter.
 
-Doch es gibt eine merkwürdige Wendung bei diesem Fund. Schauen Sie sich den Kommentar zu 4.3.7 an. Śaṅkāra hat eine lange Diskussion dieser Zeile und schließt eine lange Reihe von Entgegnungen und Widerlegungen aus buddhistischer Sicht ein. Ich bin kein Spezialist für Śaṅkāra, abre ich glaube, das ist recht ungewöhnlich. Ich denke tatsächlich, er diskutiert nirgendwo sonst in diesem Kommentar ausführlich den Buddhismus, obwohl er das sicherlich an anderen Stellen tut.
+Doch es gibt eine merkwürdige Wendung bei diesem Fund. Schauen Sie sich den Kommentar zu 4.3.7 an. Śaṅkāra hat eine lange Diskussion dieser Zeile und schließt eine lange Reihe von Entgegnungen und Widerlegungen aus buddhistischer Sicht ein. Ich bin kein Spezialist für Śaṅkāra, aber ich glaube, das ist recht ungewöhnlich. Ich denke tatsächlich, er diskutiert nirgendwo sonst in diesem Kommentar ausführlich den Buddhismus, obwohl er das, das ist sicher so, an anderen Stellen tut.
 
 Ich weiß nicht, was man daraus machen soll. Vielleicht nichts. Aber es erscheint seltsam, dass er beim Kommentieren einer Passage, die eine buddhistische Resonanz angeregt hat, die Notwendigkeit sah, auf die Buddhisten einzugehen. Es ist mir nicht bekannt, dass Śaṅkāra die Suttas auch nur kannte. Gewöhnlich spricht er über die späteren Schulen. Aber könnte es irgendwie eine Erinnerung an diese Verbindung gegeben haben?
 
