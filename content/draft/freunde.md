@@ -55,7 +55,7 @@ Daher scheint es keinen Zweifel zu geben, dass die eigentliche Bedeutung der Pal
 
 Wenn eingewendet wird, dass das keine buddhistische Ansicht ist, dann ist die Antwort: Warum sollte es? Der Ausdruck kommt nur einmal vor, gesprochen von einem anonymen Parkwärter – nicht einem Klosterhelfer, einfach dem Gärtner in einem öffentlichen Park –, der *den Buddha nicht erkennt*.
 
-Es gibt keinen Grund, zu denken, dass er Buddhist war, und allen Grund, zu denken, er gehörte der vedischen Religion an und beschreibt die Übenden in Begriffen, die er von seiner kontemplativen Tradition gelernt hat. Es kommt heute noch vor, dass buddhistische Mönche oder Nonnen von Hindus versorgt, unterstützt und geachtet werden, die nichtsdestotrotz in Begriffen ihrer eigenen Religion über sie denken. Tatsächlich muss ich mich beeilen und aufhören, zu schreiben, damit zum Pindapata zu meinen örtlichen Hindu-Restaurants gehen kann, wo sie mir jeden Tag zu essen geben! :pray:
+Es gibt keinen Grund, zu denken, dass er Buddhist war, und allen Grund, zu denken, er gehörte der vedischen Religion an und beschreibt die Übenden in Begriffen, die er von seiner kontemplativen Tradition gelernt hat. Es kommt heute noch vor, dass buddhistische Mönche oder Nonnen von Hindus versorgt, unterstützt und geachtet werden, die nichtsdestotrotz in Begriffen ihrer eigenen Religion über sie denken. Tatsächlich muss ich mich beeilen und aufhören, zu schreiben, damit ich zum Pindapata zu meinen örtlichen Hindu-Restaurants gehen kann, wo sie mir jeden Tag zu essen geben! 🙏
 
 This linguistic usage is highly specific and pins this exchange down to this passage in the Bṛhadāraṇyaka Upaniṣad.
 
