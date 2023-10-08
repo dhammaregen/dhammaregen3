@@ -14,7 +14,7 @@ Die Geschichte ist sehr bekannt und ich will sie hier nicht wiederholen. Lesen S
 
 Vor einigen Jahren, als ich diese Texte anfangs übersetzte, machte ich eine rasche Anmerkung für mich selbst, die besagte, dass die Erzählstruktur, besonders in MN 31 und zu einem geringeren Grad auch in MN 128, an Bṛhadāraṇyaka-Upaniṣad 4.3 erinnert. Gönnen Sie es sich:
 
-[https://archive.org/details/sechzigupanishad00deusuoft/page/466/mode/2up?view=theater](https://archive.org/details/sechzigupanishad00deusuoft/page/466/mode/2up?view=theater) (englische Fassung[hier](https://www.wisdomlib.org/hinduism/book/the-brihadaranyaka-upanishad/d/doc120049.html))
+[https://archive.org/details/sechzigupanishad00deusuoft/page/466/mode/2up?view=theater](https://archive.org/details/sechzigupanishad00deusuoft/page/466/mode/2up?view=theater) (englische Fassung [hier](https://www.wisdomlib.org/hinduism/book/the-brihadaranyaka-upanishad/d/doc120049.html))
 
 Man beachte, dass dies noch den längeren Kommentar von Śaṅkāra enthält (betrifft die englische Fassung; AdÜ); überspringen Sie den, wenn Sie nur den Text lesen. Doch wir werden darauf zurückkommen.
 
@@ -29,13 +29,13 @@ Als ich Jahre später zu dem Sutta zurückkam, fiel mir ein Ausdruck auf, der ei
 > *Santettha tayo kulaputtā attakāmarūpā viharanti.*  
 > Hier halten sich drei ehrbare Menschen auf, die *attakāmarūpā* sind.
 
-Vom Kommentar wird das erklärt als jemand, dessen Natur (*sabhāva*, als Erläuterung für *rūpa*) es ist, sein eigenes Wohl (*attano hitaṁ*) zu wünschen (*kāma*). Übersetzer sind im Allgemeinen dem Kommentar gefolgt, mit der bemerkenswerten Ausnahme von I.B. Horner, die „das Selbst wünschend“ übersetzte. Die meisten Übersetzer übergehen den *rūpa*-Teil, mit Ausnahme von Thanissaro, der es mit „scheinbar“ wiedergibt, als wäre es nur so dahergesagt.
+Vom Kommentar wird das erklärt als jemand, dessen Natur (*sabhāva*, als Erläuterung für *rūpa*) es ist, sein eigenes Wohl (*attano hitaṁ*) zu wünschen (*kāma*). Übersetzer sind im Allgemeinen dem Kommentar gefolgt, mit der bemerkenswerten Ausnahme von I.B. Horner, die „das Selbst wünschend“ übersetzte. Die meisten Übersetzer übergehen den *rūpa*-Teil, mit Ausnahme von Thanissaro, der ihn mit „scheinbar“ wiedergibt, als wäre das nur so dahergesagt.
 
 Die Herangehensweise des Kommentars, die den Ausdruck auf eine Art angleicht, dass er aus buddhistischer Sicht akzeptabel ist, war nie ganz zufriedenstellend, da sie eine sehr besondere und einzigartige Wendung mit etwas Allgemeinem wie „das eigene Wohl suchen“ wiedergibt.
 
 > Hier halten sich drei ehrbare Menschen auf, die *ihr eigenes Wohl suchen*.
 
-Ich habe jedenfalls die frühen Sanskrittexte durchgesehen, und es stellt sich heraus, dass es in den Upaniṣaden (Bṛhadāraṇyaka-Upaniṣad 4.3.21) eine ganz analoge Stelle gibt.
+Ich habe jedenfalls die frühen Sanskrittexte durchgesehen, und es stellt sich heraus, dass es in den Upaniṣaden (Bṛhadāraṇyaka-Upaniṣad 4.3.21) eine ganz analoge Stelle gibt:
 
 > *ātmakāmam āptakāmam akāmaṁ rūpaṁ*
 
@@ -53,9 +53,9 @@ Daher scheint es keinen Zweifel zu geben, dass die eigentliche Bedeutung der Pal
 
 > Hier halten sich drei ehrbare Menschen auf, *deren Natur es ist, nur das Selbst zu wünschen*.
 
-If it be objected that this is not a Buddhist sentiment, then the answer is: why should it be? The term occurs only once, spoken by an anonymous park keeper—not a monastery attendant, just the gardener of a public park—who *does not recognize the Buddha*.
+Wenn eingewendet wird, dass das keine buddhistische Ansicht ist, dann ist die Antwort: Warum sollte es? Der Ausdruck kommt nur einmal vor, gesprochen von einem anonymen Parkwärter – nicht einem Klosterhelfer, einfach dem Gärtner in einem öffentlichen Park –, der *den Buddha nicht erkennt*.
 
-There’s no reason to think he was Buddhist, and every reason to think he was a Vedist, describing the contemplatives in the terms he learned from his own contemplative tradition. It still happens today that Buddhist monastics are looked after, supported, and respected by Hindus, who nonetheless think of them in the terms of their own religion. In fact, I have to hurry up and finish writing so I can go on pindapata to me local Hindu restaurants, where they feed me every day! :pray:
+Es gibt keinen Grund, zu denken, dass er Buddhist war, und allen Grund, zu denken, er gehörte der vedischen Religion an und beschreibt die Übenden in Begriffen, die er von seiner kontemplativen Tradition gelernt hat. Es kommt heute noch vor, dass buddhistische Mönche oder Nonnen von Hindus versorgt, unterstützt und geachtet werden, die nichtsdestotrotz in Begriffen ihrer eigenen Religion über sie denken. Tatsächlich muss ich mich beeilen und aufhören, zu schreiben, damit zum Pindapata zu meinen örtlichen Hindu-Restaurants gehen kann, wo sie mir jeden Tag zu essen geben! :pray:
 
 This linguistic usage is highly specific and pins this exchange down to this passage in the Bṛhadāraṇyaka Upaniṣad.
 
