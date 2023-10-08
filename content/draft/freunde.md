@@ -57,11 +57,11 @@ Wenn eingewendet wird, dass das keine buddhistische Ansicht ist, dann ist die An
 
 Es gibt keinen Grund, zu denken, dass er Buddhist war, und allen Grund, zu denken, er gehörte der vedischen Religion an und beschreibt die Übenden in Begriffen, die er von seiner kontemplativen Tradition gelernt hat. Es kommt heute noch vor, dass buddhistische Mönche oder Nonnen von Hindus versorgt, unterstützt und geachtet werden, die nichtsdestotrotz in Begriffen ihrer eigenen Religion über sie denken. Tatsächlich muss ich mich beeilen und aufhören, zu schreiben, damit ich zum Pindapata zu meinen örtlichen Hindu-Restaurants gehen kann, wo sie mir jeden Tag zu essen geben! 🙏
 
-This linguistic usage is highly specific and pins this exchange down to this passage in the Bṛhadāraṇyaka Upaniṣad.
+Dieser linguistische Gebrauch ist hochspezifisch und führt diesen Wortwechsel auf die genannte Stelle in der Bṛhadāraṇyaka-Upaniṣad zurück.
 
-Which, as it turns out, *is the same chapter* as the one on the search for the light! So for me, it took several years between making a note on a passing narrative resemblance, to then independently identifying a much more specific linguistic commonality.
+Und diese, so stellt sich heraus, *ist im gleichen Kapitel* wie diejenige über die Suche nach dem Licht! Da habe ich mehrere Jahre gebraucht von einer Notiz über eine gewisse Ähnlichkeit in der Erzählstruktur bis dahin, dass ich unabhängig davon eine viel spezifischer linguistische Gemeinsamkeit entdeckte.
 
-The theme of BU 4.3, however, is quite different, as it concerns the search for the inner light.
+Das Thema von Bṛhadāraṇyaka-Upaniṣad 4.3 ist allerdings ein völlig anderes, da es sich mit der Suche nach dem inneren Licht befasst.
 
 Doch Halt.
 
@@ -69,44 +69,44 @@ Warten Sie.
 
 💡
 
-[MN 128](https://suttacentral.net/mn128/en/sujato) is *all about that*. It goes step by step through “seeing lights and vision of forms”. A different word for “light” (*obhāsa* vs. *jyoti*), and obviously a different metaphysical context, but the basic idea is the same: how do we find the light inside ourselves?
+In MN 128 *geht es genau darum*. Es geht Schritt für Schritt zum „Sehen von Licht und dem Wahrnehmen von Formen“ (*obhāsa* vs. *jyoti*), und offensichtlich ist der metaphysische Kontext ein anderer, aber die Grundidee ist die gleiche: Wie finden wir das Licht in uns selbst?
 
-One is a coincidence, two a hint, three … is pretty much as good as it gets.
+Eins ist ein Zufall, zwei ein Hinweis, und drei … im Wesntlichen so gut es nur sein kann.
 
-So these suttas share with BU 4.3:
+Somit teilen diese Suttas mit Bṛhadāraṇyaka-Upaniṣad 4.3:
 
-* narrative structure (reluctance and questioning)
-* unique terminology
-* theme (finding the inner light)
+* die Erzählstruktur (Widerstreben und Befragung)
+* einzigartige Terminologie
+* Thema (das Finden des inneren Lichts)
 
-That’s it, I’m calling it: the sutta cycle of the three Sakyan friends draws on Bṛhadāraṇyaka Upaniṣad 4.3.
+Das ist es, ich nenne es: Der Suttazyklus über die drei Sakyer-Freunde schöpft von Bṛhadāraṇyaka-Upaniṣad 4.3.
 
-There might well be other details, I’m still looking into it.
+Es könnte wohl noch mehr Punkte geben, ich untersuche das immer noch.
 
-But there is one curious wrinkle to this finding. Check the commentary to 4.3.7. Śaṅkāra has a long discussion of this line, and he includes a lengthy series of objections and rebuttals from a Buddhist point of view. I’m no expert on Śaṅkāra, but I believe this is quite unusual. In fact, I don’t think he discusses Buddhism in detail anywhere else in this commentary, although, to be sure, he does do so in other places.
+Doch es gibt eine merkwürdige Wendung bei diesem Fund. Schauen Sie sich den Kommentar zu 4.3.7 an. Śaṅkāra hat eine lange Diskussion dieser Zeile und schließt eine lange Reihe von Entgegnungen und Widerlegungen aus buddhistischer Sicht ein. Ich bin kein Spezialist für Śaṅkāra, abre ich glaube, das ist recht ungewöhnlich. Ich denke tatsächlich, er diskutiert nirgendwo sonst in diesem Kommentar ausführlich den Buddhismus, obwohl er das sicherlich an anderen Stellen tut.
 
-I don’t know what to make of this. Maybe nothing. But it does seem odd that when commenting on a passage that sparked a Buddhist response, he felt the need to respond to Buddhists. I don’t know that Śaṅkāra even knew the suttas. He usually talks about the later schools. But could there be some memory somehow of the connection?
-
----
-As an addendum to this. The introduction is very distinctive, and clearly there is one set of narrative events that is used for two quite different discussions at [MN 31](https://suttacentral.net/mn31/en/sujato) and [MN 128](https://suttacentral.net/mn128/en/sujato). Which begs the question, which one is the real one? This is noted by both Vens Bodhi and Analayo, but their discussions left out the crucial detail of geography.
-
-* tl;dr: [MN 128](https://suttacentral.net/mn128/en/sujato) is the original context, the introduction was later added to [MN 31](https://suttacentral.net/mn31/en/sujato).
-
-The main points are these:
-
-* [MN 128](https://suttacentral.net/mn128/en/sujato) along with the Vinaya account directly follow the quarrel at Kosambi.
-* [MN 31](https://suttacentral.net/mn31/en/sujato) doesn’t mention the quarrel at Kosambi.
-* Nonetheless, [MN 31](https://suttacentral.net/mn31/en/sujato) still includes passages about the harmony of the three friends, suggesting the Kosambi background.
-* [MN 128](https://suttacentral.net/mn128/en/sujato) is set at the Eastern Bamboo Park in Ceti near Kosambi, and thus was a natural place for the Buddha to visit after leaving Kosambi.
-* [MN 31](https://suttacentral.net/mn31/en/sujato) is set in Ñātika near Vesali, about 400 km east of Kosambi. There’s no way the Buddha went there right away.
-* In addition, in [MN 128](https://suttacentral.net/mn128/en/sujato) they are still developing their meditation, whereas in [MN 31](https://suttacentral.net/mn31/en/sujato) they are already arahants, so it must be later.
-
-Thus [MN 128](https://suttacentral.net/mn128/en/sujato) gives the original narrative context where the three friends were meditating together near Kosambi. [MN 31](https://suttacentral.net/mn31/en/sujato) tells of a later encounter far to the east. The [MN 128](https://suttacentral.net/mn128/en/sujato) introduction must have been added to [MN 31](https://suttacentral.net/mn31/en/sujato) at some later date, although not too late as it is found in the Chinese parallel as well. No doubt it was added because of its popularity.
+Ich weiß nicht, was man daraus machen soll. Vielleicht nichts. Aber es erscheint seltsam, dass er beim Kommentieren einer Passage, die eine buddhistische Resonanz angeregt hat, die Notwendigkeit sah, auf die Buddhisten einzugehen. Es ist mir nicht bekannt, dass Śaṅkāra die Suttas auch nur kannte. Gewöhnlich spricht er über die späteren Schulen. Aber könnte es irgendwie eine Erinnerung an diese Verbindung gegeben haben?
 
 ---
-Also just to note the connection between the ending here and the account of the lay followers of Ñātika in [DN 16](https://suttacentral.net/dn16/en/sujato). As I’ve noted before, Ñātika was the home town of Mahāvīra “the Jain ascetic of Ñātika”, which explains the rather unusual lengths that [DN 16](https://suttacentral.net/dn16/en/sujato) takes to expound the rebirth destinies of the inhabitants of this otherwise little known town.
+Als ein Nachtrag: Die Einführung ist sehr charakteristisch, und sicherlich gibt es einen Satz von erzählten Ereignissen, der für zwei recht verschiedene Diskussionen in MN 31 und MN 128 verwendet wird. Was die Frage aufwirft: Welches ist das eigentliche? Das wird sowohl vom Ehrwürdigen Bodhi als auch dem Ehrwürdigen Analayo bemerkt, aber ihre Diskussionen ließen das entscheidene Detail der Geographie außer Acht.
 
-In [MN 31](https://suttacentral.net/mn31/en/sujato), too, we have the unusual circumstance that a yakkha shows up and extols the three friends with great praise that is taken up to the Brahma realm. While doubtless considered a boon, the presence of three monks meditating in a park was not that unusual, begging the question as to why this exorbitant ending.
+* Kurz zusammengefasst: MN 128 ist der ursprüngliche Zusammenhang, die Einführung wurde später zu MN 31 hinzugefügt.
+
+Die wichtigsten Punkte sind:
+
+* MN 128 along with the Vinaya account directly follow the quarrel at Kosambi.
+* MN 31 doesn’t mention the quarrel at Kosambi.
+* Nonetheless, MN 31 still includes passages about the harmony of the three friends, suggesting the Kosambi background.
+* MN 128 is set at the Eastern Bamboo Park in Ceti near Kosambi, and thus was a natural place for the Buddha to visit after leaving Kosambi.
+* MN 31 is set in Ñātika near Vesali, about 400 km east of Kosambi. There’s no way the Buddha went there right away.
+* In addition, in MN 128 they are still developing their meditation, whereas in MN 31 they are already arahants, so it must be later.
+
+Thus MN 128 gives the original narrative context where the three friends were meditating together near Kosambi. MN 31 tells of a later encounter far to the east. The MN 128 introduction must have been added to MN 31 at some later date, although not too late as it is found in the Chinese parallel as well. No doubt it was added because of its popularity.
+
+---
+Also just to note the connection between the ending here and the account of the lay followers of Ñātika in [DN 16](#/sutta/dn16/de/sabbamitta). As I’ve noted before, Ñātika was the home town of Mahāvīra “the Jain ascetic of Ñātika”, which explains the rather unusual lengths that DN 16 takes to expound the rebirth destinies of the inhabitants of this otherwise little known town.
+
+In MN 31, too, we have the unusual circumstance that a yakkha shows up and extols the three friends with great praise that is taken up to the Brahma realm. While doubtless considered a boon, the presence of three monks meditating in a park was not that unusual, begging the question as to why this exorbitant ending.
 
 Like the account of the rebirths of the Ñātika devotees, it is best understood as serving to exalt Buddhism in the home town of Mahāvīra.
 
