@@ -22,7 +22,7 @@ Die Erklärung des Kommentars ist:
 
 Das ist völlig unwahrscheinlich, doch soweit ich das nachverfolgen konnte, richtet sich jeder Übersetzer danach. Zuvor habe ich das Problem mit einer etwas vagen Übersetzung der Bedeutung umgangen.
 
-Tatsächlich ist *puṇṇo dabbigāho* ein hoch spezifischer Verweis auf ein Detail des Sākamedha-Rituals, das den Beginn des Winters markiert. Von der Reisspende des ersten Tages wird ein Topf bis zum nächsten Morgen aufgehoben; dann wird der allerletzte „volle Löffel“ (*pūrṇā darvi*) herausgeschabt mit der Anrufung: „Voll, o Löffel, fliege fort, und fliege gut gefüllt zu uns zurück!“ ([Śatapatha-Brāhmaṇa 2.5.3.16–17](https://www.wisdomlib.org/hinduism/book/satapatha-brahmana-english/d/doc63168.html), Kauṣītaki-Brāhmaṇa 5.6.20; Anrufung findet sich auch bei Atharva-Veda 3.10.7c, Maitrāyaṇī-Saṁhitā 1.10.2).
+Tatsächlich ist *puṇṇo dabbigāho* ein hoch spezifischer Verweis auf ein Detail des Sākamedha-Rituals, das den Beginn des Winters markiert. Von der Reisspende des ersten Tages wird ein Topf bis zum nächsten Morgen aufgehoben; dann wird der allerletzte „volle Löffel“ (*pūrṇā darvi*) herausgeschabt mit der Anrufung: „Voll, o Löffel, fliege fort, und fliege gut gefüllt zu uns zurück!“ ([Śatapatha-Brāhmaṇa 2.5.3.16–17](https://www.wisdomlib.org/hinduism/book/satapatha-brahmana-english/d/doc63168.html), Kauṣītaki-Brāhmaṇa 5.6.20; die Anrufung findet sich auch bei Atharva-Veda 3.10.7c, Maitrāyaṇī-Saṁhitā 1.10.2).
 
 Dieses Opfer des letzten Löffels voll sorgt dafür, dass der gegenwärtige Wohlstand nach der unfruchtbaren kalten Jahreszeit erneuert wird (wie das Leben nach dem Tod erneuert wird, oder wie das Korn des letzten Jahres auf das Feld gesät wird). Die Folgerung ist, dass die zeitgenössischen Brahmanen nicht einmal die Riten des Fortbestands in ihrer eigenen Tradition erfüllen, wie können sie daher den Fortbstand der Kaste über Generationen behaupten?
 
@@ -30,6 +30,6 @@ Somit bezieht sich die Stelle auf ein sehr spezifisches Element des Opfers, das 
 
 Dieser interne Bezug zeigt ein äußerst genaues Verständnis des vedischen Rituals, das den nachfolgenden Generationen im Buddhismus verloren ging. Da der Bezug im Zusamenhang nicht klar ist und nur für Kenner des Gebiets erkennbar war, ist eine Übersetzung gerechtfdertigt, die die Unklarheit beibehält.
 
-> So waren selbst diese sieben Seher überfragt, als der Seher Devala ihnen über ihre eigene Abstammungslehre nachging, auf sie eindrang und sie ins Kreuzverhör nahm. Wie könntest du da die Oberhand behalten, wenn ich dich jetzt über deine eigene Abstammungslehre ins Kreuzverhör nehme, wenn deine Tradition nicht einmal ihren letzten Löffel voll aufliest?
+> So behielten selbst diese sieben Seher nicht die Oberhand, als der Seher Devala ihnen über ihre eigene Abstammungslehre nachging, auf sie eindrang und sie ins Kreuzverhör nahm. Wie könntest du da die Oberhand behalten, wenn ich dich jetzt über deine eigene Abstammungslehre ins Kreuzverhör nehme, wenn deine Tradition nicht einmal ihren letzten Löffel voll aufliest?
 
 
