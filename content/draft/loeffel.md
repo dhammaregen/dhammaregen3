@@ -8,7 +8,7 @@ order: 8
 
 [Zum Originaltext](https://discourse.suttacentral.net/t/on-those-who-pick-up-the-last-spoonful/30975)
 
-[MN 93](https://suttacentral.net/mn93/en/sujato) Assalāyana beinhaltet einige faszinierende Punkte, und insbesondere einer scheint sich einem Verständnis entzogen zu haben – bis jetzt!
+[MN 93](#/sutta/mn93/de/sabbamitta) Assalāyana beinhaltet einige faszinierende Punkte, und insbesondere einer scheint sich einem Verständnis entzogen zu haben – bis jetzt!
 
 Die gesamte Erzählung handelt von einem Brahmanen namens Assalāyana, der etwas widerstrebend einwilligt, sich mit dem Buddha auf eine Debatte über Kaste und Abstammung einzulassen, obwohl er weiß, dass er verlieren wird. Und das tut er. Der Buddha setzt seiner Vernichtung die Krone auf mit einer Anekdote über die „sieben Seher“ der Vergangenheit. Diese sind die Söhne Brahmās, die die brahmanischen *gotras* (Abstammungslinien; AdÜ) begründeten, das heißt, auf sie geht die ganze Sache zurück, und selbst sie konnten die Darstellung der Abstammung nicht verteidigen.
 
