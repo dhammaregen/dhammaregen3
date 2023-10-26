@@ -8,7 +8,7 @@ order: 9
 
 [Zum Originaltext](https://discourse.suttacentral.net/t/on-the-gandhabba-and-male-anxiety/30928)
 
-[MN 38:26.2](#/sutta/mn38:26.2/de/sabbamitta), die große Lehrrede über die Auflösung des Verlangens, sagt bekanntlich, dass ein *gandhabba* anwesend sein müsse, damit eine Empfängnis stattfinden könne. Es ist so ein merkwürdiges Detail, es hat viel Untersuchung und Diskussion ausgelöst, darunter auch mehrere Essays von mir.
+[MN 38:26.2](#/sutta/mn38:26.2/de/sabbamitta), die große Lehrrede über die Auflösung des Verlangens, sagt bekanntlich, dass ein *gandhabba* anwesend sein muss, damit eine Empfängnis stattfinden kann. Es ist so ein merkwürdiges Detail, es hat viel Untersuchung und Diskussion ausgelöst, darunter auch mehrere Essays von mir.
 
 Ich entwickelte diese Gedanken zunächst [in diesem Beitrag](#/wiki/mythologie/gandhabba), dem [ein ergänzendes Zitat](https://discourse.suttacentral.net/t/those-gandhabbas-sure-were-potent/28574) folgte. Doch etwas scheint an der ganzen Sache unbefriedigend zu sein, daher nehme ich einen neuen Anlauf. Dieser Essay baut überwiegend auf den früheren Vorstellungen auf, aber ich kann nun ein vollständigeres und zusammenhängenderes Bild erstellen.
 
