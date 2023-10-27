@@ -8,13 +8,13 @@ order: 9
 
 [Zum Originaltext](https://discourse.suttacentral.net/t/on-the-gandhabba-and-male-anxiety/30928)
 
-[MN 38:26.2](#/sutta/mn38:26.2/de/sabbamitta), die große Lehrrede über die Auflösung des Verlangens, sagt bekanntlich, dass ein *gandhabba* anwesend sein muss, damit eine Empfängnis stattfinden kann. Es ist so ein merkwürdiges Detail, es hat viel Untersuchung und Diskussion ausgelöst, darunter auch mehrere Essays von mir.
+[MN 38](#/sutta/mn38/de/sabbamitta), die große Lehrrede über die Auflösung des Verlangens, sagt bekanntlich, dass ein *gandhabba* anwesend sein muss, damit eine Empfängnis stattfinden kann. Es ist so ein merkwürdiges Detail! Es hat viel Untersuchung und Diskussion ausgelöst, darunter auch mehrere Essays von mir.
 
 Ich entwickelte diese Gedanken zunächst [in diesem Beitrag](#/wiki/mythologie/gandhabba), dem [ein ergänzendes Zitat](https://discourse.suttacentral.net/t/those-gandhabbas-sure-were-potent/28574) folgte. Doch etwas scheint an der ganzen Sache unbefriedigend zu sein, daher nehme ich einen neuen Anlauf. Dieser Essay baut überwiegend auf den früheren Vorstellungen auf, aber ich kann nun ein vollständigeres und zusammenhängenderes Bild erstellen.
 
 The Buddhist tradition is content to offer a rationalizing explanation: it is the being about to be born, driven by its kamma. Okay, fine, but why *gandhabba*? It’s such an odd choice!
 
-The major problem is that this idea appears in [MN 38](#/sutta/mn38/de/sabbamitta), which is a doctrinal discourse dealing with dependent origination. So from the context it seems like a serious doctrinal statement. However it is virtually certain that it originally appeared, rather, in [MN 93](#/sutta/mn93/de/sabbamitta):18.61, where it is much more at home in a discussion between Brahmanical sages on the question of caste, and has been casually airlifted into [MN 38](#/sutta/mn38/de/sabbamitta). This must have happened quite early because it is found in parallels, but all Buddhist traditions explain it similarly as being simply the individual to be reborn according to their kamma, ascribing no special meaning to the term. Whether it was spoken in this way by the Buddha, or was simply adopted as a convenient explanation of conception from [MN 93](#/sutta/mn93/de/sabbamitta), it has no particular doctrinal significance in Buddhist context.
+The major problem is that this idea appears in [MN 38:26.2](#/sutta/mn38:26.2/de/sabbamitta), which is a doctrinal discourse dealing with dependent origination. So from the context it seems like a serious doctrinal statement. However it is virtually certain that it originally appeared, rather, in [MN 93:18.61](#/sutta/mn93:18.61/de/sabbamitta), where it is much more at home in a discussion between Brahmanical sages on the question of caste, and has been casually airlifted into [MN 38](#/sutta/mn38/de/sabbamitta). This must have happened quite early because it is found in parallels, but all Buddhist traditions explain it similarly as being simply the individual to be reborn according to their kamma, ascribing no special meaning to the term. Whether it was spoken in this way by the Buddha, or was simply adopted as a convenient explanation of conception from [MN 93](#/sutta/mn93/de/sabbamitta), it has no particular doctrinal significance in Buddhist context.
 
 The relevant context in [MN 93](#/sutta/mn93/de/sabbamitta) is that a strange “dark hermit” challenges some sages on the question of caste, forcing them to admit that they do not know who the mother or father might have had sex with, even back multiple generations, nor do they know the caste of the *gandhabba*.
 
@@ -70,7 +70,7 @@ A man’s anxiety about female sexuality lies just below the surface. [MN 93](#/
 
 This is where it starts to get weird and creepy. [Atharva Veda 8.6 ](https://sacred-texts.com/hin/av/av08006.htm) details in unbelievably horrifying ways how demons of all stripes, including *gandharvas*, “creep between her thighs”. They are “slippery fiends” who eat raw flesh, biters and gropers dressed in hides, licking their lips, hairy ones who feed on babes unborn. Without the proper rites, they will devour the embryo or cause any manner of deformity.
 
-> **interjection**
+> **Zwischenruf**
 >
 > * Wait what? You’re saying that *a woman might be raped by a demon in a dream, who leaves his seed to fester in her womb, mutating into a “hairy one” who eats her babies*?
 > * Why yes, yes I am saying that.
