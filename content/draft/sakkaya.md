@@ -47,9 +47,9 @@ In diesen Fällen bedeutet *kāya* nicht „Körper“, sondern eine „Masse“
 
 *Kāya* kommt aus der Sicht der Suttas eindeutig eine zentrale Bedeutung in den nicht-vedischen Bewegungen zu, die es in der vedischen Philosophie nicht hat. Daher sollten wir uns ihnen zuwenden, um mehr Kontext zu finden.
 
-The problem here is that most of these ascetics have vanished leaving little but the quotes in the Pali canon. To make it worse, their doctrines were not always attributed consistently or correctly in the Pali canon. However, without getting too much into the history, it is also true that these theorists were often closely related, may have practiced together, and shared ideas. So it’s not unreasonable to suppose that we will find a similar usage in the texts of the Jains, who are the only one of these groups to leave scriptures, although they stem from a later period.
+Das Problem hier besteht darin, dass die meisten dieser Asketen verschwunden sind und außer den Zitaten im Palikanon wenig hinterlassen haben. Was es noch schlimmer macht: Ihre Doktrinen wurden im Palikanon nicht immer einheitlich oder korrekt zugeordnet. Allerdings trifft es auch zu – ohne zu tief in die Geschichte einzutauchen –, dass diese Theoretiker oft enge Beziehungen hatten, vielleicht zusammen geübt und Ideen ausgetauscht haben. Daher ist es nicht zu weit hergeholt, anzunehmen, dass wir in den Texten der Jainas einen ähnlichen Gebrauch finden werden; sie sind die einzige dieser Gruppen, die Schriften hinterlassen hat, auch wenn diese aus einer späteren Periode stammen.
 
-There we have a lot more success, because there is a Jain concept of *astikāya*:
+Hier haben wir mehr Erfolg, denn es gibt ein Jaina-Konzept über *astikāya*:
 
 https://www.wisdomlib.org/definition/astikaya
 
