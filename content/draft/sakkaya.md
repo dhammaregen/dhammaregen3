@@ -8,7 +8,7 @@ order: 8
 
 [Zum Originaltext](https://discourse.suttacentral.net/t/on-sakkaya-identity-and-substantial-reality/31048)
 
-Wer den Buddhismus studiert, ist mit dem Begriff *sakkāya* vertraut, und die entsprechende Ansicht zu haben, ist eine der Fesseln, die uns an das Leiden bindet. Ich habe das Wort früher als „Identität“ (identity) übersetzt, aber in seinem jüngsten Werk, der Übersetzung des Suttanipāta, sagt der Ehrwürdige Bodhi:
+Wer den Buddhismus studiert, ist mit dem Begriff *sakkāya* vertraut, und die entsprechende Ansicht zu haben, ist eine der Fesseln, die uns an das Leiden bindet. Ich habe das Wort früher mit „Identität“ (identity) übersetzt, aber in seinem jüngsten Werk, der Übersetzung des Suttanipāta, sagt der Ehrwürdige Bodhi:
 
 > *Sakkāya*: der Verbund der fünf mit Anklammern verbundenen Aggregate. Eine Übersetzung des Wortes ist beinhae unmöglich. Meine früheren Versuche als „Persönlichkeit“ (personality) und „Identität“ (identity) werden dem Wort nicht gerecht. *Sakkāya* ist ein zusammengesetztes Wort aus *sat* = „existierend“ (existent) und *kāya* = „Körper“ (body), aber was gemeint ist, ist nicht nur der physische Körper, sondern die gesamte Anhäufung materieller und geistiger Faktoren, die die empirische Person ausmachen.
 
@@ -80,25 +80,25 @@ Das stimmt weitgehend mit dem Gebrauch in den FBT überein:
 * Es wird in Begriffen der vier edlen Wahrheiten behandelt, daher ist *sakkāya* = *dukkha* = die gesamte bedingte Wirklichkeit.
 * Die Kommentare, die *sakkāya* durchgängig richtig zu *sat* + *kāya* zerlegen, erklären es als *tebhūmakavaṭṭaṁ*, d. h. „zyklische Existenz in den drei Bereichen“.
 
-Daher gibt es keine Grundlage für Übersetzungen des Ausdrucks mit „persönlich“, und selbst Bodhis „persönliche Entität“ geht nicht weit genug, denn *sakkāya* schließt alle Phänomene ein, nichtnur solche, die zu einem Individuum gehören.
+Daher gibt es keine Grundlage für Übersetzungen des Ausdrucks mit „persönlich“, und selbst Bodhis „persönliche Entität“ geht nicht weit genug, denn *sakkāya* schließt alle Phänomene ein, nicht nur solche, die zu einem Individuum gehören.
 
-A key difference with the Jains is that for the Buddha, Nibbāna is not included in *sakkāya*. And not just the Jains, but also “the Brahmā realm is impermanent, not lasting, and included within *sakkāya*” ([sn55.54](https://suttacentral.net/sn55.54/en/sujato)).
+Ein wichtiger Unterschied zu den Jainas besteht darin, dass für den Buddha Nibbāna nicht in *sakkāya* eingeschlossen ist. Und nicht nur zu den Jainas, sondern auch „die Brahmāwelt ist unbeständig, währt nicht fort und ist Teil von *sakkāya*“ ([SN 55.54](#/suttas/sn55.56/de/sabbamitta)).
 
-This answers our earlier question, why did the Buddha choose this term? What point was he trying to convey? He wanted to make it clear that in his teaching, unlike the Jains, the goal of Nibbana was not part of *sakkāya*.
+Das beantwortet unsere frühere Frage: Warum wählte der Buddha diesen Ausdruck? Welchen Punkt versuchte er zu vermitteln? Er wollte klarstellen, dass in seiner Lehre, anders als bei den Jainas, das Ziel des Nibbāna nicht teil von *sakkāya* war.
 
-This gives us a better sense of the word’s meaning and rhetorical purpose. How then to translate it?
+Das gibt uns ein besseres Gefühl für die Bedeutung des Wortes und die rhetorische Absicht, mit der es gebraucht wurde. Wie sollen wir es nun übersetzen?
 
-Obviously we must reject any “personal” renderings, as they do not convey the sense of the word at all.
+Offensichtlich müssen wir alle Übersetzungen mit „persönlich“ ablehnen, da sie den Sinn des Wortes überhaupt nicht vermitteln.
 
-We should definitely translate *sakkāya* in some way that draws out the idea of “real”, “existent”, “substantial”.
+Wir sollten *sakkāya* auf jeden Fall auf eine Art übersetzen, die die Vorstellung von „wirklich“, „existierend“, substanziell“ erkennen lässt.
 
-Now, the Jain philosophy is that these *astikāyas* are a kind of substance that comprises all reality. They are defined, in fact as forms of *dravya* (“substance”):
+Nun, die Philosophie der Jainas besagt, dass diese *astikāyas* eine Art von Substanz sind, die alle Wirklichkeit in sich einschließt. Sie werden tatsächlich als Formen von *dravya* („Substanz“) definiert:
 
-https://en.wikipedia.org/wiki/Dravya
+[https://en.wikipedia.org/wiki/Dravya](https://en.wikipedia.org/wiki/Dravya)
 
-This is an example of a kind of philosophical approach whose general name is “substantialism”.
+Das ist ein Beispiel für eine Art der philosophischen Herangehensweise, deren allgemeine Bezeichnung „Substanzialismus“ ist.
 
-https://en.wikipedia.org/wiki/Substance_theory
+[https://de.wikipedia.org/wiki/Substanz](https://de.wikipedia.org/wiki/Substanz) bzw. [https://de.wikipedia.org/wiki/Substantialistisch](https://de.wikipedia.org/wiki/Substantialistisch)
 
-We can draw upon this, and keep a broad consistency with the handling of *astikāya* in Jainism, by rendering *sakkāya* as “substance” or “substantial reality”, and *sakkāyadiṭṭhi* as “substantialist view” or “substantialist view of reality”.
+Wir können uns darauf stützen und eine weitgehende Übereinstimmung mit der Handhabung von *astikāya* im Jainismus bewahren, indem wir *sakkāya* mit „Substanz“ oder „substanzielle Wirklichkeit“ übersetzen und *sakkāyadiṭṭhi* als „substanzialistische Ansicht über die Wirklichkeit“.
 
