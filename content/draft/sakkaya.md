@@ -49,28 +49,28 @@ In diesen Fällen bedeutet *kāya* nicht „Körper“, sondern eine „Masse“
 
 Das Problem hier besteht darin, dass die meisten dieser Asketen verschwunden sind und außer den Zitaten im Palikanon wenig hinterlassen haben. Was es noch schlimmer macht: Ihre Doktrinen wurden im Palikanon nicht immer einheitlich oder korrekt zugeordnet. Allerdings trifft es auch zu – ohne zu tief in die Geschichte einzutauchen –, dass diese Theoretiker oft enge Beziehungen hatten, vielleicht zusammen geübt und Ideen ausgetauscht haben. Daher ist es nicht zu weit hergeholt, anzunehmen, dass wir in den Texten der Jainas einen ähnlichen Gebrauch finden werden; sie sind die einzige dieser Gruppen, die Schriften hinterlassen hat, auch wenn diese aus einer späteren Periode stammen.
 
-Hier haben wir mehr Erfolg, denn es gibt ein Jaina-Konzept über *astikāya*:
+Hier haben wir mehr Erfolg, denn es gibt ein Jaina-Konzept *astikāya*:
 
-https://www.wisdomlib.org/definition/astikaya
+[https://www.wisdomlib.org/definition/astikaya](https://www.wisdomlib.org/definition/astikaya)
 
-*Astikāya* is merely a formal variation of the same word we know as *sakkāya*. So it seems clear it was a term the Buddha drew from the Jains, or from the ascetic teachers more generally.
+*Astikāya* ist lediglich eine formale Variation des gleichen Wortes, das wir als *sakkāya* kennen. Somit scheint es klar, dass es ein Ausdruck war, den der Buddha von den Jainas bezog, oder von den asketischen Lehrern allgemein.
 
-There is a discussion of the concept in the Jain Bhagavati Sutra:
+Es gibt eine Diskussion des Konzepts im Bhagavati-Sutra der Jainas:
 
-https://www.wisdomlib.org/jainism/book/bhagavati-sutra/d/doc374786.html
+[https://www.wisdomlib.org/jainism/book/bhagavati-sutra/d/doc374786.html](https://www.wisdomlib.org/jainism/book/bhagavati-sutra/d/doc374786.html)
 
-The basic points:
+Die wichtigsten Punkte:
 
-* *astikāya* means “existent substance” or “ontological category”.
-* it refers to five things that define all reality: the medium of motion (*dharma*), the medium of rest (*adharma*), space (*ākāśa*), soul (*jīva*), and matter (*pudgala*).
-  * the terminology here is very idiosyncratic to the Jains, so just roll with it!
-* these things include the state of liberation
-* they are pluralistic, many atomic entities making up one overall *astikāya*, hence the translation “ontological categories”.
-  * this shows that the sense of *kāya* here is similar to *khandha*, i.e. “mass”, “conglomerate”, “category”.
+* *Astikāya* bedeutet „existierende Substanz“ oder „ontologische Kategorie“.
+* Es bezieht sich auf fünf Dinge, die alle Wirklichkeit bestimmen: das Medium der Bewegung (*dharma*), das Medium der Ruhe (*adharma*), Raum (*ākāśa*), Seele (*jīva*) und Materie (*pudgala*).
+  * Diese Terminologie ist sehr spezifisch für die Jainas, lassen Sie sich einfach mitziehen!
+* Diese Dinge schließen den Zustand der Befreiung ein.
+* Sie sind pluralistisch, viele atomistische Einheiten bilden einen übergeordneten *astikāya*, daher die Übersetzung „ontologische Kategorien“.
+  * Das zeigt, dass die Bedeutung von *kāya* hier ähnlich der von *khandha* ist, d. h. „Masse“, „Konglomerat“, „Kategorie“.
 
-https://www.wisdomlib.org/jainism/essay/a-study-of-the-philosophy-of-jainism/d/doc242108.html
+[https://www.wisdomlib.org/jainism/essay/a-study-of-the-philosophy-of-jainism/d/doc242108.html](https://www.wisdomlib.org/jainism/essay/a-study-of-the-philosophy-of-jainism/d/doc242108.html)
 
-https://www.wisdomlib.org/hinduism/book/a-history-of-indian-philosophy-volume-1/d/doc209778.html
+[https://www.wisdomlib.org/hinduism/book/a-history-of-indian-philosophy-volume-1/d/doc209778.html](https://www.wisdomlib.org/hinduism/book/a-history-of-indian-philosophy-volume-1/d/doc209778.html)
 
 Thus the overall sense is “the mass of substances that make up all of reality”.
 
