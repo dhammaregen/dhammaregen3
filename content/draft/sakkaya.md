@@ -21,7 +21,7 @@ Ein Grund für die Schwierigkeit ist, dass die Wurzeln des Wortes sehr allgemein
 * *sat* = „existierend“, auch „wirklich“, „wahr“, „gut“.
 * *kāya* = „Körper“, auch „Kategorie“, „Masse“, „Substanz“.
 
-The first item is definitely *sat*, but in Pali, the prefix *sa-* can stem from the Sanskrit *sat* or *sva*, “own”, “self”. We know that isn’t the case here, because the doubled *kk* in *sakkāya* is created by the assimilation of the *t* in *sat*. Nonetheless, some Sanskrit and Chinese sources do take this in the sense of *sva-*.
+Das erste Element ist zweifellos *sat*, obwohl die Pali-Vorsilbe *sa-* von Sanskrit *sat* oder *sva* („eigen“, „selbst“) stammen kann. Wir wissen, dass Letzteres hier nicht zutrifft, weil die Dopplung *kk* in *sakkāya* durch die Assimilation des *t* in *sat* zustande kommt. Dennoch fassen einige Quellen in Sanskrit und Chinesisch das Wort im Sinn von *sva-* auf.
 
 This is understandable because is used in the context of the five aggregates, and is explained as the identification of the self with the five aggregates or one of them. Because it is in the context of “self” theory, translations often lean on the “self” side of things, with “personality”, “identity”, “own body” (Horner), “self-identity” (Suddāso), and so on. But it would seem to be a case where the word is being inferred purely from context, without considering what the word brings to the context.
 
