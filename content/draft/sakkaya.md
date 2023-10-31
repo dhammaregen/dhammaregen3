@@ -8,15 +8,11 @@ order: 8
 
 [Zum Originaltext](https://discourse.suttacentral.net/t/on-sakkaya-identity-and-substantial-reality/31048)
 
-Students of Buddhism are familiar with the term *sakkāya*, the view of which is one of the fetters binding us to suffering. I have previously translated it as “identity”, but in his most recent work, the translation of the Suttanipāta, Ven Bodhi says:
+Wer den Buddhismus studiert, ist mit dem Begriff *sakkāya* vertraut, und diese Ansicht zu haben, ist eine der Fesseln, die uns an das Leiden bindet. Ich habe das Wort früher als „Identität“ (identity) übersetzt, aber in seinem jüngsten Werk, der Übersetzung des Suttanipāta, sagt der Ehrwürdige Bodhi:
 
-> Sakkāya: the composite of the five aggregates subject to clinging. A translation of the word is
-> almost impossible. My past attempts, as “personality” and “identity,” are inadequate. Sakkāya
-> is a compound of *sat* = “existent” and *kāya* = “body,” but what is meant is not solely the
-> physical body but the entire conglomeration of material and mental factors that constitute the
-> empirical person.
+> Sakkāya: der Verbund der fünf mit Klammern verbundenen Aggregate. Eine Übersetzung des Wortes ist beinhae unmöglich. Meine früheren Versuche als „Persönlichkeit“ (personality) und „Identität“ (identity) werden dem Wort nicht gerecht. Sakkāya ist ein zusammengesetztes Wort aus *sat* = „existierend“ (existent) und *kāya* = „Körper“ (body), aber was gemeint ist, ist nicht nur der physische Körper, sondern die gesamte Anhäufung materieller und geistiger Faktoren, die die empirische Person ausmachen.
 
-He now renders it as “personal entity”.
+Jetzt gibt er es mit „persönliche Einheit“ (personal entity) wieder.
 
 Let’s have a look at why it is so hard to translate, and see if we can excavate some context that will help us clarify it.
 
