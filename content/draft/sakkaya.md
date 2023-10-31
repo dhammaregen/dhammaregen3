@@ -8,7 +8,7 @@ order: 8
 
 [Zum Originaltext](https://discourse.suttacentral.net/t/on-sakkaya-identity-and-substantial-reality/31048)
 
-Wer den Buddhismus studiert, ist mit dem Begriff *sakkāya* vertraut, und diese Ansicht zu haben, ist eine der Fesseln, die uns an das Leiden bindet. Ich habe das Wort früher als „Identität“ (identity) übersetzt, aber in seinem jüngsten Werk, der Übersetzung des Suttanipāta, sagt der Ehrwürdige Bodhi:
+Wer den Buddhismus studiert, ist mit dem Begriff *sakkāya* vertraut, und die entsprechende Ansicht zu haben, ist eine der Fesseln, die uns an das Leiden bindet. Ich habe das Wort früher als „Identität“ (identity) übersetzt, aber in seinem jüngsten Werk, der Übersetzung des Suttanipāta, sagt der Ehrwürdige Bodhi:
 
 > *Sakkāya*: der Verbund der fünf mit Anklammern verbundenen Aggregate. Eine Übersetzung des Wortes ist beinhae unmöglich. Meine früheren Versuche als „Persönlichkeit“ (personality) und „Identität“ (identity) werden dem Wort nicht gerecht. *Sakkāya* ist ein zusammengesetztes Wort aus *sat* = „existierend“ (existent) und *kāya* = „Körper“ (body), aber was gemeint ist, ist nicht nur der physische Körper, sondern die gesamte Anhäufung materieller und geistiger Faktoren, die die empirische Person ausmachen.
 
@@ -47,7 +47,7 @@ In diesen Fällen bedeutet *kāya* nicht „Körper“, sondern eine „Masse“
 
 *Kāya* kommt aus der Sicht der Suttas eindeutig eine zentrale Bedeutung in den nicht-vedischen Bewegungen zu, die es in der vedischen Philosophie nicht hat. Daher sollten wir uns ihnen zuwenden, um mehr Kontext zu finden.
 
-Das Problem hier besteht darin, dass die meisten dieser Asketen verschwunden sind und außer den Zitaten im Palikanon wenig hinterlassen haben. Was es noch schlimmer macht: Ihre Doktrinen wurden im Palikanon nicht immer einheitlich oder korrekt zugeordnet. Allerdings trifft es auch zu – ohne zu tief in die Geschichte einzutauchen –, dass diese Theoretiker oft enge Beziehungen hatten, vielleicht zusammen geübt und Ideen ausgetauscht haben. Daher ist es nicht zu weit hergeholt, anzunehmen, dass wir in den Texten der Jainas einen ähnlichen Gebrauch finden werden; sie sind die einzige dieser Gruppen, die Schriften hinterlassen hat, auch wenn diese aus einer späteren Periode stammen.
+Das Problem hier besteht darin, dass die meisten dieser Asketen verschwunden sind und außer den Zitaten im Palikanon wenig hinterlassen haben. Was es noch schlimmer macht: Ihre Doktrinen wurden im Palikanon nicht immer einheitlich oder korrekt zugeordnet. Allerdings trifft es auch zu – ohne zu tief in die Geschichte einzutauchen –, dass diese Theoretiker oft enge Beziehungen hatten, vielleicht zusammen praktiziert und Ideen ausgetauscht haben. Daher ist es nicht zu weit hergeholt, anzunehmen, dass wir in den Texten der Jainas einen ähnlichen Gebrauch finden werden; sie sind die einzige dieser Gruppen, die Schriften hinterlassen hat, auch wenn diese aus einer späteren Periode stammen.
 
 Hier haben wir mehr Erfolg, denn es gibt ein Jaina-Konzept *astikāya*:
 
@@ -72,15 +72,15 @@ Die wichtigsten Punkte:
 
 [https://www.wisdomlib.org/hinduism/book/a-history-of-indian-philosophy-volume-1/d/doc209778.html](https://www.wisdomlib.org/hinduism/book/a-history-of-indian-philosophy-volume-1/d/doc209778.html)
 
-Thus the overall sense is “the mass of substances that make up all of reality”.
+Somit ist die übergeordnete Bedeutung „die Masse an Substanzen, die die gesamte Wirklichkeit ausmachen“.
 
-This is in broad agreement with the usage in the EBTs.
+Das stimmt weitgehend mit dem Gebrauch in den FBT überein:
 
-* *Sakkāya* is defined as the five aggregates, emphasizing the closeness of *kāya* and *khandha* in the sense of “mass” rather than “body”.
-* It is treated in terms of the four noble truths, hence *sakkāya* = *dukkha* = all of conditioned reality.
-* The commentaries, which consistently analyze *sakkāya* correctly as *sat* + *kāya*, gloss it as *tebhūmakavaṭṭaṁ*, i.e. “cyclic existence in the three realms”.
+* *Sakkāya* ist als die fünf Aggregate definiert, was die Nähe von *kāya* und *khandha* im Sinn von „Masse“ im Unterschied zu „Körper“ betont.
+* Es wird in Begriffen der vier edlen Wahrheiten behandelt, daher ist *sakkāya* = *dukkha* = die gesamte bedingte Wirklichkeit.
+* Die Kommentare, die *sakkāya* durchgängig richtig zu *sat* + *kāya* zerlegen, erklären es als *tebhūmakavaṭṭaṁ*, d. h. „zyklische Existenz in den drei Bereichen“.
 
-There is, therefore, no basis in “personal” renderings of the term, and even Bodhi’s “personal entity” does not go far enough, because *sakkāya* includes all phenomena, not just those pertaining to an individual.
+Daher gibt es keine Grundlage für Übersetzungen des Ausdrucks mit „persönlich“, und selbst Bodhis „persönliche Entität“ geht nicht weit genug, denn *sakkāya* schließt alle Phänomene ein, nichtnur solche, die zu einem Individuum gehören.
 
 A key difference with the Jains is that for the Buddha, Nibbāna is not included in *sakkāya*. And not just the Jains, but also “the Brahmā realm is impermanent, not lasting, and included within *sakkāya*” ([sn55.54](https://suttacentral.net/sn55.54/en/sujato)).
 
