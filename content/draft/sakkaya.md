@@ -12,7 +12,7 @@ Wer den Buddhismus studiert, ist mit dem Begriff *sakkāya* vertraut, und diese 
 
 > *Sakkāya*: der Verbund der fünf mit Anklammern verbundenen Aggregate. Eine Übersetzung des Wortes ist beinhae unmöglich. Meine früheren Versuche als „Persönlichkeit“ (personality) und „Identität“ (identity) werden dem Wort nicht gerecht. *Sakkāya* ist ein zusammengesetztes Wort aus *sat* = „existierend“ (existent) und *kāya* = „Körper“ (body), aber was gemeint ist, ist nicht nur der physische Körper, sondern die gesamte Anhäufung materieller und geistiger Faktoren, die die empirische Person ausmachen.
 
-Jetzt gibt er es mit „persönliche Einheit“ (personal entity) wieder.
+Jetzt gibt er es mit „persönliche Entität“ (personal entity) wieder.
 
 Lassen Sie uns schauen, warum es so schwer zu übersetzen ist, und sehen, ob wir einen Kontext freilegen können, der uns hilft, es aufzuklären.
 
@@ -25,27 +25,27 @@ Das erste Element ist zweifellos *sat*, obwohl die Pali-Vorsilbe *sa-* von Sansk
 
 Das ist verständlich, da es im Kontext der fünf Aggregate gebraucht wird und als eine Identifikation des Selbst mit den fünf Aggregaten oder einem von ihnen erklärt wird. Weil es im Zusammenhang mit „Selbst“-Theorien steht, neigen Übersetzer oft zur „Selbst“-Seite hinüber mit „Persönlichkeit“, „Identität“, „eigener Körper“ (Horner), „Selbstidentität“ (Suddāso) und so weiter. Aber das scheint ein Fall zu sein, in dem das Wort rein aus dem Zusammenhang abgeleitet ist, ohne zu berücksichtigen, was es selbst in den Zusammenhang mitbringt.
 
-Andere Übersetzer neigen zur Seite von „existierend“ und geben es als „Verdinglichung“ (Wayman) oder „Verkörperung“ (Nyanamoli, Anandajoti) wieder. Die „persönliche Einheit“ des Ehrwürdigen Bodhi hat etwas von beidem.
+Andere Übersetzer neigen zur Seite von „existierend“ und geben es als „Verdinglichung“ (Wayman) oder „Verkörperung“ (Nyanamoli, Anandajoti) wieder. Die „persönliche Entität“ des Ehrwürdigen Bodhi hat etwas von beidem.
 
-Die doktrinale Erklärung von *sakkāya* als die fünf Aggregate ist zwar gut verstanden, aber es scheint wenig Interesse an der Frage zu geben, *warum* der Buddha einen solchen Ausdruck gebrauchte. Wenn es lediglich bedeutet, dass man an den Aggregaten hängt, warum sagt er es dann nicht so? Warum wird ein obskurer technischer Begriff eingehürt, um ein einfaches Konzept zu erklären?
+Die doktrinale Erklärung von *sakkāya* als die fünf Aggregate ist zwar gut verstanden, aber es scheint wenig Interesse an der Frage zu geben, *warum* der Buddha einen solchen Ausdruck gebrauchte. Wenn es lediglich bedeutet, dass man an den Aggregaten hängt, warum sagt er es dann nicht so? Warum wird ein obskurer technischer Begriff eingeführt, um ein einfaches Konzept zu erklären?
 
 Angesichts der Tatsache, dass *sakkāya* speziell dafür gebraucht wird, falsche Ansichten und Missverständnisse von Nicht-Buddhisten zu bezeichnen, scheint es naheliegend, in nicht-buddhistischen Texten zu suchen.
 
-A search through the pre-Buddhist Brahmanical literature comes up blank. Not only is *sakkāya* not found, but even more interesting, *kāya* itself is not found. Or at least, I couldn’t locate it. If it is found, it’s certainly not in any doctrinally significant context.
+Eine Suche durch die vorbuddhistische brahmanische Literatur verläuft ergebnislos. Nicht nur ist *sakkāya* nicht zu finden, sondern, noch interessanter, auch *kāya* selbst ist nicht zu finden. Oder zmindest konnte ich es nicht ausfindig machen. Wenn es da ist, ist das sicherlich nicht in irgendeinem doktrinal bedeutsamen Zusammenhang.
 
-But then I remembered that *kāya* is indeed found in a doctrinally central position in [DN 2](https://suttacentral.net/dn2/en/sujato), in describing certain views of the non-Brahmanical ascetics.
+Doch dann fiel mir ein, dass *kāya* tatsächlich an doktrinal zentraler Stelle in [DN 2](#/sutta/dn2/de/sabbamitta) vorkommt, wenn gewisse Ansichten nicht-brahmanischer Asketen beschrieben werden.
 
-View of Ajita of the Hair Blanket:
+Die Ansicht Ajitas mit der Haardecke:
 
-> This person is made up of the four primary elements. When they die, the earth in their body merges and coalesces with the *kāya* of earth. The water in their body merges and coalesces with the *kāya* of water. The fire in their body merges and coalesces with the *kāya* of fire. The air in their body merges and coalesces with the *kāya* of air. The faculties are transferred to space.
+> Dieser Mensch besteht aus den vier Grundelementen. Wenn er stirbt, mischt und verbindet sich die Erde in seinem Körper mit dem *kāya* der Erde, das Wasser in seinem Körper mischt und verbindet sich mit dem *kāya* des Wassers, das Feuer in seinem Körper mischt und verbindet sich mit dem *kāya* des Feuers und die Luft in seinem Körper mischt und verbindet sich mit dem *kāya* der Luft. Die Sinne gehen in den Raum über.
 
-View of Pakudha Kaccāyana:
+Die Ansicht Pakudha Kaccāyanas:
 
-> Great king, these seven *kāyas* are not made, not derived, not created, without a creator, barren, steady as a mountain peak, standing firm like a pillar. They don’t move or deteriorate or obstruct each other. They’re unable to cause pleasure, pain, or both pleasure and pain to each other. What seven? The *kāyas* of earth, water, fire, air; pleasure, pain, and the soul is the seventh. These seven *kāyas* are not made, not derived, not created, without a creator, barren, steady as a mountain peak, standing firm like a pillar. They don’t move or deteriorate or obstruct each other. They’re unable to cause pleasure, pain, or both pleasure and pain to each other. And here there is no-one who kills or who makes others kill; no-one who learns or who educates others; no-one who understands or who helps others understand. If you chop off someone’s head with a sharp sword, you don’t take anyone’s life. The sword simply passes through the gap between the seven *kāyas*.
+> Großer König, es gibt sieben *kāyas*, die nicht gemacht sind, nicht abgeleitet, nicht geschaffen, ohne Schöpfer, unfruchtbar, beständig wie ein Berggipfel, feststehend wie eine Säule. Sie bewegen sich nicht, verfallen nicht und behindern einander nicht. Sie sind unfähig, einander Glück, Schmerz oder sowohl Glück als auch Schmerz zuzufügen. Welche sieben? Die *kāyas* Erde, Wasser, Feuer und Luft; Schmerz, Glück und die Seele als siebter. Diese sieben *kāyas* sind nicht gemacht, nicht abgeleitet, nicht geschaffen, ohne Schöpfer, unfruchtbar, beständig wie ein Berggipfel, feststehend wie eine Säule. Sie bewegen sich nicht, verfallen nicht und behindern einander nicht. Sie sind unfähig, einander Glück, Schmerz oder sowohl Glück als auch Schmerz zuzufügen. Und hier gibt es niemanden, der tötet oder andere zum Töten anstiftet; niemanden, der lernt oder andere unterrichtet; niemanden, der versteht oder anderen hilft, zu verstehen. Wenn man jemandem mit einem scharfen Schwert den Kopf abschlägt, nimmt man niemandem das Leben. Das Schwert gleitet einfach durch die Lücken zwischen den sieben *kāyas*.
 
-In these cases, *kāya* does not mean “body”, but a “mass” or “substance” that forms the fundamental reality of existence.
+In diesen Fällen bedeutet *kāya* nicht „Körper“, sondern eine „Masse“ oder „Substanz“, die die grundlegende Wirklichkeit der Existenz bildet.
 
-Clearly *kāya*, from the point of view of the suttas, has a central significance in the non-Vedic ascetic movements that it does not have in Vedism. So we should look to them for more context.
+*Kāya* kommt aus der Sicht der Suttas eindeutig eine zentrale Bedeutung in den nicht-vedischen Bewegungen zu, die es in der vedischen Philosophie nicht hat. Daher sollten wir uns ihnen zuwenden, um mehr Kontext zu finden.
 
 The problem here is that most of these ascetics have vanished leaving little but the quotes in the Pali canon. To make it worse, their doctrines were not always attributed consistently or correctly in the Pali canon. However, without getting too much into the history, it is also true that these theorists were often closely related, may have practiced together, and shared ideas. So it’s not unreasonable to suppose that we will find a similar usage in the texts of the Jains, who are the only one of these groups to leave scriptures, although they stem from a later period.
 
