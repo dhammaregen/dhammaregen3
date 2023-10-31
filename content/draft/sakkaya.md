@@ -45,7 +45,7 @@ Die Ansicht Pakudha Kaccāyanas:
 
 In diesen Fällen bedeutet *kāya* nicht „Körper“, sondern eine „Masse“ oder „Substanz“, die die grundlegende Wirklichkeit der Existenz bildet.
 
-*Kāya* kommt aus der Sicht der Suttas eindeutig eine zentrale Bedeutung in den nicht-vedischen Bewegungen zu, die es in der vedischen Philosophie nicht hat. Daher sollten wir uns ihnen zuwenden, um mehr Kontext zu finden.
+*Kāya* kommt aus der Sicht der Suttas eindeutig eine zentrale Bedeutung in den nicht-vedischen Bewegungen zu, die es in der vedischen Philosophie nicht hat. Daher sollten wir uns ihnen zuwenden, um mehr Hintergrundinformation zu finden.
 
 Das Problem hier besteht darin, dass die meisten dieser Asketen verschwunden sind und außer den Zitaten im Palikanon wenig hinterlassen haben. Was es noch schlimmer macht: Ihre Doktrinen wurden im Palikanon nicht immer einheitlich oder korrekt zugeordnet. Allerdings trifft es auch zu – ohne zu tief in die Geschichte einzutauchen –, dass diese Theoretiker oft enge Beziehungen hatten, vielleicht zusammen praktiziert und Ideen ausgetauscht haben. Daher ist es nicht zu weit hergeholt, anzunehmen, dass wir in den Texten der Jainas einen ähnlichen Gebrauch finden werden; sie sind die einzige dieser Gruppen, die Schriften hinterlassen hat, auch wenn diese aus einer späteren Periode stammen.
 
@@ -84,13 +84,13 @@ Daher gibt es keine Grundlage für Übersetzungen des Ausdrucks mit „persönli
 
 Ein wichtiger Unterschied zu den Jainas besteht darin, dass für den Buddha Nibbāna nicht in *sakkāya* eingeschlossen ist. Und nicht nur zu den Jainas, sondern auch „die Brahmāwelt ist unbeständig, währt nicht fort und ist Teil von *sakkāya*“ ([SN 55.54](#/sutta/sn55.54/de/sabbamitta)).
 
-Das beantwortet unsere frühere Frage: Warum wählte der Buddha diesen Ausdruck? Welchen Punkt versuchte er zu vermitteln? Er wollte klarstellen, dass in seiner Lehre, anders als bei den Jainas, das Ziel des Nibbāna nicht teil von *sakkāya* war.
+Das beantwortet unsere frühere Frage: Warum wählte der Buddha diesen Ausdruck? Welchen Punkt versuchte er zu vermitteln? Er wollte klarstellen, dass in seiner Lehre, anders als bei den Jainas, das Ziel des Nibbāna nicht Teil von *sakkāya* war.
 
 Das gibt uns ein besseres Gefühl für die Bedeutung des Wortes und die rhetorische Absicht, mit der es gebraucht wurde. Wie sollen wir es nun übersetzen?
 
 Offensichtlich müssen wir alle Übersetzungen mit „persönlich“ ablehnen, da sie den Sinn des Wortes überhaupt nicht vermitteln.
 
-Wir sollten *sakkāya* auf jeden Fall auf eine Art übersetzen, die die Vorstellung von „wirklich“, „existierend“, substanziell“ erkennen lässt.
+Wir sollten *sakkāya* auf jeden Fall auf eine Art übersetzen, die die Vorstellung von „wirklich“, „existierend“, „substanziell“ erkennen lässt.
 
 Nun, die Philosophie der Jainas besagt, dass diese *astikāyas* eine Art von Substanz sind, die alle Wirklichkeit in sich einschließt. Sie werden tatsächlich als Formen von *dravya* („Substanz“) definiert:
 
@@ -100,5 +100,5 @@ Das ist ein Beispiel für eine Art der philosophischen Herangehensweise, deren a
 
 [https://de.wikipedia.org/wiki/Substanz](https://de.wikipedia.org/wiki/Substanz) bzw. [https://de.wikipedia.org/wiki/Substantialistisch](https://de.wikipedia.org/wiki/Substantialistisch)
 
-Wir können uns darauf stützen und eine weitgehende Übereinstimmung mit der Handhabung von *astikāya* im Jainismus bewahren, indem wir *sakkāya* mit „Substanz“ oder „substanzielle Wirklichkeit“ übersetzen und *sakkāyadiṭṭhi* als „substanzialistische Ansicht über die Wirklichkeit“.
+Wir können uns darauf stützen und eine weitgehende Übereinstimmung mit der Handhabung von *astikāya* im Jainismus bewahren, indem wir *sakkāya* mit „Substanz“ oder „substanzielle Wirklichkeit“ übersetzen und *sakkāyadiṭṭhi* mit „substanzialistische Ansicht über die Wirklichkeit“.
 
