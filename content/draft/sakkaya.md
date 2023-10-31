@@ -23,7 +23,7 @@ Ein Grund für die Schwierigkeit ist, dass die Wurzeln des Wortes sehr allgemein
 
 Das erste Element ist zweifellos *sat*, obwohl die Pali-Vorsilbe *sa-* von Sanskrit *sat* oder *sva* („eigen“, „selbst“) stammen kann. Wir wissen, dass Letzteres hier nicht zutrifft, weil die Dopplung *kk* in *sakkāya* durch die Assimilation des *t* in *sat* zustande kommt. Dennoch fassen einige Quellen in Sanskrit und Chinesisch das Wort im Sinn von *sva-* auf.
 
-This is understandable because is used in the context of the five aggregates, and is explained as the identification of the self with the five aggregates or one of them. Because it is in the context of “self” theory, translations often lean on the “self” side of things, with “personality”, “identity”, “own body” (Horner), “self-identity” (Suddāso), and so on. But it would seem to be a case where the word is being inferred purely from context, without considering what the word brings to the context.
+Das ist verständlich, da es im Kontext der fünf Aggregate gebraucht wird und als eine Identifikation des Selbst mit den fünf Aggregaten oder einem von ihnen erklärt wird. Weil es im Zusammenhang mit „Selbst“-Theorien steht, neigen Übersetzer oft zur „Selbst“-Seite hinüber mit „Persönlichkeit“, „Identität“, „eigener Körper“ (Horner), „Selbstidentität“ (Suddāso) und so weiter. Aber das scheint ein Fall zu sein, in dem das Wort rein aus dem Zusammenhang abgeleitet ist, ohne zu berücksichtigen, was das Wort in den Zusammenhang mitbringt.
 
 Other translators lean on the “existent” side, rendering it as “reifying” (Wayman), “embodiment” (Nyanamoli, Anandajoti). Ven Bodhi’s “personal entity” straddles the two.
 
