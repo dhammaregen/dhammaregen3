@@ -23,13 +23,13 @@ Ein Grund für die Schwierigkeit ist, dass die Wurzeln des Wortes sehr allgemein
 
 Das erste Element ist zweifellos *sat*, obwohl die Pali-Vorsilbe *sa-* von Sanskrit *sat* oder *sva* („eigen“, „selbst“) stammen kann. Wir wissen, dass Letzteres hier nicht zutrifft, weil die Dopplung *kk* in *sakkāya* durch die Assimilation des *t* in *sat* zustande kommt. Dennoch fassen einige Quellen in Sanskrit und Chinesisch das Wort im Sinn von *sva-* auf.
 
-Das ist verständlich, da es im Kontext der fünf Aggregate gebraucht wird und als eine Identifikation des Selbst mit den fünf Aggregaten oder einem von ihnen erklärt wird. Weil es im Zusammenhang mit „Selbst“-Theorien steht, neigen Übersetzer oft zur „Selbst“-Seite hinüber mit „Persönlichkeit“, „Identität“, „eigener Körper“ (Horner), „Selbstidentität“ (Suddāso) und so weiter. Aber das scheint ein Fall zu sein, in dem das Wort rein aus dem Zusammenhang abgeleitet ist, ohne zu berücksichtigen, was das Wort in den Zusammenhang mitbringt.
+Das ist verständlich, da es im Kontext der fünf Aggregate gebraucht wird und als eine Identifikation des Selbst mit den fünf Aggregaten oder einem von ihnen erklärt wird. Weil es im Zusammenhang mit „Selbst“-Theorien steht, neigen Übersetzer oft zur „Selbst“-Seite hinüber mit „Persönlichkeit“, „Identität“, „eigener Körper“ (Horner), „Selbstidentität“ (Suddāso) und so weiter. Aber das scheint ein Fall zu sein, in dem das Wort rein aus dem Zusammenhang abgeleitet ist, ohne zu berücksichtigen, was es selbst in den Zusammenhang mitbringt.
 
-Other translators lean on the “existent” side, rendering it as “reifying” (Wayman), “embodiment” (Nyanamoli, Anandajoti). Ven Bodhi’s “personal entity” straddles the two.
+Andere Übersetzer neigen zur Seite von „existierend“ und geben es als „Verdinglichung“ (Wayman) oder „Verkörperung“ (Nyanamoli, Anandajoti) wieder. Die „persönliche Einheit“ des Ehrwürdigen Bodhi hat etwas von beidem.
 
-While the doctrinal explanation of *sakkāya* as the five aggregates is well understood, there seems to be little interest in asking *why* the Buddha used such a term. It all it means is being attached to the aggregates, why not say so? Why introduce an obscure technical term to explain a simple concept?
+Die doktrinale Erklärung von *sakkāya* als die fünf Aggregate ist zwar gut verstanden, aber es scheint wenig Interesse an der Frage zu geben, *warum* der Buddha einen solchen Ausdruck gebrauchte. Wenn es lediglich bedeutet, dass man an den Aggregaten hängt, warum sagt er es dann nicht so? Warum wird ein obskurer technischer Begriff eingehürt, um ein einfaches Konzept zu erklären?
 
-Given that *sakkāya* is used specifically to denote the wrong views and misunderstandings of non-Buddhists, it seems reasonable to search among non-Buddhist texts.
+Angesichts der Tatsache, dass *sakkāya* speziell dafür gebraucht wird, falsche Ansichten und Missverständnisse von Nicht-Buddhisten zu bezeichnen, scheint es naheliegend, in nicht-buddhistischen Texten zu suchen.
 
 A search through the pre-Buddhist Brahmanical literature comes up blank. Not only is *sakkāya* not found, but even more interesting, *kāya* itself is not found. Or at least, I couldn’t locate it. If it is found, it’s certainly not in any doctrinally significant context.
 
