@@ -10,7 +10,7 @@ order: 8
 
 Wer den Buddhismus studiert, ist mit dem Begriff *sakkāya* vertraut, und diese Ansicht zu haben, ist eine der Fesseln, die uns an das Leiden bindet. Ich habe das Wort früher als „Identität“ (identity) übersetzt, aber in seinem jüngsten Werk, der Übersetzung des Suttanipāta, sagt der Ehrwürdige Bodhi:
 
-> Sakkāya: der Verbund der fünf mit Klammern verbundenen Aggregate. Eine Übersetzung des Wortes ist beinhae unmöglich. Meine früheren Versuche als „Persönlichkeit“ (personality) und „Identität“ (identity) werden dem Wort nicht gerecht. Sakkāya ist ein zusammengesetztes Wort aus *sat* = „existierend“ (existent) und *kāya* = „Körper“ (body), aber was gemeint ist, ist nicht nur der physische Körper, sondern die gesamte Anhäufung materieller und geistiger Faktoren, die die empirische Person ausmachen.
+> *Sakkāya*: der Verbund der fünf mit Anklammern verbundenen Aggregate. Eine Übersetzung des Wortes ist beinhae unmöglich. Meine früheren Versuche als „Persönlichkeit“ (personality) und „Identität“ (identity) werden dem Wort nicht gerecht. Sakkāya ist ein zusammengesetztes Wort aus *sat* = „existierend“ (existent) und *kāya* = „Körper“ (body), aber was gemeint ist, ist nicht nur der physische Körper, sondern die gesamte Anhäufung materieller und geistiger Faktoren, die die empirische Person ausmachen.
 
 Jetzt gibt er es mit „persönliche Einheit“ (personal entity) wieder.
 
