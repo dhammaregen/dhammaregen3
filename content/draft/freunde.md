@@ -83,13 +83,13 @@ Das ist es, ich nenne es: Der Suttazyklus über die drei Sakyer-Freunde schöpft
 
 Es könnte wohl noch mehr Punkte geben, ich untersuche das noch weiter.
 
-Doch es gibt eine merkwürdige Wendung bei diesem Fund. Schauen Sie sich den Kommentar zu 4.3.7 an. Śaṅkāra hat eine lange Diskussion dieser Zeile und schließt eine lange Reihe von Einwänden aus buddhistischer Sicht und deren Widerlegung ein. Ich bin kein Spezialist für Śaṅkāra, aber ich glaube, das ist recht ungewöhnlich. Ich denke tatsächlich, er diskutiert nirgendwo sonst in diesem Kommentar ausführlich den Buddhismus, obwohl er das, das ist sicher so, an anderen Stellen tut.
+Doch es gibt eine merkwürdige Besonderheit bei diesem Fund. Schauen Sie sich den Kommentar zu 4.3.7 an. Śaṅkāra hat eine lange Diskussion dieser Zeile und schließt eine lange Reihe von Einwänden aus buddhistischer Sicht und deren Widerlegung ein. Ich bin kein Spezialist für Śaṅkāra, aber ich glaube, das ist recht ungewöhnlich. Ich denke tatsächlich, er diskutiert nirgendwo sonst in diesem Kommentar ausführlich den Buddhismus, obwohl er das, das ist sicher so, an anderen Stellen tut.
 
 Ich weiß nicht, was man daraus machen soll. Vielleicht nichts. Aber es erscheint seltsam, dass er beim Kommentieren einer Passage, die eine buddhistische Resonanz angeregt hat, die Notwendigkeit sah, auf die Buddhisten einzugehen. Es ist mir nicht bekannt, dass Śaṅkāra die Suttas auch nur kannte. Gewöhnlich spricht er über die späteren Schulen. Aber könnte es irgendwie eine Erinnerung an diese Verbindung gegeben haben?
 
 <div style="text-align: center;">* * *</div>
 
-Als ein Nachtrag: Die Einführung ist sehr charakteristisch, und sicherlich gibt es einen Satz von erzählten Ereignissen, der für zwei recht verschiedene Diskussionen in MN 31 und MN 128 verwendet wird. Was die Frage aufwirft: Welches ist das eigentliche? Das wird sowohl vom Ehrwürdigen Bodhi als auch dem Ehrwürdigen Analayo bemerkt, aber ihre Diskussionen ließen das entscheidene Detail der Geographie außer Acht.
+Als ein Nachtrag: Die Einführung ist sehr charakteristisch, und sicherlich gibt es einen Satz von erzählten Ereignissen, der für zwei recht verschiedene Diskussionen in MN 31 und MN 128 verwendet wird. Was die Frage aufwirft: Welche ist die eigentliche? Das wird sowohl vom Ehrwürdigen Bodhi als auch dem Ehrwürdigen Analayo bemerkt, aber ihre Diskussionen ließen das entscheidene Detail der Geographie außer Acht.
 
 * Kurz zusammengefasst: MN 128 ist der ursprüngliche Zusammenhang, die Einführung wurde später zu MN 31 hinzugefügt.
 
@@ -108,7 +108,7 @@ Daher gibt MN 128, wo die drei Freunde bei Kosambi zusammen meditieren, den ursp
 
 Bloß noch eine weitere Bemerkung zu der Verbindung zwischen dem Schluss hier und dem Bericht über die Laienanhänger von Ñātika in [DN 16](#/sutta/dn16/de/sabbamitta). Wie ich früher schon bemerkt habe, war Ñātika die Heimatstadt Mahāvīras, des „Jaina-Asketen aus Ñātika“, was die ungewöhnliche Ausführlichkeit erklärt, die DN 16 aufbietet, um die Wiedergeburtsorte der Bewohner dieser ansonsten wenig bekannten Standt zu behandeln. 
 
-Auch in MN 31 haben wir den ungewöhnlichen Umstand, dass ein Yakka erscheint und die drei Freunde mit großem Lob rühmt, das bis in die Brahmāwelt getragen wird. Obwohl es zweifellos als Segen angesehen wurde, war die Anwesenheit von drei Mönchen, die in einem Park meditierten, nicht so ungewöhnlich, was die Frage aufwirft, warum wir diesen überschwänglichen Schluss finden. 
+Auch in MN 31 haben wir den ungewöhnlichen Umstand, dass ein Yakka erscheint und die drei Freunde mit großem Lob rühmt, das bis in die Brahmāwelt getragen wird. Obwohl es zweifellos als Segen angesehen wurde, war die Anwesenheit von drei Mönchen, die in einem Park meditierten, nicht so ungewöhnlich, was die Frage aufwirft, warum wir diesen überschwänglichen Schluss vorfinden. 
 
 Wie den Bericht über die Wiedergeburten der Anhänger von Ñātika verstehen wir ihn am besten als ein Mittel, in Mahāvīras Heimatstadt den Buddhismus zu verherrlichen.
 
