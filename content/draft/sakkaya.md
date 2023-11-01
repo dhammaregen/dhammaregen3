@@ -1,5 +1,5 @@
 ---
-title: Über sakkāya, Persönlichkeit und substanzielle Wirklichkeit
+title: Über sakkāya, Identität und substanzielle Wirklichkeit
 description: Bhikkhu Sujato, 2023
 img:  sujato.png
 img-alt: Foto von Bhante Sujato
