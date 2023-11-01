@@ -43,7 +43,7 @@ Und ähnlich:
 
 > *niṣkāma āptakāma ātmakāmo*
 
-Die genaus Bedeutung dieser Wendung ist ein wenig knifflig und muss im Zusammenhang gelesen werden. Die beiden Vorsilben *ātma-* und *āpta-* sind eindeutig des Klangs wegen verwendet, und ihre Reihenfolge ist in manchen Varianten umgekehrt.
+Die genaus Bedeutung dieser Wendung ist ein wenig knifflig und muss im Zusammenhang gelesen werden. Die beiden Vorsilben *ātma-* und *āpta-* sind eindeutig des Klangs wegen verwendet, und ihre Reihenfolge ist in manchen Varianten vertauscht.
 
 Doch die grundlegende Bedeutung ist in etwa: „Nachdem sie ihren einzigen Wunsch, das Selbst, erlangt haben, ist ihre Natur (oder Form) frei von Wünschen.“ Es bezieht sich auf einen Zusatand des Einsseins mit Brahmā im Tiefschlaf oder im Tod.
 
@@ -87,28 +87,30 @@ Doch es gibt eine merkwürdige Wendung bei diesem Fund. Schauen Sie sich den Kom
 
 Ich weiß nicht, was man daraus machen soll. Vielleicht nichts. Aber es erscheint seltsam, dass er beim Kommentieren einer Passage, die eine buddhistische Resonanz angeregt hat, die Notwendigkeit sah, auf die Buddhisten einzugehen. Es ist mir nicht bekannt, dass Śaṅkāra die Suttas auch nur kannte. Gewöhnlich spricht er über die späteren Schulen. Aber könnte es irgendwie eine Erinnerung an diese Verbindung gegeben haben?
 
----
+<div style="text-align: center;">* * *</div>
+
 Als ein Nachtrag: Die Einführung ist sehr charakteristisch, und sicherlich gibt es einen Satz von erzählten Ereignissen, der für zwei recht verschiedene Diskussionen in MN 31 und MN 128 verwendet wird. Was die Frage aufwirft: Welches ist das eigentliche? Das wird sowohl vom Ehrwürdigen Bodhi als auch dem Ehrwürdigen Analayo bemerkt, aber ihre Diskussionen ließen das entscheidene Detail der Geographie außer Acht.
 
 * Kurz zusammengefasst: MN 128 ist der ursprüngliche Zusammenhang, die Einführung wurde später zu MN 31 hinzugefügt.
 
 Die wichtigsten Punkte sind:
 
-* MN 128 along with the Vinaya account directly follow the quarrel at Kosambi.
-* MN 31 doesn’t mention the quarrel at Kosambi.
-* Nonetheless, MN 31 still includes passages about the harmony of the three friends, suggesting the Kosambi background.
-* MN 128 is set at the Eastern Bamboo Park in Ceti near Kosambi, and thus was a natural place for the Buddha to visit after leaving Kosambi.
-* MN 31 is set in Ñātika near Vesali, about 400 km east of Kosambi. There’s no way the Buddha went there right away.
-* In addition, in MN 128 they are still developing their meditation, whereas in MN 31 they are already arahants, so it must be later.
+* MN 128 folt zusammen mit dem Vinaya-Bericht unmittlebar auf den Streit von Kosambi.
+* MN 31 erwähnt den Streit von Kosambi nicht.
+* Dennoch enthält MN 31 Passagen über die Harmonie unter den drei Freunden und erinnert somit an den Kosambi-Hintergrund.
+* MN 128 spielt sich im östlichen Bambuspark in Ceti bei Kosambi ab und war daher ein Ort, den der Buddha ganz natürlich besuchen würde, nachdem er Kosambi verlassen hat.
+* MN 31 spielt in Ñātika bei Vesali, etwa 400 km östlich von Kosambi. Der Buddha kann dort nicht direkt hingegangen sein. 
+* Darüber hinaus sind sie in MN 128 noch dabei, ihre Meditation zu entwickeln, wohingegen sie in MN 31 bereits Arahants sind; somit muss das später sein.
 
-Thus MN 128 gives the original narrative context where the three friends were meditating together near Kosambi. MN 31 tells of a later encounter far to the east. The MN 128 introduction must have been added to MN 31 at some later date, although not too late as it is found in the Chinese parallel as well. No doubt it was added because of its popularity.
+Daher gibt MN 128, wo die drei Freunde bei Kosambi zusammen meditieren, den ursprünglichen Kontext der Erzählung. MN 31 erzählt von einer späteren Begegnung viel weiter östlich. Die Einführung von MN 128 muss später zu MN 31 hinzugefügt worden sein, allerdings nicht zu spät, da sie sich auch in der chinesischen Parallele findet. Zweifellos wurde sie hinzugefügt, weil sie so populär war.
 
----
-Also just to note the connection between the ending here and the account of the lay followers of Ñātika in [DN 16](#/sutta/dn16/de/sabbamitta). As I’ve noted before, Ñātika was the home town of Mahāvīra “the Jain ascetic of Ñātika”, which explains the rather unusual lengths that DN 16 takes to expound the rebirth destinies of the inhabitants of this otherwise little known town.
+<div style="text-align: center;">* * *</div>
 
-In MN 31, too, we have the unusual circumstance that a yakkha shows up and extols the three friends with great praise that is taken up to the Brahma realm. While doubtless considered a boon, the presence of three monks meditating in a park was not that unusual, begging the question as to why this exorbitant ending.
+Bloß noch eine weitere Bemerkung zu der Verbindung zwischen dem Ende hier und dem Bericht über die Laienanhänger von Ñātika in [DN 16](#/sutta/dn16/de/sabbamitta). Wie ich früher schon bemerkt habe, war Ñātika die Heimatstadt Mahāvīras, des „Jaina-Asketen aus Ñātika“, was die ungewöhnliche Ausführlichkeit erklärt, die DN 16 aufbietet, um die Wiedergeburtsorte der Bewohner dieser ansonsten wenig bekannten Standt zu behandeln. 
 
-Like the account of the rebirths of the Ñātika devotees, it is best understood as serving to exalt Buddhism in the home town of Mahāvīra.
+Auch in MN 31 haben wir den ungewöhnlichen Umstand, dass ein Yakka erscheint und die drei Freunde mit großem Lob rühmt, das bis in die Brahmāwelt getragen wird. Obwohl es zweifellos als Segen angesehen wurde, war die Anwesenheit von drei Mönchen, die in einem Park meditierten, nicht so ungewöhnlich, was die Frage aufwirft, warum wir diesen überschwänglichen Schluss finden. 
+
+Wie der Bericht über die Wiedergeburten der Anhänger von Ñātika verstehen wir ihn am besten als ein Mittel, den Buddhismus in Mahāvīras Heimatstadt zu verherrlichen.
 
 
 
