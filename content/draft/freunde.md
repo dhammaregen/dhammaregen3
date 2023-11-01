@@ -22,7 +22,7 @@ In dieser recht reizenden Geschichte fragt der König Janaka Yājñavalkya: „W
 
 Das ist das Gleiche wie in MN 31, wo Anuruddha, als er zu seiner Meditation befragt wird, dem Buddha so einfach wie nur möglich antwortet und nur allmählich die wirkliche Tiefe seiner Praxis offenbart.
 
-Interessante Parallele, aber ich dachte mir nichts weiter dabei. 
+Interessante Parallele, aber ich dachte mir weiter nichts dabei. 
 
 Als ich Jahre später zu dem Sutta zurückkam, fiel mir ein Ausdruck auf, der einen eindeutig upanishadischen Beiklang hat: *attakāmarūpa*.
 
@@ -43,7 +43,7 @@ Und ähnlich:
 
 > *niṣkāma āptakāma ātmakāmo*
 
-Die genaus Bedeutung dieser Wendung ist ein wenig knifflig und muss im Zusammenhang gelesen werden. Die beiden Vorsilben *ātma-* und *āpta-* sind eindeutig des Klangs wegen verwendet, und ihre Reihenfolge ist in manchen Varianten vertauscht.
+Die genaue Bedeutung dieser Wendung ist ein wenig knifflig und muss im Zusammenhang gelesen werden. Die beiden Vorsilben *ātma-* und *āpta-* sind eindeutig des Klangs wegen verwendet, und ihre Reihenfolge ist in manchen Varianten vertauscht.
 
 Doch die grundlegende Bedeutung ist in etwa: „Nachdem sie ihren einzigen Wunsch, das Selbst, erlangt haben, ist ihre Natur (oder Form) frei von Wünschen.“ Es bezieht sich auf einen Zusatand des Einsseins mit Brahmā im Tiefschlaf oder im Tod.
 
@@ -83,7 +83,7 @@ Das ist es, ich nenne es: Der Suttazyklus über die drei Sakyer-Freunde schöpft
 
 Es könnte wohl noch mehr Punkte geben, ich untersuche das noch weiter.
 
-Doch es gibt eine merkwürdige Wendung bei diesem Fund. Schauen Sie sich den Kommentar zu 4.3.7 an. Śaṅkāra hat eine lange Diskussion dieser Zeile und schließt eine lange Reihe von Entgegnungen und Widerlegungen aus buddhistischer Sicht ein. Ich bin kein Spezialist für Śaṅkāra, aber ich glaube, das ist recht ungewöhnlich. Ich denke tatsächlich, er diskutiert nirgendwo sonst in diesem Kommentar ausführlich den Buddhismus, obwohl er das, das ist sicher so, an anderen Stellen tut.
+Doch es gibt eine merkwürdige Wendung bei diesem Fund. Schauen Sie sich den Kommentar zu 4.3.7 an. Śaṅkāra hat eine lange Diskussion dieser Zeile und schließt eine lange Reihe von Einwänden aus buddhistischer Sicht und deren Widerlegung ein. Ich bin kein Spezialist für Śaṅkāra, aber ich glaube, das ist recht ungewöhnlich. Ich denke tatsächlich, er diskutiert nirgendwo sonst in diesem Kommentar ausführlich den Buddhismus, obwohl er das, das ist sicher so, an anderen Stellen tut.
 
 Ich weiß nicht, was man daraus machen soll. Vielleicht nichts. Aber es erscheint seltsam, dass er beim Kommentieren einer Passage, die eine buddhistische Resonanz angeregt hat, die Notwendigkeit sah, auf die Buddhisten einzugehen. Es ist mir nicht bekannt, dass Śaṅkāra die Suttas auch nur kannte. Gewöhnlich spricht er über die späteren Schulen. Aber könnte es irgendwie eine Erinnerung an diese Verbindung gegeben haben?
 
@@ -95,22 +95,22 @@ Als ein Nachtrag: Die Einführung ist sehr charakteristisch, und sicherlich gibt
 
 Die wichtigsten Punkte sind:
 
-* MN 128 folt zusammen mit dem Vinaya-Bericht unmittlebar auf den Streit von Kosambi.
+* MN 128 folgt zusammen mit dem Vinaya-Bericht unmittlebar auf den Streit von Kosambi.
 * MN 31 erwähnt den Streit von Kosambi nicht.
 * Dennoch enthält MN 31 Passagen über die Harmonie unter den drei Freunden und erinnert somit an den Kosambi-Hintergrund.
-* MN 128 spielt sich im östlichen Bambuspark in Ceti bei Kosambi ab und war daher ein Ort, den der Buddha ganz natürlich besuchen würde, nachdem er Kosambi verlassen hat.
+* MN 128 spielt sich im östlichen Bambuspark in Ceti bei Kosambi ab und war daher ein Ort, den der Buddha ganz natürlich besuchen würde, nachdem er Kosambi verlassen hatte.
 * MN 31 spielt in Ñātika bei Vesali, etwa 400 km östlich von Kosambi. Der Buddha kann dort nicht direkt hingegangen sein. 
-* Darüber hinaus sind sie in MN 128 noch dabei, ihre Meditation zu entwickeln, wohingegen sie in MN 31 bereits Arahants sind; somit muss das später sein.
+* Darüber hinaus sind die Mönche in MN 128 noch dabei, ihre Meditation zu entwickeln, wohingegen sie in MN 31 bereits Arahants sind; somit muss das später sein.
 
 Daher gibt MN 128, wo die drei Freunde bei Kosambi zusammen meditieren, den ursprünglichen Kontext der Erzählung. MN 31 erzählt von einer späteren Begegnung viel weiter östlich. Die Einführung von MN 128 muss später zu MN 31 hinzugefügt worden sein, allerdings nicht zu spät, da sie sich auch in der chinesischen Parallele findet. Zweifellos wurde sie hinzugefügt, weil sie so populär war.
 
 <div style="text-align: center;">* * *</div>
 
-Bloß noch eine weitere Bemerkung zu der Verbindung zwischen dem Ende hier und dem Bericht über die Laienanhänger von Ñātika in [DN 16](#/sutta/dn16/de/sabbamitta). Wie ich früher schon bemerkt habe, war Ñātika die Heimatstadt Mahāvīras, des „Jaina-Asketen aus Ñātika“, was die ungewöhnliche Ausführlichkeit erklärt, die DN 16 aufbietet, um die Wiedergeburtsorte der Bewohner dieser ansonsten wenig bekannten Standt zu behandeln. 
+Bloß noch eine weitere Bemerkung zu der Verbindung zwischen dem Schluss hier und dem Bericht über die Laienanhänger von Ñātika in [DN 16](#/sutta/dn16/de/sabbamitta). Wie ich früher schon bemerkt habe, war Ñātika die Heimatstadt Mahāvīras, des „Jaina-Asketen aus Ñātika“, was die ungewöhnliche Ausführlichkeit erklärt, die DN 16 aufbietet, um die Wiedergeburtsorte der Bewohner dieser ansonsten wenig bekannten Standt zu behandeln. 
 
 Auch in MN 31 haben wir den ungewöhnlichen Umstand, dass ein Yakka erscheint und die drei Freunde mit großem Lob rühmt, das bis in die Brahmāwelt getragen wird. Obwohl es zweifellos als Segen angesehen wurde, war die Anwesenheit von drei Mönchen, die in einem Park meditierten, nicht so ungewöhnlich, was die Frage aufwirft, warum wir diesen überschwänglichen Schluss finden. 
 
-Wie der Bericht über die Wiedergeburten der Anhänger von Ñātika verstehen wir ihn am besten als ein Mittel, den Buddhismus in Mahāvīras Heimatstadt zu verherrlichen.
+Wie den Bericht über die Wiedergeburten der Anhänger von Ñātika verstehen wir ihn am besten als ein Mittel, in Mahāvīras Heimatstadt den Buddhismus zu verherrlichen.
 
 
 
