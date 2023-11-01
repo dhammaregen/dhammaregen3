@@ -24,13 +24,13 @@ Der Locus classicus ist Rig Veda 10.85, das die grundlegende vedische Hochzeitsz
 
 Die Strophen, die uns interessieren, sind RV 10.85.21 und 22. Aus Jamison und Breretons Übersetzung: 
 
-> “Rise up from here, for this woman has a husband.” I call on Viśvāvasu with reverence, with hymns.
-> “Seek some other girl sitting in (the house of) her father, adorned (for marriage) [/smeared (with menstrual blood)]. That is your share by nature. Know this.”
+> „Erhebe dich von hier, denn diese Frau hat einen Ehemann.“ Ich appelliere an Viśvāvasu mit Ehrfurcht, mit Hymnen.
+> „Suche ein anderes Mädchen, das (im Haus) seines Vaters sitzt, das (für die Hochzeit) geschmückt [(mit Menstruationsblut) beschmiert] ist. Das ist von Natur aus dein Anteil. Wisse das.“ 
 >
-> “Rise up from here, Viśvāvasu.” With reverence we invoke you.
-> “Seek some other burgeoning maiden. Send the wife to join with her husband.”
+> „Erhebe dich von hier, Viśvāvasu.“ Mit Ehrfurcht rufen wir dich an. 
+> „Suche eine andere knospende Jungfrau. Schicke die Ehefrau, dass sie sich mit ihrem Mann verbinde.“ 
 
-In this invocation before the wedding, a certain Viśvāvasu is invoked to “rise up” from the bride (also at Atharva Veda 14.2.33–6, Bṛhadāraṇyaka Upaniṣad 6.4.19). So who is he, and what is this all about?
+In dieser Anrufung vor der Hochzeit wird ein gewisser Viśvāvasu angerufen, sich von der Braut „zu erheben“ (auch in Atharva-Veda 14.2.33–6, Bṛhadāraṇyaka-Upaniṣad 6.4.19). Wer ist dieser nun, und was hat es mit all dem auf sich? 
 
 Viśvāvasu is known quite widely in Vedic scriptures as a king of the Gandharvas, like Timbaru or Dhataraṭṭha. He features in a range of stories, but the most relevant is that, among his many other dalliances, he fathered with the nymph Menakā a daughter, who was immediately abandoned in a forest before being adopted by a local hermit and named Pramadvarā. So Viśvāvasu was a king, a libertine, and a deadbeat dad. The rites that ask him to leave the wife sweeten the deal by urging him to find some other maiden to inhabit, confirming that he is still a sleazebag.
 
