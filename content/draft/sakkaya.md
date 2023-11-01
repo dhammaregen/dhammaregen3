@@ -84,7 +84,7 @@ Daher gibt es keine Grundlage für Übersetzungen des Ausdrucks mit „persönli
 
 Ein wichtiger Unterschied zu den Jainas besteht darin, dass für den Buddha Nibbāna nicht in *sakkāya* eingeschlossen ist. Und nicht nur zu den Jainas, sondern auch „die Brahmāwelt ist unbeständig, währt nicht fort und ist Teil von *sakkāya*“ ([SN 55.54](#/sutta/sn55.54/de/sabbamitta)).
 
-Das beantwortet unsere frühere Frage: Warum wählte der Buddha diesen Ausdruck? Welchen Punkt versuchte er zu vermitteln? Er wollte klarstellen, dass in seiner Lehre, anders als bei den Jainas, das Ziel des Nibbāna nicht Teil von *sakkāya* war.
+Das beantwortet unsere frühere Frage: Warum wählte der Buddha diesen Ausdruck? Welchen Punkt versuchte er zu vermitteln? Er wollte klarstellen, dass in seiner Lehre, anders als bei den Jainas, das Ziel, Nibbāna, nicht Teil von *sakkāya* war.
 
 Das gibt uns ein besseres Gefühl für die Bedeutung des Wortes und die rhetorische Absicht, mit der es gebraucht wurde. Wie sollen wir es nun übersetzen?
 
