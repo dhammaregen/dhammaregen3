@@ -3,7 +3,7 @@ title: Über die, die den letzten Löffel voll auflesen
 description: Bhikkhu Sujato, 2023
 img:  sujato.png
 img-alt: Foto von Bhante Sujato
-order: 8
+order: 18
 ---
 
 [Zum Originaltext](https://discourse.suttacentral.net/t/on-those-who-pick-up-the-last-spoonful/30975)
