@@ -3,7 +3,7 @@ title: Über sakkāya, Identität und substanzielle Wirklichkeit
 description: Bhikkhu Sujato, 2023
 img:  sujato.png
 img-alt: Foto von Bhante Sujato
-order: 8
+order: 7
 ---
 
 [Zum Originaltext](https://discourse.suttacentral.net/t/on-sakkaya-identity-and-substantial-reality/31048)
