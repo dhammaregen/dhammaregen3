@@ -9,7 +9,7 @@ order: -9999
 Hier finden Sie eine kurze Themenübersicht der bisher erschienenen Newsletter. Klicken sie auf die Überschrift, um zu einem Newsletter zu gelangen.
 
 ### [November 2023](#/wiki/news/2023-11)
-- Persönlichkeitsglaube oder Sustanzialismus? (DN 2)
+- Persönlichkeitsglaube oder Substanzialismus? (DN 2)
 - Der General Sīha (AN 8.12, AN 5.34, AN 7.57)
 - Eine Ode an die Sittlichkeit (Thag 12.1)
 
