@@ -177,6 +177,6 @@ Hier finden Sie eine kurze Themenübersicht der bisher erschienenen Newsletter. 
 
 ### [April 2021](#/wiki/news/2021-04)
 - Dhammaregen in neuem Kleid
-- Bhaddā Kuṇḍalakesā
+- Bhaddā Kuṇḍalakesā (Thig 5.9)
 - Therīgāthā-Festival
 
