@@ -10,9 +10,9 @@ So gelangen Sie zu dem Text, den Sie studieren möchten:
 
 Öffnen Sie zunächst [eine Suchkarte](#/search//de), indem Sie auf das <a href="#/search//de" class="scv-icon-btn v-btn v-btn--icon v-btn--round v-btn--router theme--dark v-size--default"><span class="v-btn__content"><span aria-hidden="true" class="v-icon notranslate theme--dark"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" role="img" aria-hidden="true" class="v-icon__svg"><path d="M9.5,3A6.5,6.5 0 0,1 16,9.5C16,11.11 15.41,12.59 14.44,13.73L14.71,14H15.5L20.5,19L19,20.5L14,15.5V14.71L13.73,14.44C12.59,15.41 11.11,16 9.5,16A6.5,6.5 0 0,1 3,9.5A6.5,6.5 0 0,1 9.5,3M9.5,5C7,5 5,7 5,9.5C5,12 7,14 9.5,14C12,14 14,12 14,9.5C14,7 12,5 9.5,5Z"></path></svg></span></span></a>-Symbol in der rechten oberen Ecke klicken.
 
-### 1. „Such mir etwas aus!“
+### 1. „SUCH MIR ETWAS AUS!“
 
-Wenn Sie nicht wissen, wo Sie anfangen sollen, klicken Sie auf die Schaltfläche `Such mir etwas aus!`. Das führt zu einer Zufallsauswahl aus einer Sammlung von Beispiel-Suchbegriffen, die zusammen mit dem zugehörigen Ergebnis angezeigt wird:
+Wenn Sie nicht wissen, wo Sie anfangen sollen, klicken Sie auf die Schaltfläche `SUCH MIR ETWAS AUS!`. Das führt zu einer Zufallsauswahl aus einer Sammlung von Beispiel-Suchbegriffen, die zusammen mit dem zugehörigen Ergebnis angezeigt wird:
 
 <p><img src="img/result.png" class="ebt-image" alt="Bildschirmfoto von Suchergebnis" style="width: 600px;"></p>
 
@@ -20,7 +20,7 @@ Ein Klick auf eins der angezeigten Suttas öffnet die Detailansicht: Neben der K
 
 <p><img src="img/result-segment.png" class="ebt-image" alt="Bildschirmfoto eines Ergebnissegments" style="width: 600px;"></p>
 
-Klicken Sie entweder auf die Kennziffer des gesamten Sutta oder auf eine Segmentkennziffer, um eine Suttakarte zu öffnen und zu der entsrechenden Stelle zu gehen. 
+Klicken Sie entweder auf die Kennziffer des gesamten Sutta oder auf eine Segmentkennziffer, um eine Suttakarte zu öffnen und zu der entsrechenden Stelle zu gelangen. 
 
 ### 2. Ins Suchfeld tippen
 
