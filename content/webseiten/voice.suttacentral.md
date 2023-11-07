@@ -4,7 +4,7 @@ description: Frühe buddhistische Texte (FBT) und Übersetzungen hören
 link: https://voice.suttacentral.net
 img: voice.png
 img-alt: voice.suttacentral.net-Webseitenbild
-order: 2
+order: 6
 ---
 
 Zur Webseite: [https://voice.suttacentral.net](https://voice.suttacentral.net)
