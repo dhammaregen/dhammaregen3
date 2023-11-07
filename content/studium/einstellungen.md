@@ -17,7 +17,7 @@ Hinter dem kleinen Zahnrädchen rechts oben verbergen sich verschiedene Einstell
 
 **Textgestaltung** 
 - Wählen Sie aus, was Sie im Text sehen möchten. 
-- Wenn Sie den „Vergleichstext“ wählen, wählen Sie bitte „Sujato / EN“ dafür aus.
+- Wenn Sie den „Vergleichstext“ wählen, wählen Sie auch eine Sprache und einen Übersetzer.
 - „Zeile für Zeile darstellen“ ist eine Alternative zur Darstellung in Spalten. Auf schmalen Bildschirmen wie etwa Mobiltelefonen erfolgt sie automatisch. 
 - Für bestimmte Funktionen, wie etwa das Springen zwischen übergeordneten Kennziffer-Abschnitten mittels der Tastatur, ist es nötig, die Segmentkennziffern („SuttaCentral-ID“) einzuschalten.
 
