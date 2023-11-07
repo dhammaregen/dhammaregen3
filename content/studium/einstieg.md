@@ -8,7 +8,7 @@ order: 0.1
 
 ### Was hat der Buddha zuerst gelehrt?
 
-Die erste Lehrrede nach seinem Erwachen hielt der Buddha in Benares, im Wildpark bei Isipatana, und erklärte darin den edlen achtfachen Pfad und die vier edlen Wahrheiten.
+Die erste Lehrrede nach seinem Erwachen hielt der Buddha in Varanasi, im Wildpark bei Isipatana, und erklärte darin den edlen achtfachen Pfad und die vier edlen Wahrheiten.
 
 Lesen und *hören* Sie [SN 56.11](#/sutta/sn56.11:0.1/de/sabbamitta); gutes Stichwort zum Auffinden: „der Versteher“.
 
