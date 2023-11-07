@@ -4,7 +4,7 @@ description: Frühe buddhistische Texte (FBT) und Übersetzungen hören
 link: https://sc-voice.net
 img: pexels-philippe-donn-1133957.png
 img-alt: Kolibri, der auf große Blüte zufliegt
-order: 6
+order: 2
 ---
 
 Zur Webseite: [https://sc-voice.net](https://sc-voice.net)
