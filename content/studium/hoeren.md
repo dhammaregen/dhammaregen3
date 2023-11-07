@@ -14,7 +14,7 @@ Das Wiedergabemodul erscheint am unteren Bildschirmrand, sobald eine Suttakarte 
 Ein markiertes Textsegment kann durch Klick auf die linke Wiedergabe-Schaltfläche im Wiedergabemodul oder durch Drücken der Leertaste abgespielt werden. Anschließend wird das nächste Segment markiert, oder, wenn das Ende des Sutta erreicht ist, ein Gongton abgespielt.
 
 **Fortlaufende Wiedergabe:**
-Klick auf die rechte Wiedergabe-Schaltfläche im Wiedergabemodul oder Drücken der Enter-Taste startet die Wiedergabe ab dem markeirten Segment fortlaufend bis zum Ende des Sutta, wo dann ein Gonton das Ende markerit.
+Klick auf die rechte Wiedergabe-Schaltfläche im Wiedergabemodul oder Drücken der Enter-Taste startet die Wiedergabe ab dem markierten Segment fortlaufend bis zum Ende des Sutta, wo dann ein Gonton das Ende markiert.
 
 Wenn Ihr Browser die Audiofunktion nicht unterstützt, versuchen Sie es mit Chrome oder Firefox.
 
