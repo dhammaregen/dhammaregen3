@@ -1,5 +1,5 @@
 ---
-title: Voice.suttacentral.net
+title: SC-Voice
 description: Frühe buddhistische Texte (FBT) und Übersetzungen hören
 link: https://sc-voice.net
 img: pexels-philippe-donn-1133957.png
