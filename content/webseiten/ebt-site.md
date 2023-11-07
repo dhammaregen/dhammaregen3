@@ -1,5 +1,5 @@
 ---
-title: EBT-Site3
+title: EBT-Site
 description: Eine eigene Webseite mit frühen buddhistischen Texten erstellen
 detail: Verfassen Sie Ihre Inhalte in Markdown-Dateien
 detail: Geben Sie Ihre Standardsprache an
@@ -13,7 +13,7 @@ order: 4
 
 Zur Webseite: [https://ebt-site.sc-voice.net/](https://ebt-site.sc-voice.net/)
 
-### EBT-Site3
+### EBT-Site
 
 EBT-Site3 ist eine Vorlage, um eine individuelle Webseite auf der Grundlage von EBT-Vue3 zu erstellen.
 

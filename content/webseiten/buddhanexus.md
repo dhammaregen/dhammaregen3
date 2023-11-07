@@ -4,7 +4,7 @@ description: Datenbank für das Studium buddhistischer Texte
 link: https://buddhanexus.net/
 img:  buddhanexus.png
 img-alt: BuddhaNexus-Webseitenlogo
-order: 3
+order: 6.5
 ---
 
 Zur Webseite: [https://buddhanexus.net/](https://buddhanexus.net/)
