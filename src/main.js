@@ -4,3 +4,5 @@ import { default as EbtConfig } from "../ebt-config.mjs";
 EbtMain.main({
   config: EbtConfig,
 });
+
+import "./assets/site.css"
