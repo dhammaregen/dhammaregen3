@@ -20,7 +20,7 @@ Der entsprechende Zusammenhang in MN 93 ist, dass ein geheimnisvoller „dunkler
 
 Das klassische Studienmaterial für das Thema ist O.H. de A. Wijesekeras *Vedic Gandharva and Pali Gandhabba* von 1945, das Teil seiner *Buddhist and Vedic Studies* ist, wo er von den Veden angefangen eine enorme Anzahl von Quellen aus der brahmanischen Literatur zusammenträgt. Das ist Pflichtlektüre, aber sein enzyklopädischer Ansatz hat einen Preis. Wir lernen den Gandhabba als massives, komplexes, fraktales Mythologem kennen. Aber Mythen sind keine Komplexe von Vorstellungen. Sie sind die Grundlagen für rituelle Verrichtungen, die einem Zweck dienen. Dieser Zweck kann das Erwachsenwerden sein oder das Verscheiden der Toten oder der Beginn einer Jahreszeit. Oder er kann die Empfängnis eines Kindes sein. Um das Mythologem zu verstehen, müssen wir uns anschauen, wie die Vorstellung von Heirat und Empfängnis – die beide sehr eng verbunden sind – mythologisch verstanden werden. 
 
-Der Locus classicus ist Rig-Veda 10.85, das die grundlegende vedische Hochzeitszeremonie bringt. Die Braut ist Suryā, die Sonne in ihrem weiblichen Aspekt, und ihr Bräutigam ist der Mond, Soma. Das vertauscht nun die gebräuchlichere Geschlechterzuschreibung der beiden, denn in der vedischen Mythologie wie auch anderswo fiden wir gewöhnlich, dass die Sonne männlich und der Mond weiblich ist. Doch nicht hier, und das ist ein wichtiges Detail. Die Sonne erscheint hier als Braut in ihrer Herrlichkeit, strahlend in ihrer Schönheit und ihrem Schmuck. Der Mond ist männlich aus einem ganz bestimmten Grund, den wir später herausfinden werden. 
+Der Locus classicus ist [Rig-Veda 10.85](http://www.sanskritweb.net/rigveda/index.html#L6), das die grundlegende vedische Hochzeitszeremonie bringt. Die Braut ist Suryā, die Sonne in ihrem weiblichen Aspekt, und ihr Bräutigam ist der Mond, Soma. Das vertauscht nun die gebräuchlichere Geschlechterzuschreibung der beiden, denn in der vedischen Mythologie wie auch anderswo fiden wir gewöhnlich, dass die Sonne männlich und der Mond weiblich ist. Doch nicht hier, und das ist ein wichtiges Detail. Die Sonne erscheint hier als Braut in ihrer Herrlichkeit, strahlend in ihrer Schönheit und ihrem Schmuck. Der Mond ist männlich aus einem ganz bestimmten Grund, den wir später herausfinden werden. 
 
 Die Strophen, die uns interessieren, sind RV 10.85.21 und 22. Aus Jamison und Breretons (englischer; AdÜ) Übersetzung: 
 
@@ -60,15 +60,15 @@ The person on the path of the fathers sojourns in the moon, explicitly identifie
 
 Verse 3 compares a woman’s genitals with the altar on which the soma is pressed, extracting a milky liquid of potent energy. The connection between Soma and semen is thus made fully explicit. And we have already seen that *gandharva* as the “father” may be further identified as Soma, so *gandharava* the father = Soma = semen.
 
-Semen is said to be “a man’s essence” (*rasaḥ … puruṣasya retaḥ*, Bṛhadāraṇyaka Upaniṣad 6.4.1). And this would explain the descriptions elsewhere of the *gandharva* as lying within the waters (Rig Veda 9.86.36, 10.10.4) or within the womb (Rig Veda 10.177.2).
+Semen is said to be “a man’s essence” (*rasaḥ … puruṣasya retaḥ*, [Bṛhadāraṇyaka-Upaniṣad 6.4.1](https://archive.org/details/sechzigupanishad00deusuoft/page/512/mode/2up?view=theater)). And this would explain the descriptions elsewhere of the *gandharva* as lying within the waters (Rig Veda 9.86.36, 10.10.4) or within the womb (Rig Veda 10.177.2).
 
 And finally we see the reason why the *gandharva* king Viśvāvasu was asked to “rise up” from the bride before intercourse with the husband. He lies within her as the seed of her former lovers, the “essence” of whom remains.
 
 Implicit in all this is the unspoken assumption that the new child is formed from the semen. The ovum was unknown. The mother’s role, rather, was that of the earth, whose womb is moistened by menstrual blood just as the earth is moistened by rain. The earth is the receptacle and nurturer of the seed, but the seed itself is quite distinct. Thus the child, whether son or daughter, grows from the “man’s essence”.
 
-A man’s anxiety about female sexuality lies just below the surface. [MN 93](#/sutta/mn93/de/sabbamitta) makes it clear that one can never really know who the mother has slept with. Bṛhadāraṇyaka Upaniṣad 6.4.12 provides a handy set of curses for his wife’s lovers. Also bear in mind that such lovers need not necessarily be human. The Pali Abhidhamma text Kathāvatthu ([Kv 2.1](https://staging.suttacentral.net/kv2.1/en/aung-rhysdavids?lang=de&reference=main&highlight=true)) establishes that malicious deities might convey semen in a dream.
+A man’s anxiety about female sexuality lies just below the surface. [MN 93](#/sutta/mn93/de/sabbamitta) makes it clear that one can never really know who the mother has slept with. Bṛhadāraṇyaka-Upaniṣad 6.4.12 provides a handy set of curses for his wife’s lovers. Also bear in mind that such lovers need not necessarily be human. The Pali Abhidhamma text Kathāvatthu ([Kv 2.1](https://staging.suttacentral.net/kv2.1/en/aung-rhysdavids?lang=de&reference=main&highlight=true)) establishes that malicious deities might convey semen in a dream.
 
-This is where it starts to get weird and creepy. [Atharva Veda 8.6 ](https://sacred-texts.com/hin/av/av08006.htm) details in unbelievably horrifying ways how demons of all stripes, including *gandharvas*, “creep between her thighs”. They are “slippery fiends” who eat raw flesh, biters and gropers dressed in hides, licking their lips, hairy ones who feed on babes unborn. Without the proper rites, they will devour the embryo or cause any manner of deformity.
+This is where it starts to get weird and creepy. [Atharva-Veda 8.6 ](https://sacred-texts.com/hin/av/av08006.htm) details in unbelievably horrifying ways how demons of all stripes, including *gandharvas*, “creep between her thighs”. They are “slippery fiends” who eat raw flesh, biters and gropers dressed in hides, licking their lips, hairy ones who feed on babes unborn. Without the proper rites, they will devour the embryo or cause any manner of deformity.
 
 > **Zwischenruf**
 >
@@ -89,3 +89,9 @@ Finally, let me make one humble observation. In this mytheme we see the fundamen
 
 This is not something new, or something that has been left unaddressed by cultures in the past. Anxiety about potency and paternity is a fundamental component, perhaps the single most important distinguishing feature, of the male psyche, and forms the foundation of misogyny. Patriarchal institutions like marriage traditionally aimed to subjugate women, yes, but they also tried to temper the worst of men. In freeing women from patriarchal suppression, it is crucial to find ways to address this deeply irrational male anxiety.
 
+
+
+Sanskritweb http://www.sanskritweb.net/
+Sanskritweb DE http://www.sanskritweb.net/deutsch/index.html
+Rig-Veda DE http://www.sanskritweb.net/rigveda/index.html#L6 (Geldner)
+Rig-Veda Internet Archive https://archive.org/details/rigvedabersetz01grasuoft/rigvedabersetz01grasuoft/mode/2up (Grassmann)
