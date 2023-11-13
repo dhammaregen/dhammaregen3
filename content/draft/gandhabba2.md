@@ -20,7 +20,7 @@ Der entsprechende Zusammenhang in MN 93 ist, dass ein geheimnisvoller „dunkler
 
 Das klassische Studienmaterial für das Thema ist O.H. de A. Wijesekeras *Vedic Gandharva and Pali Gandhabba* von 1945, das Teil seiner *Buddhist and Vedic Studies* ist, wo er von den Veden angefangen eine enorme Anzahl von Quellen aus der brahmanischen Literatur zusammenträgt. Das ist Pflichtlektüre, aber sein enzyklopädischer Ansatz hat einen Preis. Wir lernen den Gandhabba als massives, komplexes, fraktales Mythologem kennen. Aber Mythen sind keine Komplexe von Vorstellungen. Sie sind die Grundlagen für rituelle Verrichtungen, die einem Zweck dienen. Dieser Zweck kann das Erwachsenwerden sein oder das Verscheiden der Toten oder der Beginn einer Jahreszeit. Oder er kann die Empfängnis eines Kindes sein. Um das Mythologem zu verstehen, müssen wir uns anschauen, wie die Vorstellung von Heirat und Empfängnis – die beide sehr eng verbunden sind – mythologisch verstanden werden. 
 
-Der Locus classicus ist [Rig-Veda 10.85](http://www.sanskritweb.net/rigveda/index.html#L6), das die grundlegende vedische Hochzeitszeremonie bringt. Die Braut ist Suryā, die Sonne in ihrem weiblichen Aspekt, und ihr Bräutigam ist der Mond, Soma. Das vertauscht nun die gebräuchlichere Geschlechterzuschreibung der beiden, denn in der vedischen Mythologie wie auch anderswo fiden wir gewöhnlich, dass die Sonne männlich und der Mond weiblich ist. Doch nicht hier, und das ist ein wichtiges Detail. Die Sonne erscheint hier als Braut in ihrer Herrlichkeit, strahlend in ihrer Schönheit und ihrem Schmuck. Der Mond ist männlich aus einem ganz bestimmten Grund, den wir später herausfinden werden. 
+Der Locus classicus ist [Rig-Veda 10.85](http://www.thombar.de/10_lk.htm), das die grundlegende vedische Hochzeitszeremonie bringt. Die Braut ist Suryā, die Sonne in ihrem weiblichen Aspekt, und ihr Bräutigam ist der Mond, Soma. Das vertauscht nun die gebräuchlichere Geschlechterzuschreibung der beiden, denn in der vedischen Mythologie wie auch anderswo fiden wir gewöhnlich, dass die Sonne männlich und der Mond weiblich ist. Doch nicht hier, und das ist ein wichtiges Detail. Die Sonne erscheint hier als Braut in ihrer Herrlichkeit, strahlend in ihrer Schönheit und ihrem Schmuck. Der Mond ist männlich aus einem ganz bestimmten Grund, den wir später herausfinden werden. 
 
 Die Strophen, die uns interessieren, sind RV 10.85.21 und 22. Aus Jamison und Breretons (englischer; AdÜ) Übersetzung: 
 
@@ -93,5 +93,5 @@ This is not something new, or something that has been left unaddressed by cultur
 
 Sanskritweb http://www.sanskritweb.net/
 Sanskritweb DE http://www.sanskritweb.net/deutsch/index.html
-Rig-Veda DE http://www.sanskritweb.net/rigveda/index.html#L6 (Geldner)
+Rig-Veda DE http://www.sanskritweb.net/rigveda/index.html#L6 (Geldner) und online http://www.thombar.de/
 Rig-Veda Internet Archive https://archive.org/details/rigvedabersetz01grasuoft/rigvedabersetz01grasuoft/mode/2up (Grassmann)
