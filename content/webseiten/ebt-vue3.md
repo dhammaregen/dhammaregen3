@@ -4,7 +4,7 @@ description: Anwendungs-Programmiergerüst für FBT-Webseiten
 link: https://ebt-site.github.io/ebt-vue3
 img: amanda-flavell-9XSLoMlVhYU-unsplash.png
 img-alt: Webseitenbild von EBT-Vue3
-order: 4.5
+order: 4
 ---
 
 Zur Webseite: [https://ebt-site.github.io/ebt-vue3](https://ebt-site.github.io/ebt-vue3)

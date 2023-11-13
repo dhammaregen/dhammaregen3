@@ -8,7 +8,7 @@ detail: Suchen Sie Suttas mit Schlüsselwörtern
 link: https://ebt-site.sc-voice.net/
 img: pexels-philippe-donn-1133957.png
 img-alt: Kolibri, der auf große Blüte zufliegt
-order: 4
+order: 4.5
 ---
 
 Zur Webseite: [https://ebt-site.sc-voice.net/](https://ebt-site.sc-voice.net/)
