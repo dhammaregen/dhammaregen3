@@ -1,6 +1,6 @@
 ---
 title: Voice.suttacentral.net
-description: Frühe buddhistische Texte (FBT) und Übersetzungen hören
+description: Ursprüngliche Voice-Webseite
 link: https://voice.suttacentral.net
 img: voice.png
 img-alt: voice.suttacentral.net-Webseitenbild
@@ -16,6 +16,6 @@ Voice wurde für Menschen mit Sehbehinderung entwickelt und hat eine minimalisti
 
 Weitere Informationen zu Voice finden Sie [hier](https://dhammaregen.github.io/voice/de/100-intro-voice).
 
-Diese Seite ist die erste Entwicklung von Voice und ist mittlerweile technisch überholt. Voraussichtlich wird sie in absehbarer Zeit auslaufen. Zur Nachfolge-Webseite klicken Sie [hier](#/wiki/webseiten/voice).
+Diese Seite ist die erste Entwicklung von Voice und ist mittlerweile technisch überholt. Sie wird 2024 stillgelegt werden. Zur Nachfolge-Webseite klicken Sie [hier](#/wiki/webseiten/voice).
 
 
