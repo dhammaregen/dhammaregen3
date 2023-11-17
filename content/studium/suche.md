@@ -20,7 +20,7 @@ Ein Klick auf eins der angezeigten Suttas öffnet die Detailansicht: Neben der K
 
 <p><img src="img/result-segment.png" class="ebt-image" alt="Bildschirmfoto eines Ergebnissegments" style="width: 600px;"></p>
 
-Klicken Sie entweder auf die Kennziffer des gesamten Sutta oder auf eine Segmentkennziffer, um eine Suttakarte zu öffnen und zu der entsrechenden Stelle zu gelangen. 
+Klicken Sie entweder auf die Kennziffer des gesamten Sutta oder auf eine Segmentkennziffer, um eine Suttakarte zu öffnen und zu der entsprechenden Stelle zu gelangen. 
 
 ### 2. Ins Suchfeld tippen
 
@@ -32,7 +32,7 @@ Sie können auch einen freien Suchtext in die Suchkarte eingeben oder Suttas nac
 
 ### 3. Zu benachbarten Suttas oder zu SuttaCentral gehen
 
-Links zum vorherigen und zum nächsten Sutta nach der Ordnung des Kanon sowie einen Link zu dem entsprechenden Text auf SuttaCentral finden Sie sowohl am oberen als auch am untren Rand der Suttakarte.
+Links zum vorherigen und zum nächsten Sutta nach der Ordnung des Kanons sowie einen Link zu dem entsprechenden Text auf SuttaCentral finden Sie sowohl am oberen als auch am untren Rand der Suttakarte.
 
 ### 4. Suttas vergleichen
 

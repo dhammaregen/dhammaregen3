@@ -13,11 +13,11 @@ order: 1.5
 - Suchkarten
 - Suttakarten
 
-Ein Tab-Menü links oben ermöglicht, zwischen den geöffneten Karten hin- und herzuspringen. Auf großen Bildschirmen können zwei Karten nebeneinander angesehen werden.
+Ein Tabulator-Menü links oben ermöglicht, zwischen den geöffneten Karten hin- und herzuspringen. Auf großen Bildschirmen können zwei Karten nebeneinander angesehen werden.
 
 <p><img src="img/tabs.png" class="ebt-image" alt="Bildschirmfoto von Suchfeld mit Wort Wasser und Suchbegriffen" style="width: 400px;"></p>
 
-An dem farbigen Unterstrich im Tab-Menü erkennen Sie, welches Element im Fokus ist. 
+An dem farbigen Unterstrich im Tabulator-Menü erkennen Sie, welches Element im Fokus ist. 
 
 Wenn eine Suttakarte im Fokus ist, erscheint am unteren Bildschirmrand das Wiedergabemodul.
 
@@ -42,12 +42,12 @@ Viele Funktionen von *Dhammaregen* können mithilfe der Tastatur gesteuert werde
 
 | Taste | Funktion |
 | :---- | :---- |
-| POS 1 | zum Tab-Menü |
+| POS 1 | zum Tabulator-Menü |
 | TABULATOR | nächstes Element der Benutzeroberfläche auswählen |
 | UMSCHALTEN + TABULATOR | vorheriges Element der Benutzeroberfläche auswählen |
 | STRG + POS 1 | zur Startseite |
 
-#### Im Tab-Menü
+#### Im Tabulator-Menü
 
 | Taste | Funktion |
 | :---- | :---- |
