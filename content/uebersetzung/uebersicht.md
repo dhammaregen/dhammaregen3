@@ -24,7 +24,7 @@ Bisher liegen folgende Suttas auf *Dhammaregen* vor:
   - Ud: vollständig
   - Iti: vollständig
   - Snp: 1.4, Snp 1.8, Snp 1.10-11, Snp 2.1, Snp 2.4-5, Snp 2.8, Snp 2.12, Snp 10.12
-  - Thag: Thag 1-16, Thag 18.1, Thag 20-21
+  - Thag: vollständig
   - Thig: vollständig
   - Cp 1-34
   - Mil: Mil 3.1.1
