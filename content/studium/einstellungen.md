@@ -14,6 +14,7 @@ Hinter dem kleinen Zahnrädchen rechts oben verbergen sich verschiedene Einstell
 - Wählen Sie die maximale Zahl der Suchergebnisse. 
 - „Neuesten Text zeigen“ zeigt immer die aktuellste Version (kann zu mehr Datenverbrauch führen).
 - Schalten Sie die DSGVO-Info ein oder aus. 
+- Blenden Sie Erklärhinweise ein oder aus. 
 
 **Textgestaltung** 
 - Wählen Sie aus, was Sie im Text sehen möchten. 
