@@ -16,7 +16,7 @@ Wenn Sie nicht wissen, wo Sie anfangen sollen, klicken Sie auf die Schaltfläche
 
 <p><img src="img/result.png" class="ebt-image" alt="Bildschirmfoto von Suchergebnis" style="width: 600px;"></p>
 
-Sie sehen unter dem Titel des Sutta in den meisten Fällen eine kurze Zusammenfassung des Inhalts, darunter ein Segment, das den Suchbegriff enthält, das auch direkt angesteuert werden kann.
+Sie sehen unter dem Titel des Sutta in den meisten Fällen eine kurze Zusammenfassung des Inhalts, darunter ein Segment, das den Suchbegriff enthält, das auch direkt angesteuert werden kann. Klicken Sie einen Link, um eine Suttakarte zu öffnen.
 
 ### 2. Ins Suchfeld tippen
 
