@@ -16,11 +16,7 @@ Wenn Sie nicht wissen, wo Sie anfangen sollen, klicken Sie auf die Schaltfläche
 
 <p><img src="img/result.png" class="ebt-image" alt="Bildschirmfoto von Suchergebnis" style="width: 600px;"></p>
 
-Ein Klick auf eins der angezeigten Suttas öffnet die Detailansicht: Neben der Kennziffer des Sutta können Sie bei den meisten Suttas eine kurze Zusammenfassung lesen. Darunter sehen Sie Segmente aufgeführt, in denen der Suchbegriff zu finden ist.
-
-<p><img src="img/result-segment.png" class="ebt-image" alt="Bildschirmfoto eines Ergebnissegments" style="width: 600px;"></p>
-
-Klicken Sie entweder auf die Kennziffer des gesamten Sutta oder auf eine Segmentkennziffer, um eine Suttakarte zu öffnen und zu der entsprechenden Stelle zu gelangen. 
+Sie sehen unter dem Titel des Sutta in den meisten Fällen eine kurze Zusammenfassung des Inhalts, darunter ein Segment, das den Suchbegriff enthält, das auch direkt angesteuert werden kann.
 
 ### 2. Ins Suchfeld tippen
 
