@@ -12,7 +12,7 @@ order: 9
 
 Ich entwickelte diese Gedanken zunächst [in diesem Beitrag](#/wiki/mythologie/gandhabba), dem [ein ergänzendes Zitat](https://discourse.suttacentral.net/t/those-gandhabbas-sure-were-potent/28574) folgte. Doch etwas scheint an der ganzen Sache unbefriedigend zu sein, daher nehme ich einen neuen Anlauf. Dieser Essay baut überwiegend auf den früheren Vorstellungen auf, aber ich kann nun ein vollständigeres und zusammenhängenderes Bild erstellen.
 
-Die buddhistische Tradition begnügt sich damit, eine rationalisierende Erklärung anzubieten: Es ist das Wesen, das geboren werden soll, von seinem Kamma gesteuert. Okay, gut, aber warum *gandhabba*? Es ist so eine merkwürdige Wahl! 
+Die buddhistische Tradition begnügt sich damit, eine rationalisierende Erklärung anzubieten: Es ist das Wesen, das geboren werden soll, von seinem Kamma gesteuert. Okay, gut, aber warum *gandhabba*? Es ist so eine merkwürdige Wortwahl! 
 
 Das Hauptproblem ist, dass diese Vorstellung in [MN 38:26.2](#/sutta/mn38:26.2/de/sabbamitta) vorkommt, das eine doktrinale Lehrrede ist, die vom abhängigen Entstehen handelt. Aus dem Zusammenhang heraus erscheint sie wie eine seriöse doktrinale Aussage. Es ist allerdings ziemlich sicher, dass sie ursprünglich in [MN 93:18.61](#/sutta/mn93:18.61/de/sabbamitta) erschien, wo sie in einer Diskussion unter brahmanischen Weisen über die Kastenfrage viel mehr am Platz ist, und dass sie von hier aus zu MN 38 versetzt wurde. Das muss recht früh geschehen sein, da sie sich in Parallelen findet, aber alle buddhistischen Traditionen erklären sie ähnlich, ohne dem Ausdruck eine besondere Bedeutung zuzuschreiben: Es sei einfach das Individuum, das entsprechend seinem Kamma wiedergeboren werden soll. Ob sie so vom Buddha dargelegt wurde oder ob sie einfach als bequeme Erklärung für die Empfängnis von MN 93 übernommen wurde – sie hat im buddhistischen Kontext keine besondere doktrinale Bedeutung. 
 
@@ -91,7 +91,7 @@ This is not something new, or something that has been left unaddressed by cultur
 
 
 
-Sanskritweb http://www.sanskritweb.net/
-Sanskritweb DE http://www.sanskritweb.net/deutsch/index.html
-Rig-Veda DE http://www.sanskritweb.net/rigveda/index.html#L6 (Geldner) und online http://www.thombar.de/
-Rig-Veda Internet Archive https://archive.org/details/rigvedabersetz01grasuoft/rigvedabersetz01grasuoft/mode/2up (Grassmann)
+Sanskritweb http://www.sanskritweb.net/  
+Sanskritweb DE http://www.sanskritweb.net/deutsch/index.html  
+Rig-Veda DE http://www.sanskritweb.net/rigveda/index.html#L6 (Geldner) und online http://www.thombar.de/  
+Rig-Veda Internet Archive https://archive.org/details/rigvedabersetz01grasuoft/rigvedabersetz01grasuoft/mode/2up (Grassmann)  
