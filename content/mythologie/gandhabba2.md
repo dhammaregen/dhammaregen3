@@ -3,7 +3,7 @@ title: Über den Gandhabba und männliche Angst
 description: Bhikkhu Sujato, 2023
 img:  sujato.png
 img-alt: Foto von Bhante Sujato
-order: 9
+order: 15.1
 ---
 
 [Zum Originaltext](https://discourse.suttacentral.net/t/on-the-gandhabba-and-male-anxiety/30928)
