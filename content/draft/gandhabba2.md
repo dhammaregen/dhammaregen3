@@ -79,7 +79,7 @@ Da fängt es an, bizarr und unheimlich zu werden. [Atharva-Veda 8.6 ](https://sa
 > * 😱😱😱😱😱😱😱😱😱😱😱😱😱😱😱😱😱😱😱😱😱😱😱😱
 > * Das sieht nach einer gesunden Reaktion aus. 
 
-Das erklärt weiterhin, warum es heißt, Frauen seien vom *gandharva* besessen (z. B. Bṛhadāraṇyaka-Upaniṣad 1.7.1, 3.3.1), was sie manchmal in den Wahnsinn treibe. Wijesekera weist daruaf hin, dass manchmal auch Männer besessen sind, aber ich halte das für eine sekundäre Entwicklung, und die primäre Quelle ist die „Essenz des Mannes“ im Innern einer Frau. 
+Das erklärt weiterhin, warum es heißt, Frauen seien vom *gandharva* besessen (z. B. Bṛhadāraṇyaka-Upaniṣad 1.7.1, 3.3.1), was sie manchmal in den Wahnsinn treibe. Wijesekera weist darauf hin, dass manchmal auch Männer besessen seien, aber ich halte das für eine sekundäre Entwicklung, und die primäre Quelle ist die „Essenz des Mannes“ im Innern einer Frau. 
 
 Biologically this is, of course, not how anything works. But it has its own internal logic, driven by the overarching anxiety in men to establish paternity. It is a man’s essence that creates a child, determining the all-important question of caste. But a man never really knows if his wife has had sex with another man. This creates an ongoing and fundamental anxiety, which this whole edifice of myth, doctrine, and ritual is erected to contain and control. The very fact of how complex, baroque, irrational, and downright weird the whole thing is attests to the potency of the irrational forces that drive it.
 
