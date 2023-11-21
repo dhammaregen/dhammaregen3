@@ -68,16 +68,16 @@ Und schließlich sehen wir auch den Grund, warum der *gandharva*-König Viśvāv
 
 In all dem steckt die stillschweigende Annahme, dass das neue Kind aus dem Samen gebildet wird. Die Eizelle war unbekannt. Die Rolle der Mutter war vielmehr die der Erde, ihr Mutterleib wird vom Menstruationsblut befeuchtet, wie die Erde vom Regen befeuchtet wird. Die Erde nimmt den Samen auf und nährt ihn, aber der Same selbst ist etwas Eigenes. So wächst das Kind, ob Sohn oder Tochter, aus der „Essenz des Mannes“ heran. 
 
-A man’s anxiety about female sexuality lies just below the surface. [MN 93](#/sutta/mn93/de/sabbamitta) makes it clear that one can never really know who the mother has slept with. Bṛhadāraṇyaka-Upaniṣad 6.4.12 provides a handy set of curses for his wife’s lovers. Also bear in mind that such lovers need not necessarily be human. The Pali Abhidhamma text Kathāvatthu ([Kv 2.1](https://staging.suttacentral.net/kv2.1/en/aung-rhysdavids?lang=de&reference=main&highlight=true)) establishes that malicious deities might convey semen in a dream.
+Die Besorgnis eines Mannes um die weibliche Sexualität liegt direkt unter der Oberfläche. [MN 93](#/sutta/mn93/de/sabbamitta) macht klar, dass man nie wirklich wissen kann, mit wem die Mutter geschlafen hat. Bṛhadāraṇyaka-Upaniṣad 6.4.12 hat ein paar praktische Flüche für die Liebhaber der eigenen Ehefrau parat. Vergessen wir auch nicht, dass diese Liebhaber nicht notwendigerweise menschlicher Natur sein müssen. Der Pali-Abhidhammatext Kathāvatthu ([Kv 2.1](https://suttacentral.net/kv2.1/en/aung-rhysdavids?lang=de&reference=main&highlight=true)) stellt fest, dass bösartige Gottheiten in einem Traum Samen übertragen können. 
 
-This is where it starts to get weird and creepy. [Atharva-Veda 8.6 ](https://sacred-texts.com/hin/av/av08006.htm) details in unbelievably horrifying ways how demons of all stripes, including *gandharvas*, “creep between her thighs”. They are “slippery fiends” who eat raw flesh, biters and gropers dressed in hides, licking their lips, hairy ones who feed on babes unborn. Without the proper rites, they will devour the embryo or cause any manner of deformity.
+Da fängt es an, bizarr und unheimlich zu werden. [Atharva-Veda 8.6 ](https://sacred-texts.com/hin/av/av08006.htm) führt in unglaublich grauenerregender Ausführlichkeit auf, wie Dämonen aller Art, darunter *gandharvas*, „zwischen ihre Schenkel kriechen“. Sie sind „schlüpfrige Freunde“, die rohes Fleisch essen, die beißen und grapschen und sich die Lippen lecken, in Felle gekleidet, die Haarigen, die sich von ungeborenen Babys ernähren. Ohne die richtigen Riten werden sie den Embryo verschlingen oder jede Art von Missbildung verursachen. 
 
 > **Zwischenruf**
 >
-> * Wait what? You’re saying that *a woman might be raped by a demon in a dream, who leaves his seed to fester in her womb, mutating into a “hairy one” who eats her babies*?
-> * Why yes, yes I am saying that.
+> * Halt – was? Du sagst, *eine Frau kann in einem Traum von einem Dämon vergewaltigt werden, der seinen Samen in ihrem Leib zurücklässt, wo er gärt und sich in einen „Haarigen“ verwandelt, der ihre Babys frisst*? 
+> * Ja warum? Ja, das sage ich. 
 > * 😱😱😱😱😱😱😱😱😱😱😱😱😱😱😱😱😱😱😱😱😱😱😱😱
-> * That seems like a healthy response.
+> * Das sieht nach einer gesunden Reaktion aus. 
 
 This further explains why the *gandharva* is said to possess women (eg. Bṛhadāraṇyaka Upaniṣad 1.7.1, 3.3.1), sometimes driving them to madness. Wijesekera points out that sometimes men are also so possessed, but I think this is a secondary development, and the primary source of possession is the “man’s essence” inside a woman.
 
