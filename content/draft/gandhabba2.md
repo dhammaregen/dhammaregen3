@@ -62,9 +62,9 @@ Der Mensch, der auf dem Pfad der Väter ist, verweilt auf dem Mond, der ausdrüc
 
 Der dritte Vers vergleicht die Geschlechtsteile einer Frau mit dem Altar, auf dem der Soma ausgepresst wird, wobei eine milchige Flüssigkeit mit Zeugungskraft gewonnen wird. Die Verbindung zwischen Soma und Samen wird somit ganz ausdrücklich hergestellt. Und ferner wir haben bereits gesehen, dass *gandharva* als der „Vater“ mit Soma identifiziert wird, somit ist *gandharva* der Vater = Soma = Samen. 
 
-Semen is said to be “a man’s essence” (*rasaḥ … puruṣasya retaḥ*, [Bṛhadāraṇyaka-Upaniṣad 6.4.1](https://archive.org/details/sechzigupanishad00deusuoft/page/512/mode/2up?view=theater)). And this would explain the descriptions elsewhere of the *gandharva* as lying within the waters (Rig Veda 9.86.36, 10.10.4) or within the womb (Rig Veda 10.177.2).
+Vom Samen heißt es, er sei „die Essenz eines Mannes“ (*rasaḥ … puruṣasya retaḥ*, [Bṛhadāraṇyaka-Upaniṣad 6.4.1](https://archive.org/details/sechzigupanishad00deusuoft/page/512/mode/2up?view=theater)). Und das würde erklären, warum der *gandharva* anderswo ale einer beschrieben wird, der in den Wassern (Rig Veda 9.86.36, 10.10.4) oder im Mutterleib (Rig Veda 10.177.2) liegt. 
 
-And finally we see the reason why the *gandharva* king Viśvāvasu was asked to “rise up” from the bride before intercourse with the husband. He lies within her as the seed of her former lovers, the “essence” of whom remains.
+Und schließlich sehen wir auch den Grund, warum der *gandharva*-König Viśvāvasu aufgefordert wurde, sich vor dem Geschlechtsverkehr mit dem Ehemann von der Braut „zu erheben“. Er liegt in ihr als Same ihrer früheren Liebhaber, deren „Essenz“ zurückbleibt. 
 
 Implicit in all this is the unspoken assumption that the new child is formed from the semen. The ovum was unknown. The mother’s role, rather, was that of the earth, whose womb is moistened by menstrual blood just as the earth is moistened by rain. The earth is the receptacle and nurturer of the seed, but the seed itself is quite distinct. Thus the child, whether son or daughter, grows from the “man’s essence”.
 
