@@ -11,11 +11,11 @@ Hier finden sich Links zum schnellen Zugriff auf verschiedene Ressourcen.
 ### VEDA
 
 #### Rigveda
--Sanskritweb [http://www.sanskritweb.net/](http://www.sanskritweb.net/)
--Sanskritweb DE [http://www.sanskritweb.net/deutsch/index.html](http://www.sanskritweb.net/deutsch/index.html)
--Rig-Veda DE [http://www.sanskritweb.net/rigveda/index.html#L6](http://www.sanskritweb.net/rigveda/index.html#L6) (Geldner) und online [http://www.thombar.de/](http://www.thombar.de/)
--Rig-Veda Internet Archive [https://archive.org/details/rigvedabersetz01grasuoft/rigvedabersetz01grasuoft/mode/2up](https://archive.org/details/rigvedabersetz01grasuoft/rigvedabersetz01grasuoft/mode/2up) (Graßmann; hier nur 2.-8. Buch)  
--VedaWeb (EN/DE) [https://vedaweb.uni-koeln.de/rigveda/view/id/10.85.22](https://vedaweb.uni-koeln.de/rigveda/view/id/10.85.22)
+- Sanskritweb [http://www.sanskritweb.net/](http://www.sanskritweb.net/)
+- Sanskritweb DE [http://www.sanskritweb.net/deutsch/index.html](http://www.sanskritweb.net/deutsch/index.html)
+- Rig-Veda DE [http://www.sanskritweb.net/rigveda/index.html#L6](http://www.sanskritweb.net/rigveda/index.html#L6) (Geldner) und online [http://www.thombar.de/](http://www.thombar.de/)
+- Rig-Veda Internet Archive [https://archive.org/details/rigvedabersetz01grasuoft/rigvedabersetz01grasuoft/mode/2up](https://archive.org/details/rigvedabersetz01grasuoft/rigvedabersetz01grasuoft/mode/2up) (Graßmann; hier nur 2.-8. Buch)  
+- VedaWeb (EN/DE) [https://vedaweb.uni-koeln.de/rigveda/view/id/10.85.22](https://vedaweb.uni-koeln.de/rigveda/view/id/10.85.22)
 
 #### Upaniṣaden
 - Deussen 60 Upaniṣaden [https://archive.org/details/sechzigupanishad00deusuoft/mode/2up?view=theater](https://archive.org/details/sechzigupanishad00deusuoft/mode/2up?view=theater)
