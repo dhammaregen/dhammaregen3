@@ -17,9 +17,11 @@ Hier finden sich Links zum schnellen Zugriff auf verschiedene Ressourcen.
 -Rig-Veda Internet Archive [https://archive.org/details/rigvedabersetz01grasuoft/rigvedabersetz01grasuoft/mode/2up](https://archive.org/details/rigvedabersetz01grasuoft/rigvedabersetz01grasuoft/mode/2up) (Graßmann; hier nur 2.-8. Buch)  
 -VedaWeb (EN/DE) [https://vedaweb.uni-koeln.de/rigveda/view/id/10.85.22](https://vedaweb.uni-koeln.de/rigveda/view/id/10.85.22)
 
-#### Upanisaden
-- 
-- 
+#### Upaniṣaden
+- Deussen 60 Upaniṣaden [https://archive.org/details/sechzigupanishad00deusuoft/mode/2up?view=theater](https://archive.org/details/sechzigupanishad00deusuoft/mode/2up?view=theater)
+- Inhalt [https://archive.org/details/sechzigupanishad00deusuoft/page/xvi/mode/2up?view=theater](https://archive.org/details/sechzigupanishad00deusuoft/page/xvi/mode/2up?view=theater)
+- Chandogya-Upaniṣad [https://archive.org/details/sechzigupanishad00deusuoft/page/64/mode/2up?view=theater](https://archive.org/details/sechzigupanishad00deusuoft/page/64/mode/2up?view=theater)
+- Bṛhadāraṇyaka-Upaniṣad [https://archive.org/details/sechzigupanishad00deusuoft/page/370/mode/2up?view=theater](https://archive.org/details/sechzigupanishad00deusuoft/page/370/mode/2up?view=theater)
 
 ### JAINA
 
