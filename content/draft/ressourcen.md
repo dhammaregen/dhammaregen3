@@ -28,3 +28,10 @@ Hier finden sich Links zum schnellen Zugriff auf verschiedene Ressourcen.
 #### Isibhāsiyāiṁ
 - Sanskrit [https://gretil.sub.uni-goettingen.de/gretil/2_prakrt/isibhasu.htm](https://gretil.sub.uni-goettingen.de/gretil/2_prakrt/isibhasu.htm)
 - Englisch [https://archive.org/details/in.ernet.dli.2015.322298/page/7/mode/2up](https://archive.org/details/in.ernet.dli.2015.322298/page/7/mode/2up)
+
+<div style="text-align: center;">* * *</div>
+
+### Sonstiges
+
+- Color picker [https://www.w3schools.com/colors/colors_picker.asp](https://www.w3schools.com/colors/colors_picker.asp)
+- Emojipedia [https://emojipedia.org](https://emojipedia.org)
