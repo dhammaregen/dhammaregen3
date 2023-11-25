@@ -10,7 +10,7 @@ order: 1
 
 Lassen Sie uns Verallgemeinerungen über den Buddhismus machen! Es ist faul und schlecht, Verallgemeinerungen zu machen, aber ich lasse mich davon nicht abhalten. Das moderne Verständnis des frühen Buddhismus, so postuliere ich, hat sich durch vier Phasen entwickelt; gegenwärtig befinden wir uns in der vierten.
 
-Diese Phasen sind konstruktiv, bekräftigen sich gegenseitig und halten weiter an. Als Keim finden sie sich alle von Anfang an, aber mit der Zeit hat sich der Schwerpunkt verschoben. Das geschieht, wenn eine Phase ein reifes Stadium erreicht, wenn ihre wichtigsten Aufgaben erfüllt und ihre Einsichten ins weitere kulturelle Verständnis des Buddhismus integriert sind.
+Diese Phasen sind konstruktiv, bekräftigen sich gegenseitig und halten weiter an. Als Keim finden sie sich alle von Anfang an, aber mit der Zeit hat sich der Schwerpunkt verschoben. Das geschieht, wenn eine Phase ein reifes Stadium erreicht, wenn ihre wichtigsten Aufgaben erfüllt und ihre Einsichten ins größere kulturelle Verständnis des Buddhismus integriert sind.
 
 Für jede Phase hebe ich die hervorstechenden Beiträge heraus, die sie erbracht hat, und nenne einige Schlüsselfiguren und ein paar Einzelheiten. Das ist ein kurzer und persönlicher Überblick und erhebt nicht den Anspruch, erschöpfend oder gründlich zu sein.
 
@@ -134,7 +134,7 @@ Vergleichende Untersuchungen helfen zwar, die allen Buddhisten gemeinsamen Lehre
 
 Aber Fortschritte in diesem Bereich waren langsam, Übersetzungen und Untersuchungen steckten in der kolonialistischen und herablassenden Haltung des 19. Jahrhunderts fest. Neuere Forschung war selten und begrenzt und wurde oft durch nationalistische Vorstellungen ihres Wertes beraubt. Eine Ausnahme ist Wijesekeras *Buddhist and Vedic Studies*, das ausführliche und einsichtsvolle Analysen der vedischen Wurzeln einer Reihe buddhistischer Begriffe enthält.
 
-Eine neue Welle an Forschungen zum alten Indien wird von Empathie und Neugier ausgelöst statt von Hohn oder einer Abwehrhaltung. 2000 zeigte Joanna Jurewicz's Schlüsseltext *Playing With Fire*, wie die buddhistische Kernlehre vom abhängigen Entstehen eine Erwiderung auf das Nāsadīya-Sūkta aus Rig-Veda 10.29 darstellt. Michael Witzel stellte fest, dass die historischen Ursprünge der Veden in Zusammenstellungen liegen, die etwa 400 Jahre vor dem Buddha im Land Kuru gemacht wurden. Andere Wissenschaftler haben sowohl den vedischen als auch den „einheimischen“ historischen und linguistischen Kontext untersucht. Lauren Bausch zeigte, dass die Neuerungen der Kosaler Brahmanen im Śatapatha-Brahmaṇa viele Vorstellungen vorwegnahmen, die normalerweise als buddhistisch angesehen werden. Calassos *Ka* und *Die Glut* richten sich auf vedische Riten und Mythen als ein System von Handlung und Bedeutung.
+Eine neue Welle an Forschungen zum alten Indien wird von Empathie und Neugier ausgelöst statt von Hohn oder einer Abwehrhaltung. 2000 zeigte Joanna Jurewicz's Schlüsseltext *Playing With Fire*, wie die buddhistische Kernlehre vom abhängigen Entstehen eine Erwiderung auf das Nāsadīya-Sūkta aus Rigveda 10.29 darstellt. Michael Witzel stellte fest, dass die historischen Ursprünge der Veden in Zusammenstellungen liegen, die etwa 400 Jahre vor dem Buddha im Land Kuru gemacht wurden. Andere Wissenschaftler haben sowohl den vedischen als auch den „einheimischen“ historischen und linguistischen Kontext untersucht. Lauren Bausch zeigte, dass die Neuerungen der Kosaler Brahmanen im Śatapatha-Brahmaṇa viele Vorstellungen vorwegnahmen, die normalerweise als buddhistisch angesehen werden. Calassos *Ka* und *Die Glut* richten sich auf vedische Riten und Mythen als ein System von Handlung und Bedeutung.
 
 #### Schlüsselfiguren
 
@@ -148,20 +148,20 @@ Eine neue Welle an Forschungen zum alten Indien wird von Empathie und Neugier au
 * Die Lehren des Buddha sind Dialoge; er ging auf die Menschen und Vorstellungen in seiner Kultur ein.
 * Der Buddhismus ist kein in sich geschlossenes System (wie der Abhidhamma und spätere Traditionen sagen).
 * Um zu verstehen, was der Buddha meinte, müssen wir verstehen, zu wem er sprach, wie diese Menschen dachten und welche Werte sie hatten.
-* Auf der Ebene der Texte wird ein entsprechnder Kontext von der damaligen Sanskritliteratur (Veden, Brahmanas und Upaniṣaden) wie auch von Jaina-Texten hergestellt.
+* Auf der Ebene der Texte wird ein entsprechender Kontext von der damaligen Sanskritliteratur (Veden, Brahmanas und Upaniṣaden) wie auch von Jaina-Texten hergestellt.
 
 #### Errungenschaften
 
 * Identifizierung spezifischer Passagen, auf die buddhistische Texte eingehen
 * Klärung historischer Fragen wie etwa die der 32 Kennzeichen
 * Einfühlsames Lesen alter Texte
-* Neue und verbesserte Übersetzungen von Schlüsseltexten (Rig-Veda)
+* Neue und verbesserte Übersetzungen von Schlüsseltexten (Rigveda)
 * Ans-Licht-Bringen verborgener Verbindungen zündet Kreativität
 * Hervorheben der mythischen und „irrationalen“ Elemente, die man in den Suttas findet, die von Modernisten beiseitegeschoben worden waren
 
 #### Schwächen
 
-Was wir von der alten indischen Kultur besitzen, sind Fragmente, und es ist leicht, die Lücken mit Über-Interpretation zu füllen. Wir können uns darauf einigen, dass der Buddha im Dialog war, aber wir kennen nur einen Teil der Geschichte. Wir gehen weiter mit Empathie vor, versetzen uns, so gut wir können, an die Stelle der damaligen Menschen, aber aus der riesigen Distanz können wir nicht verhindern, dass wir unsere Vorstellungen in unsere Interpretationen einbringen. Wie in allen Phasen, so verspricht solche Forschung dann auch hier, unser Verständnis zu bereichern, aber nur innerhalb der Grenzen ihrer eigenen Quellen und Methoden.
+Was wir von der alten indischen Kultur besitzen, sind Fragmente, und es ist leicht, die Lücken mit Über-Interpretation zu füllen. Wir können uns darauf einigen, dass der Buddha im Dialog war, aber wir kennen nur einen Teil der Geschichte. Wir gehen weiter mit Empathie vor, versetzen uns, so gut wir können, an die Stelle der damaligen Menschen, aber aus der riesigen Distanz können wir nicht verhindern, dass wir unsere Vorstellungen in unsere Interpretationen einfließen lassen. Wie in allen Phasen, so verspricht solche Forschung dann auch hier, unser Verständnis zu bereichern, aber nur innerhalb der Grenzen ihrer eigenen Quellen und Methoden.
 
 
 <div style="text-align: center;">* * *</div>
