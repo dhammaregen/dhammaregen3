@@ -57,6 +57,7 @@ Hier finden sich Links zum schnellen Zugriff auf verschiedene Ressourcen.
 - Sanskrit [https://gretil.sub.uni-goettingen.de/gretil/2_prakrt/isibhasu.htm](https://gretil.sub.uni-goettingen.de/gretil/2_prakrt/isibhasu.htm)
 - Englisch [https://archive.org/details/in.ernet.dli.2015.322298/page/7/mode/2up](https://archive.org/details/in.ernet.dli.2015.322298/page/7/mode/2up)
 
+
 ---
 
 ### Sonstiges
