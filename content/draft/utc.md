@@ -62,5 +62,6 @@ Hier finden sich Links zum schnellen Zugriff auf verschiedene Ressourcen.
 
 ### Sonstiges
 
+- Zugang zu allem: [Admin.sc-voice](https://admin.sc-voice.net/#/admin.sc-voice.net)
 - Color picker [https://www.w3schools.com/colors/colors_picker.asp](https://www.w3schools.com/colors/colors_picker.asp)
 - Emojipedia [https://emojipedia.org](https://emojipedia.org)
