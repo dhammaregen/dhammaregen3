@@ -7,7 +7,7 @@ link: https://pxhere.com/en/photo/1291659
 order: 7
 ---
 
-[Zum Originaltext](https://discourse.suttacentral.net/uploads/short-url/u5nDhSSsMnZiQ2kPXZQoMr39Lqe.pdf) (Zum Herunterladen, 182,5 KB; der Text wurde leicht modifiziert, um ihn leichter lesbar zu machen.)
+[Zum Originaltext](https://discourse.suttacentral.net/uploads/short-url/u5nDhSSsMnZiQ2kPXZQoMr39Lqe.pdf) (Zum Herunterladen, 182,5 KB; zur leichteren Lesbarkeit wurde der Text etwas angepasst.)
 
 *Das Dhātuvibhangasutta ([MN 140](#/sutta/mn140/de/sabbamitta)) und seine Erklärung der Meditation über die sechs Elemente wurde im modernen Diskurs über frühe buddhistische Satipaṭṭhānapraxis weithin übersehen. Dieser Essay will versuchen, einige der Implikationen und praktischen Anweisungen herauszuarbeiten, die man im Dhātuvibhangasutta findet, um den Umfang und das Fortschreiten der Satipaṭṭhāna-Perikope in den frühen buddhistischen Texten (FBT) besser zu verstehen.*
 
@@ -17,7 +17,7 @@ Von dieser Übung heißt es ausdrücklich, sie erfülle vollständig die vier As
 
 Wie soll aber die *Satipaṭṭhāna*praxis, wie sie in den frühen *Satipaṭṭhāna*-Lehrreden und den *Saṁyuttas* beschrieben ist, ohne den Atem bis zur Vollendung und Vollkommenheit geübt werden? Ist es so, dass der Atem das primäre und ausgewogenste Thema für die *Satipaṭṭhāna*-Meditation ist, und dass andere Übungen bloße Beigaben sind?
 
-Eine alternative, ausführliche Beschreibung der *Satipaṭṭhāna*-Meditation ist offenbar im *Dhātuvibhaṅgasutta* ([MN 140](#/sutta/mn140/de/sabbamitta)) zu finden. Sie bietet ein Gerüst, in dem die Achtsamkeit auf den Körper (*kāyānupassanā*) über die Körperteile und Elemente bis hin zur Achtsamkeit auf Gefühl (*vedanā*), Geist (*cittā*) und die natürlichen Gesetzmäßigkeiten (*dhammānupassanā*) ausgeweitet wird; damit werden alle vier *Satipaṭṭhānas* und die sieben Faktoren des Erwachens erfüllt und gipfeln im vollkommenen Erwachen (Wissen und Freiheit). Diese Form der Praxis ist wahrscheinlich außerhalb der Atembetrachtung das primäre Beispiel der *Satipaṭṭhāna*-Meditation, wie sie im *Satipaṭṭhānasutta* ([MN 10](#/sutta/mn10/de/sabbamitta), [DN 22](#/sutta/dn22/de/sabbamitta)) und *Satipaṭṭhāna*-Saṁyutta ([SN 47](#/sutta/sn47.1/de/sabbamitta)) beschrieben ist.
+Eine alternative, ausführliche Beschreibung der *Satipaṭṭhāna*-Meditation ist offenbar im *Dhātuvibhaṅgasutta* ([MN 140](#/sutta/mn140/de/sabbamitta)) zu finden. Dieses bietet ein Gerüst, in dem die Achtsamkeit auf den Körper (*kāyānupassanā*) über die Körperteile und Elemente bis hin zur Achtsamkeit auf Gefühl (*vedanā*), Geist (*cittā*) und die natürlichen Gesetzmäßigkeiten (*dhammānupassanā*) ausgeweitet wird; damit werden alle vier *Satipaṭṭhānas* und die sieben Faktoren des Erwachens erfüllt und gipfeln im vollkommenen Erwachen (Wissen und Freiheit). Diese Form der Praxis ist wahrscheinlich außerhalb der Atembetrachtung das primäre Beispiel der *Satipaṭṭhāna*-Meditation, wie sie im *Satipaṭṭhānasutta* ([MN 10](#/sutta/mn10/de/sabbamitta), [DN 22](#/sutta/dn22/de/sabbamitta)) und *Satipaṭṭhāna*-Saṁyutta ([SN 47](#/sutta/sn47.1/de/sabbamitta)) beschrieben ist.
 
 Im Folgenden werde ich kurz die *Satipaṭṭhāna*-Praxis aus den FBT durchgehen, mit ihrer Prägung durch vergleichende Untersuchungen der *Satipaṭṭhāna*-Perikope und ergänzt durch das Verständnis, das aus der Beschreibung der Achtsamkeit auf den Atem gewonnen wird. Dann werde ich im zweiten Abschnitt anhand des oben dargelegten Gerüsts in die Aufgliederung der Meditation über die sechs Elemente des Dhātuvibhaṅgasutta eintauchen.
 
