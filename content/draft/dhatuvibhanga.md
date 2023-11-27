@@ -21,9 +21,9 @@ Eine alternative, ausführliche Beschreibung der *Satipaṭṭhāna*-Meditation 
 
 Im Folgenden werde ich kurz die *Satipaṭṭhāna*-Praxis aus den FBT durchgehen, mit ihrer Prägung durch vergleichende Untersuchungen der *Satipaṭṭhāna*-Perikope und ergänzt durch das Verständnis, das aus der Beschreibung der Achtsamkeit auf den Atem gewonnen wird. Dann werde ich im zweiten Abschnitt anhand des oben dargelegten Gerüsts in die Aufgliederung der Meditation über die sechs Elemente des Dhātuvibhaṅgasutta eintauchen.
 
-### Cattāro Satipaṭṭhānā — The Root Practice
+### Vier Aspekte der Achtsamkeitsmeditation — die grundlegende Übung
 
-*(For a detailed and thorough understanding of satipaṭṭhāna in Early Buddhism, see Bhante Sujato’s ‘A History of Mindfulness’)*
+*(Für eine ausführliche und gründliche Behandlung der Achtsamkeitsmeditation im frühen Buddhismus siehe Bhikkhu Sujatos „A History of Mindfulness“; kurzer Abriss in deutscher Sprache [hier](#/wiki/buddhismuskunde/achtsamkeit))*
 
 The term ‘*satipaṭṭhāna*’ is a resolution of the phrase ‘*satiṁ upaṭṭhapetvā*’ which occurs throughout the EBTs in reference to seated meditation. It literally means “application” or “establishment” of *sati* (mindfulness/recollection). The typical scenario in which the phrase is used is in the gradual training (*anupubbasikkhā*) at the point in which the trainee goes to a secluded place after their meal and sits down to remove the five hindrances *establishing mindfulness at the fore*. The *cattāro satipaṭṭhānā* (four applications of mindfulness), then, are the four ways in which one goes about establishing and rousing mindfulness in the proper way for the removal of the hindrances and cultivation of the seven awakening factors and/or *jhāna* states (see: [DN 2](#/sutta/dn2/de/sabbamitta), [SN 47.12](#/sutta/sn47.12/de/sabbamitta), etc.).
 
