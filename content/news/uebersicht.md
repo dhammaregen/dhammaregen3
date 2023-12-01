@@ -8,6 +8,14 @@ order: -9999
 
 Hier finden Sie eine kurze Themenübersicht der bisher erschienenen Newsletter. Klicken sie auf die Überschrift, um zu einem Newsletter zu gelangen.
 
+### [Dezember 2023](#/wiki/news/2023-12)
+- Mönch werden mit Hindernissen (Karte, Ud 5.6, AN 1.206, Thag 5.11, Vinaya pli-tv-kd5)
+- Wie der Geist mit uns spielt (Thag 19.1, SN 42.2)
+- Die dunklen mythologischen Abgründe des Gandhabba (MN 38)
+- Bhikkhu Sujato: Über den Gandhabba und männliche Angst
+- Bhikkhu Sujato: Vier Phasen im Studium des frühen Buddhismus
+- Dhp 173
+
 ### [November 2023](#/wiki/news/2023-11)
 - Persönlichkeitsglaube oder Substanzialismus? (DN 2)
 - Der General Sīha (AN 8.12, AN 5.34, AN 7.57)
