@@ -2,6 +2,7 @@ const EbtConfig = {
   "appName": "Dhammaregen",
   "basePath": "/",
   "homePath": "#/wiki/startseite",
+  "tutorialPath": "#/wiki/tutorial",
   "monolingual": "de",
   "privacyLink": "#/wiki/impressum",
   "footnotes": "Anmerkungen",
