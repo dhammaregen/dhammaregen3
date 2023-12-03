@@ -49,7 +49,7 @@ Wenn die aktuelle Karte eine Suttakarte ist, können Sie
 
 <details> <summary>5. Einstellungen anpassen</summary>
 
-Die Einstellungen sind in Abschnitte gegliedert. Klicken Sie auf jeden abschnitt und probieren Sie die Möglichkeiten aus. 
+Die Einstellungen sind in Abschnitte gegliedert. Klicken Sie auf jeden Abschnitt und probieren Sie die Möglichkeiten aus. 
 
 </details>
 
