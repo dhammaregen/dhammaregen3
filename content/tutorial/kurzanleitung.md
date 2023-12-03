@@ -27,7 +27,7 @@ Jede Karte hat einen <i>Karten-Tab</i> im Tabulatormenü. Klicken Sie einen Tab,
 
 </details>
 
-<details><summary>3. FBT durchsuchen</summary>
+<details><summary>3. die FBT durchsuchen</summary>
 Um einen Text zu finden, können Sie
 
 * einen Suchtext in das Suchfeld eingeben (z. B. „Wurzel des Leidens“) 
@@ -38,7 +38,7 @@ Schauen Sie die Suchergebnisse durch und klicken Sie auf eines davon, um zum eig
 
 </details>
 
-<details><summary>4. FBT-Text wiedergeben</summary>
+<details><summary>4. einen FBT-Text wiedergeben</summary>
 Wenn die aktuelle Karte eine Suttakarte ist, können Sie 
 
 * in ein beliebiges Segment klicken
@@ -47,7 +47,7 @@ Wenn die aktuelle Karte eine Suttakarte ist, können Sie
 
 </details>
 
-<details> <summary>5. Einstellungen anpassen</summary>
+<details> <summary>5. die Einstellungen anpassen</summary>
 
 Die Einstellungen sind in Abschnitte gegliedert. Klicken Sie auf jeden Abschnitt und probieren Sie die Möglichkeiten aus. 
 
