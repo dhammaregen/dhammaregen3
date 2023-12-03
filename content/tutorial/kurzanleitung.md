@@ -1,9 +1,8 @@
 ---
-title: Tutorial
+title: Kurzanleitung
 description: Learn how to use ${appName}
 img: tutorial.png
-img-alt: Tutorial
-category: 1. General
+img-alt: Kurzanleitung
 order: 1
 ---
 
