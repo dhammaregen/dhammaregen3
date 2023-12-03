@@ -1,59 +1,55 @@
 ---
 title: Kurzanleitung
-description: Learn how to use ${appName}
+description: So benutzen Sie ${appName}
 img: tutorial.png
 img-alt: Kurzanleitung
 order: 1
 ---
 
-${appName} lets you read and hear Early Buddhist Text (EBT) 
-content from [SuttaCentral.net](https://suttacentral.net).
-${appName} shows content using one or more _cards_:
+Auf ${appName} können Sie frühe buddhistische Texte (FBT) von [SuttaCentral.net](https://suttacentral.net) lesen und hören. ${appName} zeigt seinen Inhalt auf einer oder mehreren *Karten*:
 
-* This page is on the <b>Wiki card</b>
-* <b>Search cards</b> let you search for EBT content 
-* <b>Sutta cards</b> let you read/play EBT content 
+* Diese Seite befindet sich auf einer <b>Wiki-Karte</b>. 
+* Mit <b>Suchkarten</b> können Sie die FBT durchsuchen. 
+* Auf <b>Suttakarten</b> können Sie die FBT lesen oder wiedergeben. 
 
-In this tutorial, you will learn how to:
+In dieser Kurzanleitung lernen Sie, wie Sie
 
-<details><summary>1. Close a card</summary>
+<details><summary>1. eine Karte schließen</summary>
 
-* Click the "-" to minimize a card.
-* Click the "X" to delete a card.
+* Das „–“ klicken, um die Karte zu minimieren
+* Das „X“ klicken, um die Karte ganz zu schließen
 
 </details>
 
-<details><summary>2. Open a card</summary>
+<details><summary>2. eine Karte öffnen</summary>
 
-Each card has a <i>card tab</i> in the card tab bar. 
-Click a card tab to show that card.
-
-</details>
-
-<details><summary>3. Search for EBT content</summary>
-To find EBT content:
-
-* Enter a phrase (e.g., "root of suffering") 
-* Enter a sutta identifier (e.g., "thig1.1") in the search text field.
-* Click "Inspire Me" for a random search phrase
-
-Scan the search results and click on any result to see the actual sutta.
+Jede Karte hat einen <i>Karten-Tab</i> im Tabulatormenü. Klicken Sie einen Tab, um die entsprechende Karte zu öffnen. 
 
 </details>
 
-<details><summary>4. Play EBT content</summary>
-When the current card is a sutta, you can:
+<details><summary>3. FBT durchsuchen</summary>
+Um einen Text zu finden, können Sie
 
-* Click any segment
-* Play the selected segment
-* Play to the end of the sutta
+* einen Suchtext in das Suchfeld eingeben (z. B. „Wurzel des Leidens“) 
+* eine Sutta-Kennziffer in das Suchfeld eingeben (z. B. Thig 1.1) 
+* `SUCH MIR ETWAS AUS!` klicken; das wählt einen zufälligen Suchbegriff aus 
+
+Schauen Sie die Suchergebnisse durch und klicken Sie auf eines davon, um zum eigentlichen Sutta zu gelangen. 
 
 </details>
 
-<details> <summary>5. Personalize settings</summary>
+<details><summary>4. FBT-Text wiedergeben</summary>
+Wenn die aktuelle Karte eine Suttakarte ist, können Sie 
 
-Settings are grouped into sections. 
-Click each section and explore your options.
+* in ein beliebiges Segment klicken
+* das ausgewählte Segment wiedergeben
+* das Sutta von hier bis zum Ende wiedergeben
+
+</details>
+
+<details> <summary>5. Einstellungen anpassen</summary>
+
+Die Einstellungen sind in Abschnitte gegliedert. Klicken Sie auf jeden abschnitt und probieren Sie die Möglichkeiten aus. 
 
 </details>
 
