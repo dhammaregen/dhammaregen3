@@ -79,6 +79,7 @@ Hier finden sich Links zum schnellen Zugriff auf verschiedene Ressourcen.
 - Bilara [https://bilara.suttacentral.net/](https://bilara.suttacentral.net/)
 - Reading Faithfully [https://readingfaithfully.org/](https://readingfaithfully.org/)
 - RF Bilara Previewer [https://bp.readingfaithfully.org/](https://bp.readingfaithfully.org/), siehe auch [https://discourse.suttacentral.net/t/translation-previewer-for-bilara-texts/29467](https://discourse.suttacentral.net/t/translation-previewer-for-bilara-texts/29467)
+- OBU [https://buddhistuniversity.net](https://buddhistuniversity.net)
 - Sujatos Essays [https://discourse.suttacentral.net/tag/ebt-translation](https://discourse.suttacentral.net/tag/ebt-translation)
 - AWS [https://aws.amazon.com/de/console/](https://aws.amazon.com/de/console/)
 - Deutsche Phoneme IPA [https://docs.aws.amazon.com/polly/latest/dg/ph-table-german.html](https://docs.aws.amazon.com/polly/latest/dg/ph-table-german.html)
