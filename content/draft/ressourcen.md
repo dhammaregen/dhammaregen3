@@ -38,6 +38,11 @@ Hier finden sich Links zum schnellen Zugriff auf verschiedene Ressourcen.
 
 ## Allgemein
 
+### Momentane Projekte
+
+- Suttazitate [https://github.com/suttacentral/sc-data/blob/master/additional-info/epigraphs.json](https://github.com/suttacentral/sc-data/blob/master/additional-info/epigraphs.json)
+- Zeugnisse [https://github.com/suttacentral/sc-data/blob/master/additional-info/whyweread.json](https://github.com/suttacentral/sc-data/blob/master/additional-info/whyweread.json)
+
 ### Kommunikation usw.
 
 - Gmail sabbamitta [https://mail.google.com/mail/u/0/#inbox](https://mail.google.com/mail/u/0/#inbox)
