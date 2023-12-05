@@ -36,9 +36,9 @@ order: -9999
 
 Hier finden sich Links zum schnellen Zugriff auf verschiedene Ressourcen.
 
-### Tägliches
+## Allgemein
 
-#### Kommunikation usw.
+### Kommunikation usw.
 
 - Gmail sabbamitta [https://mail.google.com/mail/u/0/#inbox](https://mail.google.com/mail/u/0/#inbox)
 - Gmail dhammaregen [https://mail.google.com/mail/u/1/#inbox](https://mail.google.com/mail/u/1/#inbox)
@@ -53,7 +53,7 @@ Hier finden sich Links zum schnellen Zugriff auf verschiedene Ressourcen.
 - SC-data [https://github.com/suttacentral/sc-data/tree/master/html_text/de](https://github.com/suttacentral/sc-data/tree/master/html_text/de)
 - Gitter [https://app.gitter.im/?updated=1.11.31#/room/#suttacentral_Dev:gitter.im](https://app.gitter.im/?updated=1.11.31#/room/#suttacentral_Dev:gitter.im)
 
-#### Wörterbücher usw.
+### Wörterbücher usw.
 
 - SuttaCentral [https://suttacentral.net](https://suttacentral.net)
 - DPD-Webseite [https://digitalpalidictionary.github.io/titlepage.html](https://digitalpalidictionary.github.io/titlepage.html)
@@ -73,6 +73,8 @@ Hier finden sich Links zum schnellen Zugriff auf verschiedene Ressourcen.
 - Oxford English Dictionary [https://www.oxfordlearnersdictionaries.com/](https://www.oxfordlearnersdictionaries.com/)
 - Wikipedia DE [https://de.wikipedia.org/wiki](https://de.wikipedia.org/wiki)
 - Wikipedia EN [https://en.wikipedia.org/wiki](https://en.wikipedia.org/wiki)
+
+## Buddhismuskunde
 
 ### VEDA
 
