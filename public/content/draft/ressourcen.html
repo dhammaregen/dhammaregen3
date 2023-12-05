@@ -1,0 +1,110 @@
+<article class="ebt-wiki">
+<div class="ebt-wiki-heading">
+  <img src="/img/now.png" alt="Uhr" title="Uhr"/>
+ <div class="ebt-wiki-heading-text">
+  <div class="ebt-wiki-breadcrumbs">
+   <a href="/#/wiki/inhalt" >wiki</a>&nbsp;&gt;&nbsp;
+   <a href="/#/wiki/draft/inhalt" >draft</a>&nbsp;&gt;&nbsp;
+   ressourcen
+  </div><!--ebt-wiki-breadcrumbs-->
+  <h1>Ressourcen</h1>
+  <div class="ebt-wiki-description">Zeitanzeige und Links</div>
+ </div><!--ebt-wiki-heading-text-->
+</div><!--ebt-wiki-heading-->
+<h3>Aktuelle Zeit</h3>
+<p><span id="page_utc" class="utc-time">...</span></p>
+<script>
+  var updateTime = ()=>{
+    let page_utc = document && document.getElementById('page_utc');
+    if (page_utc) {
+      let date = new Date();
+      let utc = `${date.toISOString().substring(11,16)} UTC`;
+      page_utc.innerHTML = utc;
+    }
+  }
+  setTimeout(updateTime, 1000);
+  setInterval(updateTime, 20000);
+</script>
+<style>
+.utc-time {
+  font: Arial Black, Arial;
+  font-size: larger;
+  border: 1pt solid #888;
+  border-radius: 0.25em;
+  padding-left: 0.5em;
+  padding-right: 0.5em;
+}
+</style>
+<p>Hier finden sich Links zum schnellen Zugriff auf verschiedene Ressourcen.</p>
+<h3>Tägliches</h3>
+<h4>Kommunikation usw.</h4>
+<ul>
+<li>Gmail sabbamitta <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank">https://mail.google.com/mail/u/0/#inbox</a></li>
+<li>Gmail dhammaregen <a href="https://mail.google.com/mail/u/1/#inbox" target="_blank">https://mail.google.com/mail/u/1/#inbox</a></li>
+<li>D&amp;D <a href="https://discourse.suttacentral.net" target="_blank">https://discourse.suttacentral.net</a></li>
+<li>Admin SC-Voice <a href="https://admin.sc-voice.net/#/admin.sc-voice.net" target="_blank">https://admin.sc-voice.net/#/admin.sc-voice.net</a></li>
+<li>i18n <a href="https://github.com/sc-voice/ebt-vue3/blob/main/src/i18n/de.mjs" target="_blank">https://github.com/sc-voice/ebt-vue3/blob/main/src/i18n/de.mjs</a></li>
+<li>UTC-Zeit <a href="https://ebt-site.github.io/ebt-site/admin/schedule" target="_blank">https://ebt-site.github.io/ebt-site/admin/schedule</a></li>
+<li>Examples <a href="https://github.com/ebt-site/ebt-data/blob/published/examples/examples-de-sutta-1-sabbamitta.txt" target="_blank">https://github.com/ebt-site/ebt-data/blob/published/examples/examples-de-sutta-1-sabbamitta.txt</a></li>
+<li>Dhammaregen <a href="https://dhammaregen.net" target="_blank">https://dhammaregen.net</a></li>
+<li>Bilara-data unpublished <a href="https://github.com/suttacentral/bilara-data/tree/unpublished/translation/de/sabbamitta" target="_blank">https://github.com/suttacentral/bilara-data/tree/unpublished/translation/de/sabbamitta</a></li>
+<li>Bilara-data published <a href="https://github.com/suttacentral/bilara-data/tree/published/translation/de/sabbamitta" target="_blank">https://github.com/suttacentral/bilara-data/tree/published/translation/de/sabbamitta</a></li>
+<li>SC-data <a href="https://github.com/suttacentral/sc-data/tree/master/html_text/de" target="_blank">https://github.com/suttacentral/sc-data/tree/master/html_text/de</a></li>
+<li>Gitter <a href="https://app.gitter.im/?updated=1.11.31#/room/#suttacentral_Dev:gitter.im" target="_blank">https://app.gitter.im/?updated=1.11.31#/room/#suttacentral_Dev:gitter.im</a></li>
+</ul>
+<h4>Wörterbücher usw.</h4>
+<ul>
+<li>SuttaCentral <a href="https://suttacentral.net" target="_blank">https://suttacentral.net</a></li>
+<li>DPD-Webseite <a href="https://digitalpalidictionary.github.io/titlepage.html" target="_blank">https://digitalpalidictionary.github.io/titlepage.html</a></li>
+<li>Bhaddacak <a href="https://bhaddacak.github.io/" target="_blank">https://bhaddacak.github.io/</a></li>
+<li>Tipitaka Pali Reader <a href="https://americanmonk.org/tipitaka-pali-reader/" target="_blank">https://americanmonk.org/tipitaka-pali-reader/</a></li>
+<li>Digital Pali Reader <a href="https://www.digitalpalireader.online/_dprhtml/index.html" target="_blank">https://www.digitalpalireader.online/_dprhtml/index.html</a></li>
+<li>PED <a href="https://dsal.uchicago.edu/dictionaries/pali/" target="_blank">https://dsal.uchicago.edu/dictionaries/pali/</a></li>
+<li>PTS-Konverter <a href="https://pts.dhamma-dana.de/" target="_blank">https://pts.dhamma-dana.de/</a></li>
+<li>Paliglossar Bodhi und Sujato <a href="https://discourse.suttacentral.net/t/pali-glossary-for-bhikkhus-bodhi-and-sujato/12008" target="_blank">https://discourse.suttacentral.net/t/pali-glossary-for-bhikkhus-bodhi-and-sujato/12008</a></li>
+<li>Linguee <a href="https://www.linguee.de/deutsch-englisch" target="_blank">https://www.linguee.de/deutsch-englisch</a></li>
+<li>DeepL <a href="https://www.deepl.com/translator" target="_blank">https://www.deepl.com/translator</a></li>
+<li>Pons <a href="https://de.pons.com/%C3%BCbersetzung" target="_blank">https://de.pons.com/%C3%BCbersetzung</a></li>
+<li>Leo <a href="https://dict.leo.org/englisch-deutsch/" target="_blank">https://dict.leo.org/englisch-deutsch/</a></li>
+<li>Duden <a href="https://www.duden.de" target="_blank">https://www.duden.de</a></li>
+<li>DWDS <a href="https://www.dwds.de/wb" target="_blank">https://www.dwds.de/wb</a></li>
+<li>Merriam-Webster <a href="https://www.merriam-webster.com/dictionary" target="_blank">https://www.merriam-webster.com/dictionary</a></li>
+<li>Oxford English Dictionary <a href="https://www.oxfordlearnersdictionaries.com/" target="_blank">https://www.oxfordlearnersdictionaries.com/</a></li>
+<li>Wikipedia DE <a href="https://de.wikipedia.org/wiki" target="_blank">https://de.wikipedia.org/wiki</a></li>
+<li>Wikipedia EN <a href="https://en.wikipedia.org/wiki" target="_blank">https://en.wikipedia.org/wiki</a></li>
+</ul>
+<h3>VEDA</h3>
+<h4>Rigveda</h4>
+<ul>
+<li>Sanskritweb <a href="http://www.sanskritweb.net/" target="_blank">http://www.sanskritweb.net/</a></li>
+<li>Sanskritweb DE <a href="http://www.sanskritweb.net/deutsch/index.html" target="_blank">http://www.sanskritweb.net/deutsch/index.html</a></li>
+<li>Rig-Veda DE <a href="http://www.sanskritweb.net/rigveda/index.html#L6" target="_blank">http://www.sanskritweb.net/rigveda/index.html#L6</a> (Geldner) und online <a href="http://www.thombar.de/" target="_blank">http://www.thombar.de/</a></li>
+<li>Rig-Veda Internet Archive <a href="https://archive.org/details/rigvedabersetz01grasuoft/rigvedabersetz01grasuoft/mode/2up" target="_blank">https://archive.org/details/rigvedabersetz01grasuoft/rigvedabersetz01grasuoft/mode/2up</a> (Graßmann; hier nur 2.-8. Buch)</li>
+<li>VedaWeb (EN/DE) <a href="https://vedaweb.uni-koeln.de/rigveda/view/id/10.85.22" target="_blank">https://vedaweb.uni-koeln.de/rigveda/view/id/10.85.22</a></li>
+</ul>
+<h4>Upaniṣaden</h4>
+<ul>
+<li>Deussen 60 Upaniṣaden <a href="https://archive.org/details/sechzigupanishad00deusuoft/mode/2up?view=theater" target="_blank">https://archive.org/details/sechzigupanishad00deusuoft/mode/2up?view=theater</a></li>
+<li>Inhalt <a href="https://archive.org/details/sechzigupanishad00deusuoft/page/xvi/mode/2up?view=theater" target="_blank">https://archive.org/details/sechzigupanishad00deusuoft/page/xvi/mode/2up?view=theater</a></li>
+<li>Chandogya-Upaniṣad <a href="https://archive.org/details/sechzigupanishad00deusuoft/page/64/mode/2up?view=theater" target="_blank">https://archive.org/details/sechzigupanishad00deusuoft/page/64/mode/2up?view=theater</a></li>
+<li>Bṛhadāraṇyaka-Upaniṣad <a href="https://archive.org/details/sechzigupanishad00deusuoft/page/370/mode/2up?view=theater" target="_blank">https://archive.org/details/sechzigupanishad00deusuoft/page/370/mode/2up?view=theater</a></li>
+</ul>
+<h3>JAINA</h3>
+<h4>Isibhāsiyāiṁ</h4>
+<ul>
+<li>Sanskrit <a href="https://gretil.sub.uni-goettingen.de/gretil/2_prakrt/isibhasu.htm" target="_blank">https://gretil.sub.uni-goettingen.de/gretil/2_prakrt/isibhasu.htm</a></li>
+<li>Englisch <a href="https://archive.org/details/in.ernet.dli.2015.322298/page/7/mode/2up" target="_blank">https://archive.org/details/in.ernet.dli.2015.322298/page/7/mode/2up</a></li>
+</ul>
+<h4>Weitere Texte (englische Übersetzung)</h4>
+<ul>
+<li><a href="https://www.wisdomlib.org/jainism/book/kalpa-sutra/d/doc424484.html" target="_blank">Kalpa-Sutra</a></li>
+<li><a href="https://www.wisdomlib.org/jainism/book/trishashti-shalaka-purusha-caritra/d/doc216050.html" target="_blank">Trishashti Shalaka Purusha Caritra</a></li>
+</ul>
+<hr>
+<h3>Sonstiges</h3>
+<ul>
+<li>Zugang zu allem: <a href="https://admin.sc-voice.net/#/admin.sc-voice.net" target="_blank">Admin.sc-voice</a></li>
+<li>Color picker <a href="https://www.w3schools.com/colors/colors_picker.asp" target="_blank">https://www.w3schools.com/colors/colors_picker.asp</a></li>
+<li>Emojipedia <a href="https://emojipedia.org" target="_blank">https://emojipedia.org</a></li>
+</ul>
+</article>
