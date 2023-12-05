@@ -42,6 +42,7 @@ Hier finden sich Links zum schnellen Zugriff auf verschiedene Ressourcen.
 
 - Suttazitate [https://github.com/suttacentral/sc-data/blob/master/additional-info/epigraphs.json](https://github.com/suttacentral/sc-data/blob/master/additional-info/epigraphs.json)
 - Zeugnisse [https://github.com/suttacentral/sc-data/blob/master/additional-info/whyweread.json](https://github.com/suttacentral/sc-data/blob/master/additional-info/whyweread.json)
+- Letzte Worte des Buddha [https://www.flickr.com/photos/stachelig/4137262610/](https://www.flickr.com/photos/stachelig/4137262610/)
 
 ### Kommunikation usw.
 
