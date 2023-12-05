@@ -74,6 +74,16 @@ Hier finden sich Links zum schnellen Zugriff auf verschiedene Ressourcen.
 - Wikipedia DE [https://de.wikipedia.org/wiki](https://de.wikipedia.org/wiki)
 - Wikipedia EN [https://en.wikipedia.org/wiki](https://en.wikipedia.org/wiki)
 
+### Übersetzung usw.
+
+- Bilara [https://bilara.suttacentral.net/](https://bilara.suttacentral.net/)
+- Reading Faithfully [https://readingfaithfully.org/](https://readingfaithfully.org/)
+- RF Bilara Previewer [https://bp.readingfaithfully.org/](https://bp.readingfaithfully.org/), siehe auch [https://discourse.suttacentral.net/t/translation-previewer-for-bilara-texts/29467](https://discourse.suttacentral.net/t/translation-previewer-for-bilara-texts/29467)
+- Sujatos Essays [https://discourse.suttacentral.net/tag/ebt-translation](https://discourse.suttacentral.net/tag/ebt-translation)
+- AWS [https://aws.amazon.com/de/console/](https://aws.amazon.com/de/console/)
+- Deutsche Phoneme IPA [https://docs.aws.amazon.com/polly/latest/dg/ph-table-german.html](https://docs.aws.amazon.com/polly/latest/dg/ph-table-german.html)
+- Unicode-Zeichen finden [https://www.fileformat.info/search/google.htm?q=%C3%BC&domains=www.fileformat.info&sitesearch=www.fileformat.info&client=pub-6975096118196151&forid=1&channel=1657057343&ie=UTF-8&oe=UTF-8&cof=GALT%3A%23008000%3BGL%3A1%3BDIV%3A%23336699%3BVLC%3A663399%3BAH%3Acenter%3BBGC%3AFFFFFF%3BLBGC%3A336699%3BALC%3A0000FF%3BLC%3A0000FF%3BT%3A000000%3BGFNT%3A0000FF%3BGIMP%3A0000FF%3BFORID%3A11&hl=en](https://www.fileformat.info/search/google.htm?q=%C3%BC&domains=www.fileformat.info&sitesearch=www.fileformat.info&client=pub-6975096118196151&forid=1&channel=1657057343&ie=UTF-8&oe=UTF-8&cof=GALT%3A%23008000%3BGL%3A1%3BDIV%3A%23336699%3BVLC%3A663399%3BAH%3Acenter%3BBGC%3AFFFFFF%3BLBGC%3A336699%3BALC%3A0000FF%3BLC%3A0000FF%3BT%3A000000%3BGFNT%3A0000FF%3BGIMP%3A0000FF%3BFORID%3A11&hl=en)
+
 ## Buddhismuskunde
 
 ### VEDA
