@@ -101,10 +101,7 @@ Hier finden sich Links zum schnellen Zugriff auf verschiedene Ressourcen.
 - [Kalpa-Sutra](https://www.wisdomlib.org/jainism/book/kalpa-sutra/d/doc424484.html)
 - [Trishashti Shalaka Purusha Caritra](https://www.wisdomlib.org/jainism/book/trishashti-shalaka-purusha-caritra/d/doc216050.html)
 
-
----
-
-### Sonstiges
+## Sonstiges
 
 - Zugang zu allem: [Admin.sc-voice](https://admin.sc-voice.net/#/admin.sc-voice.net)
 - Color picker [https://www.w3schools.com/colors/colors_picker.asp](https://www.w3schools.com/colors/colors_picker.asp)
