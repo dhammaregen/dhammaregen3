@@ -38,7 +38,7 @@ Hier finden sich Links zum schnellen Zugriff auf verschiedene Ressourcen.
 
 ## Allgemein
 
-### Momentane Projekte
+### Aktuelle Projekte
 
 - Suttazitate [https://github.com/suttacentral/sc-data/blob/master/additional-info/epigraphs.json](https://github.com/suttacentral/sc-data/blob/master/additional-info/epigraphs.json)
 - Zeugnisse [https://github.com/suttacentral/sc-data/blob/master/additional-info/whyweread.json](https://github.com/suttacentral/sc-data/blob/master/additional-info/whyweread.json)
