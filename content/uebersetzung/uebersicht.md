@@ -20,7 +20,7 @@ Bisher liegen folgende Suttas auf *Dhammaregen* vor:
 - Aṅguttara-Nikāya: vollständig
 - Khuddaka-Nikāya: 
   - Kp: vollständig 
-  - Dhp: 1-89, Dhp 167-178, Dhp 273-289
+  - Dhp: 1-220, Dhp 273-289
   - Ud: vollständig
   - Iti: vollständig
   - Snp: 1.4, Snp 1.8, Snp 1.10-11, Snp 2.1, Snp 2.4-5, Snp 2.8, Snp 2.12, Snp 10.12
