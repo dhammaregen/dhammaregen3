@@ -131,3 +131,5 @@ Hier finden sich Links zum schnellen Zugriff auf verschiedene Ressourcen.
 - Zugang zu allem: [Admin.sc-voice](https://admin.sc-voice.net/#/admin.sc-voice.net)
 - Color picker [https://www.w3schools.com/colors/colors_picker.asp](https://www.w3schools.com/colors/colors_picker.asp)
 - Emojipedia [https://emojipedia.org](https://emojipedia.org)
+- Jatakas [https://thejatakatales.com/](https://thejatakatales.com/)
+- (D&D about) [https://discourse.suttacentral.net/t/the-jataka-tales-stories-of-the-buddhas-past-lives-summarized/31643](https://discourse.suttacentral.net/t/the-jataka-tales-stories-of-the-buddhas-past-lives-summarized/31643)
