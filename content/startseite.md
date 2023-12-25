@@ -19,18 +19,11 @@ order: 1
 
 Neu bei den Suttas? Finden Sie hier [ein paar Tipps zum Einstieg](#/wiki/studium/einstieg).  
 Neu bei *Dhammaregen*? Lesen Sie hier [über die Idee hinter der Webseite](#/wiki/studium/neu).
-
-### Schauen Sie sich um
-
-<a href="#/search//de" class="scv-icon-btn v-btn v-btn--icon v-btn--round v-btn--router theme--dark v-size--default"><span class="v-btn__content"><span aria-hidden="true" class="v-icon notranslate theme--dark"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" role="img" aria-hidden="true" class="v-icon__svg"><path d="M9.5,3A6.5,6.5 0 0,1 16,9.5C16,11.11 15.41,12.59 14.44,13.73L14.71,14H15.5L20.5,19L19,20.5L14,15.5V14.71L13.73,14.44C12.59,15.41 11.11,16 9.5,16A6.5,6.5 0 0,1 3,9.5A6.5,6.5 0 0,1 9.5,3M9.5,5C7,5 5,7 5,9.5C5,12 7,14 9.5,14C12,14 14,12 14,9.5C14,7 12,5 9.5,5Z"></path></svg></span></span></a> Öffnen Sie [eine Suchkarte](#/search//de), um die Suttas zu durchsuchen
-
-<a href="#/wiki/startseite" class="scv-icon-btn v-btn v-btn--icon v-btn--round v-btn--router theme--dark v-size--default"><span class="v-btn__content"><span aria-hidden="true" class="v-icon notranslate theme--dark"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" role="img" aria-hidden="true" class="v-icon__svg"><path d="M10,20V14H14V20H19V12H22L12,3L2,12H5V20H10Z"></path></svg></span></span></a> Kommen Sie zu dieser [Startseitenkarte](#/wiki/startseite) zurück
-
-Erfahren Sie mehr über *Dhammaregen* und frühe buddhistische Texte: [zum Wiki-Inhaltsverzeichnis](#/wiki/inhalt)
+Erfahren Sie mehr über *Dhammaregen* und frühe buddhistische Texte: [zum Wiki-Inhaltsverzeichnis](#/wiki/inhalt).
 
 ### Nachrichten von *Dhammaregen*
 
-*Dhammaregen* versendet in unregelmäßigen Abständen einen Newsletter mit Nachrichten über Neues auf dieser Webseite und rund um die frühen buddhistischen Texte. Wenn Sie den Newsletter erhalten möchten, senden Sie bitte eine formlose Email an [dhammaregen@gmail.com](mailto:dhammaregen@gmail.com).
+*Dhammaregen* versendet in unregelmäßigen Abständen einen Newsletter mit Nachrichten über Neues auf dieser Webseite und rund um die frühen buddhistischen Texte. Zum Newsletter-Archiv [hier kilcken](#/wiki/news/inhalt). Wenn Sie den Newsletter erhalten möchten, senden Sie bitte eine formlose Email an [dhammaregen@gmail.com](mailto:dhammaregen@gmail.com). 
 
 Auch Fragen oder Anregungen können an diese Email-Adresse gesandt werden, oder wenden Sie sich an das SuttaCentral-Diskussionsforum [Discourse.SuttaCentral](https://discourse.suttacentral.net).
 
