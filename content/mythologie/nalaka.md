@@ -3,7 +3,7 @@ title: Snp 3.11 Nālakasutta, Über Nālaka
 description: Bhikkhu Sujato, 2022
 img:  sujato.png
 img-alt: Foto von Bhante Sujato
-order: 7
+order: 19
 ---
 
 [Zum Originaltext](https://discourse.suttacentral.net/t/snp-3-11-nalakasutta-about-nalaka/26849)
