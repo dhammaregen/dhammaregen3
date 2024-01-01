@@ -8,6 +8,12 @@ order: -9999
 
 Hier finden Sie eine kurze Themenübersicht der bisher erschienenen Newsletter. Klicken sie auf die Überschrift, um zu einem Newsletter zu gelangen.
 
+### [Januar 2024](#/wiki/news/2024-01)
+- Geburt eines besonderen Menschen (Snp 3.11)
+- Die Suche des Buddha (MN 26)
+- Neujahrswünsche (Dhp 296-301)
+- Bhikkhu Sujato: Snp 3.11 Nālakasutta, Über Nālaka
+
 ### [Dezember 2023](#/wiki/news/2023-12)
 - Mönch werden mit Hindernissen (Karte, Ud 5.6, AN 1.206, Thag 5.11, Vinaya pli-tv-kd5)
 - Wie der Geist mit uns spielt (Thag 19.1, SN 42.2)
