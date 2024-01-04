@@ -38,9 +38,9 @@ Die Einzelheiten des klassischen vedischen Glücksspiels sind unklar und haben s
 
 Der Paliausdruck *kaṭaggāha*, der oft mit „Gewinnwurf“ übersetzt wird, heißt daher „perfekte (*kaṭa*) Hand (*gāha*)“. 
 
-Sein Gegenteil ist *kaliggāha*, eine „Verliererhand“. Ein Satz von vier Würfeln war „perfekt“, wohingegen der fünfte „Verlierer“würfel (*kali*) allmächtig war, da dieser eine zusätzliche Würfel bedeutete, dass man alles verliert (Rigveda 10.34.2, Śatapatha-Brāhmaṇa 5.4.4.6). 
+Sein Gegenteil ist *kaliggāha*, eine „Verliererhand“. Ein Satz von vier Würfeln war „perfekt“, wohingegen der fünfte, der „Verlierer“würfel (*kali*), allmächtig war, da dieser eine zusätzliche Würfel bedeutete, dass man alles verliert (Rigveda 10.34.2, Śatapatha-Brāhmaṇa 5.4.4.6). 
 
 *Apaṇṇaka* ist daher wörtlich ein „Satz ohne einen Fünften“ und metaphorisch „unfehlbar“. 
 
-Wenn Sie natürlich wirklich beim Glücksspiel „unfehlbar“ gewinnen wollen, so ist das einfach: Spielen Sie nicht.
+Wenn Sie aber wirklich beim Glücksspiel „unfehlbar“ gewinnen wollen, so ist das natürlich einfach: Spielen Sie nicht.
 
