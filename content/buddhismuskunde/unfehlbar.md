@@ -3,7 +3,7 @@ title: Wie man beim Glücksspiel unfehlbar gewinnt
 description: Bhikkhu Sujato, 2023
 img:  sujato.png
 img-alt: Foto von Bhante Sujato
-order: 7
+order: 8
 ---
 
 [Zum Originaltext](https://discourse.suttacentral.net/t/how-to-win-at-gambling-without-fail/31497)
