@@ -12,21 +12,21 @@ Das Apaṇṇakasutta ([MN 60](#/sutta/mn60/de/sabbamitta)) stellt die Bildsprac
 
 Bezüglich des Schlüsselbegriffs *apaṇṇaka* sagt das *Critical Pali Dictionary*, die Etymologie sei unbekannt, und Cone hat ein Fragezeichen. CPD merkt an:
 
-> möglicherweise ursprünglich ein Ausdruck aus dem Würfelspiel (dessen genaue Bedeutung vergessen wurde). 
+> *möglicherweise ursprünglich ein Ausdruck aus dem Würfelspiel (dessen genaue Bedeutung vergessen wurde).* 
 
-It is sometimes derived from *pañha* with the sense “unquestionable”. Most translators lean on this derivation, with such renderings as “incontrovertible”, “unquestionable”, etc.
+Es wird manchmal von *pañha* abgeleitet mit der Bedeutung „unzweifelhaft“. Die meisten Übersetzer stützen sich auf diese Ableitung mit Übersetzungen wie „unanfechtbar“, „unbstreitbar“ usw. 
 
-However, I’ve always found this a little, well, questionable, perhaps because nowhere else in Pali does *pañha* appear as *paṇṇa*. Also, there seems to be no real cognate for it in Sanskrit, forcing later Buddhists to invent a hyper-Sanskritized form. Something always felt a bit post-hoc about this explanation.
+Doch ich fand das immer ein wenig, nun, zweifelhaft, vielleicht, weil *pañha* nirgendwo sonst im Pali in der Form *paṇṇa* erscheint. Es scheit dafür auch keine wirkliche Entsprechenung im Sanskrit zu geben, was spätere Buddhisten dazu zwang, eine über-sanskritisierte Form zu erfinden. Etwas fühlte sich dabei immer ein wenig wie eine nachträglich Erklärung an. 
 
-The commentaries don’t, so far as I know, support this derivation. The commentary for MN 60 says:
+Die Kommentare stützen soweit ich weiß diese Ableitung nicht. Der Kommentar zu MN 60 sagt: 
 
 > ***Apaṇṇako**ti aviraddho advejjhagāmī ekaṃsagāhiko*
-> *Apaṇṇaka* means unfailing, an undivided path, categorical
+> *Apaṇṇaka* bedeutet unfehlbar, ein ungeteilter Pfad, kategorisch 
 
-The [Apaṇṇakajātaka (Ja 1) offers a similar explanation](https://suttacentral.net/ja1/de/dutoit?lang=de&reference=main&highlight=true); Pali / Englisch auf *Ancient buddhist Texts*, einschl. Kommentar [https://www.ancient-buddhist-texts.net/Texts-and-Translations/Jatakas/001-Apannaka.htm](https://www.ancient-buddhist-texts.net/Texts-and-Translations/Jatakas/001-Apannaka.htm):
+Das Apaṇṇakajātaka ([Ja 1](https://suttacentral.net/ja1/de/dutoit?lang=de&reference=main&highlight=true); Pali / Englisch auf *Ancient buddhist Texts*, einschl. Kommentar [https://www.ancient-buddhist-texts.net/Texts-and-Translations/Jatakas/001-Apannaka.htm](https://www.ancient-buddhist-texts.net/Texts-and-Translations/Jatakas/001-Apannaka.htm)) hat eine ähnliche Erklärung:
 
 > *Tattha, **apaṇṇakan**-ti ekaṁsikaṁ aviraddhaṁ niyyānikaṁ.*
-> In this connection, *apaṇṇaka* means being sure, unfailing, leading to deliverance.
+> In diesem Zusammenhang bedeutet *apaṇṇaka* sicher, unfehlbar, zur Erlösung führend.
 
 Now, if we look at words that do appear as *paṇṇa* in Pali, we find the number five (*pañca*), of which *paṇṇa* is a common form. To understand the significance of this, we’ll have to spend a little time at the casino.
 
