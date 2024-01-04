@@ -14,23 +14,23 @@ Bezüglich des Schlüsselbegriffs *apaṇṇaka* sagt das *Critical Pali Diction
 
 > *möglicherweise ursprünglich ein Ausdruck aus dem Würfelspiel (dessen genaue Bedeutung vergessen wurde).* 
 
-Es wird manchmal von *pañha* abgeleitet mit der Bedeutung „unzweifelhaft“. Die meisten Übersetzer stützen sich auf diese Ableitung mit Übersetzungen wie „unanfechtbar“, „unbstreitbar“ usw. 
+Es wird manchmal von *pañha* („Frage“) abgeleitet mit der Bedeutung „nicht in Frage zu stellen“. Die meisten Übersetzer stützen sich auf diese Ableitung mit Übersetzungen wie „unanfechtbar“, „unbstreitbar“ usw. 
 
-Doch ich fand das immer ein wenig, nun, zweifelhaft, vielleicht, weil *pañha* nirgendwo sonst im Pali in der Form *paṇṇa* erscheint. Es scheint dafür auch keine wirkliche Entsprechenung im Sanskrit zu geben, was spätere Buddhisten dazu zwang, eine über-sanskritisierte Form zu erfinden. Etwas an dieser Erklärung fühlte sich immer irgendwie nachträglich an. 
+Doch ich fand das immer ein wenig, nun, fragwürdig, vielleicht, weil *pañha* nirgendwo sonst im Pali in der Form *paṇṇa* erscheint. Es scheint dafür auch keine wirkliche Entsprechenung im Sanskrit zu geben, was spätere Buddhisten dazu zwang, eine über-sanskritisierte Form zu erfinden. Etwas an dieser Erklärung fühlte sich immer irgendwie nachträglich an. 
 
 Die Kommentare stützen, soweit ich weiß, diese Ableitung nicht. Der Kommentar zu MN 60 sagt: 
 
 > ***Apaṇṇako**ti aviraddho advejjhagāmī ekaṃsagāhiko*  
 > *Apaṇṇaka* bedeutet unfehlbar, ein ungeteilter Pfad, kategorisch. 
 
-Das Apaṇṇakajātaka ([Ja 1](https://suttacentral.net/ja1/de/dutoit?lang=de&reference=main&highlight=true); [Englisch auf *Ancient buddhist Texts* einschl. Kommentar](https://www.ancient-buddhist-texts.net/Texts-and-Translations/Jatakas/001-Apannaka.htm)) hat eine ähnliche Erklärung:
+Das Apaṇṇakajātaka ([Ja 1](https://suttacentral.net/ja1/de/dutoit?lang=de&reference=main&highlight=true); Englisch  einschl. Kommentar auf [*Ancient Buddhist Texts*](https://www.ancient-buddhist-texts.net/Texts-and-Translations/Jatakas/001-Apannaka.htm)) hat eine ähnliche Erklärung:
 
 > *Tattha, **apaṇṇakan**-ti ekaṁsikaṁ aviraddhaṁ niyyānikaṁ.*  
 > In diesem Zusammenhang bedeutet *apaṇṇaka* sicher, unfehlbar, zur Erlösung führend.
 
 Wenn wir uns nun Wörter anschauen, die im Pali in der Form *paṇṇa* vorkommen, finden wir die Zahl fünf (*pañca*), wovon *paṇṇa* eine häufige Form ist. Um zu verstehen, was das bedeutet, müssen wir uns für eine Weile ins Casino begeben. 
 
-*Apaṇṇaka* ist eng mit dem Begriff *kataggāha* aus dem Glücksspiel verbunden. Beide kommen in [MN 60](#/sutta/mn60/de/sabbamitta) und in [SN 42.13](#/sutta/sn42.13/de/sabbamitta) vor. Weiterhin beschreibt *apaṇṇaka* das Werfen eines „Edelsteins“, anscheinend einer Art Würfel, in [AN 3.118](#/sutta/an3.118:4.6/de/sabbamitta) und [AN 10.217](#/sutta/an10.217:17.1). Die erweiterte Metapher, die der Buddha in allen drei Fällen entwickelt, ist, dass es, obwohl es so scheinen mag, als sei das Leben ein Glücksspiel, dennoch möglich ist, einen Weg zu finden, der unfehlbar zum Erfolg führen kann, indem man seinen Verstand weise gebraucht. 
+*Apaṇṇaka* ist eng mit dem Begriff *kataggāha* aus dem Glücksspiel verbunden. Beide kommen in [MN 60](#/sutta/mn60/de/sabbamitta) und in [SN 42.13](#/sutta/sn42.13:23.5/de/sabbamitta) vor. Weiterhin beschreibt *apaṇṇaka* das Werfen eines „Edelsteins“, anscheinend einer Art Würfel, in [AN 3.118](#/sutta/an3.118:4.6/de/sabbamitta) und [AN 10.217](#/sutta/an10.217:17.1). Die erweiterte Metapher, die der Buddha in allen drei Fällen entwickelt, ist, dass es, obwohl es so scheinen mag, als sei das Leben ein Glücksspiel, dennoch möglich ist, einen Weg zu finden, der unfehlbar zum Erfolg führen kann, indem man seinen Verstand weise gebraucht. 
 
 Glücksspiel war ein herausragendes Merkmal der vedischen Kultur, und es gibt die bewegende Geschichte aus Rigveda 10.34, die vom Nervenkitzel und vom Verlieren beim Spiel erzählt. Die Götter werden angerufen, um den Erfolg sicherzustellen (Atharvaveda 7.109). Selbst Könige verbeugten sich vor den Würfeln (Rig Veda 10.34.8), sodass die Zeremonie zur Rājasūya-Weihe mit einem (gezinkten) Würfelspiel abgesichert wird (Śatapatha-Brāhmaṇa 5.4.4.6, 23). Zahlreiche Geschichten von Königen, die ihr Reich beim Würfelspiel verloren, darunter insbesondere Yudhiṣṭhira im Mahābhārata, zeigen, dass die Macht und die Gefahr des Glücksspiels nicht nur symbolisch waren. 
 
