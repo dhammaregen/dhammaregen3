@@ -16,4 +16,4 @@ Sie sehen eine graphische Darstellung davon, wie das Sutta, das Sie lesen, über
 - blaue Knoten sind Beispiele – Maushover zeigt den Beispieltext 
 - andere Knoten sind verbundene Suttas, farblich nach Nikāyas gekennzeichnet – Maushover zeigt die Suttakennziffer 
 - größere Knoten sind Suttas, die für das betreffende Beispiel die höchsten Relevanzwerte haben 
-- klick auf einen Knoten erzeugt einen Link, der Sie zu diesem Sutta oder Beisiel führt 
+- Klick auf einen Knoten erzeugt einen Link, der Sie zu diesem Sutta oder Beisiel führt 
