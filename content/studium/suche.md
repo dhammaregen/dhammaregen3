@@ -16,7 +16,7 @@ Wenn Sie nicht wissen, wo Sie anfangen sollen, klicken Sie auf die Schaltfläche
 
 <p><img src="img/result.png" class="ebt-image" alt="Bildschirmfoto von Suchergebnis" style="width: 600px;"></p>
 
-Sie sehen unter dem Titel des Sutta in den meisten Fällen eine kurze Zusammenfassung des Inhalts, darunter ein Segment, das den Suchbegriff enthält, das auch direkt angesteuert werden kann. Klicken Sie einen Link, um eine Suttakarte zu öffnen.
+Sie sehen unter dem Titel des Sutta in den meisten Fällen eine kurze Zusammenfassung des Inhalts, darunter das erste Segment im Text, das den Suchbegriff enthält. Klicken sie auf den Titel, um zum Anfang des Sutta zu gelangen, und auf den Segmentlink, um direkt zu dieser Stelle zu gelangen.
 
 ### 2. Ins Suchfeld tippen
 
@@ -36,7 +36,13 @@ Sie können in *Dhammaregen* mehrere Suttakaren und auch mehrere Suchkarten glei
 
 <p><img src="img/tabs.png" class="ebt-image" alt="Bildschirmfoto von Suchfeld mit Wort Wasser und Suchbegriffen" style="width: 400px;"></p>
 
-### 5. Einzelne Segmente ansteuern
+### 5. Übersetzungen vergleichen
+
+Es ist auch möglich, verschiedene Übersetzungen für ein- und denselben Text zu vergleichen, indem Sie in `Einstellungen > Textgestaltung` die Option „Zeige Vergleichstext“ auswählen. Wählen Sie dann auch Vergleichssprache und Übersetzer.
+
+BEACHTE: Nicht alle Übersetzer haben alle Texte übersetzt.
+
+### 6. Einzelne Segmente ansteuern
 
 Wenn Sie in ein Segment klicken, wird dieses hervorgehoben.
 
@@ -44,7 +50,7 @@ Gleichzeitig erscheint die Segment-Kennziffer in der Mitte des Wiedergabemoduls 
 
 Auch wenn Sie von einem anderen Sutta wieder zu diesem Text zurückkommen, bleibt das zuletzt angeklickte Segment markiert. Dadurch wird es einfach, zum Vergleich in ein anderes Sutta zu schauen und beim Zurückkommen die Stelle wiederzufinden, die Sie zuletzt gelesen haben.
 
-### 6. Suchbegriffe im Text
+### 7. Suchbegriffe im Text
 
 Die Beispiel-Suchbegriffe, die *Dhammaregen* verwendet, werden, wenn sie in einem Text vorkommen, hervorgehoben, sobald Sie zu dem entsprechenden Segment kommen. So können Sie leicht interessante Begriffe finden, die sich zum Vergleich von verschiedenen Texten untereinander anbieten. Die Begriffe sind mit Links versehen. Wenn Sie darauf klicken, öffnet sich eine Suchkarte mit allen Suttas, in denen der Begriff vorkommt.
 
