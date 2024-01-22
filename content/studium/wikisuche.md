@@ -17,6 +17,6 @@ Wenn Sie Ihre Maus über eine Karte bewegen, werden Links hervorgehoben.
 
 Um zum Haupt-Inhaltsverzeichnis oder zu einer anderen Ebene zurückzugehen, können Sie die Breadcrumbs am oberen Ende der Wikikarte benutzen: 
 
-<img src="img/breadcrumb.png" alt="screenshot breadcrumbs">
+<img src="img/breadcrumb.png" alt="Bildschirmfoto Breadcrumbs">
 
 Auf diesem Bildschirmfoto gelangen Sie mit „studium“ zum Inhaltsverzeichnis des Kanals „Studium“ und mit „wiki“ zum Haupt-Inhaltsverzeichnis. 
