@@ -9,9 +9,10 @@ order: 1.5
 
 ### Sich auf *Dhammaregen* zurechtfinden
 *Dhammaregen* besteht aus verschiedenen Elementen, die die Nutzung seiner Funktionen ermöglichen:
-- Wiki-Karten
-- Suchkarten
-- Suttakarten
+- Wiki-Karten: zeigen Webseiten-Dokumentation usw.
+- Suchkarten: zeigen Suchbegriffe und zugehörige Ergebnisse
+- Suttakarten: zeigen einzelne Suttas
+- Graphenkarten: zeigen graphische Darstellungen, wie ein Sutta über gemeinsame Themen mit anderen Suttas verbunden ist
 
 Ein Tabulator-Menü links oben ermöglicht, zwischen den geöffneten Karten hin- und herzuspringen. Auf großen Bildschirmen können zwei Karten nebeneinander angesehen werden.
 
