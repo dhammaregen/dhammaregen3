@@ -12,6 +12,7 @@ Hier finden Sie eine kurze Themenübersicht der bisher erschienenen Newsletter. 
 - Aus Vertrauen (MN 82, AN 1.210, Thag 16.4)
 - Ist Glück berechenbar? (MN 60, Essay „Wie man beim Glücksspiel unfehlbar gewinnt“)
 - Graphen zur Vernetzung der Suttas
+- Dhp 3-5
 
 ### [Januar 2024](#/wiki/news/2024-01)
 - Geburt eines besonderen Menschen (Snp 3.11)
