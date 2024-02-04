@@ -27,6 +27,7 @@ Die Inhalte von *Dhammaregen* werden auf **Karten** dargestellt.
 * <b>Suchkarten</b> zeigen Suchergebnisse an
 * <b>Suttakarten</b> zeigen einzelne Suttas 
 * <b>Graphenkarten</b> zeigen über Schlüsselbegriffe verbundene Netzwerke um ein bestimmtes Sutta herum
+</details>
 
 *Dhammaregen* verfügt auch über eine Audiofunkion zum Hören der Suttas.
 
