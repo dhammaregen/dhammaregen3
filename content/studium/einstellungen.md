@@ -12,19 +12,18 @@ Hinter dem kleinen Zahnrädchen rechts oben verbergen sich verschiedene Einstell
 **Allgemein** 
 - Wählen Sie die Hintergrundfarbe. 
 - Wählen Sie die maximale Zahl der Suchergebnisse. 
-- „Neuesten Text zeigen“ zeigt immer die aktuellste Version (kann zu mehr Datenverbrauch führen).
-- Schalten Sie die DSGVO-Info ein oder aus. 
 - Blenden Sie Erklärhinweise ein oder aus. 
 
 **Textgestaltung** 
 - Wählen Sie aus, was Sie im Text sehen möchten. 
 - Wenn Sie den „Vergleichstext“ wählen, wählen Sie auch eine Sprache und einen Übersetzer.
-- „Zeile für Zeile darstellen“ ist eine Alternative zur Darstellung in Spalten. Auf schmalen Bildschirmen wie etwa Mobiltelefonen erfolgt sie automatisch. 
-- Für bestimmte Funktionen, wie etwa das Springen zwischen übergeordneten Kennziffer-Abschnitten mittels der Tastatur, ist es nötig, die Segmentkennziffern („SuttaCentral-ID“) einzuschalten.
+- „Zeile für Zeile darstellen“ ist eine Alternative zur Darstellung in Spalten für große Bildschirme; auf schmalen Bildschirmen wie etwa Mobiltelefonen erfolgt sie automatisch. 
+- Für bestimmte Funktionen, wie etwa das Springen zwischen übergeordneten Kennziffer-Abschnitten mittels der Tastatur, ist es nötig, die Segmentkennziffern („SuttaCentral-ID“) einzuschalten (Siehe [Navigieren auf Dhammaregen](#/wiki/studium/navigieren)).
 
 **Lesestimmen** 
 - Wählen Sie für Deutsch zwischen drei Lesestimmen: Vicki, Hans oder Marlene.
 - Wählen Sie für Pali zwischen Aditis und Bhante Sujatos Stimme. Letztere steht nur für wenige Suttas zur Verfügung; wenn diese Stimme eingestellt ist, werden alle anderen Suttas mit Aditis Stimme abgespielt.
+- Für Vergleihstexte steht keine Lesestimme zur Verfügung.
 
 **Audio** 
 - Wählen Sie Ihren Gongton zur Anzeige des Sutta-Endes. 
@@ -32,4 +31,4 @@ Hinter dem kleinen Zahnrädchen rechts oben verbergen sich verschiedene Einstell
 - Stellen Sie die Lautstärke der Anwendungstöne ein.
 
 **Erweitert**
-- Einstellungen, die für durchschnittliche Benutzer wenig gebraucht werden.
+- Einstellungen, die hauptsächlich für spezialisierte Benutzer wenig gebraucht werden.
