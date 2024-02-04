@@ -24,13 +24,13 @@ Ein Tabulator-Menü links oben ermöglicht, zwischen den geöffneten Karten hin-
   background: #cccccc;"
 }
 </style>
-<p><img src="img/tabs.png" class="ebt-image" alt="Bildschirmfoto von Suchfeld mit Wort Wasser und Suchbegriffen" style="width: 400px;" class="my-img"></p>
+<p><img src="img/tabs.png" alt="Bildschirmfoto von Suchfeld mit Wort Wasser und Suchbegriffen" style="width: 400px;" class="my-img"></p>
 
 An dem farbigen Unterstrich im Tabulator-Menü erkennen Sie, welches Element im Fokus ist. 
 
 Wenn eine Suttakarte im Fokus ist, erscheint am unteren Bildschirmrand das Wiedergabemodul.
 
-<p><img src="img/play.png" class="ebt-image" alt="Bildschirmfoto von Wiedergabemodul" style="width: 400px;" class="my-img"></p>
+<p><img src="img/play.png" alt="Bildschirmfoto von Wiedergabemodul" style="width: 400px;" class="my-img"></p>
 
 Die Schaltflächen dort sind von links nach rechts:
 - ein Segment zurück
