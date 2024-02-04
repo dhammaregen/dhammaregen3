@@ -31,4 +31,4 @@ Hinter dem kleinen Zahnrädchen rechts oben verbergen sich verschiedene Einstell
 - Stellen Sie die Lautstärke der Anwendungstöne ein.
 
 **Erweitert**
-- Einstellungen, die hauptsächlich für spezialisierte Benutzer wenig gebraucht werden.
+- Einstellungen, die hauptsächlich für spezialisierte Benutzer gebraucht werden.
