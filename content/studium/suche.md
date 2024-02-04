@@ -12,7 +12,7 @@ So gelangen Sie zu dem Text, den Sie studieren möchten:
 
 ### 1. „SUCH MIR ETWAS AUS!“
 
-Wenn Sie nicht wissen, wo Sie anfangen sollen, klicken Sie auf die Schaltfläche `SUCH MIR ETWAS AUS!`. Das führt zu einer Zufallsauswahl aus einer Sammlung von Beispiel-Suchbegriffen, die zusammen mit dem zugehörigen Ergebnis angezeigt wird:
+Wenn Sie nicht wissen, wo Sie anfangen sollen, klicken Sie auf die Schaltfläche `SUCH MIR ETWAS AUS!`. Das führt zu einer Zufallsauswahl aus einer Sammlung von Schlüsselbegriffen, die zusammen mit dem zugehörigen Ergebnis angezeigt wird:
 
 <style>
 .my-img {
@@ -52,7 +52,9 @@ BEACHTE: Nicht alle Übersetzer haben alle Texte übersetzt.
 
 ### 6. Einzelne Segmente ansteuern
 
-Wenn Sie in ein Segment klicken, wird dieses hervorgehoben.
+Wenn Sie auf einer Suttakarte in ein Segment klicken, wird dieses hervorgehoben.
+
+<p><img src="img/segment.png" class="my-img" alt="Bildschirmfoto von markiertem Segment"></p>
 
 Gleichzeitig erscheint die Segment-Kennziffer in der Mitte des Wiedergabemoduls am unteren Bildschirmrand. Wenn Sie darauf klicken, können Sie von jeder beliebigen Stelle im Text zu dem zuletzt markeirten Segment zurückkommen.
 
