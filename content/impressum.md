@@ -73,7 +73,7 @@ Es soll in diesem Zusammenhang darauf hingewiesen werden, dass mit dem Einsatz g
 
 Diese Webseite verwendet Cookies lediglich zu dem Zweck, die Darstellung der Webseiteninhalte zu ermöglichen und die Einstellungen des Benutzers in dessen Browser zu speichern. Folgende Inhalte werden mittels Cookies gespeichert:
 - der Text vom Benutzer geladener FBT-Dokumente
-- die Audiodateien vom Benutzer angehörter FBT-Dokumente
+- die Audiodateien vom Benutzer geladener FBT-Dokumente
 - persönliche Webseiten-Einstellungen des Benutzers
 
 #### Externe Links
