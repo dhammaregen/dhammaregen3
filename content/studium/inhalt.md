@@ -10,9 +10,23 @@ order: 2
 ### Lernen Sie die Suttas kennen
 *Dhamaregen* hat verschiedene Möglichkeiten, sich mit den frühen Lehrredentexten vertraut zu machen.
 
-Die Idee der Webseite ist auf Schlüsselbegriffen aufgebaut, die wichtige Lehrthemen und andere bemerkenswerte Merkmale der Texte repräsentieren. Diese Art des Vorgehens hilft, das Gedächtnis zu schulen und sich Schlüsselstellen leichter zu merken.
+Die Webseite ist auf Schlüsselbegriffen aufgebaut, die wichtige Lehrthemen und andere bemerkenswerte Merkmale der Texte repräsentieren. Diese Art des Vorgehens unterstützt ein themenbezogenes, vergleichendes Studium.
 
-*Dhammaregen* erlaubt es, verschiedene Texte miteinander zu vergleichen, indem man mehrere Suttakarten oder auch eine Wiki- und eine Suttakarte gleichzeitig öffnet.
+<style>
+summary:hover {
+  cursor: pointer;
+  color: rgb(var(--v-theme-link));
+}
+</style>
+<details>
+<summary>Was versteht man unter „Karten“, und welche Karten gibt es?</summary>
+
+Die Inhalte von *Dhammaregen* werden auf **Karten** dargestellt.
+
+* <b>Wikikarten</b> zeigen die verschiedenen Wiki-Inhalte
+* <b>Suchkarten</b> zeigen Suchergebnisse an
+* <b>Suttakarten</b> zeigen einzelne Suttas 
+* <b>Graphenkarten</b> zeigen über Schlüsselbegriffe verbundene Netzwerke um ein bestimmtes Sutta herum
 
 *Dhammaregen* verfügt auch über eine Audiofunkion zum Hören der Suttas.
 
