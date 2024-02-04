@@ -8,7 +8,15 @@ order: 2
 
 Das Wiedergabemodul erscheint am unteren Bildschirmrand, sobald eine Suttakarte geöffnet wird.
 
-<p><img src="img/play.png" class="ebt-image" alt="Bildschirmfoto von Wiedergabemodul" style="width: 400px;"></p>
+<style>
+.my-img {
+  margin: 1.0em;
+  padding: 0.4em; 
+  border-radius: 0.2em; 
+  background: #cccccc;"
+}
+</style>
+<p><img src="img/play.png" class="my-img" alt="Bildschirmfoto von Wiedergabemodul" style="width: 400px;"></p>
 
 **Segmentweise Wiedergabe:**
 Ein markiertes Textsegment kann durch Klick auf die linke Wiedergabe-Schaltfläche im Wiedergabemodul oder durch Drücken der Leertaste abgespielt werden. Anschließend wird das nächste Segment markiert, oder, wenn das Ende des Sutta erreicht ist, ein Gongton abgespielt.
@@ -20,3 +28,5 @@ Wenn Ihr Browser die Audiofunktion nicht unterstützt, versuchen Sie es mit Chro
 
 **Auswahl des abzuspielenden Textes:**
 In den Einstellungen unter „Audio“ können Sie unabhängig davon, welcher Text auf dem Bildschirm dargestellt ist, wählen, was Sie  hören wollen. Es ist zum Beispiel möglich, Pali und Übersetzung zu lesen, aber nur eins davon zu hören.
+
+Vergleichstexte können nicht angehört werden.
