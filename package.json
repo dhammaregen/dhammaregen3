@@ -1,6 +1,6 @@
 {
   "name": "ebt-site3",
-  "version": "1.57.0",
+  "version": "1.58.0",
   "description": "Site template for EBT-Vue3 applications",
   "main": "src/index.mjs",
   "private": false,
