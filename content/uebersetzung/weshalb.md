@@ -21,7 +21,7 @@ Meine eigene Arbeit sehe ich jedenfalls nicht als etwas an, das ein für allemal
 
 Nun möchte ich hier ein paar Punkte benennen, die neue Übersetzungen aus meiner Sicht wünschenswert erscheinen lassen:
 
-- Es gibt bisher keine einheitliche Übersetzung des Palikanons auf Deutsch. Qualität und sprachliche Ausgestaltung der bestehenden Übersetzungen unterscheiden sich stark. Nicht einmal für jeden der vier Hauptnikāyas gibt es eine einheitliche Übersetzung: Die vorhandene Übersetzung des Saṁyutta Nikāya stammt von drei verschiedenen Übersetzern.
+- Es gibt bisher keine einheitliche Übersetzung des Palikanons auf Deutsch. Qualität und sprachliche Ausgestaltung der bestehenden Übersetzungen unterscheiden sich stark. Nicht einmal für jeden der vier Hauptnikāyas gibt es eine einheitliche Übersetzung: Die vorhandene Übersetzung des Saṁyutta-Nikāya stammt von drei verschiedenen Übersetzern.
 - Viele der bestehenden Übersetzungen sind für heutige Leser schwer lesbar. Einige sind vor 100 – 150 Jahren entstanden und verwenden eine Sprache, die altmodisch klingt und teilweise schwer verständlich ist. Vieles wurde auch von Sprachwissenschaftlern für andere Sprachwissenschaftler geschrieben und war gar nicht unbedingt für ein breiteres Publikum gedacht. Und selbst bei den Übersetzern, die für die Menschen von nebenan schreiben wollten, findet man häufig Kunstworte, unter denen man sich ohne vorheriges intensives Studium der buddhistischen Philosophie und vielleicht auch des Pali wenig vorstellen kann. Was soll jemand, der erstmals zu den Suttas kommt, zum Beispiel unter einem „Genügensreiz“ (Hellmuth Hecker für *nandīrāga*) oder einer „programmierten Wohlerfahrungssuche“ (Paul Debes für *viññāṇa*) verstehen?
 - Ein weiterer Punkt ist, dass in der Sprache des Palikanons das männliche Geschlecht stark dominiert und so häufig der Eindruck entsteht, die meisten Suttas seien auschließlich an (männliche) Mönche adressiert gewesen, was aber nicht notwendigerweise der Fall ist.
 
@@ -30,12 +30,20 @@ Nun möchte ich hier ein paar Punkte benennen, die neue Übersetzungen aus meine
 
 Das größte Problem, das ich bei meinem Nachdenken über eine Übersetzung der Suttas sah, ist die Tatsache, dass meine Palikenntnisse begrenzt sind. Eine unabhängige eigene Übersetzung eines Palitextes wäre eine Herausforderung, der ich mich nicht gewachsen fühle. Aus diesem Grund habe ich beschlossen, mich auf Bhante Sujatos englische Übersetzungen zu stützen. Dabei kommt mir zugute, dass das Entwicklerteam von SuttaCentral die Software [Bilara](https://bilara.suttacentral.net/) zur computergestützten Übersetzung entwickelt, die ein dreisprachiges Arbeiten ermöglicht. Segmentweise wird der Text auf Pali und Englisch nebeneinander angezeigt und kann in eine dritte Sprache übersetzt werden. Für ein zu übersetzendes Segment werden Beispiele angezeigt, wie diese oder eine ähnliche Passage an anderer Stelle bereits übersetzt wurde.
 
-<img src="img/bilara.png" alt="Bildschirmfoto der Bilara-Webseite" style="height: 400px;">
+<style>
+.my-img {
+  margin: 1.0em;
+  padding: 0.4em; 
+  border-radius: 0.2em; 
+  background: #cccccc;"
+}
+</style>
+<img src="img/bilara.png" alt="Bildschirmfoto der Bilara-Webseite" style="height: 400px;" class="my-img">
 
 Das ermöglicht eine sehr einheitliche Übersetzung, auch ohne vollständige Kenntnis des Pali, da immer die englische Übersetzung mitgelesen werden kann.
 
 <div style="text-align: center;">* * *</div>
 
-Alle Suttas finden sich auf *Dhammaregen* sowie auf [SuttaCentral](https://suttacentral.net/?lang=de) und [Voice.suttacentral.net](https://voice.suttacentral.net), wahlweise mit oder ohne den zugehörigen Palitext.
+Alle Suttas finden sich auf *Dhammaregen* sowie auf [SuttaCentral](https://suttacentral.net/?lang=de), wahlweise mit oder ohne den zugehörigen Palitext.
 
 Rückmeldungen zu den Übersetzungen sind äußerst willkommen. Sie können eine Email an [dhammaregen@gmail.com](mailto:dhammaregen@gmail.com) senden oder sich auf dem SuttaCentral-Diskussionsforum [Discourse.SuttaCentral](https://discourse.suttacentral.net) an mich wenden.
