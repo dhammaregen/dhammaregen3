@@ -19,19 +19,27 @@
 <li>Wiki-Karten: zeigen Webseiten-Dokumentation usw.</li>
 <li>Suchkarten: zeigen Suchbegriffe und zugehörige Ergebnisse</li>
 <li>Suttakarten: zeigen einzelne Suttas</li>
-<li>Graphenkarten: zeigen graphische Darstellungen, wie ein Sutta über gemeinsame Themen mit anderen Suttas verbunden ist</li>
+<li>Graphenkarten: zeigen graphische Darstellungen, wie ein Sutta über Schlüsselbegriffe mit anderen Suttas verbunden ist</li>
 </ul>
 <p>Ein Tabulator-Menü links oben ermöglicht, zwischen den geöffneten Karten hin- und herzuspringen. Auf großen Bildschirmen können zwei Karten nebeneinander angesehen werden.</p>
-<p><img src="img/tabs.png" class="ebt-image" alt="Bildschirmfoto von Suchfeld mit Wort Wasser und Suchbegriffen" style="width: 400px;"></p>
+<style>
+.my-img {
+  margin: 1.0em;
+  padding: 0.4em; 
+  border-radius: 0.2em; 
+  background: #cccccc;"
+}
+</style>
+<p><img src="img/tabs.png" class="ebt-image" alt="Bildschirmfoto von Suchfeld mit Wort Wasser und Suchbegriffen" style="width: 400px;" class="my-img"></p>
 <p>An dem farbigen Unterstrich im Tabulator-Menü erkennen Sie, welches Element im Fokus ist.</p>
 <p>Wenn eine Suttakarte im Fokus ist, erscheint am unteren Bildschirmrand das Wiedergabemodul.</p>
-<p><img src="img/play.png" class="ebt-image" alt="Bildschirmfoto von Wiedergabemodul" style="width: 400px;"></p>
+<p><img src="img/play.png" class="ebt-image" alt="Bildschirmfoto von Wiedergabemodul" style="width: 400px;" class="my-img"></p>
 <p>Die Schaltflächen dort sind von links nach rechts:</p>
 <ul>
 <li>ein Segment zurück</li>
 <li>Wiedergabe des markierten Segments; Wiedergabe pausieren</li>
 <li>zum markierten Segment springen</li>
-<li>fortlaufende Wiedergabe ab dem markierten Segment; Wiedergabe pausieren</li>
+<li>fortlaufende Wiedergabe ab dem markierten Segment</li>
 <li>ein Segment vorwärts</li>
 </ul>
 <p>Das markierte Segment ist farblich und durch eine gestrichelte Umrandung markiert, und seine Kennziffer findet sich in der Mitte des Wiedergabemoduls.</p>
@@ -43,25 +51,30 @@
 <thead>
 <tr>
 <th style="text-align:left">Taste</th>
+<th style="text-align:left">Mac</th>
 <th style="text-align:left">Funktion</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td style="text-align:left">POS 1</td>
+<td style="text-align:left">POS1</td>
+<td style="text-align:left">⌘ + PFEIL NACH OBEN</td>
 <td style="text-align:left">ganz nach oben</td>
 </tr>
 <tr>
+<td style="text-align:left">STRG + POS1</td>
+<td style="text-align:left">⌘ + PFEIL NACH LINKS</td>
+<td style="text-align:left">zur Startseitenkarte</td>
+</tr>
+<tr>
+<td style="text-align:left">TABULATOR</td>
 <td style="text-align:left">TABULATOR</td>
 <td style="text-align:left">nächstes Element der Benutzeroberfläche auswählen</td>
 </tr>
 <tr>
 <td style="text-align:left">UMSCHALTEN + TABULATOR</td>
+<td style="text-align:left">UMSCHALTEN + TABULATOR</td>
 <td style="text-align:left">vorheriges Element der Benutzeroberfläche auswählen</td>
-</tr>
-<tr>
-<td style="text-align:left">STRG + POS 1</td>
-<td style="text-align:left">zur Startseitenkarte</td>
 </tr>
 </tbody>
 </table>
@@ -70,15 +83,18 @@
 <thead>
 <tr>
 <th style="text-align:left">Taste</th>
+<th style="text-align:left">Mac</th>
 <th style="text-align:left">Funktion</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td style="text-align:left">PFEIL NACH LINKS</td>
+<td style="text-align:left">PFEIL NACH LINKS</td>
 <td style="text-align:left">vorherigen Tab auswählen</td>
 </tr>
 <tr>
+<td style="text-align:left">PFEIL NACH RECHTS</td>
 <td style="text-align:left">PFEIL NACH RECHTS</td>
 <td style="text-align:left">nächsten Tab auswählen</td>
 </tr>
@@ -89,42 +105,72 @@
 <thead>
 <tr>
 <th style="text-align:left">Taste</th>
+<th style="text-align:left">Mac</th>
 <th style="text-align:left">Funktion</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td style="text-align:left">PFEIL NACH OBEN</td>
+<td style="text-align:left">PFEIL NACH OBEN</td>
 <td style="text-align:left">vorheriges Segment auswählen</td>
 </tr>
 <tr>
+<td style="text-align:left">PFEIL NACH UNTEN</td>
 <td style="text-align:left">PFEIL NACH UNTEN</td>
 <td style="text-align:left">nächstes Segment auswählen</td>
 </tr>
 <tr>
 <td style="text-align:left">STRG + PFEIL NACH OBEN</td>
+<td style="text-align:left">⌘ + PFEIL NACH OBEN</td>
 <td style="text-align:left">zum Suttaanfang</td>
 </tr>
 <tr>
 <td style="text-align:left">STRG + PFEIL NACH UNTEN</td>
+<td style="text-align:left">⌘ + PFEIL NACH UNTEN</td>
 <td style="text-align:left">zum Suttaende</td>
 </tr>
 <tr>
+<td style="text-align:left">UMSCHALTEN + PFEIL NACH OBEN</td>
 <td style="text-align:left">UMSCHALTEN + PFEIL NACH OBEN</td>
 <td style="text-align:left">zur vorherigen übergeordneten Kennziffer</td>
 </tr>
 <tr>
 <td style="text-align:left">UMSCHALTEN + PFEIL NACH UNTEN</td>
+<td style="text-align:left">UMSCHALTEN + PFEIL NACH UNTEN</td>
 <td style="text-align:left">zur nächsten übergeordneten Kennziffer</td>
 </tr>
 <tr>
+<td style="text-align:left">LEERTASTE</td>
 <td style="text-align:left">LEERTASTE</td>
 <td style="text-align:left">Wiedergabe des markierten Segments; Wiedergabe pausieren</td>
 </tr>
 <tr>
 <td style="text-align:left">ENTER</td>
-<td style="text-align:left">fortlaufende Wiedergabe ab dem markierten Segment; Wiedergabe pausieren</td>
+<td style="text-align:left">ENTER</td>
+<td style="text-align:left">fortlaufende Wiedergabe ab dem markierten Segment</td>
+</tr>
+<tr>
+<td style="text-align:left">Umschalten + Leertaste</td>
+<td style="text-align:left">Umschalten + Leertaste</td>
+<td style="text-align:left">fortlaufende Wiedergabe ab dem markierten Segment</td>
+</tr>
+<tr>
+<td style="text-align:left">META + Leertaste*</td>
+<td style="text-align:left"></td>
+<td style="text-align:left">fortlaufende Wiedergabe ab dem markierten Segment</td>
+</tr>
+<tr>
+<td style="text-align:left">ALT + Leertaste*</td>
+<td style="text-align:left"></td>
+<td style="text-align:left">fortlaufende Wiedergabe ab dem markierten Segment</td>
+</tr>
+<tr>
+<td style="text-align:left">STRG + Leertaste*</td>
+<td style="text-align:left"></td>
+<td style="text-align:left">fortlaufende Wiedergabe ab dem markierten Segment</td>
 </tr>
 </tbody>
 </table>
+<p>* abhängig vom Betriebssystem</p>
 </article>
