@@ -14,7 +14,15 @@ So gelangen Sie zu dem Text, den Sie studieren möchten:
 
 Wenn Sie nicht wissen, wo Sie anfangen sollen, klicken Sie auf die Schaltfläche `SUCH MIR ETWAS AUS!`. Das führt zu einer Zufallsauswahl aus einer Sammlung von Beispiel-Suchbegriffen, die zusammen mit dem zugehörigen Ergebnis angezeigt wird:
 
-<p><img src="img/result.png" class="ebt-image" alt="Bildschirmfoto von Suchergebnis" style="width: 600px;"></p>
+<style>
+.my-img {
+  margin: 1.0em;
+  padding: 0.4em; 
+  border-radius: 0.2em; 
+  background: #cccccc;"
+}
+</style>
+<p><img src="img/result.png" class="my-img" alt="Bildschirmfoto von Suchergebnis" style="width: 600px;"></p>
 
 Sie sehen unter dem Titel des Sutta in den meisten Fällen eine kurze Zusammenfassung des Inhalts, darunter das erste Segment im Text, das den Suchbegriff enthält. Klicken sie auf den Titel, um zum Anfang des Sutta zu gelangen, und auf den Segmentlink, um direkt zu dieser Stelle zu gelangen.
 
@@ -22,7 +30,7 @@ Sie sehen unter dem Titel des Sutta in den meisten Fällen eine kurze Zusammenfa
 
 Wenn Sie nach einem bestimmten Thema suchen, fangen Sie an, ein Wort, an das Sie sich aus dem Zusammenhang erinnern, in das Suchfeld zu tippen. Zum Beispiel kann es sein, dass Sie eins der Gleichnisse finden wollen, in denen Wasser vorkommt. Tippen Sie „Wasser“ und wählen Sie aus den Suchbegriffen aus, die erscheinen.
 
-<p><img src="img/searchfield.png" class="ebt-image" alt="Bildschirmfoto von Suchfeld mit Wort Wasser und Suchbegriffen" style="height: 300px;"></p>
+<p><img src="img/searchfield.png" class="my-img" alt="Bildschirmfoto von Suchfeld mit Wort Wasser und Suchbegriffen" style="height: 300px;"></p>
 
 Sie können auch einen freien Suchtext in die Suchkarte eingeben oder Suttas nach Kennziffer suchen, zum Beispiel `AN 10.61` oder `an10.61`.
 
@@ -34,7 +42,7 @@ Links zum vorherigen und zum nächsten Sutta nach der Ordnung des Kanons sowie e
 
 Sie können in *Dhammaregen* mehrere Suttakaren und auch mehrere Suchkarten gleichzeitig geöffnet haben und über das Tabulatormenü links oben zwischen ihnen hin- und herspringen.
 
-<p><img src="img/tabs.png" class="ebt-image" alt="Bildschirmfoto von Suchfeld mit Wort Wasser und Suchbegriffen" style="width: 400px;"></p>
+<p><img src="img/tabs.png" class="my-img" alt="Bildschirmfoto von Suchfeld mit Wort Wasser und Suchbegriffen" style="width: 400px;"></p>
 
 ### 5. Übersetzungen vergleichen
 
