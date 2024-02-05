@@ -193,7 +193,7 @@ Hier der Text:
 
 ### Dhamma im Zoo
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/PlZ3IWS8Zz0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" style="margin: 1.0em;" src="https://www.youtube-nocookie.com/embed/PlZ3IWS8Zz0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 (Vortrag in englischer Sprache; deutsche Untertitel können auf YouTune aktiviert werden)
 
