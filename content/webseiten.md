@@ -11,14 +11,14 @@ order: 999
 
 Hier finden Sie Webseiten mit den frühen buddhistischen Texten von [SuttaCentral](https://suttacentral.net/?lang=de).
 
-1. [SuttaCentral](https://suttacentral.net/)  
+1. [SuttaCentral](https://suttacentral.net/?lang=de)  
    *Frühe buddhistische Texte, Übersetzungen und Parallelen*
 
    SuttaCentral ist die Quelle für alle frühen buddhistischen Texte (FBT), die auf dieser Webseite gezeigt werden. Es ist eine internationale Webseite mit FBT in ihren Originalsprachen und zahlreichen Übersetzungen sowie vielen Parallelen in frühen Texten.
 
    **Über das Menü in der rechten oberen Ecke können Sie die Sprache der Webseite auf „Deutsch“ einstellen, um die deutsche Benutzeroberfläche zu sehen.**
 
-   Wenn Sie möchten, [unterstützen Sie SuttaCentral](https://suttacentral.net/donations) in seinen Bemühungen, die Worte des Buddha zu allen Menschen überall in der Welt zu bringen.
+   Wenn Sie möchten, [unterstützen Sie SuttaCentral](https://suttacentral.net/donations/?lang=de) in seinen Bemühungen, die Worte des Buddha zu allen Menschen überall in der Welt zu bringen.
 
 1. [SC-Voice](https://sc-voice.net/)  
    *Frühe buddhistische Texte (FBT) und Übersetzungen hören*
@@ -30,9 +30,10 @@ Hier finden Sie Webseiten mit den frühen buddhistischen Texten von [SuttaCentra
 
    EBT-Vue3 ist das Front-End-Entwicklungsgerüst, das von folgenden Webseiten genutzt wird:
 
-   * [voice.suttacentral.net](https://voice.suttacentral.net)
-   * [sc-voice.net](https://sc-voice.net)
-   * [Dhammaregen](https://dhammaregen.net)
+   - [voice.suttacentral.net](https://voice.suttacentral.net)
+   - [sc-voice.net](https://sc-voice.net)
+   - [Dhammaregen](https://dhammaregen.net)
+   - Weitere Seiten werden in Zukunft dazukommen.
 
 1. [EBT-Site](https://ebt-site.sc-voice.net)  
    *Eine eigene Webseite mit frühen buddhistischen Texten erstellen*
