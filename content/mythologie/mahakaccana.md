@@ -14,11 +14,19 @@ Angesichts der Tatsache, dass in den Lehrreden, in denen er vorkommt, nicht erw�
 
 Historisch ist das aus verschiedenen Gründen interessant. Es markiert eine frühe Ausbreitung des Buddhismus über seine ursprüngliche Heimat hinaus. Avanti selbst ist in zweierlei Hinsicht wichtig: Es ist das Tor zu den Häfen an der Westküste und somit zu den Handelsrouten nach Westen, die wenige Zeit später von Alexander begründet wurden.
 
-<a title="Karte Indiens auf digitaloceanspaces" href="https://scdd.sfo2.cdn.digitaloceanspaces.com/uploads/original/2X/0/09f3d29c53d65cc53e8e9af8bd5ec66c7568c8e8.jpg"><img height="400" alt="Karte von Indien bis zum Mittelmeer mit wichtigen Handelswegen" src="https://scdd.sfo2.cdn.digitaloceanspaces.com/uploads/original/2X/0/09f3d29c53d65cc53e8e9af8bd5ec66c7568c8e8.jpg"></a>
+<style>
+.my-img {
+  margin: 1.0em;
+  padding: 0.4em; 
+  border-radius: 0.2em; 
+  background: #cccccc;"
+}
+</style>
+<a title="Karte Indiens auf digitaloceanspaces" href="https://scdd.sfo2.cdn.digitaloceanspaces.com/uploads/original/2X/0/09f3d29c53d65cc53e8e9af8bd5ec66c7568c8e8.jpg"><img height="400" alt="Karte von Indien bis zum Mittelmeer mit wichtigen Handelswegen" src="https://scdd.sfo2.cdn.digitaloceanspaces.com/uploads/original/2X/0/09f3d29c53d65cc53e8e9af8bd5ec66c7568c8e8.jpg" class="my-img"></a>
 
 Außerdem ist es wahrscheinlich, dass der Zweig des Buddhismus, den wir als Theravada kennen, seinen Weg nach Sri Lanka über Avanti nahm; tatsächlich heißt es, Mahinda habe hier gelebt.
 
-<a title="Karte mit Wanderungsbewegungen auf diditaloceanspaces" href="https://scdd.sfo2.cdn.digitaloceanspaces.com/uploads/original/2X/a/a438ef891dadef14ddcbba8c8b9ad515a38a1bc1.png"><img height="400" alt="Karte mit Wanderungsbewegungen der Ausbreitung des Buddhismus" src="https://scdd.sfo2.cdn.digitaloceanspaces.com/uploads/original/2X/a/a438ef891dadef14ddcbba8c8b9ad515a38a1bc1.png"></a>
+<a title="Karte mit Wanderungsbewegungen auf diditaloceanspaces" href="https://scdd.sfo2.cdn.digitaloceanspaces.com/uploads/original/2X/a/a438ef891dadef14ddcbba8c8b9ad515a38a1bc1.png"><img height="400" alt="Karte mit Wanderungsbewegungen der Ausbreitung des Buddhismus" src="https://scdd.sfo2.cdn.digitaloceanspaces.com/uploads/original/2X/a/a438ef891dadef14ddcbba8c8b9ad515a38a1bc1.png" class="my-img"></a>
 
 In [SN 35.132](#/sutta/sn35.132/de/sabbamitta) haben wir ein interessantes Sutta, in dem Mahākaccāna von einer Gruppe rüpelhafter Brahmanenschüler in seiner Meditation gestört wird. Sie lassen ihre Beschimpfungen ab:
 

@@ -18,7 +18,15 @@ Keiner der Gelehrten gibt irgendeine Begründung aus dem Textzusammenhang, wesha
 
 Norman zitiert einen Jaina-Text, das [*Isibhasiyam*](http://gretil.sub.uni-goettingen.de/gretil/2_prakrt/isibhasu.htm), welcher die ähnliche Wendung *jiṇa-sattamā* hat, und sagt, es gebe keinen Grund, eine andere Bedeutung anzunehmen als „bester“. Ganz richtig; aber es gibt auch keinen Grund, eine andere Bedeutung anzunehmen als „siebter“. Wie dem auch sei, da es eine andere Wendung in einem anderen Dialekt aus einem viel späteren Text ist, ist es kaum ausschlaggebend.
 
-<a href="https://scdd.sfo2.cdn.digitaloceanspaces.com/uploads/original/2X/6/6c8b4bdd122493829132d035f3c972dde1a3c27c.jpg"><img height="400" alt="Sternbild des Großen Bären" src="https://scdd.sfo2.cdn.digitaloceanspaces.com/uploads/original/2X/6/6c8b4bdd122493829132d035f3c972dde1a3c27c.jpg"></a>
+<style>
+.my-img {
+  margin: 1.0em;
+  padding: 0.4em; 
+  border-radius: 0.2em; 
+  background: #cccccc;"
+}
+</style>
+<a href="https://scdd.sfo2.cdn.digitaloceanspaces.com/uploads/original/2X/6/6c8b4bdd122493829132d035f3c972dde1a3c27c.jpg"><img height="400" alt="Sternbild des Großen Bären" src="https://scdd.sfo2.cdn.digitaloceanspaces.com/uploads/original/2X/6/6c8b4bdd122493829132d035f3c972dde1a3c27c.jpg" class="my-img"></a>
 
 Keins dieser Argumente geht auf das Problem ein, dass der angenommene Superlativ von *sant* in keinem anderen Zusammenhang zu finden ist. Da *sant* eine sehr verbreitete Wurzel ist, ist es nicht zu weit hergeholt, anzunehmen, dass eine solche Superlativform in einer Reihe von Situationen belegt wäre. Abgesehen von dem Jaina-Text finden wir *sattama* aber nur zusammen mit *isi*.
 

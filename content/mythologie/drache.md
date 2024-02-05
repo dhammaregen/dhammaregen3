@@ -42,7 +42,15 @@ Bei genauerem Hinsehen zeigt sich aber, dass diese Übersetzung und die Schlussf
 
 Zwischen menschlicher Form und Tierform zu wechseln, ist eine der zentralen mythischen Eigenschaften des Drachen in Indien.
 
-<a href="https://scdd.sfo2.cdn.digitaloceanspaces.com/uploads/original/2X/4/4c6c147aed9dee451729fed9389e854cff97a21a.jpg" target="_blank"><img height="400" alt="steinerne Stelen mit Schlangen- und Menschenbildern" src="https://scdd.sfo2.cdn.digitaloceanspaces.com/uploads/original/2X/4/4c6c147aed9dee451729fed9389e854cff97a21a.jpg"></a>
+<style>
+.my-img {
+  margin: 1.0em;
+  padding: 0.4em; 
+  border-radius: 0.2em; 
+  background: #cccccc;"
+}
+</style>
+<a href="https://scdd.sfo2.cdn.digitaloceanspaces.com/uploads/original/2X/4/4c6c147aed9dee451729fed9389e854cff97a21a.jpg" target="_blank"><img height="400" alt="steinerne Stelen mit Schlangen- und Menschenbildern" src="https://scdd.sfo2.cdn.digitaloceanspaces.com/uploads/original/2X/4/4c6c147aed9dee451729fed9389e854cff97a21a.jpg" class="my-img"></a>
 
 Später verwandelte der Drache in der Vinayageschichte sich allerdings im Schlaf in seine Schlangenform zurück und wurde so entdeckt. Der Buddha fühlte zwar Teilnahme für ihn, sagte aber, er könne als Mönch nicht gedeihen und könne daher nicht im Saṅgha bleiben. Der Buddha legte die Regel fest, dass man ein Mensch sein muss, um ordiniert zu werden. Er ermunterte den Drachen, sich am Uposatha die Ethikregeln vorzunehmen, das würde ihn rasch zu einer menschlichen Geburt zurückbringen.
 

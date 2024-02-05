@@ -28,7 +28,15 @@ Bevor Metteyya erwähnt wird, erscheint ein König mit Namen Saṅkha. Als ein R
 
 Aber das ist nicht das, was es bedeutet: Es bedeutet „Opferpfahl“. Es war ein verzierter Pfahl, zu dem die Objekte des Opfers hingeführt und wo sie festgebunden wurden. Ich habe das [in einem früheren Beitrag](#/wiki/mythologie/bhaddaji)  diskutiert, und hier ist ein Bild eines *yūpa*:
 
-<a title="Gupta-Reich, Samudragupta I (ca.330-70), Dinar Vorder- und Rückseite, 7.70 g, Art des Ashvamedha-Pferdeopfers, Pferd steht rechts vor Yupa (Opferpfahl) mit angehängten Bändern, Buchstabe si darunter, rajadhirajah prithivim [avijityva divam jayaty-ahritavajimedhah] umlaufend, Rückseite: die Haptkönigin (mahasi) steht links und hält Fliegenwedel über der Schulter; asvamedha parakramah rechts" href="https://www.the-saleroom.com/en-gb/auction-catalogues/spink/catalogue-id-2910271/lot-22654512" target="_blank"><img height="200" alt="Vorder- und Rückseite einer Münze" src="https://scdd.sfo2.cdn.digitaloceanspaces.com/uploads/original/2X/3/336dbe86c5a4031f92be75f5fc5191a885e52565.jpg"></a>
+<style>
+.my-img {
+  margin: 1.0em;
+  padding: 0.4em; 
+  border-radius: 0.2em; 
+  background: #cccccc;"
+}
+</style>
+<a title="Gupta-Reich, Samudragupta I (ca.330-70), Dinar Vorder- und Rückseite, 7.70 g, Art des Ashvamedha-Pferdeopfers, Pferd steht rechts vor Yupa (Opferpfahl) mit angehängten Bändern, Buchstabe si darunter, rajadhirajah prithivim [avijityva divam jayaty-ahritavajimedhah] umlaufend, Rückseite: die Haptkönigin (mahasi) steht links und hält Fliegenwedel über der Schulter; asvamedha parakramah rechts" href="https://www.the-saleroom.com/en-gb/auction-catalogues/spink/catalogue-id-2910271/lot-22654512" target="_blank"><img height="200" alt="Vorder- und Rückseite einer Münze" src="https://scdd.sfo2.cdn.digitaloceanspaces.com/uploads/original/2X/3/336dbe86c5a4031f92be75f5fc5191a885e52565.jpg" class="my-img"></a>
 
 Man beachte die Anwesenheit des Pferdes. Das ist in der Tat eine Darstellung des Pferdeopfers, und Sie werden auf der Rückseite dieser Münze das Bild der Königin erkennen in ihrer Rolle als Mutter des Reiches. Während des Rituals hat sie Geschlechtsverkehr, tatsächlichen oder simulierten, mit dem toten Pferd. Das ist nicht der bizarre Teil. Der bizarre Teil ist, dass das in aller Öffentlichkeit geschieht und sie dabei einen ritualisierten obszönen Wortwechsel mit den Opferpriestern unterhält, der den Akt in allen Einzelheiten beschreibt.
 

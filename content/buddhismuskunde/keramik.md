@@ -10,7 +10,15 @@ order: 4
 
 Das Studium des frühen Buddhismus ist durch die Spärlichkeit archäologischer Hinterlassenschaften aus der Zeit erschwert. Das ist zum Teil durch die Art der Kultur in dieser Zeit bedingt, in der Gebäude vorwiegend aus Holz und monumentale Bauwerke und Steinbauweise noch nicht verbreitet waren; aber es liegt auch am allgemein niedrigen Stand der Archäologie in Indien. Dennoch haben wir einige Anhaltspunkte. Die Kultur dieser Zeit ist als Kultur der nördlichen schwarzen polierten Keramik bekannt ([Northern Black Polished Ware](https://en.wikipedia.org/wiki/Northern_Black_Polished_Ware), NBPW), benannt nach den charakteristischen glänzenden glasierten Töpferwaren. Die zeitliche und geografische Verbreitung dieser Kultur kommt dem in den FBT dargestellten Kulturkreis sehr nahe, und es gibt keinen Zweifel, dass die Kultur, die in den Suttas beschrieben wird, tatsächlich die Kultur der nördlichen schwarzen polierten Keramik ist.
 
-<a href="https://scdd.sfo2.cdn.digitaloceanspaces.com/uploads/original/2X/3/3f5b492c916af3aaefb8c0882bb2012b691e9899.jpg"><img height="400" alt="Mönchsjunge mit großer schwarz-glänzender Almosenschale" src="https://scdd.sfo2.cdn.digitaloceanspaces.com/uploads/original/2X/3/3f5b492c916af3aaefb8c0882bb2012b691e9899.jpg"></a>
+<style>
+.my-img {
+  margin: 1.0em;
+  padding: 0.4em; 
+  border-radius: 0.2em; 
+  background: #cccccc;"
+}
+</style>
+<a href="https://scdd.sfo2.cdn.digitaloceanspaces.com/uploads/original/2X/3/3f5b492c916af3aaefb8c0882bb2012b691e9899.jpg"><img height="400" alt="Mönchsjunge mit großer schwarz-glänzender Almosenschale" src="https://scdd.sfo2.cdn.digitaloceanspaces.com/uploads/original/2X/3/3f5b492c916af3aaefb8c0882bb2012b691e9899.jpg" class="my-img"></a>
 
 Vor diesem Hintergrund erscheint es merkwürdig, dass es nicht leicht ist, in den FBT eine direkte Beschreibung dieser Töpferwaren zu finden. Die Archäoligie ist allerdings eine komplizierte Wissenschaft, und was überlebt hat, ist nur ein Bruchteil dessen, was in der Kultur vorhanden war; was für die Menschen damals von Bedeutung war, kann etwas ganz anderes sein als das, was die Archäologen gefunden haben. Am Ende wird eines der dauerhaftesten Kulturartefakte unserer Zeit aller Wahrscheinlichkeit nach eine Ausgabe der Gesammelten Werke [L. Ron Hubbards](https://de.wikipedia.org/wiki/L._Ron_Hubbard) sein, auf Edelstahltafeln in Titankapseln aufbewahrt, in Gewölben in der Wüste New Mexicos vergraben und [zum Auffinden durch außerirdische Besucher markiert](https://www.wikiwand.com/en/Trementina_Base). Der Gedanke ist beunruhigend, aber Sie müssen zugeben, dass es eine Gaudi wäre, den außerirdischen Archäologen der Zukunft dabei zuzuschauen, wie sie versuchen, aus diesem Fund unsere Gesellschaft zu rekonstruieren!
 
@@ -28,7 +36,7 @@ Offensichtlich putzt sich Nanda in dieser Passage auf eine Weise heraus, die fü
 
 Und es zeigt sich, dass das genau der Ansicht der Archäologen über NBPW entspricht. Es gibt einen ausgezeichneten jüngeren Artikel zu dem Thema: „Mikroskopische Analyse der Oberflächenbeschichtungstechnik von nördlicher schwarzer polierter Keramik“ ([Surface Coating Technique of Northern Black Polished Ware by the Microscopic Analysis](http://www.ancient-asia-journal.com/articles/10.5334/aa.12305/)) von Dilruba Sharmin und Fumio Okada. Die Forscher analysierten eine Anzahl von Proben und fanden, dass der Glanz durch Aufbringen von zwei Schichten auf die Keramik erzeugt wurde.  Eine Grundierungsschicht ist aus feinem Ton und wird gebrannt, und darauf wird abschließend eine Schicht aus organischem Material aufgebracht – Harz oder etwas Ähnliches –, um die fertige Politur zu erzeugen. Die Glasur ist so stabil, dass sie bis heute hält – falls sie nicht von wohlmeinenden Ausgräbern abgewaschen wird!
 
-<a title="Nördliche schwarze polierte Keramik, aus: Ancient Asia, Surface Coating Technique" href="http://www.ancient-asia-journal.com/articles/10.5334/aa.12305/" target="_blank"><img height="400" alt="Fundstücke nördlicher schwarzer polierter Keramik" src="https://scdd.sfo2.cdn.digitaloceanspaces.com/uploads/original/2X/a/ae8cb8ce24dd195ef96dceaf119e63bb0c9f6854.jpg"></a>
+<a title="Nördliche schwarze polierte Keramik, aus: Ancient Asia, Surface Coating Technique" href="http://www.ancient-asia-journal.com/articles/10.5334/aa.12305/" target="_blank"><img height="400" alt="Fundstücke nördlicher schwarzer polierter Keramik" src="https://scdd.sfo2.cdn.digitaloceanspaces.com/uploads/original/2X/a/ae8cb8ce24dd195ef96dceaf119e63bb0c9f6854.jpg" class="my-img"></a>
 
 Diese Prozedur ist schwierig und zeitaufwendig und muss von spezialisierten Fachleuten entwickelt worden sein. Daher muss NBPW, obwohl es uns dank seiner Haltbarkeit zugänglich ist, seinerzeit kein gewöhnliches Material gewesen sein. Sharmin und Okada sagen:
 
