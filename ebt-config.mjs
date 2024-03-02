@@ -6,7 +6,7 @@ const EbtConfig = {
   "monolingual": "de",
   "privacyLink": "#/wiki/impressum",
   "footnotes": "Anmerkungen",
-  "searchDropdown": 1000,
+  "searchDropdown": 100,
   "content": {
     "index": "inhalt",
   },
