@@ -7,6 +7,7 @@ const EbtConfig = {
   "privacyLink": "#/wiki/impressum",
   "footnotes": "Anmerkungen",
   "searchDropdown": 100,
+  "maxPlayMinutes": 30,
   "content": {
     "index": "inhalt",
   },
