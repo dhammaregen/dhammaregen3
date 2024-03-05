@@ -8,6 +8,10 @@ order: -9999
 
 Hier finden Sie eine kurze Themenübersicht der bisher erschienenen Newsletter. Klicken sie auf die Überschrift, um zu einem Newsletter zu gelangen.
 
+### [März 2024](#/wiki/news/2024-03)
+- Vom Feueranbeter zum Vollendeten (Khandhaka 1#12, SN 35.28, AN 1.224, Thag 6.1)
+- Über den Besinnungstag unter früheren Buddhas (Dhp183-185 + Kommentar, DN 14)
+
 ### [Februar 2024](#/wiki/news/2024-02)
 - Aus Vertrauen (MN 82, AN 1.210, Thag 16.4)
 - Ist Glück berechenbar? (MN 60, Essay „Wie man beim Glücksspiel unfehlbar gewinnt“)
