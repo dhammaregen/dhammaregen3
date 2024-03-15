@@ -26,7 +26,9 @@ Klick auf die rechte Wiedergabe-Schaltfläche im Wiedergabemodul oder Drücken d
 
 Wenn Ihr Browser die Audiofunktion nicht unterstützt, versuchen Sie es mit Chrome oder Firefox.
 
-**Auswahl des abzuspielenden Textes:**
-In den Einstellungen unter „Audio“ können Sie unabhängig davon, welcher Text auf dem Bildschirm dargestellt ist, wählen, was Sie  hören wollen. Es ist zum Beispiel möglich, Pali und Übersetzung zu lesen, aber nur eins davon zu hören.
+**Textauswahl und Wiedergabeoptionen:**
+In den Einstellungen unter „Wiedergabe“ können Sie unabhängig davon, welcher Text auf dem Bildschirm dargestellt ist, wählen, was Sie hören wollen. Es ist zum Beispiel möglich, Pali und Übersetzung zu lesen, aber nur eins davon zu hören.
 
 Vergleichstexte können nicht angehört werden.
+
+Sie können ein Sutta bis zum Ende anhören oder dasselbe Sutta wiederholt hören oder auch von Ihrer aktuellen Stelle bis zum Ende einer Sammlung, z. B. des AN-Einerbuchs, hören. Wählen Sie dabei Ihre Wiedergabezeit.
