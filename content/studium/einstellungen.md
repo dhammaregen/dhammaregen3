@@ -22,17 +22,15 @@ Hinter dem kleinen Zahnrädchen rechts oben verbergen sich verschiedene Einstell
 - Für bestimmte Funktionen, wie etwa das Springen zwischen übergeordneten Kennziffer-Abschnitten mittels der Tastatur, ist es nötig, die Segmentkennziffern („SuttaCentral-ID“) einzuschalten (Siehe [Navigieren auf Dhammaregen](#/wiki/studium/navigieren)).
 
 **Wiedergabe** 
-
-*Lesestimmen:* 
 - Wählen Sie für Deutsch zwischen drei Lesestimmen: Vicki, Hans oder Marlene.
 - Wählen Sie für Pali zwischen Aditis und Bhante Sujatos Stimme. Letztere steht nur für wenige Suttas zur Verfügung; wenn diese Stimme eingestellt ist, werden alle anderen Suttas mit Aditis Stimme abgespielt.
 - Für Vergleihstexte steht keine Lesestimme zur Verfügung.
 
-*Wiedergabeoptionen:*
-- Bis zum Ende des Sutta
-- Sutta wiederholt abspielen
-- bis zum Ende der Sammlung
-- Wählen Sie auch Ihre Wiedergabezeit
+- Wählen Sie aus verschiedenen Wiedergabeoptionen:
+  - Bis zum Ende des Sutta
+  - Sutta wiederholt abspielen
+  - bis zum Ende der Sammlung
+  - Wählen Sie auch Ihre Wiedergabezeit
 
 **Töne** 
 - Wählen Sie Ihren Gongton zur Anzeige des Sutta-Endes. 
