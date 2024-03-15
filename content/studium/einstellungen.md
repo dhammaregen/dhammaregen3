@@ -29,7 +29,7 @@ Hinter dem kleinen Zahnrädchen rechts oben verbergen sich verschiedene Einstell
 - Wählen Sie aus verschiedenen Wiedergabeoptionen:
   - Bis zum Ende des Sutta
   - Sutta wiederholt abspielen
-  - bis zum Ende der Sammlung
+  - Bis zum Ende der Sammlung
   - Wählen Sie auch Ihre Wiedergabezeit
 
 **Töne** 
