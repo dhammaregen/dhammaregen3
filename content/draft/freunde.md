@@ -12,13 +12,13 @@ Das ist eine kurze Notiz zu meinen laufenden Recherchen über den Zyklus von Tex
 
 Die Geschichte ist sehr bekannt und ich will sie hier nicht wiederholen. Lesen Sie selbst!
 
-Vor einigen Jahren, als ich diese Texte anfangs übersetzte, machte ich eine rasche Anmerkung für mich selbst, die besagte, dass die Erzählstruktur, besonders in MN 31 und zu einem geringeren Grad auch in MN 128, an Bṛhadāraṇyaka-Upaniṣad 4.3 erinnert. Gönnen Sie es sich:
+Vor einigen Jahren, als ich diese Texte erstmals übersetzte, machte ich eine rasche Anmerkung für mich selbst, die besagte, dass die Erzählstruktur, besonders in MN 31 und zu einem geringeren Grad auch in MN 128, an Bṛhadāraṇyaka-Upaniṣad 4.3 erinnert. Gönnen Sie es sich:
 
-[https://archive.org/details/sechzigupanishad00deusuoft/page/466/mode/2up?view=theater](https://archive.org/details/sechzigupanishad00deusuoft/page/466/mode/2up?view=theater) (englische Fassung [hier](https://www.wisdomlib.org/hinduism/book/the-brihadaranyaka-upanishad/d/doc120049.html))
+[Deutsche Übersetzung auf *archive.org*](https://archive.org/details/sechzigupanishad00deusuoft/page/466/mode/2up?view=theater) (englische Fassung [hier](https://www.wisdomlib.org/hinduism/book/the-brihadaranyaka-upanishad/d/doc120049.html))
 
-Man beachte, dass dies noch den längeren Kommentar von Śaṅkāra enthält (betrifft die englische Fassung; AdÜ); überspringen Sie den, wenn Sie nur den Text lesen. Doch wir werden darauf zurückkommen.
+Man beachte, dass dies (d. h. die englische Fassung; AdÜ) noch den längeren Kommentar von Śaṅkāra enthält; überspringen Sie den, wenn Sie nur den Text lesen. Doch wir werden darauf zurückkommen.
 
-In dieser recht reizenden Geschichte fragt der König Janaka Yājñavalkya: „Was ist das Licht eines Menschen?“ Yājñavalkya, der sich an diesem Tag anscheinend etwas emotional fühlt, versucht, eine direkte Antwort zu vermeiden, und antwortet so einfach, wie er nur kann; nur auf wiederholtes Nachfragen schreitet er zu tiefgründigeren Antworten fort.
+In dieser recht reizenden Geschichte fragt der König Janaka den Weisen Yājñavalkya: „Was ist das Licht eines Menschen?“ Yājñavalkya, der sich an diesem Tag anscheinend etwas emotional fühlt, versucht, eine direkte Antwort zu vermeiden, und antwortet so einfach, wie er nur kann; nur auf wiederholtes Nachfragen schreitet er zu tiefgründigeren Antworten fort.
 
 Das ist das Gleiche wie in MN 31, wo Anuruddha, als er zu seiner Meditation befragt wird, dem Buddha so einfach wie nur möglich antwortet und nur allmählich die wirkliche Tiefe seiner Praxis offenbart.
 
@@ -55,11 +55,11 @@ Daher scheint es keinen Zweifel zu geben, dass die eigentliche Bedeutung der Pal
 
 Wenn eingewendet wird, dass das keine buddhistische Ansicht ist, dann ist die Antwort: Warum sollte es? Der Ausdruck kommt nur einmal vor, gesprochen von einem anonymen Parkwärter – nicht einem Klosterhelfer, einfach dem Gärtner in einem öffentlichen Park –, der *den Buddha nicht erkennt*.
 
-Es gibt keinen Grund, zu denken, dass er Buddhist war, und allen Grund, zu denken, er gehörte der vedischen Religion an und beschreibt die Übenden in Begriffen, die er von seiner kontemplativen Tradition gelernt hat. Es kommt heute noch vor, dass buddhistische Mönche oder Nonnen von Hindus versorgt, unterstützt und geachtet werden, die nichtsdestotrotz in Begriffen ihrer eigenen Religion über sie denken. Tatsächlich muss ich mich beeilen und aufhören, zu schreiben, damit ich zum Pindapata zu meinen örtlichen Hindu-Restaurants gehen kann, wo sie mir jeden Tag zu essen geben! 🙏
+Es gibt keinen Grund, zu denken, dass er Buddhist war, und allen Grund, zu denken, er gehörte der vedischen Religion an und beschreibt die Übenden in Begriffen, die er von seiner kontemplativen Tradition gelernt hat. Es kommt heute noch vor, dass buddhistische Mönche oder Nonnen von Hindus versorgt, unterstützt und geachtet werden, die nichtsdestotrotz in Begriffen ihrer eigenen Religion über sie denken. Tatsächlich muss ich mich beeilen und mit dem Schreiben aufhören, damit ich zum Pindapata zu meinen Hindu-Restaurants um die Ecke gehen kann, wo sie mir jeden Tag zu essen geben! 🙏
 
 Dieser linguistische Gebrauch ist hochspezifisch und führt diesen Wortwechsel auf die genannte Stelle in der Bṛhadāraṇyaka-Upaniṣad zurück.
 
-Und diese, so stellt sich heraus, *ist im gleichen Kapitel* wie diejenige über die Suche nach dem Licht! Da habe ich mehrere Jahre gebraucht von einer Notiz über eine gewisse Ähnlichkeit in der Erzählstruktur bis dahin, dass ich unabhängig davon eine viel spezifischere linguistische Gemeinsamkeit entdeckte.
+Und diese, so stellt sich heraus, *ist im gleichen Kapitel* wie die oben zitierte über die Suche nach dem Licht! Da habe ich mehrere Jahre gebraucht von einer Notiz über eine gewisse Ähnlichkeit in der Erzählstruktur bis dahin, dass ich unabhängig davon eine viel spezifischere linguistische Gemeinsamkeit entdeckte.
 
 Das Thema von Bṛhadāraṇyaka-Upaniṣad 4.3 ist allerdings ein völlig anderes, da es sich mit der Suche nach dem inneren Licht befasst.
 
@@ -79,19 +79,19 @@ Somit teilen diese Suttas mit Bṛhadāraṇyaka-Upaniṣad 4.3:
 * einzigartige Terminologie
 * Thema (das Finden des inneren Lichts)
 
-Das ist es, ich nenne es: Der Suttazyklus über die drei Sakyer-Freunde schöpft von Bṛhadāraṇyaka-Upaniṣad 4.3.
+Das ist es. Ich nenne es: Der Suttazyklus über die drei Sakyer-Freunde schöpft aus Bṛhadāraṇyaka-Upaniṣad 4.3.
 
 Es könnte wohl noch mehr Punkte geben, ich untersuche das noch weiter.
 
-Doch es gibt eine merkwürdige Besonderheit bei diesem Fund. Schauen Sie sich den Kommentar zu 4.3.7 an. Śaṅkāra hat eine lange Diskussion dieser Zeile und schließt eine lange Reihe von Einwänden aus buddhistischer Sicht und deren Widerlegung ein. Ich bin kein Spezialist für Śaṅkāra, aber ich glaube, das ist recht ungewöhnlich. Ich denke tatsächlich, er diskutiert nirgendwo sonst in diesem Kommentar ausführlich den Buddhismus, obwohl er das, das ist sicher so, an anderen Stellen tut.
+Doch es gibt eine merkwürdige Besonderheit bei diesem Fund. Schauen Sie sich den Kommentar zu 4.3.7 (bei der englischen Übersetzung; AdÜ) an. Śaṅkāra hat eine lange Diskussion dieser Zeile und schließt eine lange Reihe von Einwänden aus buddhistischer Sicht und deren Widerlegung ein. Ich bin kein Spezialist für Śaṅkāra, aber ich glaube, das ist recht ungewöhnlich. Ich denke tatsächlich, er diskutiert nirgendwo sonst in diesem Kommentar ausführlich den Buddhismus, obwohl er das sicherlich an anderen Stellen tut.
 
 Ich weiß nicht, was man daraus machen soll. Vielleicht nichts. Aber es erscheint seltsam, dass er beim Kommentieren einer Passage, die eine buddhistische Resonanz angeregt hat, die Notwendigkeit sah, auf die Buddhisten einzugehen. Es ist mir nicht bekannt, dass Śaṅkāra die Suttas auch nur kannte. Gewöhnlich spricht er über die späteren Schulen. Aber könnte es irgendwie eine Erinnerung an diese Verbindung gegeben haben?
 
 <div style="text-align: center;">* * *</div>
 
-Als ein Nachtrag: Die Einführung ist sehr charakteristisch, und sicherlich gibt es einen Satz von erzählten Ereignissen, der für zwei recht verschiedene Diskussionen in MN 31 und MN 128 verwendet wird. Was die Frage aufwirft: Welche ist die eigentliche? Das wird sowohl vom Ehrwürdigen Bodhi als auch dem Ehrwürdigen Analayo bemerkt, aber ihre Diskussionen ließen das entscheidene Detail der Geographie außer Acht.
+**Nachtrag:** Die Einführung zu den beiden Suttas MN 31 und MN 128 ist sehr charakteristisch, und wir haben eindeutig einen Satz von Erzählelementen, der für zwei recht verschiedene Diskussionen verwendet wird. Was die Frage aufwirft: Welche ist die eigentliche? Das wird sowohl vom Ehrwürdigen Bodhi als auch dem Ehrwürdigen Analayo bemerkt, aber ihre Diskussionen ließen das entscheidene Detail der Geographie außer Acht.
 
-* Kurz zusammengefasst: MN 128 ist der ursprüngliche Zusammenhang, die Einführung wurde später zu MN 31 hinzugefügt.
+Kurz zusammengefasst: MN 128 ist der ursprüngliche Zusammenhang, die Einführung wurde später zu MN 31 hinzugefügt.
 
 Die wichtigsten Punkte sind:
 
@@ -106,7 +106,7 @@ Daher gibt MN 128, wo die drei Freunde bei Kosambi zusammen meditieren, den ursp
 
 <div style="text-align: center;">* * *</div>
 
-Bloß noch eine weitere Bemerkung zu der Verbindung zwischen dem Schluss hier und dem Bericht über die Laienanhänger von Ñātika in [DN 16](#/sutta/dn16/de/sabbamitta). Wie ich früher schon bemerkt habe, war Ñātika die Heimatstadt Mahāvīras, des „Jaina-Asketen aus Ñātika“, was die ungewöhnliche Ausführlichkeit erklärt, die DN 16 aufbietet, um die Wiedergeburtsorte der Bewohner dieser ansonsten wenig bekannten Standt zu behandeln. 
+**Und eine weitere Bemerkung** zu der Verbindung zwischen dem Schluss von MN 31 und dem Bericht über die Laienanhänger von Ñātika in [DN 16](#/sutta/dn16/de/sabbamitta). Wie ich früher schon bemerkt habe, war Ñātika die Heimatstadt Mahāvīras, des „Jaina-Asketen aus Ñātika“, was die ungewöhnliche Ausführlichkeit erklärt, die DN 16 aufbietet, um die Wiedergeburtsorte der Bewohner dieser ansonsten wenig bekannten Standt zu behandeln. 
 
 Auch in MN 31 haben wir den ungewöhnlichen Umstand, dass ein Yakka erscheint und die drei Freunde mit großem Lob rühmt, das bis in die Brahmāwelt getragen wird. Obwohl es zweifellos als Segen angesehen wurde, war die Anwesenheit von drei Mönchen, die in einem Park meditierten, nicht so ungewöhnlich, was die Frage aufwirft, warum wir diesen überschwänglichen Schluss vorfinden. 
 
