@@ -3,18 +3,18 @@ title: Die Sakyer-Freunde und ihr Licht
 description: Bhikkhu Sujato, 2023
 img:  sujato.png
 img-alt: Foto von Bhante Sujato
-order: 7
+order: 9
 ---
 
 [Zum Originaltext](https://discourse.suttacentral.net/t/the-sakyan-friends-and-their-light/30712)
 
-Das ist eine kurze Notiz zu meinen laufenden Recherchen über den Zyklus von Texten, die von den drei Sakyer-Freunden Anuruddha, Nandiya und Kimbila handeln. Sie finden sich hauptsächlich in [MN 31](#/sutta/mn31/de/sabbamitta) und [MN 128](#/sutta/mn128/de/sabbamitta), ein Teil noch im Vinaya ([Pli-tv-kd10](https://suttacentral.net/pli-tv-kd10/de/maitrimurti-traetow?lang=de&reference=main&highlight=true#4)) und ein Hinweis im Theragāthā ([Thag 2.18](#/sutta/thag2.18/de/sabbamitta)); dort finden wir auch den Ausdruck „Sakyer-Freunde“ (*sakyaputtā sahāyakā*).
+Das hier ist eine kurze Notiz zu meinen laufenden Recherchen über den Zyklus von Texten, die von den drei Sakyer-Freunden Anuruddha, Nandiya und Kimbila handeln. Sie finden sich hauptsächlich in [MN 31](#/sutta/mn31/de/sabbamitta) und [MN 128](#/sutta/mn128/de/sabbamitta), ein Teil noch im Vinaya ([Pli-tv-kd10](https://suttacentral.net/pli-tv-kd10/de/maitrimurti-traetow?lang=de&reference=main&highlight=true#4)) und ein Hinweis im Theragāthā ([Thag 2.18](#/sutta/thag2.18/de/sabbamitta)); dort finden wir auch den Ausdruck „Sakyer-Freunde“ (*sakyaputtā sahāyakā*).
 
 Die Geschichte ist sehr bekannt und ich will sie hier nicht wiederholen. Lesen Sie selbst!
 
 Vor einigen Jahren, als ich diese Texte erstmals übersetzte, machte ich eine rasche Anmerkung für mich selbst, die besagte, dass die Erzählstruktur, besonders in MN 31 und zu einem geringeren Grad auch in MN 128, an Bṛhadāraṇyaka-Upaniṣad 4.3 erinnert. Gönnen Sie es sich:
 
-[Deutsche Übersetzung auf *archive.org*](https://archive.org/details/sechzigupanishad00deusuoft/page/466/mode/2up?view=theater) (englische Fassung [hier](https://www.wisdomlib.org/hinduism/book/the-brihadaranyaka-upanishad/d/doc120049.html))
+[Deutsche Übersetzung auf *archive.org*](https://archive.org/details/sechzigupanishad00deusuoft/page/466/mode/2up?view=theater) (englische Fassung [hier](https://www.wisdomlib.org/hinduism/book/the-brihadaranyaka-upanishad/d/doc120049.html)).
 
 Man beachte, dass dies (d. h. die englische Fassung; AdÜ) noch den längeren Kommentar von Śaṅkāra enthält; überspringen Sie den, wenn Sie nur den Text lesen. Doch wir werden darauf zurückkommen.
 
@@ -91,7 +91,7 @@ Ich weiß nicht, was man daraus machen soll. Vielleicht nichts. Aber es erschein
 
 **Nachtrag:** Die Einführung zu den beiden Suttas MN 31 und MN 128 ist sehr charakteristisch, und wir haben eindeutig einen Satz von Erzählelementen, der für zwei recht verschiedene Diskussionen verwendet wird. Was die Frage aufwirft: Welche ist die eigentliche? Das wird sowohl vom Ehrwürdigen Bodhi als auch dem Ehrwürdigen Analayo bemerkt, aber ihre Diskussionen ließen das entscheidene Detail der Geographie außer Acht.
 
-Kurz zusammengefasst: MN 128 ist der ursprüngliche Zusammenhang, die Einführung wurde später zu MN 31 hinzugefügt.
+Kurz zusammengefasst: MN 128 ist der ursprüngliche Zusammenhang,  zu MN 31 wurde die Einführung später hinzugefügt.
 
 Die wichtigsten Punkte sind:
 
