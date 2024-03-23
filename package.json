@@ -1,24 +1,24 @@
 {
-  "name": "ebt-site3",
+  "name": "dhammaregent3",
   "version": "1.59.141",
   "description": "Site template for EBT-Vue3 applications",
   "main": "src/index.mjs",
   "private": false,
   "dependencies": {
     "ebt-vue3": "^1.462.0",
-    "vue": "^3.2.37",
-    "vuetify": "^3.5.10",
+    "vue": "^3.4.21",
+    "vuetify": "^3.5.11",
     "webfontloader": "^1.0.0"
   },
   "devDependencies": {
-    "@vitejs/plugin-vue": "^2.3.3",
+    "@vitejs/plugin-vue": "^5.0.4",
     "cmark-gfm": "^0.9.0",
     "esm": "^3.2.25",
     "json": "^11.0.0",
     "markdown-it": "^13.0.1",
     "markdown-it-footnote": "^3.0.3",
-    "vite": "^2.9.14",
-    "vite-plugin-vuetify": "^1.0.2",
+    "vite": "^5.2.4",
+    "vite-plugin-vuetify": "^2.0.3",
     "vue-cli-plugin-vuetify": "~2.5.1"
   },
   "scripts": {
