@@ -5,7 +5,7 @@
   "main": "src/index.mjs",
   "private": false,
   "dependencies": {
-    "ebt-vue3": "^1.453.8",
+    "ebt-vue3": "^1.462.0",
     "vue": "^3.2.37",
     "vuetify": "^3.5.10",
     "webfontloader": "^1.0.0"
@@ -28,6 +28,7 @@
     "app:pages": "node_modules/ebt-vue3/scripts/app-pages.sh",
     "app:publish": "node_modules/ebt-vue3/scripts/app-publish.sh",
     "app:version": "node node_modules/ebt-vue3/scripts/app-version.cjs",
+    "update:vuetify": "node_modules/ebt-vue3/scripts/app-update-vuetify",
     "dev": "vite",
     "serve": "vite preview",
     "preview": "vite preview",
