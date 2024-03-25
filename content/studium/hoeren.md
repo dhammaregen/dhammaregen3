@@ -6,7 +6,7 @@ img-alt: Kissen mit MP3-Player am Fuß eines Baumes
 order: 2
 ---
 
-Das Wiedergabemodul erscheint am unteren Bildschirmrand, sobald eine Suttakarte geöffnet wird.
+Das Wiedergabemodul erscheint am unteren Bildschirmrand, sobald eine Suttakarte geöffnet wird. Alternativ gibt es auch Wiedergabe-Schaltflächen in dem Segment, in dem sich der Cursor gerade befindet.
 
 <style>
 .my-img {
@@ -19,10 +19,10 @@ Das Wiedergabemodul erscheint am unteren Bildschirmrand, sobald eine Suttakarte 
 <p><img src="img/play.png" class="my-img" alt="Bildschirmfoto von Wiedergabemodul" style="width: 400px;"></p>
 
 **Segmentweise Wiedergabe:**
-Ein markiertes Textsegment kann durch Klick auf die linke Wiedergabe-Schaltfläche im Wiedergabemodul oder durch Drücken der Leertaste abgespielt werden. Anschließend wird das nächste Segment markiert, oder, wenn das Ende des Sutta erreicht ist, ein Gongton abgespielt.
+Ein markiertes Textsegment kann durch Klick auf die linke Wiedergabe-Schaltfläche oder durch Drücken der Leertaste abgespielt werden. Anschließend wird das nächste Segment markiert, oder, wenn das Ende des Sutta erreicht ist, ein Gongton abgespielt.
 
 **Fortlaufende Wiedergabe:**
-Klick auf die rechte Wiedergabe-Schaltfläche im Wiedergabemodul oder Drücken der Enter-Taste startet die Wiedergabe ab dem markierten Segment fortlaufend bis zum Ende des Sutta, wo dann ein Gonton das Ende markiert.
+Klick auf die rechte Wiedergabe-Schaltfläche oder Drücken der Enter-Taste startet die Wiedergabe ab dem markierten Segment fortlaufend bis zum Ende des Sutta, wo dann ein Gonton das Ende markiert.
 
 Wenn Ihr Browser die Audiofunktion nicht unterstützt, versuchen Sie es mit Chrome oder Firefox.
 
