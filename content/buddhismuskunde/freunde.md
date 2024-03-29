@@ -71,7 +71,7 @@ Warten Sie.
 
 In MN 128 *geht es genau darum*. Es geht Schritt für Schritt zum „Sehen von Licht und dem Wahrnehmen von Formen“ (*obhāsa* vs. *jyoti*), und offensichtlich ist der metaphysische Kontext ein anderer, aber die Grundidee ist die gleiche: Wie finden wir das Licht in uns selbst?
 
-Eins ist ein Zufall, zwei ein Hinweis, und drei … im Wesentlichen so gut es nur sein kann.
+Erstens haben wir einen Zufall, zweitens einen Hinweis, und drittens … im Wesentlichen so gut es nur sein kann.
 
 Somit teilen diese Suttas mit Bṛhadāraṇyaka-Upaniṣad 4.3:
 
@@ -106,7 +106,7 @@ Daher gibt MN 128, wo die drei Freunde bei Kosambi zusammen meditieren, den ursp
 
 <div style="text-align: center;">* * *</div>
 
-**Und eine weitere Bemerkung** zu der Verbindung zwischen dem Schluss von MN 31 und dem Bericht über die Laienanhänger von Ñātika in [DN 16](#/sutta/dn16/de/sabbamitta). Wie ich früher schon bemerkt habe, war Ñātika die Heimatstadt Mahāvīras, des „Jaina-Asketen aus Ñātika“, was die ungewöhnliche Ausführlichkeit erklärt, die DN 16 aufbietet, um die Wiedergeburtsorte der Bewohner dieser ansonsten wenig bekannten Standt zu behandeln. 
+**Und eine weitere Bemerkung** zu der Verbindung zwischen dem Schluss von MN 31 und dem Bericht über die Laienanhänger von Ñātika in [DN 16](#/sutta/dn16/de/sabbamitta). Wie ich früher schon bemerkt habe, war Ñātika die Heimatstadt Mahāvīras, des „Jaina-Asketen aus Ñātika“, was die ungewöhnliche Ausführlichkeit erklärt, die DN 16 aufbietet, um die Wiedergeburtsorte der Bewohner dieser ansonsten wenig bekannten Stadt zu behandeln. 
 
 Auch in MN 31 haben wir den ungewöhnlichen Umstand, dass ein Yakka erscheint und die drei Freunde mit großem Lob rühmt, das bis in die Brahmāwelt getragen wird. Obwohl es zweifellos als Segen angesehen wurde, war die Anwesenheit von drei Mönchen, die in einem Park meditierten, nicht so ungewöhnlich, was die Frage aufwirft, warum wir diesen überschwänglichen Schluss vorfinden. 
 
