@@ -5,7 +5,7 @@ const EbtConfig = {
   "tutorialPath": "#/wiki/tutorial/kurzanleitung",
   "monolingual": "de",
   "privacyLink": "#/wiki/impressum",
-  "Copyright": "https://ebt-vue3.sc-voice.net/#/wiki/license/toc",
+  "license": "/",
   "footnotes": "Anmerkungen",
   "searchDropdown": 100,
   "maxPlayMinutes": 30,
