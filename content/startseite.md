@@ -39,7 +39,7 @@ Copyright: Für die Software dieser Webseite gilt die [MIT-Lizenz](https://githu
 <!-- Diese Webseite verwendet Cookies lediglich zu dem Zweck, die Darstellung der Webseiteninhalte zu ermöglichen und die Einstellungen des Benutzers in dessen Browser zu speichern. -->
 
 Verwendung von „künstlicher Intelligenz“ (KI): Alle Texte auf *Dhammaregen* wurden von Menschen erstellt. Technologien mit KI („neuronalen Netzwerken“) werden verwendet für
-- Sprachenerkennung bei Suchbegriffen (English / Pali / Deutsch)
+- Erkennung der Sprache bei Suchbegriffen (English / Pali / Deutsch)
 - Schätzung der Wiedergabezeit von Audiodateien
 - Sprachausgabe der buddhistischen Texte mittels Computerstimmen von [Amazon Web Services Polly](https://aws.amazon.com/polly/)
 
