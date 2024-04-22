@@ -43,6 +43,6 @@ Verwendung von „künstlicher Intelligenz“ (KI): Alle Texte auf *Dhammaregen*
 - Schätzung der Wiedergabezeit von Audiodateien
 - Sprachausgabe der buddhistischen Texte mittels Computerstimmen von [Amazon Web Services Polly](https://aws.amazon.com/polly/)
 
-Wir bitten darum, dass Nutzer der Inhalte von *Dhammaregen* bei der Verwendung des Materials ethische Grundsätze beobachten, wie sie in den buddhistischen Texten, etwa in [MN 8](/#/sutta/mn8:12.2/de/sabbamitta), beschrieben sind.
+Wir bitten höflich darum, dass Nutzer der Inhalte von *Dhammaregen* bei der Verwendung des Materials ethische Grundsätze und Werte beobachten, wie sie in den buddhistischen Texten beschrieben sind.
 
 Zum Impressum und der ausführlichen Datenschutzerklärung: [hier klicken](#/wiki/impressum)
