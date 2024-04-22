@@ -34,15 +34,15 @@ Alle deutschen Übersetzungen von Texten und Essays sowie auch Originalessays au
 
 Copyright: Für die Software dieser Webseite gilt die [MIT-Lizenz](https://github.com/dhammaregen/dhammaregen3/blob/main/LICENSE). Inhalte, die von SuttaCentral stammen, unterliegen den [Lizenzbedingungen von SuttaCentral](https://suttacentral.net/licensing?lang=de). Originalessays von Silashin Sabbamitta auf dieser Webseite folgen den gleichen Lizenzbedingungen. Texte anderer Autoren folgen den jeweiligen Lizenzbedingungen der Quelle. Wenn nicht anders angegeben, entspricht das ebenfalls den Lizenzbedingungen von SuttaCentral.
 
-*Dhammaregen* erhebt und speichert keine personenbezogenen Daten. Cookies werden lediglich zu dem Zweck verwendet, die Darstellung der Webseiteninhalte zu ermöglichen und die Einstellungen des Benutzers in dessen Browser zu speichern. 
-
-<!-- Diese Webseite verwendet Cookies lediglich zu dem Zweck, die Darstellung der Webseiteninhalte zu ermöglichen und die Einstellungen des Benutzers in dessen Browser zu speichern. -->
-
 Verwendung von „künstlicher Intelligenz“ (KI): Alle Texte auf *Dhammaregen* wurden von Menschen erstellt. Technologien mit KI („neuronalen Netzwerken“) werden verwendet für
 - Erkennung der Sprache bei Suchbegriffen (English / Pali / Deutsch)
 - Schätzung der Wiedergabezeit von Audiodateien
 - Sprachausgabe der buddhistischen Texte mittels Computerstimmen von [Amazon Web Services Polly](https://aws.amazon.com/polly/)
 
 Wir bitten höflich darum, dass Nutzer der Inhalte von *Dhammaregen* bei der Verwendung des Materials die Quelle kenntlich machen sowie ethische Grundsätze und Werte beachten, wie sie in den buddhistischen Texten beschrieben sind.
+
+*Dhammaregen* erhebt und speichert keine personenbezogenen Daten. Cookies werden lediglich zu dem Zweck verwendet, die Darstellung der Webseiteninhalte zu ermöglichen und die Einstellungen des Benutzers in dessen Browser zu speichern. 
+
+<!-- Diese Webseite verwendet Cookies lediglich zu dem Zweck, die Darstellung der Webseiteninhalte zu ermöglichen und die Einstellungen des Benutzers in dessen Browser zu speichern. -->
 
 Zum Impressum und der ausführlichen Datenschutzerklärung: [hier klicken](#/wiki/impressum)
