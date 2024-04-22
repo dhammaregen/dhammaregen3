@@ -5,7 +5,7 @@ const EbtConfig = {
   "tutorialPath": "#/wiki/tutorial/kurzanleitung",
   "monolingual": "de",
   "privacyLink": "#/wiki/impressum",
-  "license": "/",
+  "license": "https://dhammaregen.net",
   "footnotes": "Anmerkungen",
   "searchDropdown": 100,
   "maxPlayMinutes": 30,
