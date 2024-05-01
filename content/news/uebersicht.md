@@ -8,6 +8,11 @@ order: -9999
 
 Hier finden Sie eine kurze Themenübersicht der bisher erschienenen Newsletter. Klicken sie auf die Überschrift, um zu einem Newsletter zu gelangen.
 
+### [Mai 2024](#/wiki/news/2024-05)
+- Wie schläft man gut? (SN 10.8, AN 3.35, AN 11.15, AN 5.210)
+- Plädoyer gegen das Streiten (AN 5.212)
+- Dhp 201
+
 ### [April 2024](#/wiki/news/2024-04)
 - Ein großer Streit und eine harmonische Freundschaft (Khandhaka 10, MN 128, MN 31, Thag2.18)
 - Die Suche nach dem inneren Licht (Essay „Die Sakyer-Freunde und ihr Licht“)
