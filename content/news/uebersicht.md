@@ -8,6 +8,11 @@ order: -9999
 
 Hier finden Sie eine kurze Themenübersicht der bisher erschienenen Newsletter. Klicken sie auf die Überschrift, um zu einem Newsletter zu gelangen.
 
+### [Juni 2024](#/wiki/news/2024-06)
+- Jīvaka der Prinzenzögling (Kd 8)
+- Jīvaka als Schüler des Buddha (MN 55, AN 1.256, DN 2, AN 8.26, AN 6.120-139)
+- Der Buddha als Arzt (Thag 16.1)
+
 ### [Mai 2024](#/wiki/news/2024-05)
 - Wie schläft man gut? (SN 10.8, AN 3.35, AN 11.15, AN 5.210)
 - Plädoyer gegen das Streiten (AN 5.212)
