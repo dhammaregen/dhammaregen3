@@ -8,7 +8,7 @@ order: 5
 
 [Zum Originaltext](https://discourse.suttacentral.net/t/a-new-reading-of-the-mettasutta-that-will-change-everything/26828)
 
->Dies ist Teil einer Reihe von Beiträgen, mit denen ich Entwürfe verschiedener Diskusionen für meine Einführung zum Suttanipāta schreibe.
+>Dies ist Teil einer Reihe von Beiträgen, mit denen ich Entwürfe verschiedener Diskussionen für meine Einführung zum Suttanipāta schreibe.
 
 Wir wechseln zu einer positiven Stimmung und finden als Nächstes das berühmte Mettāsutta („Die Lehrrede von der Liebe“, [Snp 1.8](#/sutta/snp1.8/de/sabbamitta)). Dies ist keine Reihe von Strophen über ein Thema, sondern ein zusammenhängendes Gedicht, das grob in drei Abschnitte gegliedert ist: Die Strophen 1–3ab legen den Grundstein für sittliches Verhalten; 3cd–6 beschreiben die Meditation über die Liebe; und die Strophen 7–9 schließlich stellen den triumphalen Zustand der Befreiung dar, der daraus hervorgeht. Strophe 10 ist in einem anderen Versmaß und scheint eine spätere Anfügung zu sein, die in äußerst komprimierter Form die Entwicklung der Einsicht beschreibt, mit der  man zuerst den Stromeintritt und dann die Nichtwiederkehr erlangt.
 
