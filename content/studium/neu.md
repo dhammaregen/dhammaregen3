@@ -8,7 +8,9 @@ order: 0.5
 ### Historisches
 *Dhammaregen* wurde ursprünglich als eine Begleitwebseite zu [Voice.suttacentral.net](https://voice.suttacentral.net) entworfen und enthielt Informationen über die Benutzung von Voice und [SuttaCentral](https://suttacentral.net/?lang=de) sowie auch eine Infoseite zu den deutschen Sutta-Übersetzungen von Silashin Sabbamitta. Die heute noch relevanten Informationen aus dieser ersten Version sind jetzt [im Dhammaregen-GitHub-Wiki](https://github.com/dhammaregen/dhammaregen3/wiki) zu finden.
 
-2021 wurde *Dhammaregen* zu einer Webseite zum Studium der Suttas ausgebaut. Das heutige *Dhammaregen* entstand 2023 und ist eine weiterentwickelte Version davon.
+2021 wurde *Dhammaregen* als Glied der SC-Voice-Wenseitenfamilie zu einer Webseite zum Studium der Suttas ausgebaut. Das heutige *Dhammaregen* entstand 2023 und ist eine weiterentwickelte Version davon.
+
+2024 wurde das ursprüngliche Voice stillgelegt; die deutlich verbesserte Nachfolgeversion findet sich unter [SC-Voice.net](https://sc-voice.net).
 
 ### Die neue Version von Dhammaregen
 Der buddhistische Kanon hat eine recht komplexe Struktur, an der sich gewöhnlich Webseiten, die die Suttas präsentieren, orientieren. Für Neulinge ist es nicht einfach, sich darin zurechtzufinden. Daher entstand der Gedanke, eine Möglichkeit zum Studium der Suttas zu schaffen, die den Kanon auf andere Art erschließt. Dieser Gedanke ist die Grundlage des neuen *Dhammaregen*.
