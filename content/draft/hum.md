@@ -8,7 +8,7 @@ order: 8
 
 [Zum Originaltext](https://discourse.suttacentral.net/t/on-the-brahmin-who-said-hu/34440)
 
-The fourth sutta of the Udāna ([Ud 1.4](https://suttacentral.net/ud1.4/en/sujato)) concerns a particular brahmin who the Buddha encountered shortly after his awakening. It is called the Huṁhuṅkasutta. It is included also in the Vinaya, where it is called the Ajapālakathā. In the Vinaya it is part of the ongoing narrative of the first days after awakening, and thus confirms that it is in fact the first encounter the Buddha as Buddha has with another being.
+Das vierte Sutta des Udāna ([Ud 1.4](#/sutta/ud1.4/de/sabbamitta)) betrifft einen bestimmten Brahmanen, dem der Buddha kurz nach seinem Erwachen begegnete. Es trägt den Titel *Huṁhuṅkasutta*. Es findet sich auch im Vinaya, wo es *Ajapālakathā* genannt wird. Im Vinaya ist es Teil einer fortlaufenden Erzählung über die ersten Tage nach dem Erwachen, und so bestätigt es, dass es tatsächlich die erste Begegnung ist, die der Buddha als Buddha mit einem anderen Lebewesen hat. 
 
 The brahmin is said to utter the syllables, *huṁ*, *huṁ*. The commentary interprets this as a sign of his haughtiness and conceit, which has so far as I know been followed by all translators ([Brahmali](https://suttacentral.net/pli-tv-kd1/en/brahmali?lang=en&layout=plain&reference=main&notes=sidenotes&highlight=false&script=latin#2.1.1), [Anandajoti](https://suttacentral.net/ud1.4/en/anandajoti?lang=en&reference=main&highlight=false), [Strong](https://static.sirimangalo.org/pdf/strongudana.pdf), [Ireland](https://archive.org/details/dhatukatha-pts/182706089-Udana-and-Itivuttaka-tr-Ireland-pdf/page/15/mode/2up), [Thanissaro](https://www.dhammatalks.org/suttas/KN/Ud/ud1_4.html), etc.), as well as by me in the past.
 
