@@ -8,7 +8,7 @@ order: 8
 
 [Zum Originaltext](https://discourse.suttacentral.net/t/on-the-brahmin-who-said-hu/34440)
 
-Das vierte Sutta des Udāna ([Ud 1.4](#/sutta/ud1.4/de/sabbamitta)) betrifft einen bestimmten Brahmanen, dem der Buddha kurz nach seinem Erwachen begegnete. Es trägt den Titel *Huṁhuṅkasutta*. Es findet sich auch im Vinaya, wo es *Ajapālakathā* genannt wird. Im Vinaya ist es Teil einer fortlaufenden Erzählung über die ersten Tage nach dem Erwachen, und so bestätigt es, dass es tatsächlich die erste Begegnung ist, die der Buddha als Buddha mit einem anderen Lebewesen hat. 
+Das vierte Sutta des Udāna ([Ud 1.4](#/sutta/ud1.4/de/sabbamitta)) betrifft einen bestimmten Brahmanen, dem der Buddha kurz nach seinem Erwachen begegnete. Es trägt den Titel *Huṁhuṅkasutta*. Es findet sich auch im Vinaya, wo es *Ajapālakathā* genannt wird. Im Vinaya ist es Teil einer fortlaufenden Erzählung über die ersten Tage nach dem Erwachen, und so bestätigt es, dass es tatsächlich die erste Begegnung ist, die der Buddha als Buddha mit einem anderen Lebewesen hatte. 
 
 Von dem Brahmanen heißt es, er äußere die Silben *huṁ*, *huṁ*. Der Kommentar interpretiert das als Zeichen für seine Arroganz und Einbildung, und soweit ich weiß, sind dem alle Übersetzer gefolgt ([Brahmali](https://suttacentral.net/pli-tv-kd1/en/brahmali?lang=de&layout=plain&reference=main&notes=sidenotes&highlight=false&script=latin#2.1.1), [Anandajoti](https://suttacentral.net/ud1.4/en/anandajoti?lang=de&reference=main&highlight=false), [Strong](https://static.sirimangalo.org/pdf/strongudana.pdf), [Ireland](https://archive.org/details/dhatukatha-pts/182706089-Udana-and-Itivuttaka-tr-Ireland-pdf/page/15/mode/2up), [Thanissaro](https://www.dhammatalks.org/suttas/KN/Ud/ud1_4.html) usw.), und auch ich tat das in der Vergangenheit.
 
@@ -20,11 +20,11 @@ Wie, wenn wir alle falsch gelegen hätten?
 
 Wer meine Arbeit über die Lehren des Buddha als Dialog mit den Menschen um ihn herum verfolgt hat, weiß sicher, dass ich häufig auf die Bṛhadāraṇyaka-Upaniṣad verweise, die älteste, längste und bedeutendste der brahmanischen Upanishaden und die, mit der der Buddha die engste Verbindung hatte. Ich glaube, wir haben genügend Hinweise, die den Schluss erlauben, dass es diese Tradition war, in der der Bodhisatta vor seinem Erwachen studierte. 
 
-Doch die Suttas kennen vier upanishadische Traditionen, darunter auch eine Gruppe, die als die „[Chandoka-Brahmanen](https://suttacentral.net/dn13/de/sabbamitta?lang=de&layout=plain&reference=main&notes=sidenotes&highlight=false&script=latin#10.2)“ bekannt ist und die die Chāndogya-Upaniṣad studierte. And while connections with the Bṛhadāraṇyaka and most frequent, the suttas do not lack allusions or connections with the Chāndogya as well.
+Doch die Suttas kennen vier upanishadische Traditionen, darunter auch eine Gruppe, die als die „[Chandoka-Brahmanen](https://suttacentral.net/dn13/de/sabbamitta?lang=de&layout=plain&reference=main&notes=sidenotes&highlight=false&script=latin#10.2)“ bekannt ist und die die Chāndogya-Upaniṣad studierte. Und während Verbndungen zur Bṛhadāraṇyaka am häufigsten sind, fehlen doch in den Suttas auch Anspielungen auf die Chāndogya und Verbindungen zu ihr nicht. 
 
-Each of these is associated with a specific Vedic text, and emphasizes the specialty of that text. The Bṛhadāraṇyaka is part of the Yajur Veda tradition, and emphasizes the action of the ritual and sacrifice. It begins with a lengthy discussion of the mystical significance of the horse sacrifice. It is no coincidence that it is here that we find the emergence of the doctrine of *karma*.
+Jede der Upanishaden ist mit einem bestimmten vedischen Text verbunden und betont die Besonderheit dieses Textes. Die Bṛhadāraṇyaka ist Teil der Yajur-Veda-Tradition und betont die Handlung des Rituals und des Opfers. Sie beginnt mit einer langatmigen Besprechung der mystischen Bedeutung des Pferdeopfers. Es ist kein Zufall, dass hier der Ort ist, an dem wir das Aufkommen der Doktrin vom *Karma* finden. 
 
-Just as the purpose of the Bṛhadāraṇyaka is to expand the mystic and contemplative wisdom implicit in the actions of the ritual, the Chāndogya unfolds the meaning of the words of the ritual. It belongs to the liturgical tradition of the Sāma veda, and was studied by those brahmin priests who recited the liturgy.
+So wie es die Absicht der Bṛhadāraṇyaka ist, die mystische und kontemplative Weisheit, die implizit in den Handlungen des Rituals liegt, auszuweiten, legt die Chāndogya die Bedeutung der Worte des Rituals offen. Sie gehört zur liturgischen Tradition des Sāmaveda und wurde von jenen brahmanischen Priestern studiert, die die Liturgie rezitierten. 
 
 ## Die mystischen Silben (*stobha*)
 
