@@ -10,9 +10,9 @@ order: 8
 
 Das vierte Sutta des Udāna ([Ud 1.4](#/sutta/ud1.4/de/sabbamitta)) betrifft einen bestimmten Brahmanen, dem der Buddha kurz nach seinem Erwachen begegnete. Es trägt den Titel *Huṁhuṅkasutta*. Es findet sich auch im Vinaya, wo es *Ajapālakathā* genannt wird. Im Vinaya ist es Teil einer fortlaufenden Erzählung über die ersten Tage nach dem Erwachen, und so bestätigt es, dass es tatsächlich die erste Begegnung ist, die der Buddha als Buddha mit einem anderen Lebewesen hat. 
 
-The brahmin is said to utter the syllables, *huṁ*, *huṁ*. The commentary interprets this as a sign of his haughtiness and conceit, which has so far as I know been followed by all translators ([Brahmali](https://suttacentral.net/pli-tv-kd1/en/brahmali?lang=en&layout=plain&reference=main&notes=sidenotes&highlight=false&script=latin#2.1.1), [Anandajoti](https://suttacentral.net/ud1.4/en/anandajoti?lang=en&reference=main&highlight=false), [Strong](https://static.sirimangalo.org/pdf/strongudana.pdf), [Ireland](https://archive.org/details/dhatukatha-pts/182706089-Udana-and-Itivuttaka-tr-Ireland-pdf/page/15/mode/2up), [Thanissaro](https://www.dhammatalks.org/suttas/KN/Ud/ud1_4.html), etc.), as well as by me in the past.
+Von dem Brahmanen heißt es, er äußere die Silben *huṁ*, *huṁ*. Der Kommentar interpretiert das als Zeichen für seine Arroganz und Einbildung, und soweit ich weiß sind dem alle Übersetzer gefolgt ([Brahmali](https://suttacentral.net/pli-tv-kd1/en/brahmali?lang=de&layout=plain&reference=main&notes=sidenotes&highlight=false&script=latin#2.1.1), [Anandajoti](https://suttacentral.net/ud1.4/en/anandajoti?lang=de&reference=main&highlight=false), [Strong](https://static.sirimangalo.org/pdf/strongudana.pdf), [Ireland](https://archive.org/details/dhatukatha-pts/182706089-Udana-and-Itivuttaka-tr-Ireland-pdf/page/15/mode/2up), [Thanissaro](https://www.dhammatalks.org/suttas/KN/Ud/ud1_4.html) usw.), und auch ich tat das in der Vergangenheit.
 
-What if we were all wrong?
+Wie, wenn wir alle falsch gelegen hätten?
 
 ## Die Chāndogya-Upaniṣad
 
