@@ -22,13 +22,13 @@ Wer meine Arbeit über die Lehren des Buddha als Dialog mit den Menschen um ihn 
 
 Doch die Suttas kennen vier upanishadische Traditionen, darunter auch eine Gruppe, die als die „[Chandoka-Brahmanen](https://suttacentral.net/dn13/de/sabbamitta?lang=de&layout=plain&reference=main&notes=sidenotes&highlight=false&script=latin#10.2)“ bekannt ist und die die Chāndogya-Upaniṣad studierte. Und während Verbindungen zur Bṛhadāraṇyaka am häufigsten sind, fehlen doch in den Suttas auch Anspielungen auf die Chāndogya und Verbindungen zu ihr nicht. 
 
-Jede der Upanishaden ist mit einem bestimmten vedischen Text assoziiert und betont die Besonderheit dieses Textes. Die Bṛhadāraṇyaka ist Teil der Yajur-Veda-Tradition und betont die Handlung des Rituals und des Opfers. Sie beginnt mit einer langatmigen Besprechung der mystischen Bedeutung des Pferdeopfers. Es ist kein Zufall, dass hier der Ort ist, an dem wir das Aufkommen der Doktrin vom *Karma* finden. 
+Jede der Upanishaden ist mit einem bestimmten vedischen Text assoziiert und betont die Besonderheit dieses Textes. Die Bṛhadāraṇyaka ist Teil der Yajurveda-Tradition und betont die Handlung des Rituals und des Opfers. Sie beginnt mit einer langatmigen Besprechung der mystischen Bedeutung des Pferdeopfers. Es ist kein Zufall, dass hier der Ort ist, an dem wir das Aufkommen der Doktrin vom *Karma* finden. 
 
-So wie es die Absicht der Bṛhadāraṇyaka ist, die mystische und kontemplative Weisheit, die implizit in den Handlungen des Rituals liegt, auszuweiten, legt die Chāndogya die Bedeutung der Worte des Rituals offen. Sie gehört zur liturgischen Tradition des Sāmaveda und wurde von jenen brahmanischen Priestern studiert, die die Liturgie rezitierten. 
+So, wie es die Absicht der Bṛhadāraṇyaka ist, die mystische und kontemplative Weisheit, die implizit in den Handlungen des Rituals liegt, auszuweiten, legt die Chāndogya die Bedeutung der Worte des Rituals offen. Sie gehört zur liturgischen Tradition des Sāmaveda und wurde von jenen brahmanischen Priestern studiert, die die Liturgie rezitierten. 
 
 ## Die mystischen Silben (*stobha*)
 
-The first chapter of the Chāndogya unfolds the significance of the liturgy, especially as contained in the mystic syllable *om*, called the *udgītha*, “chanted aloud”. The *udgītha* begins every ritual.
+Das erste Kapitel der Chāndogya legt die Bedeutung der Liturgie dar, besonders, wie sie in der mystischen Silbe *oṁ* enthalten ist, die *udgītha* genannt wird, „das laut Vorgetragene“. Das *udgītha* steht am Anfang jedes Rituals.
 
 Now, there are twelve sections in this chapter dealing with the *udgītha*. The thirteenth and final chapter shifts to a secondary topic, the *stobha* or tonal interjections. These are uttered during the ritual. They are syllables that by themselves are meaningless, but to which the Chāndogya assigns a contemplative meaning within the liturgy.
 
