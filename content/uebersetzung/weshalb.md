@@ -5,7 +5,7 @@ img: newpath.png
 img-alt: Waldweg, in den von der Seite die Sonne fällt
 order: 2
 ---
-Die deutschsprachige Welt ist in der glücklichen Lage, dass es bereits viele deutsche Übersetzungen früher buddhistischer Texte gibt. Der Palikanon ist weitgehend abgedeckt, und Deutsch gehörte zu den ersten europäischen Sprachen, in die buddhistische Texte übersetzt wurden.
+Die deutschsprachige Welt ist in der glücklichen Lage, dass es bereits viele deutsche Übersetzungen früher buddhistischer Texte gibt. Der Sutta-Pitaka ist weitgehend abgedeckt, und Deutsch gehörte zu den ersten europäischen Sprachen, in die buddhistische Texte übersetzt wurden.
 
 Mit dieser Situation war ich lange Zeit sehr zufrieden und dachte nicht daran, dass etwas anderes nötig sei.
 
@@ -26,7 +26,7 @@ Nun möchte ich hier ein paar Punkte benennen, die neue Übersetzungen aus meine
 - Ein weiterer Punkt ist, dass in der Sprache des Palikanons das männliche Geschlecht stark dominiert und so häufig der Eindruck entsteht, die meisten Suttas seien auschließlich an (männliche) Mönche adressiert gewesen, was aber nicht notwendigerweise der Fall ist.
 
   Alice Collett und der Ehrwürdige Anālayo haben in ihrer Studie [*Bhikkhave* und *Bhikkhu* als Terminologie in frühen buddhistischen Texten, die alle Geschlechter einschließt](#/wiki/uebersetzung/bhikkhave) (*Bhikkhave and Bhikkhu as Gender-inclusive Terminology in Early Buddhist Texts*) nachgewiesen, dass viele der grammatisch männlichen Begriffe wie *bhikkhu* oder *bhikkhave* tatsächlich in inklusiver Bedeutung gebraucht werden. Das heißt, wenn der Buddha seine Zuhörerschaft mit *bhikkhave* anredet, sind nicht nur die männlichen ordinierten Personen gemeint, die in der Runde sitzen, sondern ebenso Nonnen und vielfach auch Laien. Eine durchgängige Übersetzung von *bhikkhave* mit „Mönche“ wird somit den tatsächlichen Verhältnissen nicht gerecht.
-- Mein letzter Punkt ist von technischer Natur: Keine der vorhandenen deutschen Übersetzungen liegt bisher in segmentierter Form vor. Zur Segmentierungstechnik, wie sie auf SuttaCentral und Voice und auch auf *Dhammaregen* verwendet wird, siehe [hier](https://github.com/dhammaregen/dhammaregen3/wiki/Voice-%E2%80%93-Segmentierung). Bestehende Übersetzungen zu segmentieren, würde eine große Menge an Arbeit und Zeit erfordern.
+- Mein letzter Punkt ist von technischer Natur: Keine der vorhandenen deutschen Übersetzungen liegt bisher in segmentierter Form vor. Zur Segmentierungstechnik, wie sie auf SuttaCentral und Voice / *Dhammaregen* verwendet wird, siehe [hier](https://github.com/dhammaregen/dhammaregen3/wiki/Voice-%E2%80%93-Segmentierung). Bestehende Übersetzungen zu segmentieren, würde eine große Menge an Arbeit und Zeit erfordern.
 
 Das größte Problem, das ich bei meinem Nachdenken über eine Übersetzung der Suttas sah, ist die Tatsache, dass meine Palikenntnisse begrenzt sind. Eine unabhängige eigene Übersetzung eines Palitextes wäre eine Herausforderung, der ich mich nicht gewachsen fühle. Aus diesem Grund habe ich beschlossen, mich auf Bhante Sujatos englische Übersetzungen zu stützen. Dabei kommt mir zugute, dass das Entwicklerteam von SuttaCentral die Software [Bilara](https://bilara.suttacentral.net/) zur computergestützten Übersetzung entwickelt, die ein dreisprachiges Arbeiten ermöglicht. Segmentweise wird der Text auf Pali und Englisch nebeneinander angezeigt und kann in eine dritte Sprache übersetzt werden. Für ein zu übersetzendes Segment werden Beispiele angezeigt, wie diese oder eine ähnliche Passage an anderer Stelle bereits übersetzt wurde.
 

@@ -43,7 +43,7 @@ Ich habe mich von dem Ideal leiten lassen, das Pali so wiederzugeben, wie es da 
 
 Der Palikanon ist ein Korpus spiritueller Schriften, die manchmal eine tiefgründige Bedeutung haben. Daher ist es leicht, in die Palitexte eine Tiefe und verborgene Bedeutungen hineinzulesen und damit seine eigene Interpretation hinzuzufügen. Nach meiner Meinung ist die direkte Bedeutung des Textes immer die wahrscheinlichste. Der Buddha unterhielt sich mit gewöhnlichen Menschen. Bei seinem Versuch, seine Einsichten zu vermitteln, musste er wohl eine Sprache benutzen, die für die gewöhnlichen Mitglieder der Gesellschaft verständlich war und die für die Bevölkerung im Allgemeinen einen gemeinsamen Nenner darstellte.
 
-Die Annahme, dass die direkteste Übersetzung die richtige ist, vermindert das Problem, dass der Übersetzer seine eigene Interpretation des Textes hinzufügt. Ein praktisches Beispiel dafür könnte sein, dass man einen Begriff wie Nibbāna mit „Erlöschen“ übersetzt, anstatt ihm einen tieferen mystischen Sinn zu geben oder ihn gar unübersetzt zu lassen; das würde dem Leser wohl Tür und Tor dafür öffnen, seine eigenen Vorurteile auf das Wort zu projizieren.
+Die Annahme, dass die direkteste Übersetzung die richtige ist, vermindert das Problem, dass der Übersetzer seine eigene Interpretation des Textes hinzufügt. Ein praktisches Beispiel dafür könnte sein, dass man einen Begriff wie Nibbāna mit „Erlöschen“ übersetzt, anstatt ihm einen tieferen mystischen Sinn zu geben, oder ihn gar unübersetzt zu lassen; das würde dem Leser wohl Tür und Tor dafür öffnen, seine eigenen Vorurteile auf das Wort zu projizieren.
 
 ### (4) Den mündlichen Charakter des Textes (zum Teil) in eine literarische Form umwandeln
 

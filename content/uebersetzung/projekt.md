@@ -17,7 +17,7 @@ Das Projekt wurde in der zweiten Hälfte von 2019 begonnen und ist noch nicht ab
 
 #### Vorgehen
 
-Die ursprüngliche Quelle ist die digitale Mahāsaṅgīti-Ausgabe des Pali-Tipiṭaka, wie sie auf SuttaCentral vorliegt. Die Übersetzung stützt sich sehr stark auf Bhikkhu Sujatos englische Übersetzung, bestehende deutsche und andere englische Übersetzungen werden zu Referenzzwecken ebenfalls herangezogen.
+Die ursprüngliche Quelle ist die digitale Mahāsaṅgīti-Ausgabe des Pali-Tipiṭaka, wie sie auf SuttaCentral vorliegt. Die Übersetzung stützt sich sehr stark auf Bhikkhu Sujatos englische Übersetzung; bestehende deutsche und andere englische Übersetzungen werden zu Referenzzwecken ebenfalls herangezogen.
 
 #### Status der Veröffentlichung
 
