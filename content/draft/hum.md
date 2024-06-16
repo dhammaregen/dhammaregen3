@@ -42,15 +42,15 @@ Vom dreizehnten *stobha* heißt es, es sei *anirukta* und *saṁcara*. *Anirukta
 
 Und diese Bewegung spiegelt sich hier in der ungewöhnlichen Wahl *saṁcara* wider. Muttersprachliche Kommentatoren sagen, das könne bedeuten, dass die Bedeutung des Wortes variabel ist, dass jeder es ins einer Meditation deuten kann, wie er möchte; oder dass es das Innewohnen der Göttlichketi ist, die sich in allen Dingen bewegt. 
 
-Diese dreizehnte mystische Silabe, unbestimmt und sich stets verändernd, ist *huṁ*.
+Diese dreizehnte mystische Silbe, unbestimmt und sich stets verändernd, ist *huṁ*.
 
-Unser nicht namentlich benannter Brahmane ist nicht irgendeine zufällige Karikatur eines arroganten Priesters. Er ist ein Anhänger des Sāman-Veda, einer der Chāndogya-Brahmanen, einer, der versteht, dass die höchste Wahrheit der Göttlichkeit nur durch das ausgedrückt werden kann, was nicht aussprechbar ist. 
+Unser nicht namentlich genannter Brahmane ist nicht irgendeine zufällige Karikatur eines arroganten Priesters. Er ist ein Anhänger des Sāmaveda, einer der Chāndogya-Brahmanen, einer, der versteht, dass die höchste Wahrheit der Göttlichkeit nur durch das ausgedrückt werden kann, was nicht aussprechbar ist. 
 
 ## Phonetik
 
-The syllable *huṁ* is not meaningful, but nor is it arbitrary. The Sanskrit cardinal vowels have a sequence: *a*, *i*, *u*, where the *a* is produced with the mouth fully open, and *u* with the mouth nearly closed.
+Die Silbe *huṁ* hat keine Bedeutung, aber sie ist auch nicht beliebig. Die Hauptvokale des Sanskrit haben eine Reihenfolge: *a*, *i*, *u*, wobei das *a* mit vollständig geöffnetem Mund erzeugt wird und das *u* mit fast geschlossenem Mund. 
 
-Thus the choice of *u* here reflects the place of the syllable as the last of the *stobhas*, the most closed-off and phonetically indistinct sound sound just before silence itself.
+Daher spiegelt die Wahl des *u* hier den Platz der Silbe als letzter der *stobhas* wieder, den geschlossensten und phonetisch unbestimmtesten Laut unmittelbar vor der Stille. 
 
 ## Die Beständigkeit der Silbe *huṁ*
 
