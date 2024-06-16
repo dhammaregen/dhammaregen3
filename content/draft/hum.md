@@ -20,7 +20,7 @@ Wie, wenn wir alle falsch gelegen hätten?
 
 Wer meine Arbeit über die Lehren des Buddha als Dialog mit den Menschen um ihn herum verfolgt hat, weiß sicher, dass ich häufig auf die Bṛhadāraṇyaka-Upaniṣad verweise, die älteste, längste und bedeutendste der brahmanischen Upanishaden und die, mit der der Buddha die engste Verbindung hatte. Ich glaube, wir haben genügend Hinweise, die den Schluss erlauben, dass es diese Tradition war, in der der Bodhisatta vor seinem Erwachen studierte. 
 
-Doch die Suttas kennen vier upanishadische Traditionen, darunter auch eine Gruppe, die als die „[Chandoka-Brahmanen](https://suttacentral.net/dn13/de/sabbamitta?lang=de&layout=plain&reference=main&notes=sidenotes&highlight=false&script=latin#10.2)“ bekannt ist und die die Chāndogya-Upaniṣad studierte. Und während Verbindungen zur Bṛhadāraṇyaka am häufigsten sind, fehlen doch in den Suttas auch Anspielungen auf die Chāndogya und Verbindungen zu ihr nicht. 
+Doch die Suttas kennen vier upanishadische Traditionen, darunter auch eine Gruppe, die als die „[Chāndogya-Brahmanen](https://suttacentral.net/dn13/de/sabbamitta?lang=de&layout=plain&reference=main&notes=sidenotes&highlight=false&script=latin#10.2)“ bekannt ist und die die Chāndogya-Upaniṣad studierte. Und während Verbindungen zur Bṛhadāraṇyaka am häufigsten sind, fehlen doch in den Suttas auch Anspielungen auf die Chāndogya und Verbindungen zu ihr nicht. 
 
 Jede der Upanishaden ist mit einem bestimmten vedischen Text assoziiert und betont die Besonderheit dieses Textes. Die Bṛhadāraṇyaka ist Teil der Yajurveda-Tradition und betont die Handlung des Rituals und des Opfers. Sie beginnt mit einer langatmigen Besprechung der mystischen Bedeutung des Pferdeopfers. Es ist kein Zufall, dass hier der Ort ist, an dem wir das Aufkommen der Doktrin vom *Karma* finden. 
 
@@ -40,11 +40,11 @@ Dann haben wir das dreizehnte und letzte *stobha* des dreizehnten und letzten Ab
 
 Vom dreizehnten *stobha* heißt es, es sei *anirukta* und *saṁcara*. *Anirukta* heißt „unbestimmt“, „undeutlich“, „nicht aussprechbar“. Das hat eine praktische Bedeutung: Im Unterschied zum „laut vorgetragenen“ *udgītha* wird dieses eben noch gemurmelt, kaum hörbar. Aber seine fehlende Hörbarkeit ist seine „geheime Bedeutung“, denn es ist die nicht ausdrückbare Wirklichkeit, die die primordiale Göttlichkeit ist, *brahman*. Das ist der Grund, warum es das letzte Wort über die Deutung des Sāma ist; gerade wie die höchste Handlung die Ruhe ist, so ist der höchste Ausdruck die Erkenntnis, dass die Wirklichkeit nicht ausgedrückt werden kann. Die Deutung der Liturgie bewegt sich unausweichlich zur Stille jenseits der Liturgie hin. 
 
-And that movement is reflected in the unusual choice *saṁcara* here. Native commentators say this can mean that the meaning of the word is variable, that any meditation can interpret it as they please; or that it is the immanence of divinity moving within all things.
+Und diese Bewegung spiegelt sich hier in der ungewöhnlichen Wahl *saṁcara* wider. Muttersprachliche Kommentatoren sagen, das könne bedeuten, dass die Bedeutung des Wortes variabel ist, dass jeder es ins einer Meditation deuten kann, wie er möchte; oder dass es das Innewohnen der Göttlichketi ist, die sich in allen Dingen bewegt. 
 
-That thirteenth mystic syllable, undefined and ever-shifting, is *huṁ*.
+Diese dreizehnte mystische Silabe, unbestimmt und sich stets verändernd, ist *huṁ*.
 
-Our unnamed brahmin is not some random caricature of an arrogant priest. He is a devotee of the Sāman Veda, one of the Chandoka brahmins, one who understands that the ultimate truth of divinity is only expressed through the inexpressible.
+Unser nicht namentlich benannter Brahmane ist nicht irgendeine zufällige Karikatur eines arroganten Priesters. Er ist ein Anhänger des Sāman-Veda, einer der Chāndogya-Brahmanen, einer, der versteht, dass die höchste Wahrheit der Göttlichkeit nur durch das ausgedrückt werden kann, was nicht aussprechbar ist. 
 
 ## Phonetik
 
