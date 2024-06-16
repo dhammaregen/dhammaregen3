@@ -28,7 +28,7 @@ So, wie es die Absicht der Bṛhadāraṇyaka ist, die mystische und kontemplati
 
 ## Die mystischen Silben (*stobha*)
 
-Das erste Kapitel der Chāndogya legt die Bedeutung der Liturgie dar, besonders, wie sie in der mystischen Silbe *oṁ* enthalten ist, die *udgītha* genannt wird, „das laut Vorgetragene“. Das *udgītha* steht am Anfang jedes Rituals.
+Das erste Kapitel der Chāndogya legt die Bedeutung der Liturgie dar, besonders, wie sie in der mystischen Silbe *om* enthalten ist, die *udgītha* genannt wird, „das laut Vorgetragene“. Das *udgītha* steht am Anfang jedes Rituals.
 
 Nun gibt es in diesem Kapitel zwölf Abschnitte, die vom *udgītha* handeln. Der dreizehnte und letzte Abschnitt wendet sich einem nebensächlichen Thema zu, den *stobha* oder tonalen Interjektionen. Diese werden im Laufe des Rituals geäußert. Es sind Silben, die an sich bedeutungslos sind, denen aber die Chāndogya eine kontemplative Bedeutung innerhalb der Liturgie zuordnet. 
 
@@ -52,9 +52,9 @@ Die Silbe *huṁ* hat keine Bedeutung, aber sie ist auch nicht beliebig. Die Hau
 
 Daher spiegelt die Wahl des *u* hier den Platz der Silbe als letzter der *stobhas* wieder, den geschlossensten und phonetisch unbestimmtesten Laut unmittelbar vor der Stille. 
 
-## Die Beständigkeit der Silbe *huṁ*
+## Die Langlebigkeit der Silbe *huṁ*
 
-While not rivaling the ubiquity of the opening syllable *om*, *huṁ* nonetheless went on to have a distinguished career in later Hindu texts, where we find the phrase *huṁkāra* (“maker of *huṁ*”) many times. We even find the reduplicated form *huṁhuṁ* as in our Sutta, for example in the later literary work Bṛhatkathāślokasaṁgraha 21.146.
+Obwohl sie mit der Allgegenwart der Anfangssilbe *om* nicht konkurrieren kann, war der Silbe *huṁ* dennoch eine bedeutende Karriere in späteren Hindutexten beschieden, wo wir Wendungen wie *huṁkāra* (*huṁ*-Macher) häufig antreffen. Wir finden sogar die verdoppelte Form *huṁhuṁ* wie in unserem Sutta, zum Beispiel in dem späteren literarischen Werk Bṛhatkathāślokasaṁgraha 21.146. 
 
 It was featured in Shaivite tantra, and there is even an entire tantra devoted to it, the Hūṅkāra Tantra. From there it was adopted by the Tibetans in such texts as the Ḍākārṇava Tantra, where it is said to be recited at the end, reflecting its phonetic quality exactly as in the Upaniṣad.
 
