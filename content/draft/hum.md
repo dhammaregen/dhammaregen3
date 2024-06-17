@@ -14,7 +14,7 @@ Von dem Brahmanen heißt es, er äußere die Silben *huṁ*, *huṁ*. Der Kommen
 
 Wie, wenn wir alle falsch gelegen hätten?
 
-[In diese Aufzählung können wir noch [Karl Seidenstücker](https://suttacentral.net/ud1.4/de/seidenstuecker?lang=de) und [Maitrimurti/Trätow](https://suttacentral.net/pli-tv-kd1/de/maitrimurti-traetow?lang=de&reference=main&highlight=false#mt1-8) einreihen. [Fritz Schäfer](https://www.palikanon.com/khuddaka/udana/ud_1.htm) ging aber mit „*ein Mantras murmelnder Brahmane*“ einen anderen Weg. AdÜ]
+[In diese Aufzählung können wir noch [Karl Seidenstücker](https://suttacentral.net/ud1.4/de/seidenstuecker?lang=de) und [Maitrimurti/Trätow](https://suttacentral.net/pli-tv-kd1/de/maitrimurti-traetow?lang=de&reference=main&highlight=false#mt1-8) einreihen. [Fritz Schäfer](https://www.palikanon.com/khuddaka/udana/ud_1.htm) ging aber mit „*ein Mantras murmelnder Brahmane*“ einen anderen Weg. A.d.Ü.]
 
 ## Die Chāndogya-Upaniṣad
 
@@ -22,9 +22,9 @@ Wer meine Arbeit über die Lehren des Buddha als Dialog mit den Menschen um ihn 
 
 Doch die Suttas kennen vier upanishadische Traditionen, darunter auch eine Gruppe, die als die „[Chāndogya-Brahmanen](https://suttacentral.net/dn13/de/sabbamitta?lang=de&layout=plain&reference=main&notes=sidenotes&highlight=false&script=latin#10.2)“ bekannt ist und die die Chāndogya-Upaniṣad studierte. Und während Verbindungen zur Bṛhadāraṇyaka am häufigsten sind, fehlen doch in den Suttas auch Anspielungen auf die Chāndogya und Verbindungen zu ihr nicht. 
 
-Jede der Upanishaden ist mit einem bestimmten vedischen Text assoziiert und betont die Besonderheit dieses Textes. Die Bṛhadāraṇyaka ist Teil der Yajurveda-Tradition und betont die Handlung des Rituals und des Opfers. Sie beginnt mit einer langatmigen Besprechung der mystischen Bedeutung des Pferdeopfers. Es ist kein Zufall, dass hier der Ort ist, an dem wir das Aufkommen der Doktrin vom *Karma* finden. 
+Jede der Upanishaden ist mit einem bestimmten vedischen Text assoziiert und betont die Besonderheit dieses Textes. Die Bṛhadāraṇyaka ist Teil der Yajurveda-Tradition und betont die Geste des Rituals und des Opfers. Sie beginnt mit einer langatmigen Besprechung der mystischen Bedeutung des Pferdeopfers. Es ist kein Zufall, dass hier der Ort ist, an dem wir das Aufkommen der Doktrin vom *Karma* finden. 
 
-So, wie es die Absicht der Bṛhadāraṇyaka ist, die mystische und kontemplative Weisheit, die implizit in den Handlungen des Rituals liegt, auszuweiten, legt die Chāndogya die Bedeutung der Worte des Rituals offen. Sie gehört zur liturgischen Tradition des Sāmaveda und wurde von jenen brahmanischen Priestern studiert, die die Liturgie rezitierten. 
+So, wie es die Absicht der Bṛhadāraṇyaka ist, die mystische und kontemplative Weisheit, die implizit in den Gesten des Rituals liegt, auszuweiten, legt die Chāndogya die Bedeutung der Worte des Rituals offen. Sie gehört zur liturgischen Tradition des Sāmaveda und wurde von jenen brahmanischen Priestern studiert, die die Liturgie rezitierten. 
 
 ## Die mystischen Silben (*stobha*)
 
@@ -38,7 +38,7 @@ Zwölf solchen Silben werden in Chāndogya-Upaniṣad 1.13 spezifische Bedeutung
 
 Dann haben wir das dreizehnte und letzte *stobha* des dreizehnten und letzten Abschnitts des Kapitels (1.13.3). Die Zahl dreizehn kommt wiederholt im Text vor und hat sicher eine Bedeutung; es ist die Portion, die von dem vollständigen Zyklus von zwölf (Monaten usw.) übrig ist. Das letzte *stobha* ist gemäß der Chāndogya die *vedopaniṣad* selbst, die verborgene Bedeutung oder Verbindung des Veda. Sie steht im Gegensatz zu den zwölf *stobhas*, die mit einem einzigen Begriff beschrieben werden. 
 
-Vom dreizehnten *stobha* heißt es, es sei *anirukta* und *saṁcara*. *Anirukta* heißt „unbestimmt“, „undeutlich“, „nicht aussprechbar“. Das hat eine praktische Bedeutung: Im Unterschied zum „laut vorgetragenen“ *udgītha* wird dieses eben noch gemurmelt, kaum hörbar. Aber seine fehlende Hörbarkeit ist seine „geheime Bedeutung“, denn es ist die nicht ausdrückbare Wirklichkeit, die die primordiale Göttlichkeit ist, *brahman*. Das ist der Grund, warum es das letzte Wort über die Deutung des Sāma ist; gerade wie die höchste Handlung die Ruhe ist, so ist der höchste Ausdruck die Erkenntnis, dass die Wirklichkeit nicht ausgedrückt werden kann. Die Deutung der Liturgie bewegt sich unausweichlich zur Stille jenseits der Liturgie hin. 
+Vom dreizehnten *stobha* heißt es, es sei *anirukta* und *saṁcara*. *Anirukta* heißt „unbestimmt“, „undeutlich“, „nicht aussprechbar“. Das hat eine praktische Bedeutung: Im Unterschied zum „laut vorgetragenen“ *udgītha* wird dieses eben noch gemurmelt, kaum hörbar. Aber seine fehlende Hörbarkeit ist seine „geheime Bedeutung“, denn es ist die nicht ausdrückbare Wirklichkeit, die die primordiale Göttlichkeit ist, *brahman*. Das ist der Grund, warum es das letzte Wort über die Deutung des Sāma ist; gerade wie die höchste Geste die Ruhe ist, so ist der höchste Ausdruck die Erkenntnis, dass die Wirklichkeit nicht ausgedrückt werden kann. Die Deutung der Liturgie bewegt sich unausweichlich zur Stille jenseits der Liturgie hin. 
 
 Und diese Bewegung spiegelt sich hier in der ungewöhnlichen Wahl *saṁcara* wider. Muttersprachliche Kommentatoren sagen, das könne bedeuten, dass die Bedeutung des Wortes variabel ist, dass jeder es ins einer Meditation deuten kann, wie er möchte; oder dass es das Innewohnen der Göttlichketi ist, die sich in allen Dingen bewegt. 
 
@@ -54,7 +54,7 @@ Daher spiegelt die Wahl des *u* hier den Platz der Silbe als letzter der *stobha
 
 ## Die Langlebigkeit der Silbe *huṁ*
 
-Obwohl sie mit der Allgegenwart der Anfangssilbe *om* nicht konkurrieren kann, war der Silbe *huṁ* dennoch eine bedeutende Karriere in späteren Hindutexten beschieden, wo wir Wendungen wie *huṁkāra* (*huṁ*-Macher) häufig antreffen. Wir finden sogar die verdoppelte Form *huṁhuṁ* wie in unserem Sutta, zum Beispiel in dem späteren literarischen Werk Bṛhatkathāślokasaṁgraha 21.146. 
+Obwohl sie mit der Allgegenwart der Anfangssilbe *om* nicht konkurrieren kann, war der Silbe *huṁ* dennoch eine bedeutende Karriere in späteren Hindutexten beschieden, wo wir Wendungen wie *huṁkāra* (*Huṁ*-Macher) häufig antreffen. Wir finden sogar die verdoppelte Form *huṁhuṁ* wie in unserem Sutta, zum Beispiel in dem späteren literarischen Werk Bṛhatkathāślokasaṁgraha 21.146. 
 
 It was featured in Shaivite tantra, and there is even an entire tantra devoted to it, the Hūṅkāra Tantra. From there it was adopted by the Tibetans in such texts as the Ḍākārṇava Tantra, where it is said to be recited at the end, reflecting its phonetic quality exactly as in the Upaniṣad.
 
