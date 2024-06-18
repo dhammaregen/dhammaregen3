@@ -56,7 +56,7 @@ Daher spiegelt die Wahl des *u* hier den Platz der Silbe als letzter der *stobha
 
 Obwohl sie mit der Allgegenwart der Anfangssilbe *om* nicht konkurrieren kann, war der Silbe *huṁ* dennoch eine bedeutende Karriere in späteren Hindutexten beschieden, wo wir Wendungen wie *huṁkāra* (*Huṁ*-Macher) häufig antreffen. Wir finden sogar die verdoppelte Form *huṁhuṁ* wie in unserem Sutta, zum Beispiel in dem späteren literarischen Werk Bṛhatkathāślokasaṁgraha 21.146. 
 
-Sie wurde im Shaivitetantra in den Vordergrund gestellt, und es gibt sogar ein ganzes Tantra, das ihr gewidmet ist, das Hūṅkāratantra. Von da wurde sie von den Tibetern übernommen in Texten wie dem Ḍākārṇavatantra, wo es heißt, sie werde am Ende aufgesagt, was ihre phonetische Eigenschaft genauso widerspiegelt wie in der Upaniṣad. 
+Sie wurde im Shaivitetantra in den Vordergrund gestellt, und es gibt sogar ein ganzes Tantra, das ihr gewidmet ist, das Hūṅkāratantra. Von da wurde sie von den Tibetern übernommen in Texten wie dem Ḍākārṇavatantra, wo es heißt, sie werde am Ende aufgesagt, womit ihre phonetische Eigenschaft genauso widergespiegelt wird wie in der Upaniṣad. 
 
 Sie hat bis heute nicht an Popularität verloren, so sehr, dass die Meisten, die das hier lesen, sie wahrscheinlich irgendwann aufgesagt haben. Sie behält ihren Platz als letzte Silbe in dem berühmtesten Mantra überhaupt: *om mani padme huṁ*. 
 
