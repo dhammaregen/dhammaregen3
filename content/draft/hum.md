@@ -22,9 +22,9 @@ Wer meine Arbeit über die Lehren des Buddha als Dialog mit den Menschen um ihn 
 
 Doch die Suttas kennen vier upanishadische Traditionen, darunter auch eine Gruppe, die als die „[Chāndogya-Brahmanen](https://suttacentral.net/dn13/de/sabbamitta?lang=de&layout=plain&reference=main&notes=sidenotes&highlight=false&script=latin#10.2)“ bekannt ist und die die Chāndogya-Upaniṣad studierte. Und während Verbindungen zur Bṛhadāraṇyaka am häufigsten sind, fehlen doch in den Suttas auch Anspielungen auf die Chāndogya und Verbindungen zu ihr nicht. 
 
-Jede der Upanishaden ist mit einem bestimmten vedischen Text assoziiert und betont die Besonderheit dieses Textes. Die Bṛhadāraṇyaka ist Teil der Yajurveda-Tradition und betont die Geste des Rituals und des Opfers. Sie beginnt mit einer langatmigen Besprechung der mystischen Bedeutung des Pferdeopfers. Es ist kein Zufall, dass hier der Ort ist, an dem wir das Aufkommen der Doktrin vom *Karma* finden. 
+Jede der Upanishaden ist mit einem bestimmten vedischen Text assoziiert und betont die Besonderheit dieses Textes. Die Bṛhadāraṇyaka ist Teil der Yajurveda-Tradition und betont die Handlung des Rituals und des Opfers. Sie beginnt mit einer langatmigen Besprechung der mystischen Bedeutung des Pferdeopfers. Es ist kein Zufall, dass hier der Ort ist, an dem wir das Aufkommen der Doktrin vom *Karma* finden. 
 
-So, wie es die Absicht der Bṛhadāraṇyaka ist, die mystische und kontemplative Weisheit, die implizit in den Gesten des Rituals liegt, auszuweiten, legt die Chāndogya die Bedeutung der Worte des Rituals offen. Sie gehört zur liturgischen Tradition des Sāmaveda und wurde von jenen brahmanischen Priestern studiert, die die Liturgie rezitierten. 
+So, wie es die Absicht der Bṛhadāraṇyaka ist, die mystische und kontemplative Weisheit, die implizit in den Handlungen des Rituals liegt, auszuweiten, legt die Chāndogya die Bedeutung der Worte des Rituals offen. Sie gehört zur liturgischen Tradition des Sāmaveda und wurde von jenen brahmanischen Priestern studiert, die die Liturgie rezitierten. 
 
 ## Die mystischen Silben (*stobha*)
 
@@ -38,9 +38,9 @@ Zwölf solchen Silben werden in Chāndogya-Upaniṣad 1.13 spezifische Bedeutung
 
 Dann haben wir das dreizehnte und letzte *stobha* des dreizehnten und letzten Abschnitts des Kapitels (1.13.3). Die Zahl dreizehn kommt wiederholt im Text vor und hat sicher eine Bedeutung; es ist die Portion, die von dem vollständigen Zyklus von zwölf (Monaten usw.) übrig ist. Das letzte *stobha* ist gemäß der Chāndogya die *vedopaniṣad* selbst, die verborgene Bedeutung oder Verbindung des Veda. Sie steht im Gegensatz zu den zwölf *stobhas*, die mit einem einzigen Begriff beschrieben werden. 
 
-Vom dreizehnten *stobha* heißt es, es sei *anirukta* und *saṁcara*. *Anirukta* heißt „unbestimmt“, „undeutlich“, „nicht aussprechbar“. Das hat eine praktische Bedeutung: Im Unterschied zum „laut vorgetragenen“ *udgītha* wird dieses eben noch gemurmelt, kaum hörbar. Aber seine fehlende Hörbarkeit ist seine „geheime Bedeutung“, denn es ist die nicht ausdrückbare Wirklichkeit, die die primordiale Göttlichkeit ist, *brahman*. Das ist der Grund, warum es das letzte Wort über die Deutung des Sāma ist; gerade wie die höchste Geste die Ruhe ist, so ist der höchste Ausdruck die Erkenntnis, dass die Wirklichkeit nicht ausgedrückt werden kann. Die Deutung der Liturgie bewegt sich unausweichlich zur Stille jenseits der Liturgie hin. 
+Vom dreizehnten *stobha* heißt es, es sei *anirukta* und *saṁcara*. *Anirukta* heißt „unbestimmt“, „undeutlich“, „nicht aussprechbar“. Das hat eine praktische Bedeutung: Im Unterschied zum „laut vorgetragenen“ *udgītha* wird dieses eben noch gemurmelt, kaum hörbar. Aber seine fehlende Hörbarkeit ist seine „geheime Bedeutung“, denn es ist die nicht ausdrückbare Wirklichkeit, die die primordiale Göttlichkeit ist, *brahman*. Das ist der Grund, warum es das letzte Wort über die Deutung des Sāma ist; gerade wie die höchste Handlung die Ruhe ist, so ist der höchste Ausdruck die Erkenntnis, dass die Wirklichkeit nicht ausgedrückt werden kann. Die Deutung der Liturgie bewegt sich unausweichlich zur Stille jenseits der Liturgie hin. 
 
-Und diese Bewegung spiegelt sich hier in der ungewöhnlichen Wahl *saṁcara* wider. Muttersprachliche Kommentatoren sagen, das könne bedeuten, dass die Bedeutung des Wortes variabel ist, dass jeder es ins einer Meditation deuten kann, wie er möchte; oder dass es das Innewohnen der Göttlichketi ist, die sich in allen Dingen bewegt. 
+Und diese Bewegung spiegelt sich hier in der ungewöhnlichen Wahl *saṁcara* wider. Muttersprachliche Kommentatoren sagen, das könne bedeuten, dass die Bedeutung des Wortes variabel ist, dass jeder es in seiner Meditation deuten kann, wie er möchte; oder dass es das Innewohnen der Göttlichketi ist, die sich in allen Dingen bewegt. 
 
 Diese dreizehnte mystische Silbe, unbestimmt und sich stets verändernd, ist *huṁ*.
 
@@ -56,13 +56,13 @@ Daher spiegelt die Wahl des *u* hier den Platz der Silbe als letzter der *stobha
 
 Obwohl sie mit der Allgegenwart der Anfangssilbe *om* nicht konkurrieren kann, war der Silbe *huṁ* dennoch eine bedeutende Karriere in späteren Hindutexten beschieden, wo wir Wendungen wie *huṁkāra* (*Huṁ*-Macher) häufig antreffen. Wir finden sogar die verdoppelte Form *huṁhuṁ* wie in unserem Sutta, zum Beispiel in dem späteren literarischen Werk Bṛhatkathāślokasaṁgraha 21.146. 
 
-It was featured in Shaivite tantra, and there is even an entire tantra devoted to it, the Hūṅkāra Tantra. From there it was adopted by the Tibetans in such texts as the Ḍākārṇava Tantra, where it is said to be recited at the end, reflecting its phonetic quality exactly as in the Upaniṣad.
+Sie wurde im Shaivitetantra in den Vordergrund gestellt, und es gibt sogar ein ganzes Tantra, das ihr gewidmet ist, das Hūṅkāratantra. Von da wurde sie von den Tibetern übernommen in Texten wie dem Ḍākārṇavatantra, wo es heißt, sie werde am Ende aufgesagt, was ihre phonetische Eigenschaft genauso widerspiegelt wie in der Upaniṣad. 
 
-It remains no less popular today, so much so that most of those those reading this will probably have recited it at some point. It retains its place as the final syllable in the most famous mantra of all: *om mani padme hum*.
+Sie hat bis heute nicht an Popularität verloren, so sehr, dass die Meisten, die das hier lesen, sie wahrscheinlich irgendwann aufgesagt haben. Sie behält ihren Platz als letzte Silbe in dem berühmtesten Mantra überhaupt: *om mani padme huṁ*. 
 
-Thus the very same syllable that the Buddha used as an example of the mysticism that we should *not* follow is used as a mystic syllable by Buddhists, 2,500 years later.
+So wird genau die Silbe, die der Buddha als Beispiel für den Mystizismus anführte, dem wir *nicht* folgen sollen, 2.500 Jahre später von Buddhisten als mystische Silbe benutzt. 
 
-## Das restliche Sutta
+## Der Rest des Sutta
 
 The sutta itself is brief. The brahmin does not display any signs of arrogance. Rather, he approaches the Budddha when he has arisen from meditation, and politely asks him what makes a true brahmin, which the Buddha answers with a single verse.
 
