@@ -64,14 +64,14 @@ So wird genau die Silbe, die der Buddha als Beispiel für den Mystizismus anfüh
 
 ## Der Rest des Sutta
 
-The sutta itself is brief. The brahmin does not display any signs of arrogance. Rather, he approaches the Budddha when he has arisen from meditation, and politely asks him what makes a true brahmin, which the Buddha answers with a single verse.
+Das Sutta selbst ist kurz. Der Brahmane zeigt keine Zeichen von Selbstgefälligkeit. Vielmehr begibt er sich zum Buddha, als dieser aus der Meditation herausgetreten ist, und fragt höflich, was einen wahren Brahmanen ausmache, worauf der Buddha mit einer einzigen Strophe antwortet. 
 
-As usual, most of the text, both prose and verse, is part of the shared vocabulary of the suttas and is not distinctive of this sutta.
+Wie gewöhnlich ist der Großteil des Textes, sowohl der Prosa als auch der Strophe, Teil des gemeinsamen Vokabulars der Suttas und ist nicht für dieses Sutta charakteristisch. 
 
-There are, however, two unusual phrases, both of which are shared with the Chāndogya.
+Es gibt allerdings zwei ungewöhnliche Wendungen, die beide auch in der Chāndogya vorkommen. 
 
-* *Nikkasāvo* “free of stains” occurs elsewhere in only one verse in the negative; the same verse is found at both [Dhp 9](https://suttacentral.net/dhp9/en/sujato) and [Thag 17.1](https://suttacentral.net/thag17.1/en/sujato). *Kāsāva* means “stain, dye” and is usually used in a literal sense, rather than as a metaphor for defilements as here. It appears in the same sense at occurs in the same sense at Chāndogya Upaniṣad 7.26.2, *mṛditakaṣāyāya*, which is, I believe the only occurrence in this sense in early Sanskrit.
-* *Brahmavāda* “divine doctrine” occurs nowhere else in Pali. In Brahmanical texts it has the sense of “orthodox Vedic doctrine” (Atharva Veda 11.3.26a, 15.1.8a; Bṛhadāraṇyaka Upaniṣad 14.7.3.1; Chāndogya Upaniṣad 2.24.1), comparable to the sense of Theravāda (“doctrine of the elders”). Here the Buddha, as so often, adapts the meaning to his own ends.
+* *Nikkasāvo*, „frei von Flecken“, kommt anderswo nur in Strophen und in der Verneinungsform vor; man findet den gleichen Vers sowohl in [Dhp 9](#/sutta/dhp9/de/sabbamitta) and [Thag 17.1](#/sutta/thag17.1/de/sabbamitta). *Kāsāva* bedeutet „Fleck, Farbe“ und wird gewöhnlich im wörtlichen Sinn gebraucht, statt wie hier als Metapher für Befleckunge. Es kommt im gleichen Sinn in Chāndogya-Upaniṣad 7.26.2 vor, *mṛditakaṣāyāya*, was, so glaube ich, das einzige Vorkommen in dieser Bedetung im frühen Sanskrit ist. 
+* *Brahmavāda*, „göttliche Doktrin“, kommt sonst nirgends im Pali vor. In brahmanischen Texten hat es die Bedeutung „orthodoxe vedische Doktrin“ (Atharvaveda 11.3.26a, 15.1.8a; Bṛhadāraṇyaka-Upaniṣad 14.7.3.1; Chāndogya-Upaniṣad 2.24.1), vergleichbar der Bedeutung von Theravāda „Doktrin der Altehrwürdigen“. Hier passt der Buddha, wie so oft, die Bedeutung im Sinn seiner eigenen Ziele an. 
 
 Thus we have three distinctive terms, all of which are found in the Chāndogya, reinforcing the connection between the Sutta and the Upaniṣad.
 
