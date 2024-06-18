@@ -70,7 +70,7 @@ Wie gewöhnlich ist der Großteil des Textes, sowohl der Prosa als auch der Stro
 
 Es gibt allerdings zwei ungewöhnliche Wendungen, die beide auch in der Chāndogya vorkommen. 
 
-* *Nikkasāvo*, „frei von Flecken“, kommt anderswo nur in Strophen und in der Verneinungsform vor; man findet den gleichen Vers sowohl in [Dhp 9](#/sutta/dhp9/de/sabbamitta) and [Thag 17.1](#/sutta/thag17.1/de/sabbamitta). *Kāsāva* bedeutet „Fleck, Farbe“ und wird gewöhnlich im wörtlichen Sinn gebraucht, statt wie hier als Metapher für Befleckunge. Es kommt im gleichen Sinn in Chāndogya-Upaniṣad 7.26.2 vor, *mṛditakaṣāyāya*, was, so glaube ich, das einzige Vorkommen in dieser Bedetung im frühen Sanskrit ist. 
+* *Nikkasāvo*, „frei von Flecken“, kommt anderswo nur in Strophen und in der Verneinungsform vor; man findet den gleichen Vers sowohl in [Dhp 9](#/sutta/dhp9:1/de/sabbamitta) and [Thag 17.1](#/sutta/thag17.1/de/sabbamitta). *Kāsāva* bedeutet „Fleck, Farbe“ und wird gewöhnlich im wörtlichen Sinn gebraucht, statt wie hier als Metapher für Befleckungen. Es kommt im gleichen Sinn in Chāndogya-Upaniṣad 7.26.2 vor, *mṛditakaṣāyāya*, was, so glaube ich, das einzige Vorkommen in dieser Bedetung im frühen Sanskrit ist. 
 * *Brahmavāda*, „göttliche Doktrin“, kommt sonst nirgends im Pali vor. In brahmanischen Texten hat es die Bedeutung „orthodoxe vedische Doktrin“ (Atharvaveda 11.3.26a, 15.1.8a; Bṛhadāraṇyaka-Upaniṣad 14.7.3.1; Chāndogya-Upaniṣad 2.24.1), vergleichbar der Bedeutung von Theravāda „Doktrin der Altehrwürdigen“. Hier passt der Buddha, wie so oft, die Bedeutung im Sinn seiner eigenen Ziele an. 
 
 Thus we have three distinctive terms, all of which are found in the Chāndogya, reinforcing the connection between the Sutta and the Upaniṣad.
