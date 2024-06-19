@@ -16,7 +16,7 @@ Wie, wenn wir alle falsch gelegen hätten?
 
 [In diese Aufzählung können wir noch [Karl Seidenstücker](https://suttacentral.net/ud1.4/de/seidenstuecker?lang=de) und [Maitrimurti/Trätow](https://suttacentral.net/pli-tv-kd1/de/maitrimurti-traetow?lang=de&reference=main&highlight=false#mt1-8) einreihen. [Fritz Schäfer](https://www.palikanon.com/khuddaka/udana/ud_1.htm) ging aber mit „*ein Mantras murmelnder Brahmane*“ einen anderen Weg. A.d.Ü.]
 
-## Die Chāndogya-Upaniṣad
+### Die Chāndogya-Upaniṣad
 
 Wer meine Arbeit über die Lehren des Buddha als Dialog mit den Menschen um ihn herum verfolgt hat, weiß sicher, dass ich häufig auf die Bṛhadāraṇyaka-Upaniṣad verweise, die älteste, längste und bedeutendste der brahmanischen Upanishaden und die, mit der der Buddha die engste Verbindung hatte. Ich glaube, wir haben genügend Hinweise, die den Schluss erlauben, dass es diese Tradition war, in der der Bodhisatta vor seinem Erwachen studierte. 
 
@@ -26,7 +26,7 @@ Jede der Upanishaden ist mit einem bestimmten vedischen Text assoziiert und beto
 
 So, wie es die Absicht der Bṛhadāraṇyaka ist, die mystische und kontemplative Weisheit, die implizit in den Handlungen des Rituals liegt, auszuweiten, legt die Chāndogya die Bedeutung der Worte des Rituals offen. Sie gehört zur liturgischen Tradition des Sāmaveda und wurde von jenen brahmanischen Priestern studiert, die die Liturgie rezitierten. 
 
-## Die mystischen Silben (*stobha*)
+### Die mystischen Silben (*stobha*)
 
 Das erste Kapitel der Chāndogya legt die Bedeutung der Liturgie dar, besonders, wie sie in der mystischen Silbe *om* enthalten ist, die *udgītha* genannt wird, „das laut Vorgetragene“. Das *udgītha* steht am Anfang jedes Rituals.
 
@@ -46,13 +46,13 @@ Diese dreizehnte mystische Silbe, unbestimmt und sich stets verändernd, ist *hu
 
 Unser nicht namentlich genannter Brahmane ist nicht irgendeine zufällige Karikatur eines arroganten Priesters. Er ist ein Anhänger des Sāmaveda, einer der Chāndogya-Brahmanen, einer, der versteht, dass die höchste Wahrheit der Göttlichkeit nur durch das ausgedrückt werden kann, was nicht aussprechbar ist. 
 
-## Phonetik
+### Phonetik
 
 Die Silbe *huṁ* hat keine Bedeutung, aber sie ist auch nicht beliebig. Die Hauptvokale des Sanskrit haben eine Reihenfolge: *a*, *i*, *u*, wobei das *a* mit vollständig geöffnetem Mund erzeugt wird und das *u* mit fast geschlossenem Mund. 
 
 Daher spiegelt die Wahl des *u* hier den Platz der Silbe als letzter der *stobhas* wieder, den geschlossensten und phonetisch unbestimmtesten Laut unmittelbar vor der Stille. 
 
-## Die Langlebigkeit der Silbe *huṁ*
+### Die Langlebigkeit der Silbe *huṁ*
 
 Obwohl sie mit der Allgegenwart der Anfangssilbe *om* nicht konkurrieren kann, war der Silbe *huṁ* dennoch eine bedeutende Karriere in späteren Hindutexten beschieden, wo wir Wendungen wie *huṁkāra* (*Huṁ*-Macher) häufig antreffen. Wir finden sogar die verdoppelte Form *huṁhuṁ* wie in unserem Sutta, zum Beispiel in dem späteren literarischen Werk Bṛhatkathāślokasaṁgraha 21.146. 
 
@@ -62,7 +62,7 @@ Sie hat bis heute nicht an Popularität verloren, so sehr, dass die Meisten, die
 
 So wird genau die Silbe, die der Buddha als Beispiel für den Mystizismus anführte, dem wir *nicht* folgen sollen, 2.500 Jahre später von Buddhisten als mystische Silbe benutzt. 
 
-## Der Rest des Sutta
+### Der Rest des Sutta
 
 Das Sutta selbst ist kurz. Der Brahmane zeigt keine Zeichen von Selbstgefälligkeit. Vielmehr begibt er sich zum Buddha, als dieser aus der Meditation herausgetreten ist, und fragt höflich, was einen wahren Brahmanen ausmache, worauf der Buddha mit einer einzigen Strophe antwortet. 
 
@@ -73,18 +73,18 @@ Es gibt allerdings zwei ungewöhnliche Wendungen, die beide auch in der Chāndog
 * *Nikkasāvo*, „frei von Flecken“, kommt anderswo nur in Strophen und in der Verneinungsform vor; man findet den gleichen Vers sowohl in [Dhp 9](#/sutta/dhp9:1/de/sabbamitta) and [Thag 17.1](#/sutta/thag17.1/de/sabbamitta). *Kāsāva* bedeutet „Fleck, Farbe“ und wird gewöhnlich im wörtlichen Sinn gebraucht, statt wie hier als Metapher für Befleckungen. Es kommt im gleichen Sinn in Chāndogya-Upaniṣad 7.26.2 vor, *mṛditakaṣāyāya*, was, so glaube ich, das einzige Vorkommen in dieser Bedetung im frühen Sanskrit ist. 
 * *Brahmavāda*, „göttliche Doktrin“, kommt sonst nirgends im Pali vor. In brahmanischen Texten hat es die Bedeutung „orthodoxe vedische Doktrin“ (Atharvaveda 11.3.26a, 15.1.8a; Bṛhadāraṇyaka-Upaniṣad 14.7.3.1; Chāndogya-Upaniṣad 2.24.1), vergleichbar der Bedeutung von Theravāda „Doktrin der Altehrwürdigen“. Hier passt der Buddha, wie so oft, die Bedeutung im Sinn seiner eigenen Ziele an. 
 
-Thus we have three distinctive terms, all of which are found in the Chāndogya, reinforcing the connection between the Sutta and the Upaniṣad.
+Somit haben wir drei charakterisitsche Begriffe, die alle in der Chāndogya zu finden sind, was die Verbindung zwischen dem Sutta und der Upaniṣad bekräftigt. 
 
-*Brahmavāda* is, I think, particularly important. The fourth line of the verse is:
+*Brahmavāda* ist, denke ich, besonders bedeutsam. Die vierte Zeile der Strophe lautet: 
 
 > *Dhammena so brahmavādaṁ vadeyya*
-> they may legitimately proclaim the divine doctrine
+> ein solcher kann rechtmäßig die göttliche Doktrin verkünden
 
 This speaks to the overall theme of the text as a response to the liturgical tradition. One does not become a speaker of “divine doctrine” by merely reciting the words meaninglessly (which is what the Chāndogya Upaniṣad itself critiques), nor by assigning correct meanings to the words (as the Chāndogya teaches for the most part), nor even by uttering the unutterable through the syllable *huṁ* (which is the esoteric final meaning of the Chāndogya).
 
 A true brahmin is *nihuṁhuṅko*, “no reciter of the mystic syllable *huṁ*”, but rather, one who has mastered the Buddhist path, realizing the “veda” as taught by the Buddha.
 
-## Die fünfte Zeile
+### Die fünfte Zeile
 
 The connection between this sutta and “pride” is only suggested in the last line of the verse. But a closer inspection shows that this is not as clear as one might hope.
 
@@ -100,7 +100,7 @@ It is glossed in our oldest Sutta commentary, the late canonical text the Niddes
 
 Thus the fifth line is of dubious authenticity of itself, and the word in it that is taken as “pride” does not unambiguously connote that sense.
 
-## Der Erzählfluss
+### Der Erzählfluss
 
 Finally let us briefly consider the narrative or structural context. This sutta appears at one of the crucial junctures of the Buddha’s story, literally the first words he spoke to another being after awakening. We do not hear what happened to the brahmin.
 
