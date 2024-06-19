@@ -77,12 +77,12 @@ Somit haben wir drei charakterisitsche Begriffe, die alle in der Chāndogya zu f
 
 *Brahmavāda* ist, denke ich, besonders bedeutsam. Die vierte Zeile der Strophe lautet: 
 
-> *Dhammena so brahmavādaṁ vadeyya*
+> *Dhammena so brahmavādaṁ vadeyya*  
 > ein solcher kann rechtmäßig die göttliche Doktrin verkünden
 
-This speaks to the overall theme of the text as a response to the liturgical tradition. One does not become a speaker of “divine doctrine” by merely reciting the words meaninglessly (which is what the Chāndogya Upaniṣad itself critiques), nor by assigning correct meanings to the words (as the Chāndogya teaches for the most part), nor even by uttering the unutterable through the syllable *huṁ* (which is the esoteric final meaning of the Chāndogya).
+Das zeigt das Gesamtthema des Textes als Antwort auf die liturgische Tradition. Man wird kein Sprecher der „göttlichen Doktrin“, indem man bloß verständnislos die Worte aufsagt (was die Chāndogya-Upaniṣad selbst kritisiert), und auch nicht, indem man den Worten richtige Bedeutungen zuschreibt (was die Chāndogya größtenteils lehrt), und nicht einmal, indem man durch die Silbe *huṁ* das Unaussprechliche ausspricht (was die esoterische, letztendliche Bedeutung der Chāndogya ist). 
 
-A true brahmin is *nihuṁhuṅko*, “no reciter of the mystic syllable *huṁ*”, but rather, one who has mastered the Buddhist path, realizing the “veda” as taught by the Buddha.
+Ein wahrer Brahmane ist *nihuṁhuṅko*, „einer, der nicht ‚huṁ huṁ‘ murmelt“, sondern vielmehr einer, der den budhistischen Pfad gemeistert und den „Veda“ verwirklicht hat, wie er vom Buddha gelehrt wurde. 
 
 ### Die fünfte Zeile
 
