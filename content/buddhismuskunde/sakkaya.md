@@ -31,7 +31,7 @@ Die doktrinale Erklärung von *sakkāya* als die fünf Aggregate ist zwar gut ve
 
 Angesichts der Tatsache, dass *sakkāya* speziell dafür gebraucht wird, falsche Ansichten und Missverständnisse von Nicht-Buddhisten zu bezeichnen, scheint es naheliegend, in nicht-buddhistischen Texten zu suchen.
 
-Eine Suche durch die vorbuddhistische brahmanische Literatur verläuft ergebnislos. Nicht nur ist *sakkāya* nicht zu finden, sondern, noch interessanter, auch *kāya* selbst ist nicht zu finden. Oder zmindest konnte ich es nicht ausfindig machen. Wenn es da ist, ist das sicherlich nicht in irgendeinem doktrinal bedeutsamen Zusammenhang.
+Eine Suche durch die vorbuddhistische brahmanische Literatur verläuft ergebnislos. Nicht nur ist *sakkāya* nicht zu finden, sondern, noch interessanter, auch *kāya* selbst ist nicht zu finden. Oder zmindest konnte ich es nicht ausfindig machen. Wenn es da ist, dann sicherlich nicht in irgendeinem doktrinal bedeutsamen Zusammenhang.
 
 Doch dann fiel mir ein, dass *kāya* tatsächlich an doktrinal zentraler Stelle in [DN 2](#/sutta/dn2/de/sabbamitta) vorkommt, wenn gewisse Ansichten nicht-brahmanischer Asketen beschrieben werden.
 
