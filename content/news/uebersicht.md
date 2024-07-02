@@ -8,6 +8,11 @@ order: -9999
 
 Hier finden Sie eine kurze Themenübersicht der bisher erschienenen Newsletter. Klicken sie auf die Überschrift, um zu einem Newsletter zu gelangen.
 
+### [Juli 2024](#/wiki/news/2024-07)
+- Ein törichter Fragesteller … (MN 63, MN 64)
+- … gibt weise Antworten (AN 4.257, SN 35.95, Ud 1.10, Essay „Über sakkāya, Identität und substanzielle Wirklichkeit“)
+- Dhp 335-336 = Thag 6.5
+
 ### [Juni 2024](#/wiki/news/2024-06)
 - Jīvaka der Prinzenzögling (Kd 8)
 - Jīvaka als Schüler des Buddha (MN 55, AN 1.256, DN 2, AN 8.26, AN 6.120-139)
