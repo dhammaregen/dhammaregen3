@@ -14,4 +14,4 @@ Seit Juni 2022 bietet Dhammaregen in Kooperation mit [Aloka-Dharma-Zoom](https:/
 
 Wir verwenden ein Format, das sich an die [*lectio divina*](https://de.wikipedia.org/wiki/Lectio_divina) aus der alten christlichen Klostertradition anlehnt. Eine adaptierte Anleitung dazu finden Sie [hier](https://alokavihara.org/wp-content/uploads/2022/07/AnleitungKontemp.pdf) als PDF zum Herunterladen.
 
-Bei Interesse senden Sie bitte eine Email an dhammaregen@gmail.com. Sie werden dann kurz vor dem jeweiligen Termin die Zoom-Zugangsdaten erhalten.
+Bei Interesse senden Sie bitte eine Email an [dhammaregen@gmail.com](mailto:dhammaregen@gmail.com). Sie werden dann kurz vor dem jeweiligen Termin die Zoom-Zugangsdaten erhalten.
