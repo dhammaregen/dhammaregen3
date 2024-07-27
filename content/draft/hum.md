@@ -86,17 +86,17 @@ Ein wahrer Brahmane ist *nihuṁhuṅko*, „einer, der nicht ‚huṁ huṁ‘ 
 
 ### Die fünfte Zeile
 
-Die Verbindung zwischen diesem Sutta und „Überheblichkeit“ wird nur in der letzten Zeile der Strophe angedeutet. Aber eine nähere Betrachtung zeigt, dass das nicht so einduetig ist, wie man hoffen könnte. 
+Die Verbindung zwischen diesem Sutta und „Stolz“ wird nur in der letzten Zeile der Strophe angedeutet. Aber eine nähere Betrachtung zeigt, dass das nicht so einduetig ist, wie man hoffen könnte. 
 
 Nach der Erwähnung der „göttlichen Doktrin“ hat die Strophe eine fünfte Zeile. Das ist sehr ungewöhnlich, so ungewöhnlich, dass es tatsächlich die einzige Strophe mit fünf Zeilen im Udāna ist. Die Zeile selbst findet man im früheren Aṭṭhavagga ([Snp 4.3](#/sutta/snp4.3:4.4/de/sabbamitta)) 
 
-Hier folgt die fünfte nachhängende Zeile auf eine Zeile, die bereits grammatikalisch vollständig ist; in der vierten Zeile antwortet das Demonstrativpronomen *so* auf das Relativpronomen *yo* der eröffnenden Zeile. Vielleicht wurde die fünfte Zeile angefügt, um die Bedeutung des Ausdrucks *brahmavāda* herunterzuspielen. 
+Hier im Udāna folgt die fünfte nachhängende Zeile auf eine Zeile, die bereits grammatikalisch vollständig ist; in der vierten Zeile antwortet das Demonstrativpronomen *so* auf das Relativpronomen *yo* der eröffnenden Zeile. Vielleicht wurde die fünfte Zeile angefügt, um die Bedeutung des Ausdrucks *brahmavāda* herunterzuspielen. 
 
 Aber diese fünfte Zeile ist es, in der wir das Wort *ussada* finden, wörtlich „geschwollen, vorstehend“. Dieses Wort wird gewöhnlich gedeutet, als meine es „stolz, eitel“; vergleiche das englische Wort „proud“ (stolz) in der Bedeutung „über eine umgebende Fläche hinausragend“. 
 
 Doch diese Bedeutung von *ussada* ist schwach fundiert. Es ist ein poetischer Ausdruck. Manchmal legt der Kontext, besonders im Atthakavagga, eine enge Verbindung zu „Stolz“ nahe ([Snp 4.10](#/sutta/snp4.10:8.4/de/sabbamitta), [Snp 4.14](#/sutta/snp4.14:6.4/de/sabbamitta)). Aber diese Verbindung ist anderswo weniger offensichtlich ([Snp 3.6](#/sutta/snp3.6:14.4/de/sabbamitta), [Iti 97](#/sutta/iti97:8.4/de/sabbamitta), [Ud 1.4](#/sutta/ud1.4:4.5/de/sabbamitta) = [Kd 1](https://suttacentral.net/pli-tv-kd1/de/maitrimurti-traetow?lang=de&reference=main&highlight=false#mt1-8)). Die Abwesenheit von *ussada* ist ein Zeichen für einen wahren Brahmanen ([MN 98](#/sutta/mn98:11.20/de/sabbamitta), [Dhp 400](#/sutta/dhp400:2/de/sabbamitta), [Snp 3.9](#/sutta/snp3.9:36.2/de/sabbamitta)).
 
-Das Wort wird in unserem ältesten Suttakommentar, dem spätkanonischen Text Niddesa, erklärt. Dieses bringt es nicht speziell mit Stolz in Verbindung, sondern erklärt es als siebenfach: Gier, Hass, Täuschung, Einbildung, Ansichten, Verunreinigungen und Taten (Mnd 10:105.4). Der Ehrwürdige Bodhi gibt es in seinen jüngsten Übersetzungen wörtlich mit „Schwellung“ wider. 
+Das Wort wird in unserem ältesten Suttakommentar, dem spätkanonischen Text Niddesa, kommentiert. Dieses bringt es nicht speziell mit Stolz in Verbindung, sondern erklärt es als siebenfach: Gier, Hass, Täuschung, Einbildung, Ansichten, Verunreinigungen und Taten ([Mnd 10:105.4](https://suttacentral.net/mnd10/pli/ms?lang=de&layout=linebyline&reference=main&notes=sidenotes&highlight=false&script=latin#105.3)). Der Ehrwürdige Bodhi gibt es in seinen jüngsten Übersetzungen wörtlich mit „Schwellung“ wider. 
 
 Somit ist die fünfte Zeile selbst von zweifelhafter Authentizität, und das Wort darin, das als „Stolz“ verstanden wird, enthält nicht eindutig diese Bedeutung. 
 
