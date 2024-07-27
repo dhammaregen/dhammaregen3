@@ -86,11 +86,11 @@ Ein wahrer Brahmane ist *nihuṁhuṅko*, „einer, der nicht ‚huṁ huṁ‘ 
 
 ### Die fünfte Zeile
 
-The connection between this sutta and “pride” is only suggested in the last line of the verse. But a closer inspection shows that this is not as clear as one might hope.
+Die Verbindung zwischen diesem Sutta und „Überheblichkeit“ wird nur in der letzten Zeile der Strophe angedeutet. Aber eine nähere Betrachtung zeigt, dass das nicht so einduetig ist, wie man hoffen könnte. 
 
-Following the mention of the “divine doctrine” the verse has a fifth line. This is highly unusual, so unusual that it is in fact the only five-line verse in the Udāna. The line itself is found in the earlier Aṭṭhavagga ([Snp 4.3](https://suttacentral.net/snp4.3/en/sujato):4.4).
+Nach der Erwähnung der „göttlichen Doktrin“ hat die Strophe eine fünfte Zeile. Das ist sehr ungewöhnlich, so ungewöhnlich, dass das tatsächlich die einzige Strophe mit fünf Zeilen im Udāna ist. Die Zeile selbst findet man im früheren Aṭṭhavagga ([Snp 4.3](https://suttacentral.net/snp4.3/en/sujato):4.4)The line itself is found in the earlier Aṭṭhavagga ([Snp 4.3](#/sutta/snp4.3:4.4/de/sabbamitta).
 
-Here the fifth dangling line follows a line that is already grammatically complete; in the fourth line, the demonstrative *so* answers the relative *yo* in the opening line. Perhaps the fifth line was added to downplay the importance of the term *brahmavāda*.
+Hier folgt die fünfte nachhängende Zeile auf eine Zeile, die bereits grammatikalisch vollständig ist; in der vierten Zeile antwortet das Demonstrativpronomen *so* auf das Relativpronomen *yo* in der eröffnenden Zeile. Vielleicht wurde die fünfte Zeile angefügt, um die Bedeutung des Ausdrucks *brahmavāda* herunterzuspielen. 
 
 But it is in this fifth line that we find the word *ussada*, literally “swelling”, “prominence”. This word is usually interpreted as meaning “proud, vain”; compare the English word “proud” in the sense of “raised above a surrounding area”.
 
