@@ -88,7 +88,7 @@ Ein wahrer Brahmane ist *nihuṁhuṅko*, „einer, der nicht ‚huṁ huṁ‘ 
 
 Die Verbindung zwischen diesem Sutta und „Stolz“ wird nur in der letzten Zeile der Strophe angedeutet. Aber eine nähere Betrachtung zeigt, dass das nicht so einduetig ist, wie man hoffen könnte. 
 
-Nach der Erwähnung der „göttlichen Doktrin“ hat die Strophe eine fünfte Zeile. Das ist sehr ungewöhnlich, so ungewöhnlich, dass es tatsächlich die einzige Strophe mit fünf Zeilen im Udāna ist. Die Zeile selbst findet man im früheren Aṭṭhavagga ([Snp 4.3](#/sutta/snp4.3:4.4/de/sabbamitta)) 
+Nach der Erwähnung der „göttlichen Doktrin“ hat die Strophe eine fünfte Zeile. Das ist sehr ungewöhnlich, so ungewöhnlich, dass es tatsächlich die einzige Strophe mit fünf Zeilen im Udāna ist. Die Zeile selbst findet man im früheren Aṭṭhavagga ([Snp 4.3](#/sutta/snp4.3:4.4/de/sabbamitta)).
 
 Hier im Udāna folgt die fünfte nachhängende Zeile auf eine Zeile, die bereits grammatikalisch vollständig ist; in der vierten Zeile antwortet das Demonstrativpronomen *so* auf das Relativpronomen *yo* der eröffnenden Zeile. Vielleicht wurde die fünfte Zeile angefügt, um die Bedeutung des Ausdrucks *brahmavāda* herunterzuspielen. 
 
@@ -96,21 +96,21 @@ Aber diese fünfte Zeile ist es, in der wir das Wort *ussada* finden, wörtlich 
 
 Doch diese Bedeutung von *ussada* ist schwach fundiert. Es ist ein poetischer Ausdruck. Manchmal legt der Kontext, besonders im Atthakavagga, eine enge Verbindung zu „Stolz“ nahe ([Snp 4.10](#/sutta/snp4.10:8.4/de/sabbamitta), [Snp 4.14](#/sutta/snp4.14:6.4/de/sabbamitta)). Aber diese Verbindung ist anderswo weniger offensichtlich ([Snp 3.6](#/sutta/snp3.6:14.4/de/sabbamitta), [Iti 97](#/sutta/iti97:8.4/de/sabbamitta), [Ud 1.4](#/sutta/ud1.4:4.5/de/sabbamitta) = [Kd 1](https://suttacentral.net/pli-tv-kd1/de/maitrimurti-traetow?lang=de&reference=main&highlight=false#mt1-8)). Die Abwesenheit von *ussada* ist ein Zeichen für einen wahren Brahmanen ([MN 98](#/sutta/mn98:11.20/de/sabbamitta), [Dhp 400](#/sutta/dhp400:2/de/sabbamitta), [Snp 3.9](#/sutta/snp3.9:36.2/de/sabbamitta)).
 
-Das Wort wird in unserem ältesten Suttakommentar, dem spätkanonischen Text Niddesa, kommentiert. Dieses bringt es nicht speziell mit Stolz in Verbindung, sondern erklärt es als siebenfach: Gier, Hass, Täuschung, Einbildung, Ansichten, Verunreinigungen und Taten ([Mnd 10:105.4](https://suttacentral.net/mnd10/pli/ms?lang=de&layout=linebyline&reference=main&notes=sidenotes&highlight=false&script=latin#105.3)). Der Ehrwürdige Bodhi gibt es in seinen jüngsten Übersetzungen wörtlich mit „Schwellung“ wider. 
+Das Wort wird in unserem ältesten Suttakommentar, dem spätkanonischen Text Niddesa, kommentiert. Dieser bringt es nicht speziell mit Stolz in Verbindung, sondern erklärt es als siebenfach: Gier, Hass, Täuschung, Einbildung, Ansichten, Verunreinigungen und Taten ([Mnd 10:105.4](https://suttacentral.net/mnd10/pli/ms?lang=de&layout=linebyline&reference=main&notes=sidenotes&highlight=false&script=latin#105.3)). Der Ehrwürdige Bodhi gibt es in seinen jüngsten Übersetzungen wörtlich mit „Schwellung“ wider. 
 
 Somit ist die fünfte Zeile selbst von zweifelhafter Authentizität, und das Wort darin, das als „Stolz“ verstanden wird, enthält nicht eindutig diese Bedeutung. 
 
 ### Der Erzählfluss
 
-Finally let us briefly consider the narrative or structural context. This sutta appears at one of the crucial junctures of the Buddha’s story, literally the first words he spoke to another being after awakening. We do not hear what happened to the brahmin.
+Lassen Sie uns zum Schluss kurz den Kontext der Erzählung oder der Struktur betrachten. Dieses Sutta erscheint an einem der kritischen Punkte in der Geschichte des Buddha, es berichtet buchstäblich die ersten Worte, die er nach dem Erwachen zu einem anderen Wesen sprach. Wie es mit dem Brahmanen weiterging, erfahren wir nicht. 
 
-If we compare similar critical moments, a pattern appears. When studying under his former teachers, he practiced under the very best of the contemporary masters of the Upanishadic meditation. This is what gives his critique of their teaching force; there is no power in rejecting a petty doctrine. In the Digha Nikaya, after the first two suttas, each mighty in their own way, the Buddha encounters a brahmin teacher and converts him: Pokkharasadi. he was one of the most respected and influential teachers at the time, and the implications of this reverberate through the Digha Nikaya. In the end of the Sutta Nipata, the Buddha teaches sixteen brahmin meditators, all students of a renowned meditation master.
+Wenn wir ähnliche Schlüsselpunkte zum Vergleich heranziehen, wird ein Muster erkennbar. Als der Buddha unter seinen früheren Lehrern studierte, übte er unter den allerbesten Meditationsmeistern der upanṣadischen Tradition seiner Zeit. Das verleiht seiner Kritik an ihren Lehren Kraft; eine belanglose Doktrin zu widerlegen, ist nichts Besonderes. Im Dīgha-Nikāya begegnet der Buddha nach den ersten beiden Lehrreden, von denen jede auf ihre Art machtvoll ist, einem brahmanischden Lehrer und bekehrt ihn: Pokkharasādi. Dieser war einer der angesehensten und einflussreichsten Lehrer seiner Zeit, und die Auswirkungen seiner Bekehrung strahlen ihr Echo durch den Dīgha-Nikāya. Am Ende des Sutta-Nipāta unterweist der Buddha sechzehn brahmanische Meditationsschüler, die alle Schüler eines berühmten Meditationsmeisters sind. 
 
-Thus at prominent positions, the redactors wanted to include powerful moments where the Buddha responded to *the very best* of the pre-existing religious traditions. Criticizing an individual proud brahmin is no great feat, as it is something that he would have been criticized for in his own tradition anyway.
+Somit wollten die Bearbeiter an herausragenden Stellen machtvolle Augenblicke einschließen, in denen der Buddha auf die *allerbesten* der bestehenden religiösen Traditionen einging. Einen einzelnen stolzen Brahmanen zu tadeln ist keine große Sache, da es etwas ist, für das er in seiner eigenen Tradition ohnehin getadelt worden wäre. 
 
-Here, in this special moment, the Buddha encountered a supreme mystic, a devotee of the silence that follows the end of all words, one whose life was devoted to the *true meaning*, not the surface significance, of being a brahmin.
+Hier, in diesem besonderen Augenblick, begegnete der Buddha einem Mystiker, einem Anhänger der Stille, die auf das Ende aller Worte folgt, einem, dessen Leben dem *wahren Sinn* geweiht war, nicht der oberflächlichen Bedeutung, dessen, was es heißt, ein Brahmane zu sein. 
 
-Thus recognizing the historical context lets us elevate the sense of the sutta as a whole, raising its importance beyond a random encounter, and making a statement whose spiritual relevance is just as potent today.
+So lässt uns das Verständnis des historischen Kontexts den Sinn dieses Sutta als Ganzes erhöhen, seine Bedeutung über eine zufällige Begegnung hinaus erheben, und lässt es eine Aussage treffen, deren spirituelle Relevanz heute noch genauso machtvoll ist. 
 
 
 
