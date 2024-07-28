@@ -3,7 +3,7 @@ title: Der Brahmane, der „huṁ“ sagte
 description: Bhikkhu Sujato, 2024
 img:  sujato.png
 img-alt: Foto von Bhante Sujato
-order: 8
+order: 3.59
 ---
 
 [Zum Originaltext](https://discourse.suttacentral.net/t/on-the-brahmin-who-said-hu/34440)
@@ -106,7 +106,7 @@ Lassen Sie uns zum Schluss kurz den Kontext der Erzählung oder der Struktur bet
 
 Wenn wir ähnliche Schlüsselpunkte zum Vergleich heranziehen, wird ein Muster erkennbar. Als der Buddha unter seinen früheren Lehrern studierte, übte er unter den allerbesten Meditationsmeistern der upanṣadischen Tradition seiner Zeit. Das verleiht seiner Kritik an ihren Lehren Kraft; eine belanglose Doktrin zu widerlegen, ist nichts Besonderes. Im Dīgha-Nikāya begegnet der Buddha nach den ersten beiden Lehrreden, von denen jede auf ihre Art machtvoll ist, einem brahmanischden Lehrer und bekehrt ihn: Pokkharasādi. Dieser war einer der angesehensten und einflussreichsten Lehrer seiner Zeit, und die Auswirkungen seiner Bekehrung strahlen ihr Echo durch den Dīgha-Nikāya. Am Ende des Sutta-Nipāta unterweist der Buddha sechzehn brahmanische Meditationsschüler, die alle Schüler eines berühmten Meditationsmeisters sind. 
 
-Somit wollten die Bearbeiter an herausragenden Stellen machtvolle Augenblicke einschließen, in denen der Buddha auf die *allerbesten* der bestehenden religiösen Traditionen einging. Einen einzelnen stolzen Brahmanen zu tadeln ist keine große Sache, da es etwas ist, für das er in seiner eigenen Tradition ohnehin getadelt worden wäre. 
+Somit wollten die Bearbeiter an herausragenden Stellen machtvolle Augenblicke einschließen, in denen der Buddha auf die *allerbesten* der bestehenden religiösen Traditionen einging. Einen einzelnen stolzen Brahmanen zu tadeln, ist keine große Sache, da es etwas ist, für das er in seiner eigenen Tradition ohnehin getadelt worden wäre. 
 
 Hier, in diesem besonderen Augenblick, begegnete der Buddha einem Mystiker, einem Anhänger der Stille, die auf das Ende aller Worte folgt, einem, dessen Leben dem *wahren Sinn* geweiht war, nicht der oberflächlichen Bedeutung, dessen, was es heißt, ein Brahmane zu sein. 
 
