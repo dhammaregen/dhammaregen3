@@ -8,6 +8,12 @@ order: -9999
 
 Hier finden Sie eine kurze Themenübersicht der bisher erschienenen Newsletter. Klicken sie auf die Überschrift, um zu einem Newsletter zu gelangen.
 
+### [August 2024](#/wiki/news/2024-08)
+- Regen und Wetter (AN 10.61, Thag 1.51, Snp 1.2, SN 32.57, AN 5.197, AN 4.70, Ja 334, AN 5.31, Iti 27, AN 4.102, Dhp 47, SN 1.1)
+- Wiedergabelisten
+- Digitales Paliwörterbuch (DPD, Pali-Englisch)
+- Essay: Der Brahmane, der „huṁ“ sagte
+
 ### [Juli 2024](#/wiki/news/2024-07)
 - Ein törichter Fragesteller … (MN 63, MN 64)
 - … gibt weise Antworten (AN 4.257, SN 35.95, Ud 1.10, Essay „Über sakkāya, Identität und substanzielle Wirklichkeit“)
