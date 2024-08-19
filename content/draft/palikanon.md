@@ -16,7 +16,7 @@ Die erste Gliederungsebene ist die Einteilung in drei „Körbe“ (Pali: *tipi�
 
 Wir gehen hier vor allem auf den Korb der Lehrreden ein, da sich darin das Material befindet, das auf *Dhammaregen* zu lesen ist.
 
-Über das Alter der Sammlungen ist zu sagen, dass große Teile der Suttas sowie auch Teile des Vinaya zur frühesten Schicht gehören und der Abhidhamma generell jünger ist. Allerdings kann man von keiner einzelnen Sammlung sagen, sie sei die älteste oder gehöre als Ganzes einheitlich der gleichen historischen Schicht an. Jede Sammlung hat frühere und auch spätere Abschnitte.
+Über das Alter der Sammlungen ist zu sagen, dass große Teile der Suttas sowie auch Teile des Vinaya zur frühesten Schicht gehören und der Abhidhamma generell jünger ist. Allerdings kann man von keiner einzelnen Sammlung sagen, sie sei die älteste oder gehöre als Ganzes einheitlich der gleichen historischen Schicht an. Jede Sammlung hat frühere und auch spätere Anteile.
 
 ### Der Korb der Lehrreden
 
