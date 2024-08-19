@@ -24,7 +24,7 @@ Der Korb der Lehrreden besteht aus vier Hauptsammlungen:
 - der Sammlung der Langen Lehrreden (*dīghanikāya*, DN)
 - der Sammlung der Mittleren Lehrreden (*majjhimanikāya*, MN)
 - der Sammlung der Verbundenen Lehrreden (*saṁyuttanikāya*, SN)
-- der Sammlung der nummerierten Lehrreden (*aṅguttaranikāya*, AN)
+- der Sammlung der Nummerierten Lehrreden (*aṅguttaranikāya*, AN)
 
 Hinzu kommt die sogenannte „Kleinere Sammlung“ (*khuddakanikāya*), in der Texte ganz unterschiedlicher Art eingeordnet sind. Sie ist sozusagen die „Restkategorie“, in der alle die Texte eine Heimat fanden, die in keine der anderen Sammlungen passen wollten. Diese Sammlung war auch länger als die anderen Sammlungen für Erweiterungen geöffnet und enthält daher neben einigen frühen Sammlungen auch späteres Material.
 
@@ -44,4 +44,52 @@ Allein diese Texte, die auf *Dhammaregen* zu finden sind, machen ein Mehrfaches 
 Die weitere Unterteilung innerhalb der Sammlungen folgt keinen einheitlichen Regeln, vielmehr hat jede Sammlung ihre eigene innere Gliederungsstruktur.
 
 Hier folgen kurze Einführungen zu den einzelnen Sammlungen (entnommen von SuttaCentral):
+
+#### Sammlung der Langen Lehrreden (DN)
+
+Die Langen Lehrreden (Dīgha-Nikāya, abgekürzt DN) sind eine Sammlung von 34 Lehrreden des Palikanon (Tipiṭaka) der Theravadaschule. Das Wort „lang“ bezieht sich auf die Länge der einzelnen Lehrreden, nicht der Sammlung als Ganzem; der Dīgha-Nikāya ist tatsächlich der kürzeste der fünf Pali-Nikāyas. Er ist eine der grundlegenden Sammlungen der frühen buddhistischen Lehren, und er beschreibt den Buddha in vielen lebendigen Situationen. Verglichen mit anderen Sammlungen enthält er mehr ausgedehnte Erzählpassagen in unterschiedlichen literarischen Stilen. Viele Lehrreden handeln von interreligiösem Dialog mit Brahmanen und anderen Nicht-Buddhisten. Diese Sammlung entspricht dem Dīrghāgama (DA) der Dharmaguptaka-Schule, dem ersten Text in der Taishō-Ausgabe des chinesischen Kanon. Zu dieser Sammlung gehören auch mehrere unabhängige Suttas auf Chinesisch und Sanskrit. Zwei Drittel eines Dīrghāgama der Sarvāstivāda-Schule sind gefunden worden, aber nur kleine Teile davon sind veröffentlicht. 
+
+#### Sammlung der Mittleren Lehrreden (MN)
+
+Die Mittleren Lehrreden (Majjhima-Nikāya, abgekürzt MN) sind eine Sammlung von 152 Lehrreden im Palikanon (Tipiṭaka) der Theravadaschule des Buddhismus. Das Wort „mittel“ bezieht sich auf die Länge der einzelnen Lehrreden. Der Majjhima-Nikāya ist vielleicht die beliebteste Sammlung der frühen Lehrreden. Er enthält eine große Bandbreite an Lehren, von denen viele Erzählungen über Begebenheiten darstellen, die sich zwischen dem Buddha und verschiedenen seiner Zeitgenossen abspielen. Die Sammlung entspricht dem Madhyamāgama (MA) der Sarvāstivāda-Schule, die als Übersetzung im chinesischen Kanon überlebt hat. 
+
+#### Sammlung der Verbundenen Lehrreden (SN)
+
+Die „Verbundenen“ oder „Zusammenhängenden“ Lehrreden (Saṁyutta-Nikāya, abgekürzt SN) sind eine Sammlung von über tausend kurzen Lehrreden im Palikanon. Das Wort „verbunden“ bezieht sich auf die Tatsache, dass die Texte nach Themen gesammelt und zusammengestellt sind. In den meisten Fällen ist das Ordnungsprinzip eine bestimmte Dhammathematik, zum Beispiel die fünf Aggregate, das abhängige Entstehen, der edle achtfache Pfad, Achtsamkeitsmeditation oder die vier edlen Wahrheiten. Diese Sammlung enthält die umfangreichste Textreihe zu diesen Kernthemen. In anderen Fällen sind Kapitel nach einer Person oder einer Personengruppe zusammengestellt, die darin zu Wort kommt. Diese Sammlung hat eine vollständige Parallele im Saṁyuktāgama (SA) der Sarvāstivāda-Schule in chinesischer Übersetzung. Zusätzlich gibt es zwei unvollständige Sammlungen auf Chinesisch (SA-2 und SA-3) und eine Reihe gemischter oder fragmentarischer Texte auf Chinesisch, Sanskrit und Tibetisch. Der SN hat große Teile seiner organisatorischen Struktur mit dem SA gemeinsam, was nahelegt, dass diese Struktur der Aufspaltung dieser beiden Sammlungen vorausging. 
+
+#### Sammlung der Nummerierten Lehrreden (AN)
+
+Die „Nummerierten“ oder „Numerisch geordneten“ Lehrreden sind im Pali gewöhnlich als Aṅguttara-Nikāya bekannt, abgekürzt AN. Die Palitradition kennt allerdings auch die Form Ekottara („eins mehr“ oder „aufsteigend“), und diese Form kennt man gewöhnlich aus den Sammlungen der nördlichen Tradition. Diese Sammlungen ordnen Texte in nummerierten Reihen an, von eins bis elf. Verglichen mit anderen _Nikāyas_ richten sie sich mehr an die Laiengemeinschaft. Der chinesische Ekottarikāgama (EA) ist ein höchst ungewöhnlicher Text, der in sich selbst zahlreiche Variationen hat, selbst bei grundlegenden Lehrthemen. Er hat mit dem Pali-Aṅguttara deutlich weniger gemeinsam, als das bei den anderen Sammlungen und ihren Gegenstücken der Fall ist. Zusätzlich gibt es noch einen partiellen Ekottarikāgama auf Chinesisch und eine Reihe einzelner Lehrreden und Bruchstücke auf Chinesisch und Sanskrit. 
+
+#### Grundlegende Ausschnitte (Kp)
+
+Neun kurze Texte, die anscheinend als eine Art Studienkurrikulum für Novizen zusammengestellt wurden. Die Zusammenstellung selbst wurde vermutlich in Sri Lanka gemacht, aber die meisten Texte finden sich anderswo in den _Nikāyas_. 
+
+#### Dhammasprüche (Dhp)
+
+Die Paliversion dieses berühmten Textes. Sie besteht aus 423 Strophen, die zu einprägsamen Themengruppen zusammengestellt sind. Es ist der meistgelesene der frühen Texte und wurde viele Male in viele Sprachen übersetzt. Man findet Versionen dieses Textes auf Chinesisch, Tibetisch und in verschiedenen indischen Sprachen, was für seine zeitlose, universelle Anziehungskraft spricht. 
+
+#### Innige Sprüche (Ud)
+
+Achtzig kurze Lehrreden in einer Mischung aus Prosa und Versform. Sie nehmen die Form einer einfachen Prosaerzählung an, die als Rahmen für einen in Ergriffenheit geäußerten Spruch dient, der meist in Versform ist. Die _Udāna-_ und _Dhammapada_literatur scheinen sich zu überschneiden und können als ein Genre betrachtet werden. Die Dhammapada-Verse haben ebenfalls  dazugehörige Erzählungen, die aber im Kommentar zu finden sind. Es gibt einige Hinweise, dass manche der Erzählungen im Udāna etwas jünger sein könnten als das meiste Material in den vier Haupt-_Nikāyas_. 
+
+#### So wurde es gesagt (Iti)
+
+112 kurze Lehrreden in einer Mischung aus Prosa und Versform, die im Aṅguttara-Stil als aufsteigende Zahlenreihen von eins bis vier angeordnet sind. Sein Überleben wird, einzig unter den buddhistischen Texten, nicht dem Saṅgha zugeschrieben, sondern einer Laienfrau namens Khujjuttarā. Nach den Pali-Kommentaren war sie eine Magd der Königin von Kosambi und lernte diese Lehren vom Buddha, was ihr den Titel der gelehrtesten unter den Laienfrauen einbrachte. 
+
+#### Lehrreden-Sammelband (Snp)
+
+Der „Lehrreden-Sammelband“ enthält 74 meist kurze Texte in Versform oder als Mischung aus Prosa und Versform, die in fünf Kapiteln angeordnet sind. Diese Sammlung enthält einige der beliebtesten Texte des volkstümlichen Buddhismus wie das Ratana-, das Maṅgala- und das Mettā-Sutta. Alle Theravada-Buddhisten kennen diese Texte, und sie werden als erhebende und Schutz gewährende Sprechgesänge bei besonderen Feierlichkeiten aufgesagt. Die Sammlung als Ganzes ist etwas jünger; sie findet sich nicht in den Schriften der nördlichen Tradition, und manche Teile wie die Eröffnungsverse des Nālaka-Sutta gehören zu den jüngsten Schichten der frühen Texte. Dennoch scheinen manche Abschnitte – das „Horn des Nashorns“, das „Achterkapitel“ und der „Weg zum Jenseits“ – bereits existiert zu haben, bevor sie in die Sammlung aufgenommen wurden, und gelten als alt. Während die Sammlung als Ganzes anderswo kein Gegenstück hat, haben einige Teile Parallelen auf Chinesisch oder Sanskrit. 
+
+#### Strophen der altehrwürdigen Mönche (Thag)
+
+Die „Strophen der altehrwürdigen Mönche“ sind eine Sammlung von etwa 1288 Strophen, die 264 der altehrwürdigen Mönche zugeschrieben werden, die zur Zeit des Buddha gelebt haben, oder in einigen Fällen etwas später. Sie bilden ein Paar mit dem Therīgāthā, den „Strophen der altehrwürdigen Nonnen“. Diese Verse feiern die Freude der Freiheit und des Lebens und Meditierens im Wald. Zusammen stellen diese Sammlungen eine der ältesten und umfangreichsten Sammlungen kontemplativer Literatur dar; sie bewahren die einzigartigen Stimmen von vielen hundert Menschen, die als erste diesen Pfad übten. Anhand ihres Stils und des Inhalts sind diese Sammlungen bei den frühen Lehrreden einzuordnen. Auf sie wird gelegentlich in den Kanons der nördlichen Tradition Bezug genommen, aber es haben keine parallelen Sammlungen überlebt. 
+
+#### Strophen der altehrwürdigen Nonnen (Thig)
+
+Die „Strophen der altehrwürdigen Nonnen“ ist eine Sammlung von etwa 524 Strophen, die 73 der altehrwürdigen Nonnen zugeschrieben werden, die zur Zeit des Buddha gelebt haben, oder in einigen Fällen etwas später. Diese Verse feiern die Wonne der Freiheit und des Lebens der Meditation dieser Nonnen, sie verkünden voller Stolz und Freude ihre spirituellen Errungenschaften und drücken die Dankbarkeit gegenüber anderen Nonnen als Führerinnen und Lehrerinnen aus. Der Therīgāthā ist einer der ältesten spirituellen Texte, die nur die Stimmen von Frauen aufzeichnen. Er bildet ein Paar mit dem Theragāthā, den „Strophen der altehrwürdigen Mönche“. Zusammen stellen diese Sammlungen eine der ältesten und umfangreichsten Sammlungen kontemplativer Literatur dar. Anhand ihres Stils und des Inhalts sind diese Sammlungen bei den frühen Lehrreden einzuordnen. Auf sie wird gelegentlich in den Kanons der nördlichen Tradition Bezug genommen, aber es haben keine parallelen Sammlungen überlebt. 
+
+#### Korb des Verhaltens (Cp)
+
+Der „Korb des Verhaltens“ stellt eine frühe Systematisierung des Konzepts des Bodhisattva und seines Weges zum Erwachen dar. Eine Auswahl von 34 früheren Leben wird erzählt, von denen jedes eine bestimmte Tugend veranschaulicht, die vom Bodhisattva entwickelt wurde. Es ist ein später Text, der keine unmittelbaren Entsprechungen in den nördlichen Sammlungen hat. Wie der Buddhavaṁsa ist er Teil einer umfangreichen sektenübergreifenden Erbauungsliteratur, die im zweiten und ersten Jahrhundert v. Chr. verfasst wurde und die Geburt des Mahāyāna ankündigte. 
 
