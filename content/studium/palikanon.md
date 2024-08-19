@@ -24,7 +24,7 @@ Der Korb der Lehrreden besteht aus vier Hauptsammlungen:
 - der Sammlung der Verbundenen Lehrreden (*saṁyuttanikāya*, SN)
 - der Sammlung der Nummerierten Lehrreden (*aṅguttaranikāya*, AN)
 
-Hinzu kommt die sogenannte „Kleinere Sammlung“ (*khuddakanikāya*), in der Texte ganz unterschiedlicher Art eingeordnet sind. Sie ist sozusagen die „Restkategorie“, in der alle die Texte eine Heimat fanden, die in keine der anderen Sammlungen passen wollten. Diese Sammlung war auch länger als die anderen Sammlungen für Erweiterungen geöffnet und enthält daher neben einigen frühen Sammlungen auch späteres Material.
+Hinzu kommt die sogenannte „Kleinere Sammlung“ (*khuddakanikāya*), in der Texte ganz unterschiedlicher Art eingeordnet sind. Sie ist sozusagen die „Restkategorie“, in der alle die Texte eine Heimat fanden, die in keine der anderen Sammlungen passen wollten. Diese Sammlung war länger als die anderen Sammlungen für Erweiterungen geöffnet und enthält daher neben einigen frühen Sammlungen auch späteres Material.
 
 Zum *Dhammaregen*-Projekt gehören die vier Hauptsammlungen und die frühen Teile des Khuddakanikāya, bestehend aus
 - *Khuddakapāṭha*, Grundlegende Ausschnitte (Kp)
