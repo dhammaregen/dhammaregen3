@@ -21,23 +21,27 @@ Wir gehen hier vor allem auf den Korb der Lehrreden ein, da sich darin das Mater
 ### Der Korb der Lehrreden
 
 Der Korb der Lehrreden besteht aus vier Hauptsammlungen:
-- der Sammlung der Langen Lehrreden (*dīghanikāya*)
-- der Sammlung der Mittleren Lehrreden (*majjhimanikāya*)
-- der Sammlung der Verbundenen Lehrreden (*saṁyuttanikāya*)
-- der Sammlung der nummerierten Lehrreden (*aṅguttaranikāya*)
+- der Sammlung der Langen Lehrreden (*dīghanikāya*, DN)
+- der Sammlung der Mittleren Lehrreden (*majjhimanikāya*, MN)
+- der Sammlung der Verbundenen Lehrreden (*saṁyuttanikāya*, SN)
+- der Sammlung der nummerierten Lehrreden (*aṅguttaranikāya*, AN)
 
-Hinzu kommt die sogenannte „Kleinere Sammlung“ (*khuddakanikāya*), in der Texte ganz unterschiedlicher Art eingeordnet sind. Sie ist sozusagen die „Restkategorie“, in der alle die Texte eine Heimat fanden, die in keine der anderen Sammlungen passen wollten. Diese Sammlung war auch länger für Erweiterungen geöffnet als die anderen Sammlungen und enthält daher neben einigen frühen Sammlungen auch späteres Material.
+Hinzu kommt die sogenannte „Kleinere Sammlung“ (*khuddakanikāya*), in der Texte ganz unterschiedlicher Art eingeordnet sind. Sie ist sozusagen die „Restkategorie“, in der alle die Texte eine Heimat fanden, die in keine der anderen Sammlungen passen wollten. Diese Sammlung war auch länger als die anderen Sammlungen für Erweiterungen geöffnet und enthält daher neben einigen frühen Sammlungen auch späteres Material.
 
-Zum *Dhammaregen*-Projekt gehören die vier Hauptsammlungen und die frühen Teile des Khuddakanukāya, bestehend aus
-- *Khuddakapāṭha*, Grundlegende Ausschnitte
-- *Dhammapada*, Dhammasprüche
-- *Udāna*, Innige Sprüche
-- *Itivuttaka*, So wurde es gesagt
-- *Suttanipāta*, Lehrreden-Sammelband
-- *Theragāthā*, Strophen der altehrwürdigen Mönche
-- *Therīgāthā*, Strophen der altehrwürdigen Nonnen
+Zum *Dhammaregen*-Projekt gehören die vier Hauptsammlungen und die frühen Teile des Khuddakanikāya, bestehend aus
+- *Khuddakapāṭha*, Grundlegende Ausschnitte (Kp)
+- *Dhammapada*, Dhammasprüche (Dhp)
+- *Udāna*, Innige Sprüche (Ud)
+- *Itivuttaka*, So wurde es gesagt (Iti)
+- *Suttanipāta*, Lehrreden-Sammelband (Snp)
+- *Theragāthā*, Strophen der altehrwürdigen Mönche (Thag)
+- *Therīgāthā*, Strophen der altehrwürdigen Nonnen (Thig)
 
-Außerdem wurde noch das *Cariyāpiṭaka*, Korb des Verhaltens, aufgenommen, eine deutlich jüngere Sammlung.
+Außerdem wurde noch das *Cariyāpiṭaka*, Korb des Verhaltens (Cp), aufgenommen, eine deutlich jüngere Sammlung.
 
 Allein diese Texte, die auf *Dhammaregen* zu finden sind, machen ein Mehrfaches des Umfangs der Bibel aus. 
+
+Die weitere Unterteilung innerhalb der Sammlungen folgt keinen einheitlichen Regeln, vielmehr hat jede Sammlung ihre eigene innere Gliederungsstruktur.
+
+Hier folgen kurze Einführungen zu den einzelnen Sammlungen (entnommen von SuttaCentral):
 
