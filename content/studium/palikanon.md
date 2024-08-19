@@ -6,8 +6,6 @@ img-alt: Buchauswahl
 order: 2.6
 ---
 
-später: content/studium/palikanon
-
 Der buddhistische Kanon ist ein äußerst umfangreiches Textkorpus, das ein Vielfaches des Umfangs der Bibel ausmacht. Sein Aufbau ist komplex und folgt weder einer historischen Reihenfoge noch didaktischen Grundsätzen, daher ist es für Einsteiger nicht leicht, sich darin zurechtzufinden. Diese Seite möchte eine Übersicht über die Struktur und Gliederung geben, um die Orientierung zu erleichtern, und informieren, was davon auf *Dhammaregen* zu finden ist. Eine vollständige Aufgliederung aller Sammlungen des Kanon findet man [auf SuttaCentral](https://suttacentral.net/pali-tipitaka?lang=de).
 
 ### Drei Körbe
