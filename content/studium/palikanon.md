@@ -6,7 +6,7 @@ img-alt: Buchauswahl
 order: 2.6
 ---
 
-Der buddhistische Kanon ist ein äußerst umfangreiches Textkorpus, das ein Vielfaches des Umfangs der Bibel ausmacht. Sein Aufbau ist komplex und folgt weder einer historischen Reihenfoge noch didaktischen Grundsätzen, daher ist es für Einsteiger nicht leicht, sich darin zurechtzufinden. Diese Seite möchte eine Übersicht über die Struktur und Gliederung geben, um die Orientierung zu erleichtern, und informieren, was davon auf *Dhammaregen* zu finden ist. Eine vollständige Aufgliederung aller Sammlungen des Kanon findet man [auf SuttaCentral](https://suttacentral.net/pali-tipitaka?lang=de).
+Der buddhistische Kanon ist ein äußerst umfangreiches Textkorpus, das ein Vielfaches des Umfangs der Bibel ausmacht. Sein Aufbau ist komplex und folgt weder einer historischen Reihenfoge noch didaktischen Grundsätzen, daher ist es für Einsteiger nicht leicht, sich darin zurechtzufinden. Diese Seite möchte eine Übersicht über die Struktur und Gliederung geben, um die Orientierung zu erleichtern, mit dem Schwerpunkt auf dem Inhalt, der auf *Dhammaregen* zu finden ist. Eine vollständige Aufgliederung aller Sammlungen des Kanon findet man [auf SuttaCentral](https://suttacentral.net/pali-tipitaka?lang=de).
 
 ### Drei Körbe
 
@@ -41,23 +41,33 @@ Allein diese Texte, die auf *Dhammaregen* zu finden sind, machen ein Mehrfaches 
 
 Die weitere Unterteilung innerhalb der Sammlungen folgt keinen einheitlichen Regeln, vielmehr hat jede Sammlung ihre eigene innere Gliederungsstruktur.
 
+Ausführlicher Essay zum Korb der Lehrreden [auf SuttaCentral](https://suttacentral.net/discourses-guide-sujato?lang=de).
+
 Hier folgen kurze Einführungen zu den einzelnen Sammlungen (entnommen von SuttaCentral):
 
 #### Sammlung der Langen Lehrreden (DN)
 
 Die Langen Lehrreden (Dīgha-Nikāya, abgekürzt DN) sind eine Sammlung von 34 Lehrreden des Palikanon (Tipiṭaka) der Theravadaschule. Das Wort „lang“ bezieht sich auf die Länge der einzelnen Lehrreden, nicht der Sammlung als Ganzem; der Dīgha-Nikāya ist tatsächlich der kürzeste der fünf Pali-Nikāyas. Er ist eine der grundlegenden Sammlungen der frühen buddhistischen Lehren, und er beschreibt den Buddha in vielen lebendigen Situationen. Verglichen mit anderen Sammlungen enthält er mehr ausgedehnte Erzählpassagen in unterschiedlichen literarischen Stilen. Viele Lehrreden handeln von interreligiösem Dialog mit Brahmanen und anderen Nicht-Buddhisten. 
 
+Ausführlicher Essay zur Sammlung der Langen Lehrreden [auf SuttaCentral](https://suttacentral.net/dn-guide-sujato?lang=de).
+
 #### Sammlung der Mittleren Lehrreden (MN)
 
 Die Mittleren Lehrreden (Majjhima-Nikāya, abgekürzt MN) sind eine Sammlung von 152 Lehrreden im Palikanon (Tipiṭaka) der Theravadaschule des Buddhismus. Das Wort „mittel“ bezieht sich auf die Länge der einzelnen Lehrreden. Der Majjhima-Nikāya ist vielleicht die beliebteste Sammlung der frühen Lehrreden. Er enthält eine große Bandbreite an Lehren, von denen viele Erzählungen über Begebenheiten darstellen, die sich zwischen dem Buddha und verschiedenen seiner Zeitgenossen abspielen. 
+
+Ausführlicher Essay zur Sammlung der Mittleren Lehrreden [auf SuttaCentral](https://suttacentral.net/mn-guide-sujato?lang=de).
 
 #### Sammlung der Verbundenen Lehrreden (SN)
 
 Die „Verbundenen“ oder „Zusammenhängenden“ Lehrreden (Saṁyutta-Nikāya, abgekürzt SN) sind eine Sammlung von über tausend kurzen Lehrreden im Palikanon. Das Wort „verbunden“ bezieht sich auf die Tatsache, dass die Texte nach Themen gesammelt und zusammengestellt sind. In den meisten Fällen ist das Ordnungsprinzip eine bestimmte Dhammathematik, zum Beispiel die fünf Aggregate, das abhängige Entstehen, der edle achtfache Pfad, Achtsamkeitsmeditation oder die vier edlen Wahrheiten. Diese Sammlung enthält die umfangreichste Textreihe zu diesen Kernthemen. In anderen Fällen sind Kapitel nach einer Person oder einer Personengruppe zusammengestellt, die darin zu Wort kommt. 
 
+Ausführlicher Essay zur Sammlung der Verbudnenen Lehrreden [auf SuttaCentral](https://suttacentral.net/sn-guide-sujato?lang=de).
+
 #### Sammlung der Nummerierten Lehrreden (AN)
 
 Die „Nummerierten“ oder „Numerisch geordneten“ Lehrreden sind im Pali gewöhnlich als Aṅguttara-Nikāya bekannt, abgekürzt AN. Die Palitradition kennt allerdings auch die Form Ekottara („eins mehr“ oder „aufsteigend“), und diese Form kennt man gewöhnlich aus den Sammlungen der nördlichen Tradition. Diese Sammlungen ordnen Texte in nummerierten Reihen an, von eins bis elf. Verglichen mit anderen _Nikāyas_ richten sie sich mehr an die Laiengemeinschaft. 
+
+Ausführlicher Essay zur Sammlung der Nummerierten Lehrreden [auf SuttaCentral](https://suttacentral.net/an-guide-sujato?lang=de).
 
 #### Grundlegende Ausschnitte (Kp)
 
