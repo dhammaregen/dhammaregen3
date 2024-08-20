@@ -25,7 +25,7 @@ Der Korb der Lehrreden besteht aus vier Hauptsammlungen:
 - der Sammlung der Verbundenen Lehrreden (*saṁyuttanikāya*, SN)
 - der Sammlung der Nummerierten Lehrreden (*aṅguttaranikāya*, AN)
 
-Hinzu kommt die sogenannte „Kleinere Sammlung“ (*khuddakanikāya*), in der Texte ganz unterschiedlicher Art eingeordnet sind. Sie ist sozusagen die „Restkategorie“, in der alle die Texte eine Heimat fanden, die in keine der anderen Sammlungen passen wollten. Diese Sammlung war länger als die anderen Sammlungen für Erweiterungen geöffnet und enthält daher neben einigen frühen Sammlungen auch späteres Material. Und trotz der Bezeichnung „kleinere Sammlung“ wurde sie mit der Zeit mehr als doppelt so umfangreich wie die vier Hauptsammlungen zusammen.
+Hinzu kommt die sogenannte „Kleinere Sammlung“ (*khuddakanikāya*), in der Texte ganz unterschiedlicher Art eingeordnet sind, meist in Versform oder als Mischung von Prosa und Versen. Sie ist sozusagen die „Restkategorie“, in der alle die Texte eine Heimat fanden, die in keine der anderen Sammlungen passen wollten. Diese Sammlung war länger als die anderen Sammlungen für Erweiterungen geöffnet und enthält daher neben einigen frühen Sammlungen auch späteres Material. Und trotz der Bezeichnung „kleinere Sammlung“ wurde sie mit der Zeit mehr als doppelt so umfangreich wie die vier Hauptsammlungen zusammen.
 
 Zum *Dhammaregen*-Projekt gehören die vier Hauptsammlungen und die frühen Teile des Khuddakanikāya, bestehend aus
 - *Khuddakapāṭha*, Grundlegende Ausschnitte (Kp)
@@ -36,7 +36,7 @@ Zum *Dhammaregen*-Projekt gehören die vier Hauptsammlungen und die frühen Teil
 - *Theragāthā*, Strophen der altehrwürdigen Mönche (Thag)
 - *Therīgāthā*, Strophen der altehrwürdigen Nonnen (Thig)
 
-Außerdem wurde noch das *Cariyāpiṭaka*, Korb des Verhaltens (Cp), aufgenommen, eine deutlich jüngere Sammlung aus dem Khuddakanikāya.
+Außerdem wurde noch der *Cariyāpiṭaka*, Korb des Verhaltens (Cp), aufgenommen, eine deutlich jüngere Sammlung aus dem Khuddakanikāya.
 
 Allein diese Texte, die auf *Dhammaregen* zu finden sind, machen ein Mehrfaches des Umfangs der Bibel aus. 
 
