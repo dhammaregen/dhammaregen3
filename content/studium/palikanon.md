@@ -74,7 +74,7 @@ Ausführlicher Essay zur Sammlung der Nummerierten Lehrreden [auf SuttaCentral](
 
 #### Grundlegende Ausschnitte (Kp)
 
-Neun kurze Texte, die anscheinend als eine Art Studienkurrikulum für Novizen zusammengestellt wurden. Die Zusammenstellung selbst wurde vermutlich in Sri Lanka gemacht, aber die meisten Texte finden sich anderswo in den _Nikāyas_. 
+Neun kurze Texte, die anscheinend als eine Art Studienkurrikulum für Novizen zusammengestellt wurden. Die Zusammenstellung selbst wurde vermutlich in Sri Lanka gemacht, aber die meisten Texte finden sich anderswo in den *Nikāyas*. 
 
 #### Dhammasprüche (Dhp)
 
@@ -82,7 +82,7 @@ Die Paliversion dieses berühmten Textes. Sie besteht aus 423 Strophen, die zu e
 
 #### Innige Sprüche (Ud)
 
-Achtzig kurze Lehrreden in einer Mischung aus Prosa und Versform. Sie nehmen die Form einer einfachen Prosaerzählung an, die als Rahmen für einen in Ergriffenheit geäußerten Spruch dient, der meist in Versform ist. Die _Udāna-_ und _Dhammapada_literatur scheinen sich zu überschneiden und können als ein Genre betrachtet werden. Die Dhammapada-Verse haben ebenfalls  dazugehörige Erzählungen, die aber im Kommentar zu finden sind. Es gibt einige Hinweise, dass manche der Erzählungen im Udāna etwas jünger sein könnten als das meiste Material in den vier Haupt-_Nikāyas_. 
+Achtzig kurze Lehrreden in einer Mischung aus Prosa und Versform. Sie nehmen die Form einer einfachen Prosaerzählung an, die als Rahmen für einen in Ergriffenheit geäußerten Spruch dient, der meist in Versform ist. Die *Udāna-* und *Dhammapada*literatur scheinen sich zu überschneiden und können als ein Genre betrachtet werden. Die Dhammapada-Verse haben ebenfalls  dazugehörige Erzählungen, die aber im Kommentar zu finden sind. Es gibt einige Hinweise, dass manche der Erzählungen im Udāna etwas jünger sein könnten als das meiste Material in den vier Haupt-*Nikāyas*. 
 
 #### So wurde es gesagt (Iti)
 
