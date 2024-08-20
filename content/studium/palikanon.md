@@ -2,6 +2,7 @@
 title: Der Palikanon
 description: Übersicht über die Struktur des Kanon
 img: kanon.png
+link: https://suttacentral.net/editions?lang=de
 img-alt: Buchauswahl
 order: 2.6
 ---
