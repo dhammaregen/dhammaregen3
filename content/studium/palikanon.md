@@ -102,5 +102,5 @@ Die „Strophen der altehrwürdigen Nonnen“ ist eine Sammlung von etwa 524 Str
 
 #### Korb des Verhaltens (Cp)
 
-Der „Korb des Verhaltens“ stellt eine frühe Systematisierung des Konzepts des Bodhisattva und seines Weges zum Erwachen dar. Eine Auswahl von 34 früheren Leben wird erzählt, von denen jedes eine bestimmte Tugend veranschaulicht, die vom Bodhisattva entwickelt wurde. Es ist ein später Text, der keine unmittelbaren Entsprechungen in den nördlichen Sammlungen hat. Er ist Teil einer umfangreichen sektenübergreifenden Erbauungsliteratur, die im zweiten und ersten Jahrhundert v. Chr. verfasst wurde und die Geburt des Mahāyāna ankündigte. 
+Der „Korb des Verhaltens“ stellt eine frühe Systematisierung des Konzepts des Bodhisattva und seines Weges zum Erwachen dar. Eine Auswahl von 35 früheren Leben wird erzählt, von denen jedes eine bestimmte Tugend veranschaulicht, die vom Bodhisattva entwickelt wurde. Es ist ein später Text, der keine unmittelbaren Entsprechungen in den nördlichen Sammlungen hat. Er ist Teil einer umfangreichen sektenübergreifenden Erbauungsliteratur, die im zweiten und ersten Jahrhundert v. Chr. verfasst wurde und die Geburt des Mahāyāna ankündigte. 
 
