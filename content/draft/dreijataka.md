@@ -22,25 +22,25 @@ Die Strophe stellt den Weisen dem *takkikā* gegenüber, dem „Denker“, der e
 
 Das Interessante hier ist, dass die Strophe nicht direkt auf das eigentliche Jātaka, die „Geschichte aus der Vergangenheit“, hinweist. Dort ist der Gegenspieler ein *yakkha*, und die Geschichte ist von [DN 23:23.1](#/sutta/dn23:23.1/de/sabbamitta) angepasst. Sowohl die Geschichte aus der Vergangenheit als auch die Geschichte aus der Gegenwart veranschulichen, wie töricht Menschen waren, als sie auf schlechte Ratgeber hörten. Aber die Strophe weist unmittelbar nicht auf den *yakkha*, sondern auf die Denker hin, und die Gechichte des *yakkha* wird zur Veranschaulichung hinzugezogen. 
 
-Das zeigt, dass, auch wenn sich die Strophen der Jātakas üblicherweise auf die Geschichte aus der Vergangenhiet beziehen, das nicht immer der Fall ist. Es ist tatsächlich wahrscheinlich, dass in diesem Fall ursprünglich die „Geschichte aus der Gegenwart“ mit der Strophe verknüpft wurde, wie ein Udāna oder Dhammapada mit Kommentar, und dann das Jātaka zur Vernaschaulichung eingefügt wurde. 
+Das zeigt, dass, auch wenn sich die Strophen der Jātakas üblicherweise auf die Geschichte aus der Vergangenhiet beziehen, das nicht immer der Fall ist. Es ist tatsächlich wahrscheinlich, dass in diesem Fall ursprünglich die „Geschichte aus der Gegenwart“ mit der Strophe verknüpft wurde, wie ein Udāna oder Dhammapada mit Kommentar, und dann das Jātaka zur Veranschaulichung eingefügt wurde. 
 
 ### [Ja 2 Vaṇṇupatha](#/sutta/ja2/de/sabbamitta)
 
-This continues the theme of travelling across a desert with a trading caravan. At the time the Jatakas were complied—post-Ashoka—the scope of trade was rapidly expanding. Buddhist mendicants travelled the same routes, sometimes with the caravans, brining Dhamma to new places. So they learned the traveller’s stories, and framed them as Dhamma teachings in ways that were relevant for their fears and hopes.
+Dies setzt das Thema des Reisens durch eine Wüste mit einer Handelskarawane fort. Zur Zeit, als die Jātakas zusammengestellt wurden – nach Ashoka –, erweiterte sich die Reichweite der Handelsrouten rasch. Buddhistische Mönche und Nonnen reisten auf den gleichen Routen, manchmal mit den Karawanen, und brachten den Dhamma zu neuen Orten. So hörten sie die Geschichten der Reisenden und gestalteten sie als Dhammaunterweisungen auf eine Art, die für ihre Ängste und Hoffnungen von Belang war. 
 
-This time, it is a young worker with the caravan who digs for water. All appears lost and the caravan faces death, but the Bodhisatta will not give up. Seeing a clump of grass in the sandy waste, he listens closely and hears the distant sound of a rushing stream underground.
+Dieses Mal ist es ein junger Arbeiter in der Karawane, der nach Wasser gräbt. Alles scheint verloren, und die Karawane sieht den Tod vor sich, doch der Bodhisatta will nicht aufgeben. Als er ein Büschel Gras in der Sandwüste sieht, hört er genau hin und hört das ferne Geräusch einer dahinfließenden unterirdischen Strömung. 
 
-The interesting phrase here is udaṅgaṇe, where uda is dismissed as a mere particle by the commentary, and aṅgaṇa, from a root sense “to move” is said to be a place where people move about, an “open place”.
+Die interessante Wendung ist hier *udaṅgaṇe*, wobei *uda* vom Kommentar als bloße Partikel abgetan wird, und *aṅgaṇa*, von der Wurzelbedeutung „sich bewegen“, als ein Ort gedeutet wird, an dem sich Menschen hin und her bewegen, eine „offene Stelle“. 
 
-But uda, where it is used as a particle, typically is not meaningless; it means “either”, “or”.
+Aber wo *uda* als Partikel gebraucht wird, ist es üblicherweise nicht ohne Bedeutung; es bedeutet „entweder – oder“. 
 
-Sanskrit dictionaries offer the sense “passage” for aṅgaṇa, i.e. “place through which things move”. Uda can also mean “water”, thus yielding the sense, “water-passage”, which is an apt way to refer to an underground stream.
+Sanskritwörterbücher geben die Bedeutung „Durchgang“ für *aṅgaṇa*, d. h. ein „Ort, durch den sich Dinge  hindurchbewegen“. *Uda* kann auch „Wasser“ bedeuten, so hätte es die Bedeutung „Wasser-Durchfluss“, was passend ist, um auf einen unterirdidschen Wasserlauf zu verweisen. 
 
-Thus instead of translating “there in the open place he found water”, we have the more satisfying:
+Somit haben wir statt der Übersetzung „dort an der offenen Stelle fand er Wasser“ das befriedigerndere: 
 
->there at the underground stream he found water.
+>dort beim unterirdischen Wasserlauf fand er Wasser.
 
-This establishes a close connection between the verse and the story of the past.
+Das stellt eine enge Verbindung zwischen der Strophe und der Geschichte aus der Vergangenheit her. 
 
 ### [Ja 3 Serivavāṇija](#/sutta/ja3/de/sabbamitta)
 
