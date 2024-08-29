@@ -10,7 +10,7 @@ order: 10
 
 Gerade habe ich ein wenig mit ein paar Jātaka-Strophen herumgespielt und dabei ein paar interessante Dinge entdeckt. Das Hauptwerk wird hier natürlich vom Ehrwürdigen Anandajoti bewerkstelligt. Aber seine Arbeit bindet den Text eng mit dem Kommentar zusammen, und das führt manchmal zu einem anderen Ergebnis. [Die deutsche Übersetzung von Dr. Julius Dutoit, ebenfalls Kommentar mit eingebundenen Strophen, findet sich [auf Palikanon.com](https://palikanon.com/khuddaka/jataka/j00.htm). A.d.Ü.]
 
-### Ja 1 Apaṇṇaka
+### [Ja 1 Apaṇṇaka](#/sutta/ja1/de/sabbamitta)
 
 Das ist das Apaṇṇakajātaka, dessen zentraler Begriff vom Glücksspiel hergeleitet ist.
 
@@ -24,7 +24,7 @@ Das Interessante hier ist, dass die Strophe nicht direkt auf das eigentliche Jā
 
 Das zeigt, dass, auch wenn sich die Strophen der Jātakas üblicherweise auf die Geschichte aus der Vergangenhiet beziehen, das nicht immer der Fall ist. Es ist tatsächlich wahrscheinlich, dass in diesem Fall ursprünglich die „Geschichte aus der Gegenwart“ mit der Strophe verknüpft wurde, wie ein Udāna oder Dhammapada mit Kommentar, und dann das Jātaka zur Vernaschaulichung eingefügt wurde. 
 
-### Ja 2 Vaṇṇupatha
+### [Ja 2 Vaṇṇupatha](#/sutta/ja2/de/sabbamitta)
 
 This continues the theme of travelling across a desert with a trading caravan. At the time the Jatakas were complied—post-Ashoka—the scope of trade was rapidly expanding. Buddhist mendicants travelled the same routes, sometimes with the caravans, brining Dhamma to new places. So they learned the traveller’s stories, and framed them as Dhamma teachings in ways that were relevant for their fears and hopes.
 
@@ -42,7 +42,7 @@ Thus instead of translating “there in the open place he found water”, we hav
 
 This establishes a close connection between the verse and the story of the past.
 
-### Ja 3 Serivavāṇija
+### [Ja 3 Serivavāṇija](#/sutta/ja3/de/sabbamitta)
 
 This is the Serivavāṇijajātaka, which also tells the story of a merchant.
 
