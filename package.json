@@ -1,6 +1,6 @@
 {
   "name": "dhammaregent3",
-  "version": "1.60.638",
+  "version": "1.60.639",
   "description": "Site template for EBT-Vue3 applications",
   "main": "src/index.mjs",
   "private": false,
