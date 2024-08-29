@@ -23,7 +23,7 @@ Die Kommentare stützen, soweit ich weiß, diese Ableitung nicht. Der Kommentar 
 > ***Apaṇṇako**ti aviraddho advejjhagāmī ekaṃsagāhiko*  
 > *Apaṇṇaka* bedeutet unfehlbar, ein ungeteilter Pfad, kategorisch. 
 
-Das Apaṇṇakajātaka ([Ja 1](https://suttacentral.net/ja1/de/dutoit?lang=de&reference=main&highlight=true); Englisch  einschl. Kommentar auf [*Ancient Buddhist Texts*](https://www.ancient-buddhist-texts.net/Texts-and-Translations/Jatakas/001-Apannaka.htm)) hat eine ähnliche Erklärung:
+Das Apaṇṇakajātaka ([Ja 1](https://palikanon.com/khuddaka/jataka/j001.htm); Englisch  einschl. Kommentar auf [*Ancient Buddhist Texts*](https://www.ancient-buddhist-texts.net/Texts-and-Translations/Jatakas/001-Apannaka.htm)) hat eine ähnliche Erklärung:
 
 > *Tattha, **apaṇṇakan**-ti ekaṁsikaṁ aviraddhaṁ niyyānikaṁ.*  
 > In diesem Zusammenhang bedeutet *apaṇṇaka* sicher, unfehlbar, zur Erlösung führend.
@@ -34,7 +34,7 @@ Wenn wir uns nun Wörter anschauen, die im Pali in der Form *paṇṇa* vorkomme
 
 Glücksspiel war ein herausragendes Merkmal der vedischen Kultur, und es gibt die bewegende Geschichte aus Rigveda 10.34, die vom Nervenkitzel und vom Verlieren beim Spiel erzählt. Die Götter werden angerufen, um den Erfolg sicherzustellen (Atharvaveda 7.109). Selbst Könige verbeugten sich vor den Würfeln (Rig Veda 10.34.8), sodass die Zeremonie zur Rājasūya-Weihe mit einem (gezinkten) Würfelspiel abgesichert wird (Śatapatha-Brāhmaṇa 5.4.4.6, 23). Zahlreiche Geschichten von Königen, die ihr Reich beim Würfelspiel verloren, darunter insbesondere Yudhiṣṭhira im Mahābhārata, zeigen, dass die Macht und die Gefahr des Glücksspiels nicht nur symbolisch waren. 
 
-Die Einzelheiten des klassischen vedischen Glücksspiels sind unklar und haben sich wohl über die Zeit verändert, doch es scheint, eine große Menge von *vibhītaka*-Nüssen („bedda“) wurde in eine Kuhle geworfen, von wo die Spieler eine Handvoll herausnahmen. Wenn die Zahl der Nüsse durch vier teilbar war, galt das als „perfekt“ (*kaṭa*; siehe Rigveda 1.132.1 usw.). Diese Erklärung stammt von der Übersetzung von Jamison/Brereton von Rigveda 10.34, die sich auf einen deutschen Artikel von Harry Falk von 1986 stützt, *Bruderschaft und Würfelspiel: Untersuchungen zur Entwicklunsgeschichte des vedischen Opfers*. 
+Die Einzelheiten des klassischen vedischen Glücksspiels sind unklar und haben sich wohl über die Zeit verändert, doch es scheint, eine große Zahl von *vibhītaka*-Nüssen („bedda“) wurde in eine Kuhle geworfen, von wo die Spieler eine Handvoll herausnahmen. Wenn die Zahl der Nüsse durch vier teilbar war, galt das als „perfekt“ (*kaṭa*; siehe Rigveda 1.132.1 usw.). Diese Erklärung stammt von der Übersetzung von Jamison/Brereton von Rigveda 10.34, die sich auf einen deutschen Artikel von Harry Falk von 1986 stützt, *Bruderschaft und Würfelspiel: Untersuchungen zur Entwicklunsgeschichte des vedischen Opfers*. 
 
 Der Paliausdruck *kaṭaggāha*, der oft mit „Gewinnwurf“ übersetzt wird, heißt daher „perfekte (*kaṭa*) Hand (*gāha*)“. 
 
