@@ -6,21 +6,23 @@ img-alt: Foto von Bhante Sujato
 order: 10
 ---
 
-Gerade habe ich ein wenig mit ein paar Jātaka-Strophen herumgespielt und dabei ein paar interessante Dinge entdeckt. Das Hauptwerk wird hier natürlich vom Ehrwürdigen Anandajoti bewerkstelligt. Aber seine Arbeit bindet den Text eng mit dem Kommentar zusammen, und das führt manchmal zu einem anderen Ergebnis. 
+[Zum Originaltext](https://discourse.suttacentral.net/t/the-first-three-jataka-verses/35681)
+
+Gerade habe ich ein wenig mit ein paar Jātaka-Strophen herumgespielt und dabei ein paar interessante Dinge entdeckt. Das Hauptwerk wird hier natürlich vom Ehrwürdigen Anandajoti bewerkstelligt. Aber seine Arbeit bindet den Text eng mit dem Kommentar zusammen, und das führt manchmal zu einem anderen Ergebnis. [Die deutsche Übersetzung von Dr. Julius Dutoit, ebenfalls Kommentar mit eingebundenen Strophen, findet sich [auf Palikanon.com](https://palikanon.com/khuddaka/jataka/j00.htm). A.d.Ü.]
 
 ### Ja 1 Apaṇṇaka
 
-This is the Apaṇṇakajātaka, of which the central term is derived from gambling.
+Das ist das Apaṇṇakajātaka, dessen zentraler Begriff vom Glücksspiel hergeleitet ist.
 
-[https://dhammaregen.net/#/wiki/buddhismuskunde/unfehlbar](#/wiki/buddhismuskunde/unfehlbar)
+[Wie man beim Glücksspiel unfehlbar gewinnt](#/wiki/buddhismuskunde/unfehlbar)
 
-The gambling context is hinted at in the last line, where the wise one "would take up” what is unfailing, i.e., a “set without a fifth” (Apaṇṇakaṁ) otherwise known as a “winning hand” (kaṭaggāha). The use of “take up” here hints at the game of dice, where the players would grab a handful of seeds, aiming to get a number divisible by four.
+Einen Hinweis auf das Glücksspiel gibt die letzte Zeile, wo der Weise „nach dem Unfehlbaren greifen würde“, d.  h. nach „einem Satz ohne einen fünften“ (*apaṇṇakaṁ*), auch als „perfekte Hand“ (*kaṭaggāha*) bekannt. Der Gebrauch von „greifen“ weist hier auf das Würfelspiel hin, wo die Spieler eine Handvoll Samen und dabei versuchen, eine Zahl zu nehmen, die durch vier teilbar ist. 
 
-The verse contrasts the wise one with the takkikā, the “sophist” who argues a superficially plausible doctrine that does not withstand investigation in light of facts. This is similar to the usage in Ud 6.10. It refers to the “story of the present” (i.e. the Buddha’s lifetime), where people fell away from the Dhamma being persuaded by heretics.
+Die Strophe stellt den Weisen dem *takkikā* gegenüber, dem „Denker“, der eine vordergründig plausible Lehre aufstellt, die der Prüfung im Licht der Tatsachen nicht standhält. Das ähnelt dem Gebrauch in [Ud 6.10](#/sutta/ud6.10/de/sabbamitta). Es bezieht sich auf die „Geschichte aus der Gegenwart“ (d. h. dem letzten Leben des Buddha), in der Menschen vom Dhamma abfielen, da sie von Andersgläubigen überzeugt wurden. 
 
-What’s interesting here is that the verse does not directly refer to the actual Jataka, the “story of the past”. There, the antagonist is a yakkha, and the story is adapted from DN 23:23.1. Both the story of the past and the story of the present illustrate how foolish people were to listen to advice from bad men. But the verse is directly referring, not to the yakkha, but to the sophists, and brings in the story of the yakkha by way of illustration.
+Das Interessante hier ist, dass die Strophe nicht direkt auf das eigentliche Jātaka, die „Geschichte aus der Vergangenheit“, hinweist. Dort ist der Gegenspieler ein *yakkha*, und die Geschichte ist von [DN 23:23.1](#/sutta/dn23:23.1/de/sabbamitta) angepasst. Sowohl die Geschichte aus der Vergangenheit als auch die Geschichte aus der Gegenwart veranschulichen, wie töricht Menschen waren, als sie auf den Rat schlechter Menschen hörten. Aber die Strophe weist unmittelbar nicht auf den *yakkha*, sondern auf die Denker hin und bringt die Gechichte des *yakkha* als Veranschaulichung. 
 
-This shows that, while the Jataka verses typically relate to the story of the past, this is not always the case. In fact, it seems likely that in this case the “story of the present” was originally attached to the verse, like an Udana or a Dhammapada with commentary, and then the Jataka was inserted as illustration.
+Das zeigt, dass, auch wenn sich die Strophen der Jātakas üblicherweise auf die Geschichte aus der Vergangenhiet beziehen, das nicht immer der Fall ist. Es ist tatsächlich wahrscheinlich, dass in diesem Fall ursprünglich die „Geschichte aus der Gegenwart“ mit der Strophe verknüpft wurde, wie ein Udāna oder Dhammapada mit Kommentar, und dann das Jātaka zur Vernaschaulichung eingefügt wurde. 
 
 ### Ja 2 Vaṇṇupatha
 
