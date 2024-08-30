@@ -26,7 +26,7 @@ Das zeigt, dass, auch wenn sich die Strophen der Jātakas üblicherweise auf die
 
 ### [Ja 2 Vaṇṇupatha](#/sutta/ja2/de/sabbamitta)
 
-Dies setzt das Thema des Reisens durch eine Wüste mit einer Handelskarawane fort. Zur Zeit als die Jātakas zusammengestellt wurden – nach Ashoka – erweiterte sich die Reichweite der Handelsrouten rasch. Buddhistische Mönche und Nonnen reisten auf den gleichen Routen, manchmal mit den Karawanen, und brachten den Dhamma zu neuen Orten. So hörten sie die Geschichten der Reisenden und gestalteten sie als Dhammaunterweisungen auf eine Art, die für ihre Ängste und Hoffnungen von Belang war. 
+Dies setzt das Thema des Reisens durch eine Wüste mit einer Handelskarawane fort. Zur Zeit als die Jātakas zusammengestellt wurden – nach Ashoka – erweiterte sich die Reichweite der Handelsrouten rasch. Buddhistische Mönche und Nonnen reisten auf den gleichen Routen, manchmal mit den Karawanen, und brachten den Dhamma zu neuen Orten. So hörten sie die Geschichten der Reisenden und gestalteten sie als Dhammaunterweisungen auf eine Art, die für die Ängste und Hoffnungen der Menschen von Belang war. 
 
 Dieses Mal ist es ein junger Arbeiter in der Karawane, der nach Wasser gräbt. Alles scheint verloren, und die Karawane sieht den Tod vor sich, doch der Bodhisatta will nicht aufgeben. Als er ein Büschel Gras in der Sandwüste sieht, hört er genau hin und nimmt das ferne Geräusch einer dahinfließenden unterirdischen Strömung wahr. 
 
@@ -48,7 +48,7 @@ Das ist das Serivavāṇijajātaka, das auch die Geschichte eines Händlers erz�
 
 Vom Titel wird erklärt, er bedeute „der Händler namens Serivā“, abgeleitet vom Stadtstaat Seriva, aber soweit ich weiß ist keine Stadt dieses Namens bezeugt, noch spielt sie in der Geschichte, abgesehen davon, dass sie der Geburtsort ist, eine Rolle. Daher finde ich diese Ableitung nicht überzeugend. 
 
-Die Geschichte handelt von zwei Händlern, von denen einer, der „rücksichtslos“ (*lola*) ist, versucht, eine Witwe und ihre Tochter um ihren wertvollen Besitz zu bringen. Zum Glück zahlt ihnen ein weiser Händler den wahren Wert. 
+Die Geschichte handelt von zwei Händlern, von denen einer, der „rücksichtslos“ (*lola*) ist, versucht, eine Witwe und ihre Tochter um ihren wertvollen Besitz zu prellen. Zum Glück zahlt ihnen ein weiser Händler den wahren Wert. 
 
 Das Schlüsselwort hier ist *seri*, das von der Wurzelbedeutung *sa* (sein eigenes) + *i* (gehen) abgeleitet ist, wörtlich „seinen eigenen Weg gehen“. Gewöhnlich wird es im Pali in einem positiven Sinn gebraucht, von einem Wild, das frei im Wald umherwandert. Aber im Sanskrit finden wir auch einen negativen Sinn, siehe dazu *svairī* in Chāndogya-Upaniṣad 5.11.5. Hier bezeichnet es einen „Rücksichtslosen“, also das gleiche wie das *lola* des Kommentars. 
 
@@ -56,7 +56,7 @@ In diesem Fall kann die Form *serivā* als ein *taddhita* aufgegliedert werden, 
 
 >*wie dieser rücksichtslose Händler.*
 
-In solchen Fällen ist es wichtig, im Auge zu behalten, dass der Kommentar nicht an sich falsch liegt. Tatsächlich kann man die Erklärung von *seri* als *lola* noch finden, wenn auch versteckt. Es ist im Pali üblich, dass eine Eigenschaft eines Menschen sein Name wird, daher wird jemand, der rücksichtslos handelt, als „Rücksichtslos“ (*serivā*) bekannt. Wenn die Kenntnis über den ursprünglichen Zusammenhang verloren geht, kann der Name Serivā erklärt werden als jemand, der aus einer Stadt dieses Namens stammt. 
+In solchen Fällen ist es wichtig, im Auge zu behalten, dass der Kommentar nicht an sich falsch liegt. Tatsächlich kann man die Erklärung von *seri* als *lola* noch erkennen, wenn auch versteckt. Es ist im Pali üblich, dass eine Eigenschaft eines Menschen sein Name wird, daher wird jemand, der rücksichtslos handelt, als „Rücksichtslos“ (*Serivā*) bekannt. Wenn die Kenntnis über den ursprünglichen Zusammenhang verloren geht, kann der Name Serivā erklärt werden als jemand, der aus einer Stadt dieses Namens stammt. 
 
 Ein interesaanter Punkt ist hier noch, dass diese Strophe großenteils mit [AN 8.29:15.1-4](#/sutta/an8.29:15.1/de/sabbamitta) übereinstimmt. Der Unterschied besteht darin, dass der *serivā*-Händler nicht genannt wird; stattdessen finden wir den einzigartigen Begriff *atītattho*. Der Ehrwürdige Bodhi übersetzte ihn, und ich bin ihm zuvor gefolgt, als den Händler, der „einen Gewinn versäumt“ hat, indem er *attha* in der Bedeutung „Nutzen, Gewinn“ auffasste. Aber es ist eine merkwürdige Art, das auszudrücken. 
 
