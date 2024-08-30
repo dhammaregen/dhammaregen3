@@ -44,7 +44,7 @@ Das stellt eine enge Verbindung zwischen der Strophe und der Geschichte aus der 
 
 ### [Ja 3 Serivavāṇija](#/sutta/ja3/de/sabbamitta)
 
-This is the Serivavāṇijajātaka, which also tells the story of a merchant.
+Das ist das Serivavāṇijajātaka, das auch die Geschichte eines Händlers erzählt. 
 
 The title is explained as meaning, “the merchant named Serivā”, deriving it from the nation of Seriva, but no such city is attested so far as I know, nor does it play a role in the story other than a birthplace. So I don’t find this convincing.
 
