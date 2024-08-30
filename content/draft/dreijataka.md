@@ -26,7 +26,7 @@ Das zeigt, dass, auch wenn sich die Strophen der Jātakas üblicherweise auf die
 
 ### [Ja 2 Vaṇṇupatha](#/sutta/ja2/de/sabbamitta)
 
-Dies setzt das Thema des Reisens durch eine Wüste mit einer Handelskarawane fort. Zur Zeit, als die Jātakas zusammengestellt wurden – nach Ashoka –, erweiterte sich die Reichweite der Handelsrouten rasch. Buddhistische Mönche und Nonnen reisten auf den gleichen Routen, manchmal mit den Karawanen, und brachten den Dhamma zu neuen Orten. So hörten sie die Geschichten der Reisenden und gestalteten sie als Dhammaunterweisungen auf eine Art, die für ihre Ängste und Hoffnungen von Belang war. 
+Dies setzt das Thema des Reisens durch eine Wüste mit einer Handelskarawane fort. Zur Zeit als die Jātakas zusammengestellt wurden – nach Ashoka – erweiterte sich die Reichweite der Handelsrouten rasch. Buddhistische Mönche und Nonnen reisten auf den gleichen Routen, manchmal mit den Karawanen, und brachten den Dhamma zu neuen Orten. So hörten sie die Geschichten der Reisenden und gestalteten sie als Dhammaunterweisungen auf eine Art, die für ihre Ängste und Hoffnungen von Belang war. 
 
 Dieses Mal ist es ein junger Arbeiter in der Karawane, der nach Wasser gräbt. Alles scheint verloren, und die Karawane sieht den Tod vor sich, doch der Bodhisatta will nicht aufgeben. Als er ein Büschel Gras in der Sandwüste sieht, hört er genau hin und hört das ferne Geräusch einer dahinfließenden unterirdischen Strömung. 
 
@@ -46,24 +46,24 @@ Das stellt eine enge Verbindung zwischen der Strophe und der Geschichte aus der 
 
 Das ist das Serivavāṇijajātaka, das auch die Geschichte eines Händlers erzählt. 
 
-The title is explained as meaning, “the merchant named Serivā”, deriving it from the nation of Seriva, but no such city is attested so far as I know, nor does it play a role in the story other than a birthplace. So I don’t find this convincing.
+Vom Titel wird erklärt, er bedeute „der Händler namens Serivā“, abgeleitet vom Stadtstaat Seriva, aber soweit ich weiß ist keine Stadt dieses Namens bezeugt, noch spielt sie in der Geschichte, abgesehen davon, dass sie der Geburtsort ist, eine Rolle. Daher finde ich diese Ableitung nicht überzeugend. 
 
-The story concerns two merchants, one of whom, being “wanton”, (lola) tries to con a widow and her daughter out of their only valuable possession. Luckily a wise merchant pays them what it is worth.
+Die Geschichte handelt von zwei Händlern, von denen einer, der „rücksichtslos“ (*lola*) ist, versucht, eine Witwe und ihre Tochter um ihren wertvollen Besitz zu bringen. Zum Glück zahlt ihnen ein weiser Händler den wahren Wert. 
 
-The key word here is seri, which is from a root sense sa (one’s own) + i (go), literally, “goes one’s own way”. It’s usually used in Pali in a positive sense, of a deer who wanders free in the forest. But in Sanskrit we also find a negative sense, for which see svairī in Chāndogya Upaniṣad 5.11.5. Here it means a “wanton”, thus having the same sense as the commentary’s lola.
+Das Schlüsselwort hier ist *seri*, das von der Wurzelbedeutung *sa* (sein eigenes) + *i* (gehen) abgeleitet ist, wörtlich „seinen eigenen Weg gehen“. Gewöhnlich wird es im Pali in einem positiven Sinn gebraucht, von einem Wild, das frei im Wald umherwandert. Aber im Sanskrit finden wir auch einen negativen Sinn, siehe dazu *svairī* in Chāndogya-Upaniṣad 5.11.5. Hier bedeutet es einen „Rücksichtslosen“, also das gleiche wie das *lola* des Kommentars. 
 
-In this case the form serivā can be analyzed as a taddhita, serivā, “possessed of wantonness”, i.e “wanton one”, and the line translated,
+In diesem Fall kann die Form *serivā* als ein *taddhita* aufgegliedert werden, *serivā* = „von Rücksichtslosigkeit besessen“, d. h. „Rücksichtsloser“, und man kann die Zeile übersetzen: 
 
->like this wanton merchant.
+>wie dieser rücksichtslose Händler.
 
-In such cases, it is worth bearing in mind that it’s not that the commentary has it wrong per se. In fact, the gloss of seri as lola is still found, albeit hidden. It’s common in Pali for a person’s attribute to become their name, so one who acts in a wanton manner comes to be known as “Wanton” (“Serivā”). As the understanding of the original context recedes, the name Serivā can be explained as stemming from a nation of that name.
+In solchen Fällen ist es wichtig, im Auge zu behalten, dass der Kommentar nicht an sich falsch liegt. Tatsächlich kann man die Erklärung von *seri* als *lola* noch finden, wenn auch versteckt. Es ist im Pali üblich, dass eine Eigenschaft eines Menschen sein Name wird, daher wird jemand, der rücksichtslos handelt, als „Rücksichtslos“ (*serivā*) bekannt. Wenn die Kenntnis über den ursprünglichen Zusammenhang verloren geht, kann der Name Serivā erklärt werden als jemand, der aus einer Stadt dieses Namens stammt. 
 
-Now, what’s interesting here is that this verse is mostly similar to AN 8.29:15.1. The difference is that the serivā merchant is not mentioned, and instead we find the unique term atītattho. Ven Bodhi translated this, and I formerly followed him, as the merchant who has “missed a profit”, taking attha in the sense of “benefit, profit”. But it’s an odd way of putting it.
+Ein interesaanter Punkt ist hier noch, dass diese Strophe großenteils mit [AN 8.29:15.1-4](#/sutta/an8.29:15.1/de/sabbamitta) übereinstimmt. Der Unterschied besteht darin, dass der *serivā*-Händler nicht genannt wird; stattdessen finden wir den einzigartigen Begriff *atītattho*. Der Ehrwürdige Bodhi übersetzte ihn, und ich bin ihm zuvor gefolgt, als den Händler, der „einen Gewinn versäumt“ hat, indem er *attha* in der Bedeutung „Nutzen, Gewinn“ auffasste. Aber es ist eine merkwürdige Art, das auszudrücken. 
 
-Another of the many meanings of attha is “story, affair, matter”, and in this sense it is equivalent to vatthu. In the Jatakas, the “story of the past” is always referred to as atītavatthu, and I propose that atītattho has the same meaning.
+Eine andere der vielen Bedeutungen von *attha* ist „Geschichte, Angelegenheit, Sache“, und in diesem Sinn entspricht es dem Wort *vatthu*. In den Jātakas wird die „Geschichte aus der Vergangenheit“ stets als *atītavatthu* bezeichnet, und ich schlage vor, dass *atītattho* die gleiche Bedeutung hat. 
 
-Thus instead of “like the merchant who missed a profit” we should translate, “like the merchant in the story of the past”. This suggests that the Anguttara verse is making an implied reference to the same story as that found in the Jatakas.
+Somit sollten wir anstatt „wie der Händler, der einen Gewinn versäumte“, übersetzen: „wie der Händler in der Geschichte aus der Vergangenheit“. Das würde bedeuten, dass die Strophe im Aṅguttara indirekt auf die gleiche Geschichte Bezug nimmt, die  man in den Jātakas findet. 
 
-This might seem surprising, as the Anguttara is part of the early canon, while the Jatakas were added later. How then can an earlier text be referring to a later one?
+Das mag überraschend erscheinen, da der Aṅguttara Teil des frühen Kanon ist und die Jātakas später aufgenommen wurden. Wie kann dann ein früherer Text sich auf einen späteren beziehen? 
 
-But it’s not that simple. The Jatakas draw from an ocean of pre-existing stories, many of which may even pre-date the Buddha himself. After all, they are explicitly said to be “tales of the past”. It’s entirely possible that the Buddha referred obliquely to this story, knowing that his audience was familiar with it, and it was later added to the Jataka collection.
+Aber so einfach ist es nicht. Die Jātakas schöpften aus bereits bestehenden Geschichten, von denen viele wohl schon vor dem Buddha bestanden. Schließlich werden sie ausdrücklich als „Fabeln aus der Vergangenheit“ bezeichnet. Es ist sehr gut möglich, dass der Buddha indirekt auf diese Geschichte hinwies, da er wusste, dass sein Publikum damit vertraut war; und später wurde sie in die Jātaka-Sammlung aufgenommen. 
