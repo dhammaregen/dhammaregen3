@@ -13,7 +13,7 @@ Eine vollständige Aufgliederung aller Sammlungen des Kanon findet man [auf Sutt
 
 ### Drei Körbe
 
-Die erste Gliederungsebene ist die Einteilung in drei „Körbe“ (Pali: *tipiṭaka*): den Korb der Lehrreden (*suttapiṭaka*), den Korb der Ordenssatzung (*vinayapiṭaka*) und den Korb der systematischen Abhandlungen (*abhidhammapiṭaka*).
+Die erste Gliederungsebene ist die Einteilung in drei „Körbe“ (Pali: *Tipiṭaka*): den Korb der Lehrreden (*Suttapiṭaka*), den Korb der Ordenssatzung (*Vinayapiṭaka*) und den Korb der systematischen Abhandlungen (*Abhidhammapiṭaka*).
 
 Wir gehen hier vor allem auf den Korb der Lehrreden ein, da sich darin das Material befindet, das auf *Dhammaregen* zu lesen ist.
 
@@ -22,12 +22,12 @@ Wir gehen hier vor allem auf den Korb der Lehrreden ein, da sich darin das Mater
 ### Der Korb der Lehrreden
 
 Der Korb der Lehrreden besteht aus vier Hauptsammlungen:
-- der Sammlung der Langen Lehrreden (*dīghanikāya*, DN)
-- der Sammlung der Mittleren Lehrreden (*majjhimanikāya*, MN)
-- der Sammlung der Verbundenen Lehrreden (*saṁyuttanikāya*, SN)
-- der Sammlung der Nummerierten Lehrreden (*aṅguttaranikāya*, AN)
+- der Sammlung der Langen Lehrreden (*Dīghanikāya*, DN)
+- der Sammlung der Mittleren Lehrreden (*Majjhimanikāya*, MN)
+- der Sammlung der Verbundenen Lehrreden (*Saṁyuttanikāya*, SN)
+- der Sammlung der Nummerierten Lehrreden (*Aṅguttaranikāya*, AN)
 
-Hinzu kommt die sogenannte „Kleinere Sammlung“ (*khuddakanikāya*), in der Texte ganz unterschiedlicher Art eingeordnet sind, meist in Versform oder als Mischung von Prosa und Versen. Sie ist sozusagen die „Restkategorie“, in der alle die Texte eine Heimat fanden, die in keine der anderen Sammlungen passen wollten. Diese Sammlung war länger als die anderen Sammlungen für Erweiterungen geöffnet und enthält daher neben einigen frühen Sammlungen auch späteres Material. Und trotz der Bezeichnung „kleinere Sammlung“ wurde sie mit der Zeit mehr als doppelt so umfangreich wie die vier Hauptsammlungen zusammen.
+Hinzu kommt die sogenannte „Kleinere Sammlung“ (*Khuddakanikāya*), in der Texte ganz unterschiedlicher Art eingeordnet sind, meist in Versform oder als Mischung von Prosa und Versen. Sie ist sozusagen die „Restkategorie“, in der alle die Texte eine Heimat fanden, die in keine der anderen Sammlungen passen wollten. Diese Sammlung war länger als die anderen Sammlungen für Erweiterungen geöffnet und enthält daher neben einigen frühen Sammlungen auch späteres Material. Und trotz der Bezeichnung „kleinere Sammlung“ wurde sie mit der Zeit mehr als doppelt so umfangreich wie die vier Hauptsammlungen zusammen.
 
 Zum *Dhammaregen*-Projekt gehören die vier Hauptsammlungen und die frühen Teile des Khuddakanikāya, bestehend aus
 - *Khuddakapāṭha*, Grundlegende Ausschnitte (Kp)

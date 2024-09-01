@@ -8,6 +8,11 @@ order: -9999
 
 Hier finden Sie eine kurze Themenübersicht der bisher erschienenen Newsletter. Klicken sie auf die Überschrift, um zu einem Newsletter zu gelangen.
 
+### [September 2024](#/wiki/news/2024-09)
+- Die Prinzessin Sumanā (SN 3.22, AN5.31, Thig 1.16)
+- Der Palikanon, dieser unüberschaubare Dschungel (Infoseite)
+- Dhp 122
+
 ### [August 2024](#/wiki/news/2024-08)
 - Regen und Wetter (AN 10.61, Thag 1.51, Snp 1.2, SN 32.57, AN 5.197, AN 4.70, Ja 334, AN 5.31, Iti 27, AN 4.102, Dhp 47, SN 1.1)
 - Wiedergabelisten
