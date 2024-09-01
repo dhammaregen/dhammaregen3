@@ -75,7 +75,7 @@ Der Visuddhimagga stellt die ziemlich außerordentliche Behauptung auf, dass Pal
 
 Der Buddha betrachtete demgegenüber Sprache als einen Satz von Konventionen für die Kommunikation zwischen Menschen. So etwas wie eine „besondere“ Sprache gibt es nicht. Der Buddha lehrte in der Sprache, die er und die Menschen um ihn herum sprachen, und ermunterte andere, das Gleiche zu tun.
 
-Die Idee von _sabhāvanirutti_ liegt einer gewissen fundamentalistischen Haltung zu Schriften zugrunde, die die Aufbewahrung des *Buchstabens* als vorrangige Aufgabe des Kanons ansieht.
+Die Idee von _sabhāvanirutti_ liegt einer gewissen fundamentalistischen Haltung zu Schriften zugrunde, die die Aufbewahrung des *Buchstabens* als vorrangige Aufgabe des Kanon ansieht.
 
 #### Verlust des brahmanischen Kontextes
 
@@ -324,7 +324,7 @@ In den FBT sind Sammlung und Einsicht nicht verschiedene Meditationsarten, sonde
 
 Die moderne Einsichtsmeditation ist im Hinblick auf das Fortschreiten der sechzehn „Einsichtserkenntnisse“ (*vipassanañāṇa*) strukturiert. Diese sind eine Reihe von Stadien sich vertiefender Einischt, die sich für Menschen in der Meditation entfalten, wenn sich ihre Weisheit vertieft.
 
-Diese Erkenntnisse schöpfen aus Vorstellungen, die man in den Suttas findet, die aber dort nicht als solche aufgezählt sind. Eine einflussreiche Quelle war das Rathavinīta-Sutta, das sieben Stadien hat. Es hat sich mit Variationen in Inhalt und Zahl der Stadien durch den Paṭisambhidāmagga (5), den Vimuttimagga (6), den Visuddhimagga (16) und den Abhidhammatthasaṁgaha (10) entwickelt. Auch in anderen buddhistischen Schulen gibt es unterschiedliche Formulierungen.
+Diese Erkenntnisse schöpfen aus Vorstellungen, die man in den Suttas findet, die aber dort nicht als solche aufgezählt sind. Eine einflussreiche Quelle war das [Rathavinīta-Sutta](#/sutta/mn24/de/sabbamitta), das sieben Stadien hat. Es hat sich mit Variationen in Inhalt und Zahl der Stadien durch den Paṭisambhidāmagga (5), den Vimuttimagga (6), den Visuddhimagga (16) und den Abhidhammatthasaṁgaha (10) entwickelt. Auch in anderen buddhistischen Schulen gibt es unterschiedliche Formulierungen.
 
 Die Suttas präsentieren ein Gleichgewicht von auf einer Seite formal definierten Stadien und Inhalten von Einsicht und auf der anderen Seite individuellem und anscheinend zufälligem persönlichem Wachstum. Den Fortschritt der Einsicht als Verzeichnis auszuarbeiten, kann hilfreich sein für Menschen, die meditieren, und vor allem für Meditationslehrer, die häufig mit einer unglaublichen Variationsbreite von Erfahrungen konfrontieret werden. Aber Verzeichnisse sollten nicht Erfahrungen übergestülpt werden; sie sollen unser Verständnis der Erfahrung verbessern, nicht ein empfindliches persönliches Verständnis durch eine Reihe doktrinaler Kästchen zum Abhaken ersetzen.
 
@@ -514,7 +514,7 @@ Das Verhältnis zu den Ordensälteren ist auf Respekt gegründet, nicht auf Befe
 
 #### Nikāyas
 
-Theravadaländer haben ihre Klostergemeinschaften in verschiedene Nikāyas, d. h. Orden, gegliedert (beachte, dass dies eine andere Bedeutung des Wortes ist als bei den „Nikāyas“ des Palikanons). Diese sind Verwaltungsgremien, die Klosterbesitz verwalten, die Ausbildung organisieren, Ordinationen vermitteln und Ähnliches. In manchen Fällen führen gewisse Nikāyas keine Saṅghaverfahren mit Mönchen außerhalb ihres eigenen Nikāya durch und betrachten diese als einer anderen Gemeinschaft (*saṁvāsa*) angehörig.
+Theravadaländer haben ihre Klostergemeinschaften in verschiedene Nikāyas, d. h. Orden, gegliedert (beachte, dass dies eine andere Bedeutung des Wortes ist als bei den „Nikāyas“ des Palikanon). Diese sind Verwaltungsgremien, die Klosterbesitz verwalten, die Ausbildung organisieren, Ordinationen vermitteln und Ähnliches. In manchen Fällen führen gewisse Nikāyas keine Saṅghaverfahren mit Mönchen außerhalb ihres eigenen Nikāya durch und betrachten diese als einer anderen Gemeinschaft (*saṁvāsa*) angehörig.
 
 Eine solche Organisationsstruktur findet sich in den FBT nicht. Es ist natürlich vernünftig, zu erwarten, dass sich in unserer modernen Zeit mit unserer komplexeren Welt neue Verwaltungsstrukturen herausbilden. Die Idee allerdings, dass ganze Gruppen anderer Saṅghamitglieder von der Durchführung von Saṅghaverfahren von vornherein ausgeschlossen sein sollen, widerspricht sowohl dem Buchstaben als auch dem Geist des Vinaya. Im Vinaya ist das Teilen des Saṅgha oder Ausschließen von Saṅghamitgliedern nur in Fällen erlaubt, in denen ein Einzelner oder eine Gruppe einen schwerwiegenden Verstoß begangen hat und es nicht länger möglich ist, diese als Teil der gleichen Gemeinschaft zu betrachten.
 
@@ -524,7 +524,7 @@ In Sri Lanka führt der am stärksten vertretene Siam-Nikāya Ordinationen entsp
 
 Der moderne Buddhismus aller Schulen einschließlich des Theravada legt großen Wert auf die Vorstellung von Ordinationslinien, und der Wunsch nach einer reinen Abstammungslinie trägt viel zur Ausprägung des modernen Saṅgha bei.
 
-Der Vinaya enthält kein Konzept einer Ordinationslinie. Die Aufnahme in den Saṅgha ist so ausgelegt, dass sie angemessene Unterstützung und Ausbildung für den Neuling ermöglicht; sie ist keine quasi-magische Initiation. Kein heute lebendiger Saṅghaorden kann beweisen, dass seine eigene Ordinationslinie nach seien eigenen Standards „gültig“ ist; die historischen Aufzeichnungen sind schlichtweg nicht vorhanden.
+Der Vinaya enthält kein Konzept einer Ordinationslinie. Die Aufnahme in den Saṅgha ist so ausgelegt, dass sie angemessene Unterstützung und Ausbildung für den Neuling ermöglicht; sie ist keine quasi-magische Initiation. Kein heute lebendiger Saṅghaorden kann beweisen, dass seine eigene Ordinationslinie nach seinen eigenen Standards „gültig“ ist; die historischen Aufzeichnungen sind schlichtweg nicht vorhanden.
 
 #### Nonnen
 
@@ -572,7 +572,7 @@ Der Buddha bezog sich mit dem Wort Saṅgha auf die klösterliche Gemeinschaft, 
 
 Im Theravada hat sich das Verständnis durchgesetzt, dass damit im „absoluten“ Sinn wenige Geistmomente gemeint sind: ein Blitz der Verwirklichung, wenn man eine neue Ebene des Pfades betritt.
 
-In Übereinstimmung mit der Tatsache, dass man die ganze Vorstellung von Geistmomenten in den FBT nicht findet, sind dort diejenigen, die auf dem Pfad sind, eindeutig „Personen“, die einen Pfad üben und die sich zum Beispiel hinsetzen und eine Mahlzeit zu sich nehmen.
+In Übereinstimmung mit der Tatsache, dass man die gesamte Vorstellung von Geistmomenten in den FBT nicht findet, sind dort diejenigen, die auf dem Pfad sind, eindeutig „Personen“, die einen Pfad üben und die sich zum Beispiel hinsetzen und eine Mahlzeit zu sich nehmen.
 
 In diesem Punkt ist der Widerspruch zwischen den Suttas und den Kommentaren so klar, dass er für mich die entscheidende Sache war, durch die ich verstand, dass ich den Kommentaren nicht immer vertrauen kann. Bis dahin war ich von der grundsätzlichen Richtigkeit der Perspektive der Kommentare überzeugt gewesen, aber diese Überzeugung konnte unmöglich aufrechterhalten werden, sobald ich die entsprechenden Suttastellen studierte, von denen es viele gibt und die eindeutig sind.
 
