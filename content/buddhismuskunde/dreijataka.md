@@ -8,7 +8,7 @@ order: 10
 
 [Zum Originaltext](https://discourse.suttacentral.net/t/the-first-three-jataka-verses/35681)
 
-Gerade habe ich ein wenig mit ein paar Jātaka-Strophen herumgespielt und dabei ein paar interessante Dinge entdeckt. Das Hauptwerk wird hier natürlich vom Ehrwürdigen Anandajoti bewerkstelligt. Aber seine Arbeit bindet den Text eng mit dem Kommentar zusammen, und das führt manchmal zu einem anderen Ergebnis. [Die deutsche Übersetzung von Dr. Julius Dutoit, ebenfalls Kommentar mit eingebundenen Strophen, findet sich [auf Palikanon.com](https://palikanon.com/khuddaka/jataka/j00.htm). A.d.Ü.]
+Gerade habe ich ein wenig mit ein paar Jātaka-Strophen herumgespielt und dabei ein paar interessante Dinge entdeckt. Das Hauptwerk wird hier natürlich vom Ehrwürdigen Anandajoti bewerkstelligt. Aber seine Arbeit verbindet den Text eng mit dem Kommentar, und das führt manchmal zu einem anderen Ergebnis. [Die deutsche Übersetzung von Dr. Julius Dutoit, Prosageschichten mit eingebundenen Strophen, findet sich [auf Palikanon.com](https://palikanon.com/khuddaka/jataka/j00.htm). A.d.Ü.]
 
 ### [Ja 1 Apaṇṇaka](#/sutta/ja1/de/sabbamitta)
 
@@ -18,7 +18,7 @@ Das ist das Apaṇṇakajātaka, dessen zentraler Begriff vom Glücksspiel herge
 
 Einen Hinweis auf das Glücksspiel gibt die letzte Zeile, wo der Weise „nach dem Unfehlbaren greifen“ würde, d.  h. nach „einem Satz ohne einen fünften“ (*apaṇṇakaṁ*), auch als „perfekte Hand“ (*kaṭaggāha*) bekannt. Der Gebrauch von „greifen“ weist hier auf das Würfelspiel hin, wo die Spieler eine Handvoll Samen greifen und dabei versuchen, eine Zahl zu bekommen, die durch vier teilbar ist. 
 
-Die Strophe stellt den Weisen dem *takkikā* gegenüber, dem „Denker“, der eine vordergründig plausible Lehre aufstellt, die der Prüfung im Licht der Tatsachen nicht standhält. Das ähnelt dem Gebrauch in [Ud 6.10](#/sutta/ud6.10/de/sabbamitta). Es bezieht sich auf die „Geschichte aus der Gegenwart“ (d. h. dem letzten Leben des Buddha), in der Menschen auf Andersgläubige hörten und vom Dhamma abfielen. 
+Die Strophe stellt den Weisen dem *takkikā* gegenüber, dem „Denker“, der eine vordergründig plausible Lehre aufstellt, die der Prüfung im Licht der Tatsachen nicht standhält. Das ähnelt dem Gebrauch in [Ud 6.10](#/sutta/ud6.10/de/sabbamitta). Sie bezieht sich auf die „Geschichte aus der Gegenwart“ (d. h. dem letzten Leben des Buddha), in der Menschen auf Andersgläubige hörten und vom Dhamma abfielen. 
 
 Das Interessante hier ist, dass die Strophe nicht direkt auf das eigentliche Jātaka, die „Geschichte aus der Vergangenheit“, hinweist. Dort ist der Gegenspieler ein *yakkha*, und die Geschichte ist von [DN 23:23.1 ff](#/sutta/dn23:23.1/de/sabbamitta) angepasst. Sowohl die Geschichte aus der Vergangenheit als auch die Geschichte aus der Gegenwart veranschulichen, wie töricht Menschen waren, als sie auf schlechte Ratgeber hörten. Aber die Strophe weist unmittelbar nicht auf den *yakkha*, sondern auf die Denker hin, und die Gechichte des *yakkha* wird zur Veranschaulichung hinzugezogen. 
 
@@ -28,7 +28,7 @@ Das zeigt, dass, auch wenn sich die Strophen der Jātakas üblicherweise auf die
 
 Dies setzt das Thema des Reisens durch eine Wüste mit einer Handelskarawane fort. Zur Zeit als die Jātakas zusammengestellt wurden – nach Ashoka – erweiterte sich die Reichweite der Handelsrouten rasch. Buddhistische Mönche und Nonnen reisten auf den gleichen Routen, manchmal mit den Karawanen, und brachten den Dhamma zu neuen Orten. So hörten sie die Geschichten der Reisenden und gestalteten sie als Dhammaunterweisungen auf eine Art, die für die Ängste und Hoffnungen der Menschen von Belang war. 
 
-Dieses Mal ist es ein junger Arbeiter in der Karawane, der nach Wasser gräbt. Alles scheint verloren, und die Karawane sieht den Tod vor sich, doch der Bodhisatta will nicht aufgeben. Als er ein Büschel Gras in der Sandwüste sieht, hört er genau hin und nimmt das ferne Geräusch einer dahinfließenden unterirdischen Strömung wahr. 
+Dieses Mal ist es ein junger Arbeiter in der Karawane, der nach Wasser gräbt. Alles scheint verloren, und die Karawane sieht den Tod vor sich, doch der Bodhisatta will nicht aufgeben. Als er ein Büschel Gras in der Sandwüste sieht, lauscht er genau und hört das ferne Geräusch einer dahinfließenden unterirdischen Strömung. 
 
 Die interessante Wendung ist hier *udaṅgaṇe*, wobei *uda* vom Kommentar als bloße Partikel abgetan wird, und *aṅgaṇa*, von der Wurzelbedeutung „sich bewegen“, als ein Ort gedeutet wird, an dem sich Menschen hin und her bewegen, eine „offene Stelle“. 
 
@@ -46,7 +46,7 @@ Das stellt eine enge Verbindung zwischen der Strophe und der Geschichte aus der 
 
 Das ist das Serivavāṇijajātaka, das auch die Geschichte eines Händlers erzählt. 
 
-Vom Titel wird erklärt, er bedeute „der Händler namens Serivā“, abgeleitet vom Stadtstaat Seriva, aber soweit ich weiß ist keine Stadt dieses Namens bezeugt, noch spielt sie in der Geschichte, abgesehen davon, dass sie der Geburtsort ist, eine Rolle. Daher finde ich diese Ableitung nicht überzeugend. 
+Vom Titel wird erklärt, er bedeute „der Händler namens Serivā“, abgeleitet vom Stadtstaat Seriva, aber soweit ich weiß, ist keine Stadt dieses Namens bezeugt, noch spielt sie in der Geschichte, abgesehen davon, dass sie der Geburtsort ist, eine Rolle. Daher finde ich diese Ableitung nicht überzeugend. 
 
 Die Geschichte handelt von zwei Händlern, von denen einer, der „rücksichtslos“ (*lola*) ist, versucht, eine Witwe und ihre Tochter um ihren wertvollen Besitz zu prellen. Zum Glück zahlt ihnen ein weiser Händler den wahren Wert. 
 
