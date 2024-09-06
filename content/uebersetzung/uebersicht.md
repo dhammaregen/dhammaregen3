@@ -19,16 +19,16 @@ Bitte klicken Sie auf `Such mir etwas aus!` oder geben Sie Suchbegriffe ins Such
 - Saṁyutta-Nikāya: vollständig
 - Aṅguttara-Nikāya: vollständig
 - Khuddaka-Nikāya: 
-  - Kp: vollständig 
-  - Dhp: vollständig
-  - Ud: vollständig
-  - Iti: vollständig
-  - Snp: Snp 1.2, Snp 1.4, Snp 1.8, Snp 1.10-11, Snp 2.1, Snp 2.4-5, Snp 2.8, Snp 2.10, Snp 2.12, Snp 3.11, Snp 4.3, Snp 4.15, Snp 5.4, Snp 5.16, Snp 5.19
-  - Thag: vollständig
-  - Thig: vollständig
-  - Cp: Cp 1-34
-  - Ja: Ja 1-3
-  - Mil: Mil 3.1.1
+  - Khuddakapāṭha: vollständig 
+  - Dhammapada: vollständig
+  - Udāna: vollständig
+  - Itivuttaka: vollständig
+  - Suttanipāta: Snp 1.2, Snp 1.4, Snp 1.8, Snp 1.10-11, Snp 2.1, Snp 2.4-5, Snp 2.8, Snp 2.10, Snp 2.12, Snp 3.11, Snp 4.3, Snp 4.15, Snp 5.4, Snp 5.16, Snp 5.19
+  - Theragāthā: vollständig
+  - Therīgāthā: vollständig
+  - Cariyāpiṭaka: Cp 1-34
+  - Jātaka: Ja 1-3
+  - Milindapañha: Mil 3.1.1
 
 Neue Texte kommen laufend hinzu, die vorhandenen werden regelmäßig aktualisiert.
 
