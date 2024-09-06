@@ -27,6 +27,7 @@ Bitte klicken Sie auf `Such mir etwas aus!` oder geben Sie Suchbegriffe ins Such
   - Thag: vollständig
   - Thig: vollständig
   - Cp: Cp 1-34
+  - Ja: Ja 1-3
   - Mil: Mil 3.1.1
 
 Neue Texte kommen laufend hinzu, die vorhandenen werden regelmäßig aktualisiert.
