@@ -28,10 +28,10 @@ Außerdem ist es wahrscheinlich, dass der Zweig des Buddhismus, den wir als Ther
 
 <a title="Karte mit Wanderungsbewegungen auf diditaloceanspaces" href="https://scdd.sfo2.cdn.digitaloceanspaces.com/uploads/original/2X/a/a438ef891dadef14ddcbba8c8b9ad515a38a1bc1.png"><img height="400" alt="Karte mit Wanderungsbewegungen der Ausbreitung des Buddhismus" src="https://scdd.sfo2.cdn.digitaloceanspaces.com/uploads/original/2X/a/a438ef891dadef14ddcbba8c8b9ad515a38a1bc1.png" class="my-img"></a>
 
-In [SN 35.132](#/sutta/sn35.132/de/sabbamitta) haben wir ein interessantes Sutta, in dem Mahākaccāna von einer Gruppe rüpelhafter Brahmanenschüler in seiner Meditation gestört wird. Sie lassen ihre Beschimpfungen ab:
+In [SN 35.132](#/sutta/sn35.132/de/sabbamitta) haben wir ein interessantes Sutta, in dem Mahākaccāna von einer Gruppe rüpelhafter Vedenstudenten in seiner Meditation gestört wird. Sie lassen ihre Beschimpfungen ab:
 
 >*ime pana muṇḍakā samaṇakā ibbhā kaṇhā bandhupādāpaccā, imesaṃ bharatakānaṃ sakkatā garukatā mānitā pūjitā apacitā*  
->*Diese glatzköpfigen Pfaffen, diese falschen Asketen, diese Primitiven, diese schwarze Ausgeburt aus den Füßen unseres Verwandten! Sie werden geehrt, geachtet, gewürdigt, verehrt und wertgeschätzt von diesen angeblichen Indern.*
+>*Diese glatzköpfigen Pfaffen, diese falschen Asketen, diese Primitiven, diese schwarze Ausgeburt aus den Füßen unseres Verwandten, des Gebieters! Sie werden geehrt, geachtet, gewürdigt, verehrt und wertgeschätzt von diesen angeblichen Indern.*
 
 In diesem Sutta gibt es Vieles, das von Interesse ist, aber ich will das Augenmerk auf den anscheinend nur hier vorkommenden Begriff *bharataka* lenken. Wie man in meiner (provisorischen!) Übersetzung erkennen kann, denke ich, dass dies ein früher,  möglicherweise einmaliger, Fall ist, in dem der Ausdruck im Sinn von „indisch“ verwendet wird. [Inzwischen wurde die Übersetzung dahingehend abgeändert, dass „Inder“ durch „Erben der vedischen Kultur“ ersetzt wurde. AdÜ]
 
@@ -49,6 +49,6 @@ Ich denke also, wir sollten *bharata* hier im Sinn der „wahren, ursprüngliche
 
 Es scheint, Rabauken, die behaupten, die richtigen, wahren Was-weiß-Ichs zu sein, sind keine neue Erscheinung.
 
-Zum Glück hatten die Brahmanenschüler einen guten Lehrer, und Lohicca fand Mahākaccānas Unterweisungen so überzeugend, dass er Zuflucht nahm und ihn einlud, zum Almosensammeln zu kommen.
+Zum Glück hatten die Vedenstudenten einen guten Lehrer, und Lohicca fand Mahākaccānas Unterweisungen so überzeugend, dass er Zuflucht nahm und ihn einlud, zum Almosensammeln zu kommen.
 
 Dieses Sutta spielt zu einer Zeit, als die indo-arische Kultur sich in der Gegend etablierte, und wir werden hier Zeugen des Wettbewerbs, bei dem sich – eine Zeit lang – die Buddhisten durchsetzten.

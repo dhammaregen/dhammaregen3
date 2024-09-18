@@ -8,7 +8,7 @@ order: 4
 
 [Zum Originaltext](https://discourse.suttacentral.net/t/nanda-and-northern-black-polished-ware/2919)
 
-Das Studium des frühen Buddhismus ist durch die Spärlichkeit archäologischer Hinterlassenschaften aus der Zeit erschwert. Das ist zum Teil durch die Art der Kultur in dieser Zeit bedingt, in der Gebäude vorwiegend aus Holz und monumentale Bauwerke und Steinbauweise noch nicht verbreitet waren; aber es liegt auch am allgemein niedrigen Stand der Archäologie in Indien. Dennoch haben wir einige Anhaltspunkte. Die Kultur dieser Zeit ist als Kultur der nördlichen schwarzen polierten Keramik bekannt ([Northern Black Polished Ware](https://en.wikipedia.org/wiki/Northern_Black_Polished_Ware), NBPW), benannt nach den charakteristischen glänzenden glasierten Töpferwaren. Die zeitliche und geografische Verbreitung dieser Kultur kommt dem in den FBT dargestellten Kulturkreis sehr nahe, und es gibt keinen Zweifel, dass die Kultur, die in den Suttas beschrieben wird, tatsächlich die Kultur der nördlichen schwarzen polierten Keramik ist.
+Das Studium des frühen Buddhismus ist durch die Spärlichkeit archäologischer Hinterlassenschaften aus der Zeit erschwert. Das ist zum Teil durch die Art der Kultur in dieser Zeit bedingt, in der Gebäude vorwiegend aus Holz und monumentale Bauwerke und Steinbauweise noch nicht verbreitet waren; aber es liegt auch am allgemein niedrigen Stand der Archäologie in Indien. Dennoch haben wir einige Anhaltspunkte. Die Kultur dieser Zeit ist als Kultur der nördlichen schwarzen polierten Keramik bekannt ([*Northern Black Polished Ware*](https://en.wikipedia.org/wiki/Northern_Black_Polished_Ware), NBPW), benannt nach den charakteristischen glänzenden glasierten Töpferwaren. Die zeitliche und geografische Verbreitung dieser Kultur kommt dem in den FBT dargestellten Kulturkreis sehr nahe, und es gibt keinen Zweifel, dass die Kultur, die in den Suttas beschrieben wird, tatsächlich die Kultur der nördlichen schwarzen polierten Keramik ist.
 
 <style>
 .my-img {
@@ -34,7 +34,7 @@ Ich habe *accha* nicht übersetzt, da ich denke, es bezieht sich auf NBPW. Das W
 
 Offensichtlich putzt sich Nanda in dieser Passage auf eine Weise heraus, die für Mönche nicht angebracht ist. Das legt nahe, dass eine hochglänzende Schale als ebenso unangemessen angesehen wurde wie gebüglete Roben und Make-up.
 
-Und es zeigt sich, dass das genau der Ansicht der Archäologen über NBPW entspricht. Es gibt einen ausgezeichneten jüngeren Artikel zu dem Thema: „Mikroskopische Analyse der Oberflächenbeschichtungstechnik von nördlicher schwarzer polierter Keramik“ ([Surface Coating Technique of Northern Black Polished Ware by the Microscopic Analysis](http://www.ancient-asia-journal.com/articles/10.5334/aa.12305/)) von Dilruba Sharmin und Fumio Okada. Die Forscher analysierten eine Anzahl von Proben und fanden, dass der Glanz durch Aufbringen von zwei Schichten auf die Keramik erzeugt wurde.  Eine Grundierungsschicht ist aus feinem Ton und wird gebrannt, und darauf wird abschließend eine Schicht aus organischem Material aufgebracht – Harz oder etwas Ähnliches –, um die fertige Politur zu erzeugen. Die Glasur ist so stabil, dass sie bis heute hält – falls sie nicht von wohlmeinenden Ausgräbern abgewaschen wird!
+Und es zeigt sich, dass das genau der Ansicht der Archäologen über NBPW entspricht. Es gibt einen ausgezeichneten jüngeren Artikel zu dem Thema: „Mikroskopische Analyse der Oberflächenbeschichtungstechnik von nördlicher schwarzer polierter Keramik“ ([*Surface Coating Technique of Northern Black Polished Ware by the Microscopic Analysis*](http://www.ancient-asia-journal.com/articles/10.5334/aa.12305/)) von Dilruba Sharmin und Fumio Okada. Die Forscher analysierten eine Anzahl von Proben und fanden, dass der Glanz durch Aufbringen von zwei Schichten auf die Keramik erzeugt wurde.  Eine Grundierungsschicht ist aus feinem Ton und wird gebrannt, und darauf wird abschließend eine Schicht aus organischem Material aufgebracht – Harz oder etwas Ähnliches –, um die fertige Politur zu erzeugen. Die Glasur ist so stabil, dass sie bis heute hält – falls sie nicht von wohlmeinenden Ausgräbern abgewaschen wird!
 
 <a title="Nördliche schwarze polierte Keramik, aus: Ancient Asia, Surface Coating Technique" href="http://www.ancient-asia-journal.com/articles/10.5334/aa.12305/" target="_blank"><img height="400" alt="Fundstücke nördlicher schwarzer polierter Keramik" src="https://scdd.sfo2.cdn.digitaloceanspaces.com/uploads/original/2X/a/ae8cb8ce24dd195ef96dceaf119e63bb0c9f6854.jpg" class="my-img"></a>
 
@@ -50,7 +50,7 @@ Daher denke ich, es ist gut, die Stelle so zu übersetzen, dass diese Verbindung
 
 Das wirft nun allerdings eine Frage auf: Sollten heutige Bhikkhus und Bhikkhunis glänzende Schalen wie Nanda verwenden? Die Antwort überlasse ich Ihnen.
 
-Ein Postskript: Es gibt noch eine Beschreibung eines Gefäßes als *accha*, zu finden in [Theragatha 2.40](#/sutta/thag2.40/de/sabbamitta). Der Vers ist sehr undurchsichtig, aber die Beschreibung des Gefäßes ist recht klar:
+Ein Postskript: Es gibt noch eine Beschreibung eines Gefäßes als *accha*, zu finden in [Theragatha 2.40](#/sutta/thag2.40:1.2/de/sabbamitta). Der Vers ist sehr undurchsichtig, aber die Beschreibung des Gefäßes ist recht klar:
 
 >*Acchāya atibharitāya / amataghaṭikāyaṃ*  
 >In den Nektarkrug der Unsterblichkeit, glänzend und überfließend
