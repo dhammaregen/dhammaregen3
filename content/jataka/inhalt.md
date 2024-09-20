@@ -2,7 +2,7 @@
 title: Die Jātakas
 description: Schlaglichter auf eine interessante Sammlung
 img: jataka.png
-img-alt: See, von Bäumen umstanden, die sich darin spiegeln
+img-alt: Relief zu Ja 443, Borobudur
 link: https://commons.wikimedia.org/wiki/File:COLLECTIE_TROPENMUSEUM_Reli%C3%ABf_Borobudur_TMnr_60042617.jpg
 slugDir: jataka
 category: Weitere Informationen
