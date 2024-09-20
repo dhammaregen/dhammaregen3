@@ -3,7 +3,7 @@ title: Die Jātakas
 description: Schlaglichter auf eine interessante Sammlung
 img: jataka.png
 img-alt: See, von Bäumen umstanden, die sich darin spiegeln
-link: https://upload.wikimedia.org/wikipedia/commons/0/02/COLLECTIE_TROPENMUSEUM_Reli%C3%ABf_Borobudur_TMnr_60042617.jpg
+link: https://commons.wikimedia.org/wiki/File:COLLECTIE_TROPENMUSEUM_Reli%C3%ABf_Borobudur_TMnr_60042617.jpg
 slugDir: jataka
 category: Weitere Informationen
 order: 5
