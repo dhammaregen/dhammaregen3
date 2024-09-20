@@ -3,7 +3,7 @@ title: Die ersten drei Strophen aus den Jātakas
 description: Bhikkhu Sujato, 2024
 img:  sujato.png
 img-alt: Foto von Bhante Sujato
-order: 10
+order: 1
 ---
 
 [Zum Originaltext](https://discourse.suttacentral.net/t/the-first-three-jataka-verses/35681)
