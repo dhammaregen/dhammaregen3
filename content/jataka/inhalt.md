@@ -9,4 +9,4 @@ category: Weitere Informationen
 order: 5
 ---
 
-Nachdem er die Sammlungen, die zu den frühen buddhistischen Texten zählen, übersetzt hat, wendet sich Bhante Sujato der Sammlung der Jātakas zu und schreibt, wie so oft, interessante kleine Essays zu einigen Punkten, die ihm auffallen. Nicht selten fällt dabei ein neues Licht auch auf ältere kanonische Texte.
+Nachdem er die Sammlungen, die zu den frühen buddhistischen Texten zählen, übersetzt hat, wendet sich Bhante Sujato der Sammlung der Jātakas zu und schreibt, wie so oft, interessante kleine Essays zu einigen Punkten, die ihm auffallen. Nicht selten fällt dabei ein neues Licht auch auf frühe kanonische Texte.
