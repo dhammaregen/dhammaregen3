@@ -7,7 +7,7 @@ order: 1
 ---
 ### Die Suttas in deutscher Sprache
 
-*Dhammaregen* beherbergt neue segmentierte deutsche Übersetzungen der Suttas des Palikanons von Sabbamitta Silashin. Auf [SuttaCentral](https://suttacentral.net/?lang=de) findet man zusätzlich viele frühere deutsche Übersetzungen dieser Texte.
+*Dhammaregen* beherbergt neue segmentierte deutsche Übersetzungen der Suttas des Palikanon von Sabbamitta Silashin. Auf [SuttaCentral](https://suttacentral.net/?lang=de) findet man zusätzlich viele frühere deutsche Übersetzungen dieser Texte.
 
 Zu den [Suttas](#/search//de) (Suchkarte öffnen)
 
@@ -27,7 +27,7 @@ Bitte klicken Sie auf `Such mir etwas aus!` oder geben Sie Suchbegriffe ins Such
   - Theragāthā: vollständig
   - Therīgāthā: vollständig
   - Cariyāpiṭaka: Cp 1-34
-  - Jātaka: Ja 1-8
+  - Jātaka: Ja 1-10
   - Milindapañha: Mil 3.1.1
 
 Neue Texte kommen laufend hinzu, die vorhandenen werden regelmäßig aktualisiert.

@@ -1,5 +1,5 @@
 ---
-title: Die ersten drei Strophen aus den Jātakas
+title: Die ersten drei Strophen der Jātakas
 description: Bhikkhu Sujato, 2024
 img:  sujato.png
 img-alt: Foto von Bhante Sujato
