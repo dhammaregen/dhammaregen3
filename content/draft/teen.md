@@ -8,9 +8,9 @@ order: 2
 
 [Zum Originaltext](https://discourse.suttacentral.net/t/the-tricksy-deer-teen-of-jatakas-15-and-16/35799)
 
-Während ich meinen Spaziergang durch die Jātakasammlung fortsetze, finde ich hier und da interessante Dinge. Wir wissen, dass Strophen und Geschichten zusammengehören, und die Strophen sind oft ohne die Geschichte kaum zu verstehen. Doch das heißt nicht, dass die Strophen immer mit *dieser* Geschichte zusammen waren. Tatsächlich ist es sicher so, dass die Geschichten sich entwickeln und verändern. 
+Während ich meinen Spaziergang durch die Jātakasammlung fortsetze, finde ich hier und da interessante Dinge. Wir wissen, dass Strophen und Geschichten zusammengehören, und die Strophen sind oft ohne die Geschichte kaum zu verstehen. Doch das heißt nicht, dass die Strophen immer mit *dieser* Geschichte verknüpft waren. Tatsächlich ist es sicher so, dass die Geschichten sich entwickeln und verändern. 
 
-Im Fall von [Ja 15](#/sutta/ja15/de/sabbamitta) und [Ja 16](#/sutta/ja16/de/sabbamitta) haben wir ein Strophenpaar, das zusammengehört, aber die einzelnen Strophen wurden als etwas je Eigenes behandelt mit Geschichten, die, wenngleich ähnlich, doch voneinander unabhängig sind. In diesem Fall ist der Einfluss der Geschichten so, dass die Bedeutung der Strophen, so glaube ich, stark verzerrt wurde und im Kommentar und den Übersetzungen verloren ging. Wir wollen sie durchgehen und sie als Strophenpaar wiederherstellen, das eine einzige Geschichte erzählt. 
+Im Fall von [Ja 15](#/sutta/ja15/de/sabbamitta) und [Ja 16](#/sutta/ja16/de/sabbamitta) haben wir ein Strophenpaar, das zusammengehört, aber die einzelnen Strophen wurden als etwas je Eigenes behandelt, mit Geschichten, die, wenngleich ähnlich, doch voneinander unabhängig sind. In diesem Fall ist der Einfluss der Geschichten so, dass die Bedeutung der Strophen, so glaube ich, stark verzerrt wurde und im Kommentar und den Übersetzungen verloren ging. Wir wollen sie durchgehen und sie als Strophenpaar wiederherstellen, das eine einzige Geschichte erzählt. 
 
 Zu den Geschichten (in Dutoits Übersetzung):
 
@@ -24,7 +24,7 @@ Zu Text und Kommentar (englisch):
 
 [https://ancient-buddhist-texts.net/Texts-and-Translations/Jatakagathavannana/016.htm ](https://ancient-buddhist-texts.net/Texts-and-Translations/Jatakagathavannana/016.htm)
 
-Und hier ist die Übersetzung in Anandajotis überarbeiteter Fassung, die sich am Kommentar orientiert (hier von mir ins Deutsche übertragen; A.d.Ü.). Die Strophen betreffen einen Hirsch, der in den Künsten der Täuschung geschult werden soll, durch die Hirsche sicher bleiben. Der Kommentar versteht beide Strophen als vom Bodhisatta gesprochen. 
+Und hier ist die Übersetzung in Anandajotis überarbeiteter Fassung, die sich am Kommentar orientiert (hier von mir ins Deutsche übertragen; A.d.Ü.). Die Strophen betreffen einen Hirsch, der in den Künsten der Täuschung geschult werden soll, durch die Hirsche ihre Sicherheit gewährleisten. Der Kommentar versteht beide Strophen als vom Bodhisatta gesprochen. 
 
 > *Der Hirsch hat acht Hufe, Kharādiyā,*  
 > *und ein sehr krummes Geweih,*  
@@ -94,7 +94,7 @@ Ein Punkt, in dem sich die Strophen unterscheiden, ist allerdings, dass sie unte
 
 Der Kommentar legt einen bemerkenswerten Mangel an Neugier an den Tag. Er will den Zweck der Lektion vermitteln – komm rechtzeitig zum Unterricht, sonst wird dein Lehrer dich abschreiben! Schön und gut! Es ist eine gute Lektion! Aber wenn er ein Wort erklärt hat, lässt er es einfach stehen, so bleiben die Strophen irgendwie ohne Sinn. 
 
-Das erste Wort *aṭṭhakkhuraṁ* ist ein gutes Beispiel dafür. Der Kommentar erklärt es richtig mit der Bedeutung, dass der Hirsch paarhufig ist. Aber warum wird das hier gebraucht? Es ist das erste Wort in der Strophe, und es wird in der zweiten wiederholt, und soweit ich sagen kann, kommt es nirgends sonst vor. Es ist sicher irgendwie bedeutsam, oder? Wir werden darauf zurückkommen. 
+Das erste Wort *aṭṭhakkhuraṁ* ist ein gutes Beispiel dafür. Der Kommentar erklärt es richtig mit der Bedeutung, dass der Hirsch paarhufig ist. Aber warum wird das Wort hier gebraucht? Es ist das erste Wort in der Strophe, und es wird in der zweiten wiederholt, und soweit ich sagen kann, kommt es nirgends sonst vor. Es ist sicher irgendwie bedeutsam, oder? Wir werden darauf zurückkommen. 
 
 Das zweite Wort wird vom Kommentar als Name der Schwester des Bodhisatta in der Hintergrundgeschichte verstanden. Die Elemente dieser Geschichte sind eher unwahrscheinlich, wenn man sie wörtlich nimmt, da man im Prinzip die gleichen Ereignisse hat, die sich anscheinend zweimal in verschiedenen Leben an verschiedenen Orten abspielen. Wir wollen das beiseite lassen und nur nach dem Wort schauen. 
 
@@ -124,9 +124,9 @@ Die „sechs Tricks“ der letzten Zeile scheinen den Kommentar verwirrt zu habe
 * heimlich um Mitternacht trinken 
 * nur durch ein Nasenloch atmen (d. h. sich tot stellen) 
 
-Das wirft die Frage auf, inwiefern „acht Hufe“ ein Trick sind? Ich bin überzeugt, dass es ein Trick ist, die zentrale Rolle, die es in den Strophen hat, legt das nahe, aber ich weiß nicht genau, in welchem Sinn. In der ersten Strophe scheint die Idee zu sein, dass er so tun kann, als sei er ein anderes Tier, ein Esel in Form eines Hirschs oder umgekehrt. Vielleicht geht es um den zarten Gang des Hirschs, wenn er leise und anmutig auftritt? Oder es geht um die Fußspur, die er hinterlässt? Wie dem auch sei, ich denke, es ist ein Trick, und der Kommentar hat das nicht erfasst und musste daher andere Reihen von sechs erfinden. 
+Das wirft die Frage auf, inwiefern „acht Hufe“ ein Trick sind. Ich bin überzeugt, dass es ein Trick ist, die zentrale Rolle, die es in den Strophen hat, legt das nahe, aber ich weiß nicht genau, in welchem Sinn. In der ersten Strophe scheint die Idee zu sein, dass er so tun kann, als sei er ein anderes Tier, ein Esel in Form eines Hirschs oder umgekehrt. Vielleicht geht es um den zarten Gang des Hirschs, wenn er leise und anmutig auftritt? Oder es geht um die Fußspur, die er hinterlässt? Wie dem auch sei, ich denke, es ist ein Trick, und der Kommentar hat das nicht erfasst und musste daher andere Reihen von sechs erfinden. 
 
-Dann gibt es da eine grammatische Nuance, die der Kommentar übergeht, und die mich für eine Weile verblüfft hat. Schauen Sie sich die Formen in der zweiten Strophe an: Die ersten beiden Zeilen sind im Akkusativ ohne Verb, dann ist das zweite Paar, wie zu erwarten, im Nominativ mit Verben. Wie beziehen sie sich auf die gleiche Sache? 
+Dann gibt es da eine grammatische Nuance, die der Kommentar übergeht und die mich für eine Weile verblüfft hat. Schauen Sie sich die Formen in der zweiten Strophe an: Die ersten beiden Zeilen sind im Akkusativ ohne Verb, dann ist das zweite Paar, wie zu erwarten, im Nominativ mit Verben. Wie beziehen sie sich auf die gleiche Sache? 
 
 Ich denke, die ersten beiden Zeilen sind in der Form, die Wijesekera den „[Akkusativ der Beziehung](https://ancient-buddhist-texts.net/Textual-Studies/Syntax-of-the-Cases/02-Accusative.htm#toc13)“ nennt, für den das kanonische Beispiel diese Wendung ist: 
 
@@ -139,11 +139,11 @@ Das abschließende Wort in der zweiten Strophe ist *bhāgineyyo*. Das ist ein ge
 
 Aber was, wenn das alles ein Irrtum wäre? Wir wissen, dass der Dichter es liebte, seltene oder erfundene Wörter zu benutzen. Ich denke, wir können *bhāgineyyo* überzeugender auf *bhāgin* zurückführen, „einer, der einen Anteil hat“, mit der Endung der sekundären Ableitung *eyya* in Analogie zu *dakkhiṇeyyo* („einer, der einer religiösen Gabe würdig ist“), mit der Bedeutung „einer, der eine Chance verdient“. 
 
-Das macht aus der ganzen Sache eine schön gegliederte Erzählung. Die ersten beiden Zeilen und die zweite Strophe werden vom Fürsprecher des Hirschschülers gesprochen, der eine folgerichtige Argumentation vorlegt, dass sein Schützling tatsächlich schlau und listig genug ist, um angenommen zu werden. Der Lehrer ist widerstrebend aufgrund der mangelnden Pünktlichkeit des Hirschs, doch der Fürsprecher drängt darauf. 
+Das macht aus der ganzen Sache eine schön gegliederte Erzählung. Die ersten beiden Zeilen und die zweite Strophe werden vom Fürsprecher des Hirschschülers gesprochen, der eine folgerichtige Argumentation vorlegt, dass sein Schützling tatsächlich schlau und listig genug ist, um angenommen zu werden. Der Lehrer ist widerstrebend wegen der mangelnden Pünktlichkeit des Hirschs, doch der Fürsprecher drängt darauf. 
 
 Dieser Spannung liegt die recht witzige Vorstellung zugrunde, dass man, wenn man eine Listen-Schule für ein entsetzlich flüchtiges Tier betreibt, nicht erwarten kann, dass es seine Listen nicht an einem selbst ausprobiert! Und wenn man annimmt, dass das eine Analogie dafür ist, junge Schüler zu unterrichten, so legt es reizenderweise nahe: Schreibe Tennager nicht ab, bloß weil sie Zicken machen, denn diese Aufsässigkeit und Verspieltheit sind die Quelle ihrer Kreativität, und sie sind unglaublich hilfreich, um in der wirklichen Welt zu überleben. 
 
-> *„Bitte nimm den achthufigen Esel an,* 
+> *„Bitte nimm den achthufigen Esel an,*  
 > *den Hirsch, litiger als der Listige.“*  
 > *„Er hat sieben Mal die Zeit nicht eingehalten –*  
 > *ich werde mir nicht die Mühe machen, ihn zu unterweisen.“*  
