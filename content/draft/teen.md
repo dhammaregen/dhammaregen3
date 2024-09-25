@@ -12,7 +12,7 @@ Während ich meinen Spaziergang durch die Jātakasammlung fortsetze, finde ich h
 
 Im Fall von [Ja 15](#/sutta/ja15/de/sabbamitta) und [Ja 16](#/sutta/ja16/de/sabbamitta) haben wir ein Strophenpaar, das zusammengehört, aber die einzelnen Strophen wurden als etwas je Eigenes behandelt mit Geschichten, die, wenngleich ähnlich, doch voneinander unabhängig sind. In diesem Fall ist der Einfluss der Geschichten so, dass die Bedeutung der Strophen, so glaube ich, stark verzerrt wurde und im Kommentar und den Übersetzungen verloren ging. Wir wollen sie durchgehen und sie als Strophenpaar wiederherstellen, das eine einzige Geschichte erzählt. 
 
-Zu den Geschichten:
+Zu den Geschichten (in Dutoits Übersetzung):
 
 [https://palikanon.com/khuddaka/jataka/j015.htm](https://palikanon.com/khuddaka/jataka/j015.htm)
 
@@ -31,28 +31,28 @@ Und hier ist die Übersetzung in Anandajotis überarbeiteter Fassung, die sich a
 > *ich werde es nicht unternehmen,*  
 > *ihn mehr als sieben Mal zu unterweisen.* 
 >
-> *Der Hirsch in drei Stellungen mit vielen Tricks,*  
+> *Der Hirsch in drei Stellungen mit vielen Tricks*  
 > *gebraucht acht Hufe und trinkt um Mitternacht,*  
 > *atmet nur durch ein Nasenloch zur Erde,*  
 > *so schlägt (mein) Neffe (den Jäger) auf sechs Arten.* 
 
-## rare vocabulary
+### Seltenes Vokabular
 
-One obvious feature is the extent of unusual or unique vocabulary, to whit:
+Ein offensichtliches Merkmal ist das Maß an ungewöhnlichem oder einzigartigem Vokabular, zumindest: 
 
-* *aṭṭhakkhuraṁ* = “eight-hooved”, found only in these two verses
-* *kharādiye* = ostensibly the name of the Bodhisatta’s sister (in vocative), this is found nowhere else. I explain my interpretation below.
-* *vaṅkātivaṅkinaṁ* = “more wily than the wily”,
-* *tipallattha* = “threefold collapse”, the three postures in which the deer throws himself down to play dead. Not found elsewhere in this sense.
-* *aḍḍharattāpapāyiṁ* = “drinker at midnight”, another unique term.
-* *kalāhi* = “tricks” (instrumental plural); the word *kalā* normally means “fraction”. It is attested in Sanskrit but not so far as I know in Pali in this sense.
-* *aitibhoti* = “excels, overcomes”, this is a fairly common word, but not in this exact form.
+* *aṭṭhakkhuraṁ* = „acht-hufig“, kommt nur in diesen beiden Strophen vor. 
+* *kharādiye* = augenscheinlich der Name der Schwester des Bodhisatta (im Vokativ); das findet sich nirgends sonst. Ich erläutere meine Interpretation weiter unten. 
+* *vaṅkātivaṅkinaṁ* = „listiger als der Listige“. 
+* *tipallattha* = „dreifacher Zusammenbruch“, die drei Stellungen, in die der Hirsch sich hinwirft, um sich tot zu stellen. In dieser Bedeutung nirgendwo sonst zu finden. 
+* *aḍḍharattāpapāyiṁ* = „Trinker um Mitternacht“, ein anderer einzigartiger Ausdruck. 
+* *kalāhi* = „Tricks“ (Instrumental Plural); das Wort *kalā* bedeutet normalerweise „Bruchteil“. Es ist im Sanskrit bezeugt, aber nicht in dieser Bedeutung im Pali, soweit ich weiß. 
+* *aitibhoti* = „übertrifft, überwindet“, ein recht häufiges Wort, aber nicht in dieser speziellen Form. 
 
-That’s a lot. It tells us that the poet was having fun, playing with words, putting things in unusual and different ways. It’s reminiscent of the playful virtuosity of Vedic poetry rather than the more utilitarian flavor of most Pali verse.
+Das ist eine Menge. Es sagt uns, dass der Dichter sein Vergnügen damit hatte, mit Wörtern zu spielen und Dinge auf ungewöhnliche und neue Arten auszudrücken. Es erinnert viel mehr an die spielerische Virtuosität vedischer Poesie als an den zweckmäßigeren Stil der meisten Paligedichte. 
 
-Indeed, the fact that so many obscurities and conundrums present themselves in a verse about *deer creating illusions* suggests that the poet was consciously echoing his subject matter in his poetic choices. He’s been inspired by the deer to play tricks with us. And it alerts us to look out for things we may have missed.
+Die Tatsache, dass sich in einer Strophe über *Hirsche, die Täuschungen schaffen,* so viele Obskuritäten und Rätsel finden, legt nahe, dass der Dichter sein Thema bewusst in seiner poetischen Wahl wiederspiegelte. Er ließ sich von den Hirschen anregen, uns Streiche zu spielen. Und das lässt uns hellhörig werden, dass wir nach Dingen Ausschau halten, die wir vielleicht übersehen haben. 
 
-## formal play
+### Spiel mit der Form
 
 It’s not just the vocabulary, for the poet is having fun with the sounds of words.
 
@@ -90,7 +90,7 @@ These shared motifs in both vocabulary and form make it certain that the two ver
 
 One point that divides the verses, however, is that they have different metres. The first is in eight-syllable *siloka*, the second in eleven-syllable *tuṭṭhubha*. These are both common metres in early Pali, so there’s nothing really remarkable about this. It seems the poet was playing with the metres, perhaps extending the line in the second verse to allow for more expansive persuasion. At the same time, they made sure to tie the verses together with other formal means: unity with variation, the pillars of artistic form.
 
-## things missed by the commentary
+### Was der Kommentar übersehen hat
 
 The commentary evinces a decided lack of curiosity. It wants to convey the purpose of the lesson—show up for classes on time, or your teacher will give up on you! Fair enough! It’s a good lesson! But once it’s explained a word it just leaves it there, so it leaves the verses somewhat bare of meaning.
 
