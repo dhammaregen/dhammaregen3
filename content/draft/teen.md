@@ -8,9 +8,9 @@ order: 2
 
 [Zum Originaltext](https://discourse.suttacentral.net/t/the-tricksy-deer-teen-of-jatakas-15-and-16/35799)
 
-As I continue to amble vaguely through the Jataka collection, I am finding some interesting things here and there. We know that the verses and stories go together, and the verses often make little sense without the story. But this doesn’t mean that the verses have always gone with *these* stories. In fact, it’s surely the case that the stories evolve and change.
+Während ich meinen Spaziergang durch die Jātakasammlung fortsetze, finde ich hier und da interessante Dinge. Wir wissen, dass Strophen und Geschichten zusammengehören, und die Strophen sind oft ohne die Geschichte kaum zu verstehen. Doch das heißt nicht, dass die Strophen immer mit *dieser* Geschichte zusammen waren. Tatsächlich  ist es sicher so, dass die Geschichten sich entwickeln und verändern. 
 
-In the case of [Ja 15](https://suttacentral.net/ja15/en/sujato) and [Ja 16](https://suttacentral.net/ja16/en/sujato) we have a pair of verses that belong together, but which have been treated as separate verses with independent, albeit similar, stories. In this case, the influence of the stories are such that the meaning of the verses has, I believe, been largely distorted and lost in the commentary and translations. Let’s work through them and restore them as a pair of verses telling a single story.
+Im Fall von [Ja 15](#/sutta/ja15/de/sabbamitta) und [Ja 16](#/sutta/ja16/de/sabbamitta) haben wir ein Strophenpaar, das zusammengehört, aber die einzelnen Strophen wurden als etwas je Eigenes behandelt mit Geschichten, die, wenngleich ähnlich, doch voneinander unabhängig sind. In diesem Fall ist der Einfluss der Geschichten so, dass die Bedeutung der Strophen, so glaube ich, stark verzerrt wurde und im Kommentar und den Übersetzungen verloren ging. Wir wollen sie durchgehen und sie als Strophenpaar wiederherstellen, das eine einzige Geschichte erzählt. 
 
 For the stories:
 
