@@ -66,15 +66,15 @@ Und wenn *aṭṭhakkhuraṁ* in der zweiten Strophe kommt, lässt der Dichter d
 
 Sehr clever!
 
-Another notable play is with the third line of the first verse:
+Ein anderes bemerkenswertes Spiel gibt es zwischen der dritten Zeile der ersten Strophe: 
 
 > *Satt**ahi kālāti**kkantaṁ*
 
-and the last line of the second verse:
+und der letzten Zeile der zweiten Strophe: 
 
 > *Ch**ahi kalāhi**tibhoti bhāgineyyo*
 
-Both begin with a number in instrumental. The similarity is not merely formal, for these lines perform the same function in the two verses, but with inverted sense: the first says *why he should be rejected* (because he misses classes) and the second says *why he should be accepted* (because he’s really good at tricks). The poet is not just putting these plays in randomly; he is using them to highlight key moments of the verses.
+Beide beginnen mit einer Zahl im Instrumental. Die Ähnlichkeit ist nicht nur formal, denn diese Zeilen erfüllen in ihren jeweiligen Strophen die gleiche Funktion, doch mit umgekehrter Bedeutung: Die erste erklärt, *warum er abgewiesen werden soll* (weil er Unterrichtsstunden schwänzt), und die zweite erklärt, *warum er angenommen werden soll* (weil er bei den Tricks wirklich gut ist). Der Dichter setzt diese Spiele nicht rein zufällig ein; er benutzt sie, um die Schlüsselstellen der Strophen hervorzuheben. 
 
 The use of numbers is another distinctive shared feature.
 
