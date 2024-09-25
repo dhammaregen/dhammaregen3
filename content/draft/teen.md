@@ -92,7 +92,7 @@ Ein Punkt, in dem sich die Strophen unterscheiden, ist allerdings, dass sie unte
 
 ### Was der Kommentar übersehen hat
 
-Der Kommentar legt einen bemerkenswerten Mangel an Neugier an den Tag. Er will den Zweck der Lektion vermitteln – komm rechtzeitig zum Unterricht, sonst wird dein Lehrer dich aufgeben! Schön und gut! Es ist eine gute Lektion! Aber wenn er ein Wort erklärt hat, lässt er es einfach da stehen, so bleiben die Strophen irgendwie ohne Sinn. 
+Der Kommentar legt einen bemerkenswerten Mangel an Neugier an den Tag. Er will den Zweck der Lektion vermitteln – komm rechtzeitig zum Unterricht, sonst wird dein Lehrer dich abschreiben! Schön und gut! Es ist eine gute Lektion! Aber wenn er ein Wort erklärt hat, lässt er es einfach da stehen, so bleiben die Strophen irgendwie ohne Sinn. 
 
 Das erste Wort *aṭṭhakkhuraṁ* ist ein gutes Beispiel dafür. Der Kommentar erklärt es richtig in der Bedeutung, dass der Hirsch paarhufig ist. Aber warum wird das hier gebraucht? Es ist das erste Wort in der Strophe, und es wird in der zweiten wiederholt, und soweit ich sagen kann, kommt es nirgends sonst vor. Es ist sicher irgendwie bedeutsam? Wir werden darauf zurückkommen. 
 
@@ -100,7 +100,7 @@ Das zweite Wort wird vom Kommentar als Name der Schwester des Bodhisatta in der 
 
 *Ādiye* bedeutet so etwas wie „du sollst annehmen“. *Khara* bedeutet in den meisten Fällen „rau, fest“. Aber im Sanskrit ist es auch ein Wort für „Esel, Grautier“, wie in diesem Satz aus [Manu 4.115:](https://www.wisdomlib.org/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc200222.html)
 
-> Der Brahmane soll nicht lesen während eines Staubsturms, wenn der Himmel brennt, wenn Schakale heulen oder wenn Hunde oder Esel oder Kamele in einer Reihe schreien. 
+> Der Brahmane soll nicht vorlesen während eines Staubsturms, wenn der Himmel brennt, wenn Schakale heulen oder wenn Hunde oder Esel oder Kamele in einer Reihe schreien. 
 
 Faszinierend zu sehen, dass sie eine Aufzählung von Fällen hatten, in denen es schulfrei gibt! 
 
@@ -108,9 +108,9 @@ Das passt gut in diesen Zusammenhang. Der Esel ist ein unpaarhufiges Tier, und s
 
 > Du sollst den achthufigen Esel annehman 
 
-In der nächsten Zeile besagt das Pali, der Hirsch sei *vaṅkātivaṅkinaṁ*, was in diesem Zusammenhang gut einleuchtet. Er wird empfohlen als einer, der ausgesprochen trickreich und voller Listen ist, und das setzt sic in der nächsten Strophe fort. Wir wissen aus [MN 51:4.14](#/sutta/mn51:4.14/de/sabbamitta) oder [AN 8.13:1.11](#/sutta/an8.13:1.11/de/sabbamitta), dass Tiere Listen und Finten haben, mit denen sie sich menschlicher Kontrolle entziehen. Der Text erkennt diese an; er versteht Tiere als klug und nimmt sogar an, dass sie die Listen-Schule besuchen müssen, um von ihren Vorfahren zu lernen. 
+In der nächsten Zeile besagt das Pali, der Hirsch sei *vaṅkātivaṅkinaṁ*, was in diesem Zusammenhang gut einleuchtet. Er wird empfohlen als einer, der ausgesprochen trickreich und voller Listen ist, und das setzt sich in der nächsten Strophe fort. Wir wissen aus [MN 51:4.14](#/sutta/mn51:4.14/de/sabbamitta) oder [AN 8.13:1.11](#/sutta/an8.13:1.11/de/sabbamitta), dass Tiere Listen und Finten haben, mit denen sie sich menschlicher Kontrolle entziehen. Der Text erkennt diese an; er versteht Tiere als klug und nimmt sogar an, dass sie die Listen-Schule besuchen müssen, um von ihren Vorfahren zu lernen. 
 
-Doch der Kommentar hat hier ein Problem, weil die Geschichte es erfordert, dass hier der Bodhisatta spricht, und er ist auch derjenige, der den Hirsch in den folgenden Zeilen abweist. So versteht er *vaṅka* als eine körperliche Missbildung. Er sagt, *vaṅka*, wörtlich „krumm“, beziehe sich auf das Geweih des Hirschs, das „von der Wurzel bis zur Spitze krumm“ ist. Das ist unwahrscheinlich, da *vaṅka* nirgends sonst für ein Geweih verwendet wird, aber es wird für die Listen und Finten von Tieren verwendet, was das hauptthema dieser Strophen ist. 
+Doch der Kommentar hat hier ein Problem, weil die Geschichte es erfordert, dass hier der Bodhisatta spricht, und er ist auch derjenige, der den Hirsch in den folgenden Zeilen abweist. So versteht er *vaṅka* als eine körperliche Missbildung. Er sagt, *vaṅka*, wörtlich „krumm“, beziehe sich auf das Geweih des Hirschs, das „von der Wurzel bis zur Spitze krumm“ sei. Das ist unwahrscheinlich, da *vaṅka* nirgends sonst für ein Geweih verwendet wird, aber es wird für die Listen und Finten von Tieren verwendet, was das Hauptthema dieser Strophen ist. 
 
 Soweit wurden, wie ich es verstehe, die ersten beiden Zeilen von einem ungenannten Fürsprecher des jungen Hirschs gesprochen. Die nächsten beiden Zeilen stammen von einem anderen Sprecher, der den Antrag zurückweist. Beachte, dass nach meinem Verständnis die Zeilenpaare durch ein Verb im Optativ in der zweiten (*ādiye*) beziehungsweise ersten (*ussahe*) Person eine Symmetrie erhalten. 
 
@@ -124,24 +124,24 @@ Die „sechs Tricks“ der letzten Zeile scheinen den Kommentar verwirrt zu habe
 * heimlich um Mitternacht trinken 
 * nur durch ein Nasenloch atmen (d. h. sich tot stellen) 
 
-Das wirft die Frage auf, inwiefern „acht Hufe“ ein Trick sind? Ich bin überzeugt, dass es ein Trick ist, die zentrale Rolle, die es in den Strophen hat, legt das nahe, aber ich weiß nicht genau, in welchem Sinn. In der ersten Strophe scheint die Idee zu sein, dass er so tun kann, als sei er ein anderes Tier, ein Esel in Form eines Hirschs oder umgekehrt. Vielleicht geht es um den zarten Gang des Hirschs, wenn er still und anmutig auftritt? Oder es geht um die Fußspur, die er hinterlässt? Wie dem auch sei, ich denke, es ist ein Trick, und der Kommentar hat das nicht erfasst und musste daher andere Reihen von sechs erfinden. 
+Das wirft die Frage auf, inwiefern „acht Hufe“ ein Trick sind? Ich bin überzeugt, dass es ein Trick ist, die zentrale Rolle, die es in den Strophen hat, legt das nahe, aber ich weiß nicht genau, in welchem Sinn. In der ersten Strophe scheint die Idee zu sein, dass er so tun kann, als sei er ein anderes Tier, ein Esel in Form eines Hirschs oder umgekehrt. Vielleicht geht es um den zarten Gang des Hirschs, wenn er leise und anmutig auftritt? Oder es geht um die Fußspur, die er hinterlässt? Wie dem auch sei, ich denke, es ist ein Trick, und der Kommentar hat das nicht erfasst und musste daher andere Reihen von sechs erfinden. 
 
 Dann gibt es da eine grammatische Nuance, die der Kommentar übergeht, und die mich für eine Weile verblüfft hat. Schauen Sie sich die Formen in der zweiten Strophe an: Die ersten beiden Zeilen sind im Akkusativ ohne Verb, dann ist das zweite Paar, wie zu erwarten, im Nominativ mit Verben. Wie beziehen sie sich auf die gleiche Sache? 
 
-I think the first two lines are in what Wijesekera calls the “[accusative of relation](https://ancient-buddhist-texts.net/Textual-Studies/Syntax-of-the-Cases/02-Accusative.htm#toc13)”, for which the canonical example is the phrase:
+Ich denke, die ersten beiden Zeilen sind in der Form, die Wijesekera den „[Akkusativ der Beziehung](https://ancient-buddhist-texts.net/Textual-Studies/Syntax-of-the-Cases/02-Accusative.htm#toc13)“ nennt, für den das kanonische Beispiel diese Wendung ist: 
 
 > *taṁ kho pana bhavantaṁ Gotamaṁ evaṃ kalyāṇo kittisaddo abbhuggato*
-> a good reputation concerning that Mister Gotama has been spread about
+> ein guter Ruf wurde über diesen Herrn Gotama verbreitet 
 
-The sentence is “concerning” or “about” what is set in accusative. This creates a more finely articulated structure for the verse, which we can bring forward in the translation.
+Der Satz ist „in Bezug auf“ oder „über“ das, was im Akkusativ steht. Das verleiht der Strophe eine feiner gegliederte Struktur, die wir in der Übersetzung zum Ausdruck bringen können. 
 
-The final word in the second verse is *bhāgineyyo*. This is a common word in the sense “nephew”. From here, I believe the commentary has back-inferred that *kharādiye* is a proper name, that it refers to his sister, and from there the whole framework of the two stories is derived. It even cites an opinion that *bhoti* in the final line is regarded by some as a term of address to the sister (rather than the more obvious reading *atibhoti*).
+Das abschließende Wort in der zweiten Strophe ist *bhāgineyyo*. Das ist ein gebräuchliches Wort mit der Bedeutung „Neffe“. Ich glaube, dass der Kommentar von hier zurückgeschlossen hat, dass *kharādiye* ein Eigenname ist und sich auf die Schwester des Bodhisatta bezieht, und so wurde der ganze Rahmen der zwei Geschichten abgeleitet. Er zitiert sogar eine Ansicht, dass *bhoti* in der letzten Zeile von Manchen als Anrede an die Schwester angesehen wird (anstatt der näherliegenden Lesart *atibhoti*). 
 
-But what if this was all a mistake? We know that the poet loved to use rare or invented words. I think we can more plausibly trace *bhāgineyyo* to *bhāgin*, “one who has a share”, with the secondary derivation ending *eyya*, by analogy with *dakkhiṇeyyo* (“one worthy of priestly donation”), yielding the sense “one who deserves a chance”.
+Aber was, wenn das alles ein Irrtum wäre? Wir wissen, dass der Dichter es liebte, seltene oder erfundene Wörter zu benutzen. Ich denke, wir können *bhāgineyyo* überzeugender auf *bhāgin* zurückführen, „einer, der einen Anteil hat“, mit der Endung der sekundären Ableitung *eyya* in Analogie zu *dakkhiṇeyyo* („einer, der einer religiösen Gabe würdig ist“), mit der Bedeutung „einer, der eine Chance verdient“. 
 
-This creates a nicely articulated narrative to the whole thing. The first two lines and the second verse are spoken by the proponent of the student deer, who is making a consistent argument that their protege is indeed tricky and wily enough to be accepted. The teacher is reluctant, due to the deer’s inability to be punctual, but the proponent presses the case.
+Das macht aus der ganzen Sache eine schön gegliederte Erzählung. Die ersten beiden Zeilen und die zweite Strophe werden vom Fürsprecher des Hirschschülers gesprochen, der eine folgerichtige Argumentation vorlegt, dass sein Schützling tatsächlich schlau und listig genug ist, um angenommen zu werden. Der Lehrer ist widerstrebend aufgrund der mangelnden Pünktlichkeit des Hirschs, doch der Fürsprecher drängt darauf. 
 
-Underlying this tension is the rather witty idea that if you’re going to run a ruse-school for an infamously flighty animal, you can’t expect that they won’t try their ruses on you! And, given that this is an analogy for teaching classes of young students, it is rather charmingly suggesting, don’t give up on teenagers just because they are messing about, because that rebelliousness and playfulness is the source of their creativity, and it’s super-useful for surviving in the real world.
+Dieser Spannung liegt die recht witzige Vorstellung, dass man, wenn man eine Listen-Schule für ein entsetzlich flüchtiges Tier betreibt, nicht erwarten kann, dass es seine Listen nicht an einem selbst ausprobiert! Und wenn man annimmt, dass das eine Analogie dafür ist, junge Schüler zu unterrichten, so legt es reizenderweise nahe: Schreibe Tennager nicht ab, bloß weil sie Zicken machen, denn diese Aufsässigkeit und Verspieltheit sind die Quelle ihrer Kreativität, und sie sind unglaublich hilfreich, um in der wirklichen Welt zu überleben. 
 
 > “Please accept the eight-hooved ass,
 > the deer more wily than the wily.”
