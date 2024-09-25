@@ -108,25 +108,25 @@ Das passt gut in diesen Zusammenhang. Der Esel ist ein unpaarhufiges Tier, und s
 
 > Du sollst den achthufigen Esel annehman 
 
-In the next line, the Pali says the deer is *vaṅkātivaṅkinaṁ*, which makes good sense in the context. He is being recommended as being super-tricky and full of wiles, as he continues to be in the next verse. We know from [MN 51:4.14](https://suttacentral.net/mn51/en/sujato#mn51:4.14) or [AN 8.13:1.11](https://suttacentral.net/an8.13/en/sujato#an8.13:1.11) that animals have ruses and wiles by which they escape human control. The text is respectful of these; it understands that the animals are clever and indeed assumes that they have to attend ruse-school to learn from their elders.
+In der nächsten Zeile besagt das Pali, der Hirsch sei *vaṅkātivaṅkinaṁ*, was in diesem Zusammenhang gut einleuchtet. Er wird empfohlen als einer, der ausgesprochen trickreich und voller Listen ist, und das setzt sic in der nächsten Strophe fort. Wir wissen aus [MN 51:4.14](#/sutta/mn51:4.14/de/sabbamitta) oder [AN 8.13:1.11](#/sutta/an8.13:1.11/de/sabbamitta), dass Tiere Listen und Finten haben, mit denen sie sich menschlicher Kontrolle entziehen. Der Text erkennt diese an; er versteht Tiere als klug und nimmt sogar an, dass sie die Listen-Schule besuchen müssen, um von ihren Vorfahren zu lernen. 
 
-But the commentary has a problem here, because the story requires that it must be the Bodhisatta speaking, and he is also the one rejecting the deer in the next lines. So it takes *vaṅka* as a physical deformity. It says that *vaṅka*, literally “crooked”, here refers to the deer’s antlers, which are “crooked from root to tip”. This is unlikely, since *vaṅka* is not elsewhere used for antlers, but it is used for the tricks and ruses of animals, which is the main theme of these verses.
+Doch der Kommentar hat hier ein Problem, weil die Geschichte es erfordert, dass hier der Bodhisatta spricht, und er ist auch derjenige, der den Hirsch in den folgenden Zeilen abweist. So versteht er *vaṅka* als eine körperliche Missbildung. Er sagt, *vaṅka*, wörtlich „krumm“, beziehe sich auf das Geweih des Hirschs, das „von der Wurzel bis zur Spitze krumm“ ist. Das ist unwahrscheinlich, da *vaṅka* nirgends sonst für ein Geweih verwendet wird, aber es wird für die Listen und Finten von Tieren verwendet, was das hauptthema dieser Strophen ist. 
 
-So far, in my reading, the first two lines have been spoken by an unnamed proponent of the young deer. The next two lines are by another speaker, who rejects the application. Notice that in my reading, the pairs of lines are balanced by the use of an optative verb in respectively second (*ādiye*) and first person (*ussahe*).
+Soweit wurden, wie ich es verstehe, die ersten beiden Zeilen von einem ungenannten Fürsprecher des jungen Hirschs gesprochen. Die nächsten beiden Zeilen stammen von einem anderen Sprecher, der den Antrag zurückweist. Beachte, dass nach meinem Verständnis die Zeilenpaare durch ein Verb im Optativ in der zweiten (*ādiye*) beziehungsweise ersten (*ussahe*) Person eine Symmetrie erhalten. 
 
-In the second verse, the commentary gets the word explanations mostly right, but I think there’s a few notable details to look into.
+In der zweiten Strophe hat der Kommentar die Worterklärungen großenteils richtig, aber ich denke, es gibt ein paar Auffälligkeiten, die man sich anschauen sollte. 
 
-The “six tricks” of the final line seem to have confused the commentary, as it offers several different lists of six. But the six tricks have been stated in the verse:
+Die „sechs Tricks“ der letzten Zeile scheinen den Kommentar verwirrt zu haben, da er mehrere unterschiedliche Reihen von sechs anbietet. Aber die sechs Tricks wurden in der Strophe genannt: 
 
-* three ways of lying collapsed (as if dead)
-  * commentary explains as lying on either side, and straight down
-* eight hooves
-* sneaking drinks at midnight
-* breathing through just one nostril (i.e. playing dead)
+* drei Arten, zusammengebrochen da zu liegen (wie tot) 
+  * der Kommentar erklärt es als auf der rechten oder linken Seite oder gerade liegend 
+* acht Hufe 
+* heimlich um Mitternacht trinken 
+* nur durch ein Nasenloch atmen (d. h. sich tot stellen) 
 
-This raises the question, how is “eight hooves” a trick? I’m convinced that it is a trick, given how central it is to the verses, but I’m not sure exactly the sense. In the first verse, the idea seems to be that it can play at being a different animal, an ass in the form of a deer or vice versa. Perhaps it’s about the delicacy of the deer’s tread, as they step quietly and daintily? Or maybe about the footprints they leave? Anyway, I think it is a trick, and the commentary didn’t get it, hence it had to invent some other lists of six.
+Das wirft die Frage auf, inwiefern „acht Hufe“ ein Trick sind? Ich bin überzeugt, dass es ein Trick ist, die zentrale Rolle, die es in den Strophen hat, legt das nahe, aber ich weiß nicht genau, in welchem Sinn. In der ersten Strophe scheint die Idee zu sein, dass er so tun kann, als sei er ein anderes Tier, ein Esel in Form eines Hirschs oder umgekehrt. Vielleicht geht es um den zarten Gang des Hirschs, wenn er still und anmutig auftritt? Oder es geht um die Fußspur, die er hinterlässt? Wie dem auch sei, ich denke, es ist ein Trick, und der Kommentar hat das nicht erfasst und musste daher andere Reihen von sechs erfinden. 
 
-Then there’s a grammatical nuance that the commentary ignores, and which had me stumped for a while. Look at the forms in the second verse: the first two lines are in accusative with no verb, then the second pair are, as one might expect, in nominative with verbs. How are they referring to the same thing?
+Dann gibt es da eine grammatische Nuance, die der Kommentar übergeht, und die mich für eine Weile verblüfft hat. Schauen Sie sich die Formen in der zweiten Strophe an: Die ersten beiden Zeilen sind im Akkusativ ohne Verb, dann ist das zweite Paar, wie zu erwarten, im Nominativ mit Verben. Wie beziehen sie sich auf die gleiche Sache? 
 
 I think the first two lines are in what Wijesekera calls the “[accusative of relation](https://ancient-buddhist-texts.net/Textual-Studies/Syntax-of-the-Cases/02-Accusative.htm#toc13)”, for which the canonical example is the phrase:
 
