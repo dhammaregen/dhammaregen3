@@ -50,21 +50,21 @@ Ein offensichtliches Merkmal ist das Maß an ungewöhnlichem oder einzigartigem 
 
 Das ist eine Menge. Es sagt uns, dass der Dichter sein Vergnügen daran hatte, mit Wörtern zu spielen und Dinge auf ungewöhnliche und neue Arten auszudrücken. Es erinnert viel mehr an die spielerische Virtuosität vedischer Poesie als an den zweckmäßigeren Stil der meisten Paligedichte. 
 
-Die Tatsache, dass sich in einer Strophe über *Hirsche, die Täuschungen schaffen,* so viele Obskuritäten und Rätsel finden, legt nahe, dass der Dichter sein Thema bewusst in seiner poetischen Wahl wiederspiegelte. Er ließ sich von den Hirschen anregen, uns Streiche zu spielen. Und weckt unsere Aufmerksamkeit, nach Dingen Ausschau zu halten, die wir vielleicht übersehen haben. 
+Die Tatsache, dass sich in einer Strophe über *Hirsche, die Täuschungen schaffen,* so viele Obskuritäten und Rätsel finden, legt nahe, dass der Dichter sein Thema bewusst in seiner poetischen Wahl wiederspiegelte. Er ließ sich von den Hirschen anregen, uns Streiche zu spielen. Und das weckt unsere Aufmerksamkeit, nach Dingen Ausschau zu halten, die wir vielleicht übersehen haben. 
 
 ### Spiel mit der Form
 
-It’s not just the vocabulary, for the poet is having fun with the sounds of words.
+Es ist nicht nur das Vokabular, denn der Dichter amüsiert sich auch mit dem Klang von Wörtern. 
 
-The opening line includes a notable chime. Recite it and it’s obvious:
+Die eröffnende Zeile enthält ein bemerkenswertes Klangspiel. Sagen Sie sie auf, und es ist offensichtlich: 
 
 > *Aṭṭhak**khuraṁ** **kharā**diye*
 
-And when *aṭṭhakkhuraṁ* appears in the second verse, the poet double-chimes the other part of the word:
+Und wenn *aṭṭhakkhuraṁ* in der zweiten Strophe kommt, schlägt der Dichter beim anderen Teil des Wortes einen Doppelklang an: 
 
 > ***Aṭṭha**kkhuraṁ **aḍḍha**r**attā**papāyiṁ*
 
-Very clever!
+Sehr clever!
 
 Another notable play is with the third line of the first verse:
 
