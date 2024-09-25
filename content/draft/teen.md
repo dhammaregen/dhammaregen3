@@ -60,9 +60,9 @@ Die eröffnende Zeile enthält ein bemerkenswertes Klangspiel. Sagen Sie sie auf
 
 > *Aṭṭhak**khuraṁ** **kharā**diye*
 
-Und wenn *aṭṭhakkhuraṁ* in der zweiten Strophe kommt, schlägt der Dichter beim anderen Teil des Wortes einen Doppelklang an: 
+Und wenn *aṭṭhakkhuraṁ* in der zweiten Strophe kommt, lässt der Dichter den anderen Teil des Wortes doppelt nachkilngen: 
 
-> ***Aṭṭha**kkhuraṁ **aḍḍha**r**attā**papāyiṁ*
+> ***Aṭṭha**kkhuraṁ **aḍḍha**r***attā***papāyiṁ*
 
 Sehr clever!
 
