@@ -29,7 +29,7 @@ Und hier ist die Übersetzung in Anandajotis überarbeiteter Fassung, die sich a
 > *Der Hirsch hat acht Hufe, Kharādiyā,*  
 > *und ein sehr krummes Geweih,*  
 > *ich werde es nicht unternehmen,*  
-> *ihn mehr als sieben Mal zu unterweisen.* 
+> *ihn mehr als siebenmal zu unterweisen.* 
 >
 > *Der Hirsch in drei Stellungen mit vielen Tricks*  
 > *gebraucht acht Hufe und trinkt um Mitternacht,*  
@@ -79,7 +79,7 @@ Beide beginnen mit einer Zahl im Instrumental. Die Ähnlichkeit ist nicht nur fo
 Der Gebrauch von Zahlen ist ein anderes auffälliges gemeinsames Merkmal: 
 
 * acht Hufe
-* sieben Mal
+* siebenmal
 * dreifacher Zusammenbruch
 * zahllose (*aneka*) Täuschungen
 * Mitternachtstrinker (wörtlich „halbe Nacht“)
@@ -144,12 +144,12 @@ Das macht aus der ganzen Sache eine schön gegliederte Erzählung. Die ersten be
 Dieser Spannung liegt die recht witzige Vorstellung zugrunde, dass man, wenn man eine Listen-Schule für ein entsetzlich flüchtiges Tier betreibt, nicht erwarten kann, dass es seine Listen nicht an einem selbst ausprobiert! Und wenn man annimmt, dass das eine Analogie dafür ist, junge Schüler zu unterrichten, so legt es reizenderweise nahe: Schreibe Tennager nicht ab, bloß weil sie Zicken machen, denn diese Aufsässigkeit und Verspieltheit sind die Quelle ihrer Kreativität, und sie sind unglaublich hilfreich, um in der wirklichen Welt zu überleben. 
 
 > *„Bitte nimm den achthufigen Esel an,*  
-> *den Hirsch, litiger als der Listige.“*  
-> *„Er hat sieben Mal die Zeit nicht eingehalten –*  
+> *den Hirsch, listiger als der Listige.“*  
+> *„Er hat siebenmal die Zeit nicht eingehalten –*  
 > *ich werde mir nicht die Mühe machen, ihn zu unterweisen.“*  
 >
 > *„Über diesen Hirsch, dreifach zusammengebrochen mit vielen Täuschungen,*  
-> *acht-hufig, ein Mitternachtstrinker:*  
+> *achthufig, ein Mitternachtstrinker:*  
 > *Er atmet am Boden durch ein Nasenloch!*  
 > *Da er sich mit diesen sechs Tricks hervortut, verdient er eine Chance.“* 
 
