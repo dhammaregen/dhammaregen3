@@ -1,5 +1,5 @@
 ---
-title: Die schlauen Hirsche / Teenager in den Jatakas 15 und 16
+title: Die schlauen Hirsche oder Teenager in den Jatakas 15 und 16
 description: Bhikkhu Sujato, 2024
 img:  sujato.png
 img-alt: Foto von Bhante Sujato
@@ -26,15 +26,15 @@ Zu Text und Kommentar (englisch):
 
 Und hier ist die Übersetzung in Anandajotis überarbeiteter Fassung, die sich am Kommentar orientiert (hier von mir ins Deutsche übertragen; A.d.Ü.). Die Strophen betreffen einen Hirsch, der in den Künsten der Täuschung geschult werden soll, durch die Hirsche sicher bleiben. Der Kommentar versteht beide Strophen als vom Bodhisatta gesprochen. 
 
-> Der Hirsch hat acht Hufe, Kharādiyā, 
-> und ein sehr krummes Geweih,
-> ich werde es nicht unternehmen, 
-> ihn mehr als sieben Mal zu unterweisen. 
+> *Der Hirsch hat acht Hufe, Kharādiyā,*  
+> *und ein sehr krummes Geweih,*  
+> *ich werde es nicht unternehmen,*  
+> *ihn mehr als sieben Mal zu unterweisen.* 
 >
-> Der Hirsch in drei Stellungen mit vielen Tricks, 
-> gebraucht acht Hufe und trinkt um Mitternacht, 
-> atmet nur durch ein Nasenloch zur Erde, 
-> so schlägt (mein) Neffe (den Jäger) auf sechs Arten. (
+> *Der Hirsch in drei Stellungen mit vielen Tricks,*  
+> *gebraucht acht Hufe und trinkt um Mitternacht,*  
+> *atmet nur durch ein Nasenloch zur Erde,*  
+> *so schlägt (mein) Neffe (den Jäger) auf sechs Arten.* 
 
 ## rare vocabulary
 
