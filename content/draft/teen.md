@@ -60,7 +60,7 @@ Die eröffnende Zeile enthält ein bemerkenswertes Klangspiel. Sagen Sie sie auf
 
 > *Aṭṭhak**khuraṁ** **kharā**diye*
 
-Und wenn *aṭṭhakkhuraṁ* in der zweiten Strophe kommt, lässt der Dichter den anderen Teil des Wortes doppelt nachkilngen: 
+Und wenn *aṭṭhakkhuraṁ* in der zweiten Strophe kommt, lässt der Dichter den anderen Teil des Wortes doppelt nachklingen: 
 
 > ***Aṭṭha**kkhuraṁ **aḍḍha**r***attā***papāyiṁ*
 
@@ -74,21 +74,21 @@ und der letzten Zeile der zweiten Strophe:
 
 > *Ch**ahi kalāhi**tibhoti bhāgineyyo*
 
-Beide beginnen mit einer Zahl im Instrumental. Die Ähnlichkeit ist nicht nur formal, denn diese Zeilen erfüllen in ihren jeweiligen Strophen die gleiche Funktion, doch mit umgekehrter Bedeutung: Die erste erklärt, *warum er abgewiesen werden soll* (weil er Unterrichtsstunden schwänzt), und die zweite erklärt, *warum er angenommen werden soll* (weil er bei den Tricks wirklich gut ist). Der Dichter setzt diese Spiele nicht rein zufällig ein; er benutzt sie, um die Schlüsselstellen der Strophen hervorzuheben. 
+Beide beginnen mit einer Zahl im Instrumental. Die Ähnlichkeit ist nicht nur formal, denn diese Zeilen erfüllen in ihren jeweiligen Strophen die gleiche Funktion, doch mit umgekehrter Bedeutung: Die erste erklärt, *warum er abgewiesen werden soll* (weil er Schulstunden schwänzt), und die zweite erklärt, *warum er angenommen werden soll* (weil er bei den Tricks wirklich gut ist). Der Dichter setzt diese Spiele nicht rein zufällig ein; er benutzt sie, um die Schlüsselstellen der Strophen hervorzuheben. 
 
-The use of numbers is another distinctive shared feature.
+Der Gebrauch von Zahlen ist ein anderes auffälliges gemeinsames Merkmal: 
 
-* eight hooves
-* seven times
-* triple collapse
-* countless (*aneka*) illusions
-* midnight drinker (literally “half-night”)
-* one nostril
-* six tricks
+* acht Hufe
+* sieben Mal
+* dreifacher Zusammenbruch
+* zahllose (*aneka*) Täuschungen
+* Mitternachtstrinker (wörtlich „halbe Nacht“)
+* ein Nasenloch
+* sechs Tricks
 
-These shared motifs in both vocabulary and form make it certain that the two verses were composed together. It seems that they would have originally created a mini-narrative, but were split up and the connections lost.
+Diese gemeinsamen Motive sowohl im Vokabular als auch in der Form machen es sicher, dass die beiden Strophen zusammen verfasst wurden. Es scheint, als hätten sie ursprünglich eine Mini-Erzählung geschaffen, dann aber getrennt wurden und ihre Verbindung verloren ging. 
 
-One point that divides the verses, however, is that they have different metres. The first is in eight-syllable *siloka*, the second in eleven-syllable *tuṭṭhubha*. These are both common metres in early Pali, so there’s nothing really remarkable about this. It seems the poet was playing with the metres, perhaps extending the line in the second verse to allow for more expansive persuasion. At the same time, they made sure to tie the verses together with other formal means: unity with variation, the pillars of artistic form.
+Ein Punkt, in dem sich die Strophen unterscheiden, ist allerdings, dass sie unterschiedliche Versmaße haben. Die erste ist in achtsilbigem *siloka*, die zweite in elfsilbigem *tuṭṭhubha*. Beides sind gebräuchliche Versmaße im frühen Pali, daher ist daran nichts besonders Bemerkenswertes. Es scheint, der Dichter spielte mit den Versmaßen; vielleicht wollte er in der zweiten Strophe die Zeile verlängern, um eine ausführlicher Überzeugung zu ermöglichen. Gleiczeitig sorgte er dafür, die Strophen mit anderen formalen Mitteln zusammezubinden: Einheit mit Variation, die Säulen künstlerischer Form. 
 
 ### Was der Kommentar übersehen hat
 
