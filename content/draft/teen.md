@@ -1,5 +1,5 @@
 ---
-title: Die schlauen Hirsche oder Teenager in den Jatakas 15 und 16
+title: Die schlauen Hirsche (Teenager) in den Jatakas 15 und 16
 description: Bhikkhu Sujato, 2024
 img:  sujato.png
 img-alt: Foto von Bhante Sujato
@@ -8,7 +8,7 @@ order: 2
 
 [Zum Originaltext](https://discourse.suttacentral.net/t/the-tricksy-deer-teen-of-jatakas-15-and-16/35799)
 
-Während ich meinen Spaziergang durch die Jātakasammlung fortsetze, finde ich hier und da interessante Dinge. Wir wissen, dass Strophen und Geschichten zusammengehören, und die Strophen sind oft ohne die Geschichte kaum zu verstehen. Doch das heißt nicht, dass die Strophen immer mit *dieser* Geschichte zusammen waren. Tatsächlich  ist es sicher so, dass die Geschichten sich entwickeln und verändern. 
+Während ich meinen Spaziergang durch die Jātakasammlung fortsetze, finde ich hier und da interessante Dinge. Wir wissen, dass Strophen und Geschichten zusammengehören, und die Strophen sind oft ohne die Geschichte kaum zu verstehen. Doch das heißt nicht, dass die Strophen immer mit *dieser* Geschichte zusammen waren. Tatsächlich ist es sicher so, dass die Geschichten sich entwickeln und verändern. 
 
 Im Fall von [Ja 15](#/sutta/ja15/de/sabbamitta) und [Ja 16](#/sutta/ja16/de/sabbamitta) haben wir ein Strophenpaar, das zusammengehört, aber die einzelnen Strophen wurden als etwas je Eigenes behandelt mit Geschichten, die, wenngleich ähnlich, doch voneinander unabhängig sind. In diesem Fall ist der Einfluss der Geschichten so, dass die Bedeutung der Strophen, so glaube ich, stark verzerrt wurde und im Kommentar und den Übersetzungen verloren ging. Wir wollen sie durchgehen und sie als Strophenpaar wiederherstellen, das eine einzige Geschichte erzählt. 
 
@@ -48,9 +48,9 @@ Ein offensichtliches Merkmal ist das Maß an ungewöhnlichem oder einzigartigem 
 * *kalāhi* = „Tricks“ (Instrumental Plural); das Wort *kalā* bedeutet normalerweise „Bruchteil“. Es ist im Sanskrit bezeugt, aber nicht in dieser Bedeutung im Pali, soweit ich weiß. 
 * *aitibhoti* = „übertrifft, überwindet“, ein recht häufiges Wort, aber nicht in dieser speziellen Form. 
 
-Das ist eine Menge. Es sagt uns, dass der Dichter sein Vergnügen damit hatte, mit Wörtern zu spielen und Dinge auf ungewöhnliche und neue Arten auszudrücken. Es erinnert viel mehr an die spielerische Virtuosität vedischer Poesie als an den zweckmäßigeren Stil der meisten Paligedichte. 
+Das ist eine Menge. Es sagt uns, dass der Dichter sein Vergnügen daran hatte, mit Wörtern zu spielen und Dinge auf ungewöhnliche und neue Arten auszudrücken. Es erinnert viel mehr an die spielerische Virtuosität vedischer Poesie als an den zweckmäßigeren Stil der meisten Paligedichte. 
 
-Die Tatsache, dass sich in einer Strophe über *Hirsche, die Täuschungen schaffen,* so viele Obskuritäten und Rätsel finden, legt nahe, dass der Dichter sein Thema bewusst in seiner poetischen Wahl wiederspiegelte. Er ließ sich von den Hirschen anregen, uns Streiche zu spielen. Und das lässt uns hellhörig werden, dass wir nach Dingen Ausschau halten, die wir vielleicht übersehen haben. 
+Die Tatsache, dass sich in einer Strophe über *Hirsche, die Täuschungen schaffen,* so viele Obskuritäten und Rätsel finden, legt nahe, dass der Dichter sein Thema bewusst in seiner poetischen Wahl wiederspiegelte. Er ließ sich von den Hirschen anregen, uns Streiche zu spielen. Und weckt unsere Aufmerksamkeit, nach Dingen Ausschau zu halten, die wir vielleicht übersehen haben. 
 
 ### Spiel mit der Form
 
