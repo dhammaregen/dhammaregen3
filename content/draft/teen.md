@@ -92,9 +92,9 @@ Ein Punkt, in dem sich die Strophen unterscheiden, ist allerdings, dass sie unte
 
 ### Was der Kommentar übersehen hat
 
-Der Kommentar legt einen bemerkenswerten Mangel an Neugier an den Tag. Er will den Zweck der Lektion vermitteln – komm rechtzeitig zum Unterricht, sonst wird dein Lehrer dich abschreiben! Schön und gut! Es ist eine gute Lektion! Aber wenn er ein Wort erklärt hat, lässt er es einfach da stehen, so bleiben die Strophen irgendwie ohne Sinn. 
+Der Kommentar legt einen bemerkenswerten Mangel an Neugier an den Tag. Er will den Zweck der Lektion vermitteln – komm rechtzeitig zum Unterricht, sonst wird dein Lehrer dich abschreiben! Schön und gut! Es ist eine gute Lektion! Aber wenn er ein Wort erklärt hat, lässt er es einfach stehen, so bleiben die Strophen irgendwie ohne Sinn. 
 
-Das erste Wort *aṭṭhakkhuraṁ* ist ein gutes Beispiel dafür. Der Kommentar erklärt es richtig in der Bedeutung, dass der Hirsch paarhufig ist. Aber warum wird das hier gebraucht? Es ist das erste Wort in der Strophe, und es wird in der zweiten wiederholt, und soweit ich sagen kann, kommt es nirgends sonst vor. Es ist sicher irgendwie bedeutsam? Wir werden darauf zurückkommen. 
+Das erste Wort *aṭṭhakkhuraṁ* ist ein gutes Beispiel dafür. Der Kommentar erklärt es richtig mit der Bedeutung, dass der Hirsch paarhufig ist. Aber warum wird das hier gebraucht? Es ist das erste Wort in der Strophe, und es wird in der zweiten wiederholt, und soweit ich sagen kann, kommt es nirgends sonst vor. Es ist sicher irgendwie bedeutsam, oder? Wir werden darauf zurückkommen. 
 
 Das zweite Wort wird vom Kommentar als Name der Schwester des Bodhisatta in der Hintergrundgeschichte verstanden. Die Elemente dieser Geschichte sind eher unwahrscheinlich, wenn man sie wörtlich nimmt, da man im Prinzip die gleichen Ereignisse hat, die sich anscheinend zweimal in verschiedenen Leben an verschiedenen Orten abspielen. Wir wollen das beiseite lassen und nur nach dem Wort schauen. 
 
@@ -130,7 +130,7 @@ Dann gibt es da eine grammatische Nuance, die der Kommentar übergeht, und die m
 
 Ich denke, die ersten beiden Zeilen sind in der Form, die Wijesekera den „[Akkusativ der Beziehung](https://ancient-buddhist-texts.net/Textual-Studies/Syntax-of-the-Cases/02-Accusative.htm#toc13)“ nennt, für den das kanonische Beispiel diese Wendung ist: 
 
-> *taṁ kho pana bhavantaṁ Gotamaṁ evaṃ kalyāṇo kittisaddo abbhuggato*
+> *taṁ kho pana bhavantaṁ Gotamaṁ evaṃ kalyāṇo kittisaddo abbhuggato*  
 > ein guter Ruf wurde über diesen Herrn Gotama verbreitet 
 
 Der Satz ist „in Bezug auf“ oder „über“ das, was im Akkusativ steht. Das verleiht der Strophe eine feiner gegliederte Struktur, die wir in der Übersetzung zum Ausdruck bringen können. 
@@ -141,17 +141,15 @@ Aber was, wenn das alles ein Irrtum wäre? Wir wissen, dass der Dichter es liebt
 
 Das macht aus der ganzen Sache eine schön gegliederte Erzählung. Die ersten beiden Zeilen und die zweite Strophe werden vom Fürsprecher des Hirschschülers gesprochen, der eine folgerichtige Argumentation vorlegt, dass sein Schützling tatsächlich schlau und listig genug ist, um angenommen zu werden. Der Lehrer ist widerstrebend aufgrund der mangelnden Pünktlichkeit des Hirschs, doch der Fürsprecher drängt darauf. 
 
-Dieser Spannung liegt die recht witzige Vorstellung, dass man, wenn man eine Listen-Schule für ein entsetzlich flüchtiges Tier betreibt, nicht erwarten kann, dass es seine Listen nicht an einem selbst ausprobiert! Und wenn man annimmt, dass das eine Analogie dafür ist, junge Schüler zu unterrichten, so legt es reizenderweise nahe: Schreibe Tennager nicht ab, bloß weil sie Zicken machen, denn diese Aufsässigkeit und Verspieltheit sind die Quelle ihrer Kreativität, und sie sind unglaublich hilfreich, um in der wirklichen Welt zu überleben. 
+Dieser Spannung liegt die recht witzige Vorstellung zugrunde, dass man, wenn man eine Listen-Schule für ein entsetzlich flüchtiges Tier betreibt, nicht erwarten kann, dass es seine Listen nicht an einem selbst ausprobiert! Und wenn man annimmt, dass das eine Analogie dafür ist, junge Schüler zu unterrichten, so legt es reizenderweise nahe: Schreibe Tennager nicht ab, bloß weil sie Zicken machen, denn diese Aufsässigkeit und Verspieltheit sind die Quelle ihrer Kreativität, und sie sind unglaublich hilfreich, um in der wirklichen Welt zu überleben. 
 
-> “Please accept the eight-hooved ass,
-> the deer more wily than the wily.”
-> “He has skipped the appointment seven times—
-> I’ll make no effort to instruct him.”
+> *„Bitte nimm den achthufigen Esel an,* 
+> *den Hirsch, litiger als der Listige.“*  
+> *„Er hat sieben Mal die Zeit nicht eingehalten –*  
+> *ich werde mir nicht die Mühe machen, ihn zu unterweisen.“*  
 >
->
->
-> “About that deer—triply collapsed with many illusions,
-> eight-hooved, a midnight drinker—
-> he’s breathing on the ground through one nostril!
-> Excelling with these six tricks, he deserves a chance.”
+> *„Über diesen Hirsch, dreifach zusammengebrochen mit vielen Täuschungen,*  
+> *acht-hufig, ein Mitternachtstrinker:*  
+> *Er atmet am Boden durch ein Nasenloch!*  
+> *Da er sich mit diesen sechs Tricks hervortut, verdient er eine Chance.“* 
 
