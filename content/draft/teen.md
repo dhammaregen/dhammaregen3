@@ -86,9 +86,9 @@ Der Gebrauch von Zahlen ist ein anderes auffälliges gemeinsames Merkmal:
 * ein Nasenloch
 * sechs Tricks
 
-Diese gemeinsamen Motive sowohl im Vokabular als auch in der Form machen es sicher, dass die beiden Strophen zusammen verfasst wurden. Es scheint, als hätten sie ursprünglich eine Mini-Erzählung geschaffen, dann aber getrennt wurden und ihre Verbindung verloren ging. 
+Diese gemeinsamen Motive sowohl im Vokabular als auch in der Form machen es sicher, dass die beiden Strophen zusammen verfasst wurden. Es scheint, als hätten sie ursprünglich eine Mini-Erzählung dargestellt, wurden dann aber getrennt und ihre Verbindung ging verloren. 
 
-Ein Punkt, in dem sich die Strophen unterscheiden, ist allerdings, dass sie unterschiedliche Versmaße haben. Die erste ist in achtsilbigem *siloka*, die zweite in elfsilbigem *tuṭṭhubha*. Beides sind gebräuchliche Versmaße im frühen Pali, daher ist daran nichts besonders Bemerkenswertes. Es scheint, der Dichter spielte mit den Versmaßen; vielleicht wollte er in der zweiten Strophe die Zeile verlängern, um eine ausführlicher Überzeugung zu ermöglichen. Gleiczeitig sorgte er dafür, die Strophen mit anderen formalen Mitteln zusammezubinden: Einheit mit Variation, die Säulen künstlerischer Form. 
+Ein Punkt, in dem sich die Strophen unterscheiden, ist allerdings, dass sie unterschiedliche Versmaße haben. Die erste ist in achtsilbigem *siloka*, die zweite in elfsilbigem *tuṭṭhubha*. Beides sind gebräuchliche Versmaße im frühen Pali, daher ist daran nichts besonders Bemerkenswertes. Es scheint, der Dichter spielte mit den Versmaßen; vielleicht wollte er in der zweiten Strophe die Zeile verlängern, um eine ausführlichere Überzeugung zu ermöglichen. Gleichzeitig sorgte er dafür, dass die Strophen mit anderen formalen Mitteln zusammengebunden waren: Einheit mit Variation, die Säulen künstlerischer Form. 
 
 ### Was der Kommentar übersehen hat
 
