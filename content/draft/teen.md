@@ -92,21 +92,21 @@ Ein Punkt, in dem sich die Strophen unterscheiden, ist allerdings, dass sie unte
 
 ### Was der Kommentar übersehen hat
 
-The commentary evinces a decided lack of curiosity. It wants to convey the purpose of the lesson—show up for classes on time, or your teacher will give up on you! Fair enough! It’s a good lesson! But once it’s explained a word it just leaves it there, so it leaves the verses somewhat bare of meaning.
+Der Kommentar legt einen bemerkenswerten Mangel an Neugier an den Tag. Er will den Zweck der Lektion vermitteln – komm rechtzeitig zum Unterricht, sonst wird dein Lehrer dich aufgeben! Schön und gut! Es ist eine gute Lektion! Aber wenn er ein Wort erklärt hat, lässt er es einfach da stehen, so bleiben die Strophen irgendwie ohne Sinn. 
 
-The opening word *aṭṭhakkhuraṁ* is a good example of this. The commentary explains it correctly as meaning that the deer has a split or cloven hooves. But why is it used here? It’s the first word in the verse, and it’s repeated in the second, and appears so far as I can tell, nowhere else. Surely it has some importance? We’ll come back to it.
+Das erste Wort *aṭṭhakkhuraṁ* ist ein gutes Beispiel dafür. Der Kommentar erklärt es richtig in der Bedeutung, dass der Hirsch paarhufig ist. Aber warum wird das hier gebraucht? Es ist das erste Wort in der Strophe, und es wird in der zweiten wiederholt, und soweit ich sagen kann, kommt es nirgends sonst vor. Es ist sicher irgendwie bedeutsam? Wir werden darauf zurückkommen. 
 
-The second word is taken by the commentary as the name of the Bodhisatta’s sister in the background story. The elements of the background are rather implausible if taken literally, as you have basically the same events unfolding in apparently different lives in different places. Let’s leave that aside and just look at the word.
+Das zweite Wort wird vom Kommentar als Name der Schwester des Bodhisatta in der Hintergrundgeschichte verstanden. Die Elemente dieser Geschichte sind eher unwahrscheinlich, wenn man sie wörtlich nimmt, da man im Prinzip die gleichen Ereignisse hat, die sich anscheinend zweimal in verschiedenen Leben an verschiedenen Orten abspielen. Wir wollen das beiseite lassen und nur nach dem Wort schauen. 
 
-*Ādiye* means something like “you should accept”. As for *khara*, it most commonly means “rough, solid”. But in Sanskrit it’s also a word for “donkey, ass”, as in this sentence from [Manu 4.115:](https://www.wisdomlib.org/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc200222.html)
+*Ādiye* bedeutet so etwas wie „du sollst annehmen“. *Khara* bedeutet in den meisten Fällen „rau, fest“. Aber im Sanskrit ist es auch ein Wort für „Esel, Grautier“, wie in diesem Satz aus [Manu 4.115:](https://www.wisdomlib.org/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc200222.html)
 
-> The Brāhmaṇa shall not read during a dust-storm, or while the sky is burning, or while jackals are howling, or while dogs or donkeys or camels are crying in a line.
+> Der Brahmane soll nicht lesen während eines Staubsturms, wenn der Himmel brennt, wenn Schakale heulen oder wenn Hunde oder Esel oder Kamele in einer Reihe schreien. 
 
-Fascinating to see how they had a list of occasions when you got let off of school!
+Faszinierend zu sehen, dass sie eine Aufzählung von Fällen hatten, in denen es schulfrei gibt! 
 
-This makes good sense in this context. The ass is a solid-footed beast, and rather than referring to a sister of whom we know nothing, the poet is sparking interest in the story by opening with a deliberately comic contrast:
+Das passt gut in diesen Zusammenhang. Der Esel ist ein unpaarhufiges Tier, und statt sich auf eine Schwester zu beziehen, über die wir nichts wissen, weckt der Dichter Interesse an der Geschichte, indem er mit einem bewusst komischen Kontrast beginnt: 
 
-> You should accept the eight-hooved ass
+> Du sollst den achthufigen Esel annehman 
 
 In the next line, the Pali says the deer is *vaṅkātivaṅkinaṁ*, which makes good sense in the context. He is being recommended as being super-tricky and full of wiles, as he continues to be in the next verse. We know from [MN 51:4.14](https://suttacentral.net/mn51/en/sujato#mn51:4.14) or [AN 8.13:1.11](https://suttacentral.net/an8.13/en/sujato#an8.13:1.11) that animals have ruses and wiles by which they escape human control. The text is respectful of these; it understands that the animals are clever and indeed assumes that they have to attend ruse-school to learn from their elders.
 
