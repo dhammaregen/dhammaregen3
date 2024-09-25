@@ -12,29 +12,29 @@ Während ich meinen Spaziergang durch die Jātakasammlung fortsetze, finde ich h
 
 Im Fall von [Ja 15](#/sutta/ja15/de/sabbamitta) und [Ja 16](#/sutta/ja16/de/sabbamitta) haben wir ein Strophenpaar, das zusammengehört, aber die einzelnen Strophen wurden als etwas je Eigenes behandelt mit Geschichten, die, wenngleich ähnlich, doch voneinander unabhängig sind. In diesem Fall ist der Einfluss der Geschichten so, dass die Bedeutung der Strophen, so glaube ich, stark verzerrt wurde und im Kommentar und den Übersetzungen verloren ging. Wir wollen sie durchgehen und sie als Strophenpaar wiederherstellen, das eine einzige Geschichte erzählt. 
 
-For the stories:
+Zu den Geschichten:
 
-[https://ancient-buddhist-texts.net/English-Texts/Jataka/015.htm ](https://ancient-buddhist-texts.net/English-Texts/Jataka/015.htm)
+[https://palikanon.com/khuddaka/jataka/j015.htm](https://palikanon.com/khuddaka/jataka/j015.htm)
 
-[https://ancient-buddhist-texts.net/English-Texts/Jataka/016.htm ](https://ancient-buddhist-texts.net/English-Texts/Jataka/016.htm)
+[https://palikanon.com/khuddaka/jataka/j016.htm](https://palikanon.com/khuddaka/jataka/j016.htm)
 
-And for text and commentary:
+Zu Text und Kommentar (englisch):
 
 [https://ancient-buddhist-texts.net/Texts-and-Translations/Jatakagathavannana/015.htm ](https://ancient-buddhist-texts.net/Texts-and-Translations/Jatakagathavannana/015.htm)
 
 [https://ancient-buddhist-texts.net/Texts-and-Translations/Jatakagathavannana/016.htm ](https://ancient-buddhist-texts.net/Texts-and-Translations/Jatakagathavannana/016.htm)
 
-And here’s the translation, in Anandajoti’s revised version which follows the commentary. The verses concern a deer who is being considered for training in the arts of illusion by which the deer keep themselves safe. The commentary takes both verses as being spoken by the Bodhisatta.
+Und hier ist die Übersetzung in Anandajotis überarbeiteter Fassung, die sich am Kommentar orientiert (hier von mir ins Deutsche übertragen; A.d.Ü.). Die Strophen betreffen einen Hirsch, der in den Künsten der Täuschung geschult werden soll, durch die Hirsche sicher bleiben. Der Kommentar versteht beide Strophen als vom Bodhisatta gesprochen. 
 
-> The deer has eight hoofs, Kharādiyā, and very crooked antlers,
-> I will not endeavour to advise him for more than seven times.
+> Der Hirsch hat acht Hufe, Kharādiyā, 
+> und ein sehr krummes Geweih,
+> ich werde es nicht unternehmen, 
+> ihn mehr als sieben Mal zu unterweisen. 
 >
->
->
-> The deer in three postures, with many tricks,
-> Using eight hoofs, and drinking at midnight,
-> Breathing through just one nostril on the ground,
-> (My) nephew beats (the hunter) in six ways.
+> Der Hirsch in drei Stellungen mit vielen Tricks, 
+> gebraucht acht Hufe und trinkt um Mitternacht, 
+> atmet nur durch ein Nasenloch zur Erde, 
+> so schlägt (mein) Neffe (den Jäger) auf sechs Arten. (
 
 ## rare vocabulary
 
