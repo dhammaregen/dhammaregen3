@@ -1,9 +1,9 @@
 ---
 title: Die Jātakas
 description: Schlaglichter auf eine interessante Sammlung
-img: jataka.png
-img-alt: Relief zu Jataka 443, Borobudur
-link: https://commons.wikimedia.org/wiki/File:COLLECTIE_TROPENMUSEUM_Reli%C3%ABf_Borobudur_TMnr_60042617.jpg
+img: sanchi.png
+img-alt: Sanchi 1 (Nord-Torana) mit Jātaka-Reliefs, ArnoldBetten, Public domain, via Wikimedia Commons
+link: https://commons.wikimedia.org/wiki/File:Sanchi_Stupa_1_Nord-Torana_(1999).JPG
 slugDir: jataka
 category: Weitere Informationen
 order: 5
