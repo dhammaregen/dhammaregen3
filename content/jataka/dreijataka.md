@@ -8,7 +8,7 @@ order: 1
 
 [Zum Originaltext](https://discourse.suttacentral.net/t/the-first-three-jataka-verses/35681)
 
-Gerade habe ich ein wenig mit ein paar Jātaka-Strophen herumgespielt und dabei ein paar interessante Dinge entdeckt. Das Hauptwerk wird hier natürlich vom Ehrwürdigen Anandajoti bewerkstelligt. Aber seine Arbeit verbindet den Text eng mit dem Kommentar, und das führt manchmal zu einem anderen Ergebnis. [Die deutsche Übersetzung von Dr. Julius Dutoit, Prosageschichten mit eingebundenen Strophen, findet sich [auf Palikanon.com](https://palikanon.com/khuddaka/jataka/j00.htm). A.d.Ü.]
+Gerade habe ich ein wenig mit ein paar Jātaka-Strophen herumgespielt und dabei ein paar interessante Dinge entdeckt. Das Hauptwerk wird hier natürlich vom Ehrwürdigen Anandajoti bewerkstelligt. Aber seine Arbeit verbindet den Text eng mit dem Kommentar, und das führt manchmal zu einem anderen Ergebnis. [Die deutsche Übersetzung von Dr. Julius Dutoit, Prosageschichten mit eingebundenen Strophen, findet sich [auf Palikanon.com](https://palikanon.com/khuddaka/jataka/j00.htm); A.d.Ü.]
 
 ### [Ja 1 Apaṇṇaka](#/sutta/ja1/de/sabbamitta)
 
