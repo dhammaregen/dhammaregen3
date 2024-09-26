@@ -46,7 +46,7 @@ Ein offensichtliches Merkmal ist das Maß an ungewöhnlichem oder einzigartigem 
 * *tipallattha* = „dreifacher Zusammenbruch“, die drei Stellungen, in die der Hirsch sich hinwirft, um sich tot zu stellen. In dieser Bedeutung nirgendwo sonst zu finden. 
 * *aḍḍharattāpapāyiṁ* = „Trinker um Mitternacht“, ein anderer einzigartiger Ausdruck. 
 * *kalāhi* = „Tricks“ (Instrumental Plural); das Wort *kalā* bedeutet normalerweise „Bruchteil“. Es ist im Sanskrit bezeugt, aber nicht in dieser Bedeutung im Pali, soweit ich weiß. 
-* *aitibhoti* = „übertrifft, überwindet“, ein recht häufiges Wort, aber nicht in dieser speziellen Form. 
+* *atibhoti* = „übertrifft, überwindet“, ein recht häufiges Wort, aber nicht in dieser speziellen Form. 
 
 Das ist eine Menge. Es sagt uns, dass der Dichter sein Vergnügen daran hatte, mit Wörtern zu spielen und Dinge auf ungewöhnliche und neue Arten auszudrücken. Es erinnert viel mehr an die spielerische Virtuosität vedischer Poesie als an den zweckmäßigeren Stil der meisten Paligedichte. 
 
