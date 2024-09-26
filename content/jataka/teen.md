@@ -1,5 +1,5 @@
 ---
-title: Die schlauen Hirsche (Teenager) in den Jatakas 15 und 16
+title: Der schlaue Hirsch (Teenager) in den Jatakas 15 und 16
 description: Bhikkhu Sujato, 2024
 img:  sujato.png
 img-alt: Foto von Bhante Sujato
