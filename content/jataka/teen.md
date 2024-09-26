@@ -56,7 +56,7 @@ Die Tatsache, dass sich in einer Strophe über *Hirsche, die Täuschungen schaff
 
 Es ist nicht nur das Vokabular, denn der Dichter amüsiert sich auch mit dem Klang von Wörtern. 
 
-Die eröffnende Zeile enthält ein bemerkenswertes Klangspiel. Sagen Sie sie auf, und es ist offensichtlich: 
+Die eröffnende Zeile enthält eine bemerkenswerte Klangfigur. Sagen Sie sie auf, und es ist offensichtlich: 
 
 > *Aṭṭhak**khuraṁ** **kharā**diye*
 
@@ -66,7 +66,7 @@ Und wenn *aṭṭhakkhuraṁ* in der zweiten Strophe kommt, lässt der Dichter d
 
 Sehr clever!
 
-Ein anderes bemerkenswertes Spiel gibt es zwischen der dritten Zeile der ersten Strophe: 
+Ein anderes bemerkenswertes Klangspiel gibt es zwischen der dritten Zeile der ersten Strophe: 
 
 > *Satt**ahi kālāti**kkantaṁ*
 
@@ -92,9 +92,9 @@ Ein Punkt, in dem sich die Strophen unterscheiden, ist allerdings, dass sie unte
 
 ### Was der Kommentar übersehen hat
 
-Der Kommentar legt einen bemerkenswerten Mangel an Neugier an den Tag. Er will den Zweck der Lektion vermitteln – komm rechtzeitig zum Unterricht, sonst wird dein Lehrer dich abschreiben! Schön und gut! Es ist eine gute Lektion! Aber wenn er ein Wort erklärt hat, lässt er es einfach stehen, so bleiben die Strophen irgendwie ohne Sinn. 
+Der Kommentar legt einen bemerkenswerten Mangel an Neugier an den Tag. Er will den Zweck der Lektion vermitteln: „Komm rechtzeitig zum Unterricht, sonst wird dein Lehrer dich abschreiben!“ Schön und gut! Es ist eine gute Lektion! Aber wenn er ein Wort erklärt hat, lässt er es einfach stehen, so bleiben die Strophen irgendwie ohne Sinn. 
 
-Das erste Wort *aṭṭhakkhuraṁ* ist ein gutes Beispiel dafür. Der Kommentar erklärt es richtig mit der Bedeutung, dass der Hirsch paarhufig ist. Aber warum wird das Wort hier gebraucht? Es ist das erste Wort in der Strophe, und es wird in der zweiten wiederholt, und soweit ich sagen kann, kommt es nirgends sonst vor. Es ist sicher irgendwie bedeutsam, oder? Wir werden darauf zurückkommen. 
+Das erste Wort *aṭṭhakkhuraṁ* ist ein gutes Beispiel dafür. Der Kommentar erklärt es richtig mit der Bedeutung, dass der Hirsch paarhufig ist. Aber warum wird das Wort hier gebraucht? Es ist das erste Wort in der Strophe, und es wird in der zweiten wiederholt, und soweit ich sagen kann, kommt es nirgendwo sonst vor. Es ist sicher irgendwie bedeutsam, oder? Wir werden darauf zurückkommen. 
 
 Das zweite Wort wird vom Kommentar als Name der Schwester des Bodhisatta in der Hintergrundgeschichte verstanden. Die Elemente dieser Geschichte sind eher unwahrscheinlich, wenn man sie wörtlich nimmt, da man im Prinzip die gleichen Ereignisse hat, die sich anscheinend zweimal in verschiedenen Leben an verschiedenen Orten abspielen. Wir wollen das beiseite lassen und nur nach dem Wort schauen. 
 
@@ -124,7 +124,7 @@ Die „sechs Tricks“ der letzten Zeile scheinen den Kommentar verwirrt zu habe
 * heimlich um Mitternacht trinken 
 * nur durch ein Nasenloch atmen (d. h. sich tot stellen) 
 
-Das wirft die Frage auf, inwiefern „acht Hufe“ ein Trick sind. Ich bin überzeugt, dass es ein Trick ist, die zentrale Rolle, die es in den Strophen hat, legt das nahe, aber ich weiß nicht genau, in welchem Sinn. In der ersten Strophe scheint die Idee zu sein, dass er so tun kann, als sei er ein anderes Tier, ein Esel in Form eines Hirschs oder umgekehrt. Vielleicht geht es um den zarten Gang des Hirschs, wenn er leise und anmutig auftritt? Oder es geht um die Fußspur, die er hinterlässt? Wie dem auch sei, ich denke, es ist ein Trick, und der Kommentar hat das nicht erfasst und musste daher andere Reihen von sechs erfinden. 
+Das wirft die Frage auf, inwiefern „acht Hufe“ ein Trick sind. Ich bin überzeugt, dass es ein Trick ist, die zentrale Rolle, die es in den Strophen hat, legt das nahe, aber ich weiß nicht genau, in welchem Sinn. In der ersten Strophe scheint die Idee zu sein, dass er so tun kann, als sei er ein anderes Tier, ein Esel in Form eines Hirschs oder umgekehrt. Vielleicht geht es um den zarten Gang des Hirschs, wenn er leise und sacht auftritt? Oder es geht um die Fußspur, die er hinterlässt? Wie dem auch sei, ich denke, es ist ein Trick, und der Kommentar hat das nicht erfasst und musste daher andere Reihen von sechs erfinden. 
 
 Dann gibt es da eine grammatische Nuance, die der Kommentar übergeht und die mich für eine Weile verblüfft hat. Schauen Sie sich die Formen in der zweiten Strophe an: Die ersten beiden Zeilen sind im Akkusativ ohne Verb, dann ist das zweite Paar, wie zu erwarten, im Nominativ mit Verben. Wie beziehen sie sich auf die gleiche Sache? 
 
