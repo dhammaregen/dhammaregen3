@@ -40,11 +40,6 @@ Hier finden Sie Webseiten mit den frühen buddhistischen Texten von [SuttaCentra
 
    EBT-Site3 ist eine Vorlage, um mit den frühen buddhistischen Texten (FBT), die von [SuttaCentral](https://suttacentral.net/?lang=de) bezogen werden, auf der Grundlage von EBT-Vue3 eine individuelle Webseite zu erstellen. Webseiten, die das EBT-Vue3-Programmiergerüsterüst benutzen, können mittels Markdown-Dateien nach Wunsch individuell angepasst werden.
 
-1. [BuddhaNexus](https://buddhanexus.net/)  
-   *Datenbank für das Studium buddhistischer Texte*
-
-   BuddhaNexus ist eine Dantenbank, die dem Studium buddhistischer Texte und Literaturkorpora auf Pāli, Sanskrit, Tibetisch und Chinesisch gewidmet ist. Ein besonderer Schwerpunkt liegt auf der Entwicklung der Schriften, der Bildung der Kanons und der Vernetzung der Texte untereinander.
-
 1. [ReadingFaithfully](https://de.readingfaithfully.org/)  
    *Sutta-Zufallsgenerator*
 
@@ -52,15 +47,15 @@ Hier finden Sie Webseiten mit den frühen buddhistischen Texten von [SuttaCentra
 
    Folgen Sie dem Link, klicken Sie auf die Schaltfläche „Zufälliges Sutta“ und lassen Sie sich überraschen!
 
-1. [Voice.suttacentral.net](https://voice.suttacentral.net)  
-   *Ursprüngliche Voice-Webseite*
-
-   Diese Seite ist die erste Entwicklung von Voice und ist mittlerweile technisch überholt. Sie wird 2024 stillgelegt werden. Die Nachfolge-Webseite ist das neue [SC-Voice](https://sc-voice.net/).
-
 ---
 Webseiten mit frühen buddhistischen Texten aus anderen Quellen als SuttaCentral:
 
-- [Suttanta](https://www.suttanta.de/)  
+1. [BuddhaNexus](https://buddhanexus.net/)  
+   *Datenbank für das Studium buddhistischer Texte*
+
+   BuddhaNexus ist eine Dantenbank, die dem Studium buddhistischer Texte und Literaturkorpora auf Pāli, Sanskrit, Tibetisch und Chinesisch gewidmet ist. Ein besonderer Schwerpunkt liegt auf der Entwicklung der Schriften, der Bildung der Kanons und der Vernetzung der Texte untereinander.
+
+1. [Suttanta](https://www.suttanta.de/)  
   *Buddhistische Gemeinschaft in der Theravada-Tradition*
 
   Die Webseite der Hamburger Suttanta-Gemeinschaft bietet verschiedene Ressourcen zum Studium früher buddhistischer Texte an, darunter verschiedene Online- und Fernkurse. Eine [Bibliothek](https://www.suttanta.de/bibliothek/) und eine [Audiothek](https://www.suttanta.de/downloads/) befinden sich im Aufbau.
