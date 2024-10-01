@@ -14,7 +14,7 @@ Gerade habe ich ein wenig mit ein paar Jātaka-Strophen herumgespielt und dabei 
 
 Das ist das Apaṇṇakajātaka, dessen zentraler Begriff vom Glücksspiel hergeleitet ist.
 
-[Wie man beim Glücksspiel unfehlbar gewinnt](#/wiki/buddhismuskunde/unfehlbar)
+Essay: [Wie man beim Glücksspiel unfehlbar gewinnt](#/wiki/buddhismuskunde/unfehlbar)
 
 Einen Hinweis auf das Glücksspiel gibt die letzte Zeile, wo der Weise „nach dem Unfehlbaren greifen“ würde, d.  h. nach „einem Satz ohne einen fünften“ (*apaṇṇakaṁ*), auch als „perfekte Hand“ (*kaṭaggāha*) bekannt. Der Gebrauch von „greifen“ weist hier auf das Würfelspiel hin, wo die Spieler eine Handvoll Samen greifen und dabei versuchen, eine Zahl zu bekommen, die durch vier teilbar ist. 
 
