@@ -40,6 +40,11 @@ Hier finden Sie Webseiten mit den frühen buddhistischen Texten von [SuttaCentra
 
    EBT-Site3 ist eine Vorlage, um mit den frühen buddhistischen Texten (FBT), die von [SuttaCentral](https://suttacentral.net/?lang=de) bezogen werden, auf der Grundlage von EBT-Vue3 eine individuelle Webseite zu erstellen. Webseiten, die das EBT-Vue3-Programmiergerüsterüst benutzen, können mittels Markdown-Dateien nach Wunsch individuell angepasst werden.
 
+1. [FR.SC-Voice.net](https://fr.sc-voice.net/#/wiki/toc)
+   *SC-Voice in französischer Sprache*
+
+   Das französische Pendant zu *Dhammaregen*.
+
 1. [ReadingFaithfully](https://de.readingfaithfully.org/)  
    *Sutta-Zufallsgenerator*
 
@@ -58,6 +63,6 @@ Webseiten mit frühen buddhistischen Texten aus anderen Quellen als SuttaCentral
 1. [Suttanta](https://www.suttanta.de/)  
   *Buddhistische Gemeinschaft in der Theravada-Tradition*
 
-  Die Webseite der Hamburger Suttanta-Gemeinschaft bietet verschiedene Ressourcen zum Studium früher buddhistischer Texte an, darunter verschiedene Online- und Fernkurse. Eine [Bibliothek](https://www.suttanta.de/bibliothek/) und eine [Audiothek](https://www.suttanta.de/downloads/) befinden sich im Aufbau.
+   Die Webseite der Hamburger Suttanta-Gemeinschaft bietet verschiedene Ressourcen zum Studium früher buddhistischer Texte an, darunter verschiedene Online- und Fernkurse. Eine [Bibliothek](https://www.suttanta.de/bibliothek/) und eine [Audiothek](https://www.suttanta.de/downloads/) befinden sich im Aufbau.
 
-  Ein besonderes Angebot ist die [Sutta-To-Go-App](https://www.suttanta.de/sutta-to-go-app/), die man auf dem Smartphone, Tablet oder Desktop-Computer installieren oder einfach [im Browser öffnen](https://mbsr.bplaced.net/sutta_to_go) kann. Sie bringt täglich ein neues Sutta-Zitat zur Inspiration für den Tag.
+   Ein besonderes Angebot ist die [Sutta-To-Go-App](https://www.suttanta.de/sutta-to-go-app/), die man auf dem Smartphone, Tablet oder Desktop-Computer installieren oder einfach [im Browser öffnen](https://mbsr.bplaced.net/sutta_to_go) kann. Sie bringt täglich ein neues Sutta-Zitat zur Inspiration für den Tag.
