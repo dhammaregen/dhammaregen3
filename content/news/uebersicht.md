@@ -8,6 +8,12 @@ order: -9999
 
 Hier finden Sie eine kurze Themenübersicht der bisher erschienenen Newsletter. Klicken sie auf die Überschrift, um zu einem Newsletter zu gelangen.
 
+### [Oktober 2024](#/wiki/news/2024-10)
+- Wozu ist Großzügigkeit gut? (Visākhā, AN 1.259, AN 3.70, Ud 8.8, Kd 8)
+- Jātakas (Essays)
+- Chaos- und Metta-Tour: Bhante Sujato in Europa
+- Dhp 177
+
 ### [September 2024](#/wiki/news/2024-09)
 - Die Prinzessin Sumanā (SN 3.22, AN5.31, Thig 1.16)
 - Der Palikanon, dieser unüberschaubare Dschungel (Infoseite)
