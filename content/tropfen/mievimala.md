@@ -50,7 +50,7 @@ Trotz aller Herausforderungen, die sie zu erwarten hatte, führten ihr starkes V
 
 Möge Ayyā Mie Vimalā das höchste Ziel, Nibbāna, erreichen!
 
-<img src="./nyanaponika500.png" alt="Ehrw. Nyanaponika an seinem Schreibtisch" style="height: 400px;">
+<img src="img/nyanaponika500.png" alt="Ehrw. Nyanaponika an seinem Schreibtisch" style="height: 400px;">
 
 (*Nyanaponika Thera in seinem Büro in der Forest Hermitage in den frühen 1970er Jahren.*)
 
