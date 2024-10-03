@@ -10,11 +10,7 @@ order: 3
 ### *Bhikkhave* und *Bhikkhu* als Terminologie in frühen buddhistischen Texten, die alle Geschlechter einschließt
 (Aus: [*Journal of Buddhist Ethics*](http://blogs.dickinson.edu/buddhistethics/), ISSN 1076-9005, Band 21, 2014)
 
-*Alice Collett, York St John University[^1]*
-
-*und*
-
-*Bhikkhu Anālayo, Universität Hamburg*
+*Alice Collett, York St John University, und Bhikkhu Anālayo, Universität Hamburg[^1]*
 
 [Originaltext](http://blogs.dickinson.edu/buddhistethics/?s=analayo+bhikkhave) (PDF zum Herunterladen, 300 kB)
 
