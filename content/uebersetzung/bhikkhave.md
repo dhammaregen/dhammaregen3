@@ -7,7 +7,7 @@ link: https://pixabay.com/photos/theravada-buddhism-1773666
 order: 3
 ---
 
-# *Bhikkhave* und *Bhikkhu* als Terminologie in frühen buddhistischen Texten, die alle Geschlechter einschließt
+### *Bhikkhave* und *Bhikkhu* als Terminologie in frühen buddhistischen Texten, die alle Geschlechter einschließt
 (Aus: [*Journal of Buddhist Ethics*](http://blogs.dickinson.edu/buddhistethics/), ISSN 1076-9005, Band 21, 2014)
 
 *Alice Collett, York St John University[^1]*
