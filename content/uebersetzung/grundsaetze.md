@@ -6,9 +6,11 @@ img-alt: Bild von Ajahn Brahmali
 order: 2.5
 ---
 
-*[Dieser Text Ajahn Brahmalis bezieht sich auf Übersetzungen ins Englische; das Meiste ist aber auch für Übersetzungen ins Deutsche oder in andere Sprachen anwendbar. Die Grundsätze wurden bei der Übersetzung von Vinaya-Texten zusammengestellt, sind aber prinzipiell auch für die Suttas anwendbar. Punkt 10 wurde dem ursprünglichen Aufsatz aus der Diskussion hinzugefügt. Diese Grundsätze sind für meine eigene Übersetzungsarbeit eine wichtige Orientierungshilfe. — A.d.Ü.]*
+*Dieser Text von Ajahn Brahmali bezieht sich auf Übersetzungen ins Englische; das Meiste ist aber auch für Übersetzungen ins Deutsche oder in andere Sprachen anwendbar. Die Grundsätze wurden bei der Übersetzung von Vinaya-Texten zusammengestellt, gelten prinzipiell aber auch für die Suttas. Punkt 10 wurde dem ursprünglichen Aufsatz aus der Diskussion hinzugefügt. Diese Grundsätze sind für meine eigene Übersetzungsarbeit eine wichtige Orientierungshilfe. — A.d.Ü.*
 
 Zum [Originaltext](https://discourse.suttacentral.net/t/principles-of-translation/19485) mit Diskussion
+
+---
 
 Ich habe kürzlich die Grundsätze für die Übersetzung aufgeschrieben, die ich versucht habe, anzuwenden, als ich den Vinaya-Pitaka übersetzt habe. Ich möchte sie hier zum Zweck der Rückmeldung und Diskussion zur Verfügung stellen. Auch würde ich mich sehr freuen, über weitere Grundsätze zu hören, die ich nicht erwähnt habe.
 
@@ -29,13 +31,13 @@ Hier zunächst die Grundsätze in der Übersicht, danach folgt eine ausführlich
 
 Ich habe mich von dem Grundsatz leiten lassen, die sakrale buddhistische Literatur so leicht wie möglich zugänglich zu machen, unabhängig vom Grad der Vertrautheit des Lesers mit dem Buddhismus oder mit Pali. Praktisch bedeutete das, dass ich alle Palibegriffe und -ausdrücke übersetzt habe, mit den folgenden Ausnahmen: *Buddha*, *Saṅgha* und *Paṇḍaka*.
 
-Beim Übersetzen von Palitexten gibt es eine Tendenz, eine beträchtliche Zahl von Begriffen unübersetzt zu lassen. Typische Beispiele von Wörtern, die unübersetzt bleiben, betreffen Kernvorstellungen wie Dhamma, Jhāna, Arahant, Uposatha, Kamma, Tathāgata und Nibbāna. Das Problem bei dieser Herangehensweise ist, dass sie Leser, besonders, wenn sie neu zum Buddhismus kommen, im Dunkeln lässt. Meiner Meinung nach ist es besser, einen Palibegriff zu übersetzen, selbst in Fällen, in denen man keine vollständig befriedigende englische Entsprechung finden kann. Zumindest bekommt der Leser eine ungefähre Vorstellung von der Bedeutung des Textes, wodurch unerwartete Brüche in der Leseerfahrung vermieden werden.
+Beim Übersetzen von Palitexten gibt es eine Tendenz, eine beträchtliche Zahl von Begriffen unübersetzt zu lassen. Typische Beispiele von Wörtern, die unübersetzt bleiben, betreffen Kernvorstellungen wie Dhamma, Jhāna, Arahant, Uposatha, Kamma, Tathāgata und Nibbāna. Das Problem bei dieser Herangehensweise ist, dass sie Leser, besonders wenn sie neu zum Buddhismus kommen, im Dunkeln lässt. Meiner Meinung nach ist es besser, einen Palibegriff zu übersetzen, selbst in Fällen, in denen man keine vollständig befriedigende englische Entsprechung finden kann. Zumindest bekommt der Leser eine ungefähre Vorstellung von der Bedeutung des Textes, wodurch unerwartete Brüche in der Leseerfahrung vermieden werden.
 
 ### (2) Verständliche und aussagekräftige Übersetzung
 
 Ich habe mich von dem Ideal leiten lassen, den gesamten Palitext in klares und unmissverständliches Englisch zu bringen.
 
-Das Ziel des Buddha war es, seiner Zuhörerschaft seine Entdeckung zu vermitteln. Insofern erscheint es vernünftig, anzunehmen, dass seine Worte in Allgemeinen darauf abzielten, eine klare und unmissverständliche Botschaft zu übermitteln, mit gelegentlichen Ausnahmen, vor allem bei Versen. Nach meiner Erfahrung sind Übersetzungen aus dem Pali manchmal schwer zu verstehen, besonders, wenn der zugrundliegende Palitext selbst schwierig oder vielleicht sogar entstellt ist. In solchen Fällen scheint es manchmal, als hätte sich der Übersetzer für eine streng wörtliche Übersetzung entschieden, um sich bei der Bedeutung nicht festlegen zu müssen. Das Ergebnis kann eine Wiedergabe sein, die entweder im Englischen nichtssagend ist oder zumindest schwer zu interpretieren. Wenn der Text, nachdem man sein Bestes versucht hat, das Pali zu verstehen, zweifelhaft bleibt, erscheint es mir richtig, sich für die wahrscheinlichste Bedeutung zu entscheiden und entsprechend zu übersetzen. Das kann gelegentlich zu einer falschen Übersetzung führen, aber zumindest ergibt es eine brauchbare Grundlage für weitere Diskussion, ein Potenzial, das weitgehend verlorengeht, wenn die Übersetzung nichtssagend oder schwer verständlich ist.
+Das Ziel des Buddha war es, seiner Zuhörerschaft seine Entdeckung zu vermitteln. Insofern erscheint es vernünftig, anzunehmen, dass seine Worte in Allgemeinen darauf abzielten, eine klare und unmissverständliche Botschaft zu übermitteln, mit gelegentlichen Ausnahmen, vor allem bei Versen. Nach meiner Erfahrung sind Übersetzungen aus dem Pali manchmal schwer zu verstehen, besonders, wenn der zugrunde liegende Palitext selbst schwierig oder vielleicht sogar entstellt ist. In solchen Fällen scheint es manchmal, als hätte sich der Übersetzer für eine streng wörtliche Übersetzung entschieden, um sich bei der Bedeutung nicht festlegen zu müssen. Das Ergebnis kann eine Wiedergabe sein, die entweder im Englischen nichtssagend ist oder zumindest schwer zu interpretieren. Wenn der Text, nachdem man sein Bestes versucht hat, das Pali zu verstehen, zweifelhaft bleibt, erscheint es mir richtig, sich für die wahrscheinlichste Bedeutung zu entscheiden und entsprechend zu übersetzen. Das kann gelegentlich zu einer falschen Übersetzung führen, aber zumindest ergibt es eine brauchbare Grundlage für weitere Diskussion, ein Potenzial, das weitgehend verlorengeht, wenn die Übersetzung nichtssagend oder schwer verständlich ist.
 
 ### (3) Prinzip der geringsten Bedeutung
 
@@ -43,7 +45,7 @@ Ich habe mich von dem Ideal leiten lassen, das Pali so wiederzugeben, wie es da 
 
 Der Palikanon ist ein Korpus spiritueller Schriften, die manchmal eine tiefgründige Bedeutung haben. Daher ist es leicht, in die Palitexte eine Tiefe und verborgene Bedeutungen hineinzulesen und damit seine eigene Interpretation hinzuzufügen. Nach meiner Meinung ist die direkte Bedeutung des Textes immer die wahrscheinlichste. Der Buddha unterhielt sich mit gewöhnlichen Menschen. Bei seinem Versuch, seine Einsichten zu vermitteln, musste er wohl eine Sprache benutzen, die für die gewöhnlichen Mitglieder der Gesellschaft verständlich war und die für die Bevölkerung im Allgemeinen einen gemeinsamen Nenner darstellte.
 
-Die Annahme, dass die direkteste Übersetzung die richtige ist, vermindert das Problem, dass der Übersetzer seine eigene Interpretation des Textes hinzufügt. Ein praktisches Beispiel dafür könnte sein, dass man einen Begriff wie Nibbāna mit „Erlöschen“ übersetzt, anstatt ihm einen tieferen mystischen Sinn zu geben, oder ihn gar unübersetzt zu lassen; das würde dem Leser wohl Tür und Tor dafür öffnen, seine eigenen Vorurteile auf das Wort zu projizieren.
+Die Annahme, dass die direkteste Übersetzung die richtige ist, vermindert das Problem, dass der Übersetzer seine eigene Interpretation des Textes hinzufügt. Ein praktisches Beispiel dafür könnte sein, dass man einen Begriff wie Nibbāna mit „Erlöschen“ übersetzt, anstatt ihm einen tieferen mystischen Sinn zu geben oder ihn gar unübersetzt zu lassen; das würde dem Leser wohl Tür und Tor dafür öffnen, seine eigenen Vorurteile auf das Wort zu projizieren.
 
 ### (4) Den mündlichen Charakter des Textes (zum Teil) in eine literarische Form umwandeln
 
@@ -67,7 +69,7 @@ Es war, zumindest bis vor ganz Kurzem, sehr verbreitet, Übersetzungen von Palit
 
 Ich habe mich von dem Grundsatz leiten lassen, alles in idiomatischem Englisch wiederzugeben.
 
-Zu oft ist das Englisch in Texten, die aus dem Pali übersetzt sind, gestelzt und künstlich in seiner Art. Das kann sich in der Wahl des Vokabulars oder im Satzbau ausdrücken, die oft zu nah am Pali-Original bleiben. Wie ich es sehe, besteht der Sinn einer Übersetzung darin, die Bedeutung wiederzugeben. Die eigentliche Sprache sollte in den Hintergrud treten und kaum wahrnehmbar sein. Mit anderen Worten, die Aufmerksamkeit sollte nicht unnötig von seltsamen Ausdrücken und Wörtern festgehalten werden, die nicht sofort einleuchtend sind. Um sicherzustellen, dass das Englisch möglichst natürlich ist, kann es nützlich sein, über die Bedeutung größerer Texteinheiten wie etwa ganzer Absätze nachzudenken.
+Zu oft ist das Englisch in Texten, die aus dem Pali übersetzt sind, gestelzt und künstlich in seiner Art. Das kann sich in der Wahl des Vokabulars oder im Satzbau ausdrücken, die oft zu nah am Pali-Original bleiben. Wie ich es sehe, besteht der Sinn einer Übersetzung darin, die Bedeutung wiederzugeben. Die eigentliche Sprache sollte in den Hintergrund treten und kaum wahrnehmbar sein. Mit anderen Worten, die Aufmerksamkeit sollte nicht unnötig von seltsamen Ausdrücken und Wörtern festgehalten werden, die nicht sofort einleuchtend sind. Um sicherzustellen, dass das Englisch möglichst natürlich ist, kann es nützlich sein, über die Bedeutung größerer Texteinheiten wie etwa ganzer Absätze nachzudenken.
 
 ### (7) Für Rechtschreibung und Vokabular amerikanische Formen benutzen
 
@@ -77,7 +79,7 @@ Ob es einem gefällt oder nicht, es ist eine Tatsache, dass amerikanisches Engli
 
 ### (8) Manchmal für einen Palibegriff oder -ausdruck unterschiedliche Übersetzungen benutzen
 
-Ich habe mich von dem Grundsatz leiten lassen, Wörter entsprechend dem Zusammenhang zu übersetzen.
+Ich habe mich von dem Grundsatz leiten lassen, Wörter entsprechend des Zusammenhangs zu übersetzen.
 
 Es gibt normalerweise keine vollkommene semantische Übereinstimmung zwischen einem bestimmten Paliwort und irgendeiner Übersetzung ins Englische. Übersetzungsprojekte aus dem Pali wurden manchmal dadurch erschwert, dass auf einer Eins-zu-eins-Beziehung zwischen dem Ursprungswort auf Pali und der gewählten englischen Übersetzung bestanden wird. Um jedoch der Bedeutung des Pali wirklich gerecht zu werden, erfordert ein bestimmtes Wort oder eine Wendung im Pali oft mehrere Arten der Wiedergabe. Um ein Überhandnehmen verschiedener Übersetzungen für das gleiche Paliwort zu vermeiden, ist es wichtig, dass jede Übersetzung für den gleichen oder einen ähnlichen Zusammenhang die gleiche bleibt.
 
