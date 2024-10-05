@@ -38,6 +38,7 @@ Hier sollen einige Bücher, Artikel usw. zum Thema zusammengestellt werden. Es s
    Kurzbeschreibung auf Englisch: [über das Buch](https://www.goodreads.com/book/show/827917.The_Birth_of_Pleasure)
 - Claude Lévi-Strauss, verschiedene Werke  
    Beschreibung auf Wikipedia: [über den Autor](https://de.wikipedia.org/wiki/Claude_L%C3%A9vi-Strauss)
-- Bhikkhu Sujato, *White Bones, Red Rot, Black Snakes*; A Buddhist Mythology of the Femeinine (nicht in deutscher Übersetzung)  
+- Bhikkhu Sujato, *White Bones, Red Rot, Black Snakes*; A Buddhist Mythology of the Feminine (nicht in deutscher Übersetzung)  
+   Beschreibung bei Samita ASBL: [über den Autor](https://www.samita.be/de/monks-nuns/bhante-sujato/)
    Kostenloses Ebook von Lulu.com: [Herunterladen](https://www.lulu.com/shop/bhikkhu-sujato/white-bones-red-rot-black-snakes/ebook/product-20401388.html?q=sujato&page=1&pageSize=4)  
 
