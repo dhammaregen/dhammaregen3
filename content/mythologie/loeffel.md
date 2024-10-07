@@ -10,7 +10,7 @@ order: 18
 
 [MN 93](#/sutta/mn93/de/sabbamitta) Assalāyana beinhaltet einige faszinierende Punkte, und insbesondere einer scheint sich einem Verständnis entzogen zu haben – bis jetzt!
 
-Die gesamte Erzählung handelt von einem Brahmanen namens Assalāyana, der etwas widerstrebend einwilligt, sich mit dem Buddha auf eine Debatte über Kaste und Abstammung einzulassen, obwohl er weiß, dass er verlieren wird. Und das tut er. Der Buddha setzt seiner Vernichtung die Krone auf mit einer Anekdote über die „sieben Seher“ der Vergangenheit. Diese sind die Söhne Brahmās, die die brahmanischen *gotras* (Abstammungslinien; AdÜ) begründeten, das heißt, auf diese Seher geht die ganze Sache zurück, und selbst sie konnten die Darstellung der Abstammung nicht verteidigen.
+Die gesamte Erzählung handelt von einem Brahmanen namens Assalāyana, der etwas widerstrebend einwilligt, sich mit dem Buddha auf eine Debatte über Kaste und Abstammung einzulassen, obwohl er weiß, dass er verlieren wird. Und das tut er. Der Buddha setzt seiner Vernichtung die Krone auf mit einer Anekdote über die „sieben Seher“ der Vergangenheit. Diese sind die Söhne Brahmās, die die brahmanischen *gotras* (Abstammungslinien; A.d.Ü.) begründeten, das heißt, auf diese Seher geht die ganze Sache zurück, und selbst sie konnten die Darstellung der Abstammung nicht verteidigen.
 
 Das Sutta schließt damit, dass der Buddha eine obskure Anspielung auf *puṇṇo dabbigāho* macht. Der Ehrwürdige Bodhi (und andere Übersetzer) übersetzen gemäß dem Kommentar:
 
@@ -24,11 +24,11 @@ Das ist völlig unwahrscheinlich, doch soweit ich das nachverfolgen konnte, rich
 
 Tatsächlich ist *puṇṇo dabbigāho* ein hoch spezifischer Verweis auf ein Detail des Sākamedha-Rituals, das den Beginn des Winters markiert. Von der Reisspende des ersten Tages wird ein Topf bis zum nächsten Morgen aufgehoben; dann wird der allerletzte „volle Löffel“ (*pūrṇā darvi*) herausgeschabt mit der Anrufung: „Voll, o Löffel, fliege fort, und fliege gut gefüllt zu uns zurück!“ ([Śatapatha-Brāhmaṇa 2.5.3.16–17](https://www.wisdomlib.org/hinduism/book/satapatha-brahmana-english/d/doc63168.html), Kauṣītaki-Brāhmaṇa 5.6.20; die Anrufung findet sich auch bei Atharva-Veda 3.10.7c, Maitrāyaṇī-Saṁhitā 1.10.2).
 
-Dieses Opfer des letzten Löffels voll sorgt dafür, dass der gegenwärtige Wohlstand nach der unfruchtbaren kalten Jahreszeit erneuert wird (wie das Leben nach dem Tod erneuert wird, oder wie das Korn des letzten Jahres auf das Feld gesät wird). Die Folgerung ist, dass die zeitgenössischen Brahmanen nicht einmal die Riten des Fortbestands in ihrer eigenen Tradition erfüllten, wie könnten sie daher den Fortbstand der Kaste über Generationen behaupten?
+Dieses Opfer des letzten Löffels voll sorgt dafür, dass der gegenwärtige Wohlstand nach der unfruchtbaren kalten Jahreszeit erneuert wird (wie das Leben nach dem Tod erneuert wird, oder wie das Korn des letzten Jahres auf das Feld gesät wird). Die Folgerung ist, dass die zeitgenössischen Brahmanen nicht einmal die Riten des Fortbestands in ihrer eigenen Tradition erfüllten, wie könnten sie daher den Fortbestand der Kaste über Generationen behaupten?
 
 Somit bezieht sich die Stelle auf ein sehr spezifisches Element des Opfers, das ganz genau in die allgemeine Argumentation des Sutta passt, und geht unmittelbar auf Assalāyanas Zögern am Anfang ein.
 
-Dieser interne Bezug zeigt ein äußerst genaues Verständnis des vedischen Rituals, das den nachfolgenden Generationen im Buddhismus verloren ging. Da der Bezug im Zusamenhang nicht klar ist und nur für Kenner des Gebiets erkennbar war, ist eine Übersetzung gerechtfdertigt, die die Unklarheit beibehält.
+Dieser interne Bezug zeigt ein äußerst genaues Verständnis des vedischen Rituals, das den nachfolgenden Generationen im Buddhismus verloren ging. Da der Bezug im Zusammenhang nicht klar ist und nur für Kenner des Gebiets erkennbar war, ist eine Übersetzung gerechtfertigt, die die Unklarheit beibehält.
 
 > So waren selbst diese sieben Seher überfragt, als der Seher Devala ihnen über ihre eigene Abstammungslehre nachging, auf sie eindrang und sie ins Kreuzverhör nahm. Wie könntest du da nicht überfragt sein, wenn ich dich jetzt über deine eigene Abstammungslehre ins Kreuzverhör nehme, wenn deine Tradition nicht einmal ihren letzten Löffel voll aufliest?
 

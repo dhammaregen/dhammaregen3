@@ -32,11 +32,11 @@ Was Bhikkhu Bodhi übersetzt:
 
 >… Nāgas halten den Uposatha ein und geben \[die Sorge um\] ihren Körper auf.
 
-In seiner Anmerkung zitiert er den Subkommentar und bezieht sich auf das [Campeyya-Jātaka](https://suttacentral.net/ja506/de/dutoit?lang=de&reference=main&highlight=true) (Ja 506):
+In seiner Anmerkung zitiert er den Subkommentar und bezieht sich auf das [Campeyya-Jātaka](https://palikanon.com/khuddaka/jataka/j506.htm) (Ja 506):
 
 >Gemäß buddhistischer Folklore können die Nāgas an Uposathatagen die Ethikregeln auf sich nehmen und sich sogar entschließen, diese auf Kosten ihres Lebens aufrechtzuerhalten.
 
-So schwach es auch ist, das schafft ein kanonisches Vorbild für die Vorstellung, seinen eigenen Körper zu opfern, könne im Buddhismus als eine spirituelle Übung betrachtet werden.
+So schwach es auch ist, das schafft ein kanonisches Vorbild für die Vorstellung, seinen eigenen Körper zu opfern könne im Buddhismus als eine spirituelle Übung betrachtet werden.
 
 Bei genauerem Hinsehen zeigt sich aber, dass diese Übersetzung und die Schlussfolgerung, die sie anstößt, nicht gerechtfertigt sind. Es gibt eine gut bekannte Geschichte im Vinaya ([Kd 1, Abschnitt 50](https://suttacentral.net/pli-tv-kd1/de/maitrimurti-traetow?lang=de&reference=main&highlight=true#49)) von einem Nāga, der, gerade wie in unserem Sutta, seine Geburt als Drache (*nāgayoni*) bedauerte und wünschte, Tugend zu üben. Daher nahm er die Form eines jungen Mannes an und ließ sich ordinieren.
 
@@ -58,4 +58,4 @@ Diese bunte Vinayageschichte veranschaulicht die Situation, die wir im Saṁyutt
 
 >Manche Drachen halten den Besinnungstag ein, nachdem sie ihren Körper verwandelt haben.
 
-Noch eine Schlussbemerkung: Es scheint, dass der gleiche Ausdruck für „aufgeben“ auch in der Vinayapassage versteckt sien könnte. Als der Mönchsgefährte des Drachen weggegangen ist, heißt es, der Drache sei *vissaṭṭha* eingeschlafen. Nun ist das normalerweise ein Ausdruck für „Vertrauen“, und er wird so gedeutet, dass der Drache darauf vertraute, nicht entdeckt zu werden. Er ist aber beinahe identisch mit dem Ausdruck *vossaṭṭha*, der uns oben begegnet ist (*vi*+*ava*+*saṭṭha*) und der „aufgegeben“ bedeutet. Das ist tatsächlich die Grundbedeutung von *vissaṭṭha*, von der „Vertrauen“ abgeleitet ist (vgl. *adhimutta*). Ohne zu sehr in die technischen Einzelheiten zu gehen, habe ich den Verdacht, dass beide Begriffe sich ursprünglich darauf bezogen, dass der Drache seine Körperform „aufgibt“.
+Noch eine Schlussbemerkung: Es scheint, dass der gleiche Ausdruck für „aufgeben“ auch in der Vinayapassage versteckt sein könnte. Als der Mönchsgefährte des Drachen weggegangen ist, heißt es, der Drache sei *vissaṭṭha* eingeschlafen. Nun ist das normalerweise ein Ausdruck für „Vertrauen“, und er wird so gedeutet, dass der Drache darauf vertraute, nicht entdeckt zu werden. Er ist aber beinahe identisch mit dem Ausdruck *vossaṭṭha*, der uns oben begegnet ist (*vi*+*ava*+*saṭṭha*) und der „aufgegeben“ bedeutet. Das ist tatsächlich die Grundbedeutung von *vissaṭṭha*, von der „Vertrauen“ abgeleitet ist (vgl. *adhimutta*). Ohne zu sehr in die technischen Einzelheiten zu gehen, habe ich den Verdacht, dass beide Begriffe sich ursprünglich darauf bezogen, dass der Drache seine Körperform „aufgibt“.

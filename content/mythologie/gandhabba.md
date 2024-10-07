@@ -10,9 +10,9 @@ order: 15
 
 Eine Stelle im Palikanon führt den *gandhabba* ein als etwas, das bei der Empfängnis eines Kindes eine wichtige Rolle spielt. Die Passage kommt im Majjhima zweimal vor (wie auch in verschiedenen Parallelen). Von diesen ist die Quelle in [MN 38 Mahātaṇhāsaṅkhayasutta](#/sutta/mn38:26.1/de/sabbamitta) wegen der erweiterten Darstellung sicher zweitrangig, während man die Quelle in [MN 93 Assalāyana](#/sutta/mn93:18.61/de/sabbamitta) als das primäre Vorkommen betrachten sollte.
 
-Traditionelle Erklärungen für merkwürdige Vorstellungen blicken typischerweise nach vorne und versuchen, die Sache in den Rahmen der späteren Lehre einzupassen; aus diesem Grund ist MN 38 mit seinem buddhistischen Kontext viel berühmter. Als jemand, der sich mit Geschichte befasst, bin ich nicht so sehr daran interessiert, was Buddhisten in späteren Jahren aus etwas machten, sondern daran, was diese Sache für die ursprünglichen Zuhörer bedeutete. Da die Stelle in MN 93 rein brahmanisch ist – sie findet sich in einem Gespräch nur zwischen Brahmanen, ohne dass Buddhisten überhaupt anwesend sind –, kann man sicher annehman, dass die Vorstellung ursprünglich eine brahmanische war oder zumindest für eine solche gehalten wurde.
+Traditionelle Erklärungen für merkwürdige Vorstellungen blicken typischerweise nach vorne und versuchen, die Sache in den Rahmen der späteren Lehre einzupassen; aus diesem Grund ist MN 38 mit seinem buddhistischen Kontext viel berühmter. Als jemand, der sich mit Geschichte befasst, bin ich nicht so sehr daran interessiert, was Buddhisten in späteren Jahren aus etwas machten, sondern daran, was diese Sache für die ursprünglichen Zuhörer bedeutete. Da die Stelle in MN 93 rein brahmanisch ist – sie findet sich in einem Gespräch nur zwischen Brahmanen, ohne dass Buddhisten überhaupt anwesend sind –, kann man sicher annehmen, dass die Vorstellung ursprünglich eine brahmanische war oder zumindest für eine solche gehalten wurde.
 
-Hier ist die Passage aus MN 93. Sie kommt als Teil eines langen Streitgesprächs über die Kasten vor. Der Brahmanenschüler Assalāyana erklärt die Vorrangstellung der Brahmanen, und der Buddha hinterfragt die Gründe für seinen Glauben. Der Buddha erzählt dann die Geschichte aus der Vergangenheit, ein Gespräch zwischen „Devala dem Dunklen“ – einem der mysteriösen „dunklen Eremiten“, die im Palikanon vorkommen – und sieben brahmanischen Eremiten (ein Anklang an die „sieben Seher“ der brahmanischen Überlieferung). Devala provoziert sie, widersteht ihren Flüchen und befragt sie zum Thema Kaste. Sie sagen, sie verstünden, wie ein Embryo empfangen werde:
+Hier ist die Passage aus MN 93. Sie kommt als Teil eines langen Streitgesprächs über die Kasten vor. Der Vedenstudent Assalāyana erklärt die Vorrangstellung der Brahmanen, und der Buddha hinterfragt die Gründe für seinen Glauben. Der Buddha erzählt dann die Geschichte aus der Vergangenheit, ein Gespräch zwischen „Devala dem Dunklen“ – einem der mysteriösen „dunklen Seher“, die im Palikanon vorkommen – und sieben brahmanischen Eremiten (ein Anklang an die „sieben Seher“ der brahmanischen Überlieferung). Devala provoziert sie, widersteht ihren Flüchen und befragt sie zum Thema Kaste. Sie sagen, sie verstünden, wie ein Embryo empfangen werde:
 
 >‚Ein Embryo wird empfangen, wenn diese drei Dinge zusammenkommen: Mutter und Vater kommen zusammen, die Mutter ist in der fruchtbaren Phase ihres Zyklus, und der *gandhabba* ist anwesend.‘
 >
@@ -24,10 +24,10 @@ Was bedeutete das nun für die Brahmanen? Die Ansicht wird eindeutig so dargeste
 
 In diesem Kapitel gibt es so viel großartige mythologische Überlieferung, und ich hasse es, sie zusammenfassen zu müssen. Aber sehr kurz gesagt, weist Wijesekera auf folgende Aspekte des *gandhabba* (Sanskrit: *gandharva*) hin:
 
-- Sein Ursprung liegt in sehr früher Vergangenheit, möglicherweise vor-indo-europäisch, und erscheint früh als ein Ungetüm oder eine Nymphe aus den tiefen Wassern mit goldenen Hufen.
+- Sein Ursprung liegt in sehr früher Vergangenheit, möglicherweise vor-indoeuropäisch, und er erscheint früh als ein Ungetüm oder eine Nymphe aus den tiefen Wassern mit goldenen Hufen.
 - Er bewacht auch die himmlischen Gewässer.
 - Er ist wahrscheinlich mit dem griechischen *kantauros* (Zentaur) verwandt und besitzt daher ungezügelte männliche Potenz.
-  - Wijesekera geht darauf nicht näher ein, aber das weckt bei mir die Vorstellung, dass der *gandhabba* die bestimmende Gottheit der sich herausbildenen Indo-Europäer war, denen die Zähmung des Pferdes beispiellose Macht verlieh. Andere Gottheiten hatten sie möglicherweise mit anderen gemeinsam oder übernahmen sie, aber der *gandhabba* repräsentierte *sie*.
+  - Wijesekera geht darauf nicht näher ein, aber das weckt bei mir die Vorstellung, dass der *gandhabba* die bestimmende Gottheit der sich herausbildenden Indo-Europäer war, denen die Zähmung des Pferdes beispiellose Macht verlieh. Andere Gottheiten hatten sie möglicherweise mit anderen gemeinsam oder übernahmen sie, aber der *gandhabba* repräsentierte *sie*.
 - Er wird (als ein Wortspiel) mit Geruch in Verbindung gebracht.
 - Er wird mit Soma in Verbindung gebracht ([der Mond](https://de.wikipedia.org/wiki/Chandra_(Gott)) / Potenz / göttliche Essenz / [Droge](https://de.wikipedia.org/wiki/Soma_(Getr%C3%A4nk))), was zumindest bis in indo-iranische Zeit zurückreicht. Im Besonderen mit dem Soma-Saft (*rasa* (Saft) = *retas* (Samen); beachte, dass Soma mit dem gleichen Wort *sukka* bezeichnet wird, das im Palikanon für Samen benutzt wird.)
 - Soma ist eine lebensspendende Kraft und die Quelle für Indras Energie.
@@ -39,7 +39,7 @@ In diesem Kapitel gibt es so viel großartige mythologische Überlieferung, und 
 - Er ist somit in der Lage, sowohl Männer als auch Frauen in den Wahnsinn zu treiben.
 - Und in einigen Fällen ist er sogar ein körperloser Geist, der von Menschen Besitz ergreift.
 
-Nun, wenn all das viel erscheint: Es ist viel. Und es ist nur ein kleiner Teil von dem, was Wijesekera anführt. Die unvereinbare und paradoxe Komplexität der verschiedenen Vorstellungen, aus denen der *gandhabba* besteht, spricht für seine Herkunft aus der Vorzeit; wir erhalten vielfältige Aspekte, die durch die Zeit gebrochen wurden. Viele dieser Aspekte finden nun ihren Ausdruck im Palikanon. Normalerweise wird der *gandhabba* natürlich als eine muntere und lebhafte niedere Gotheit betrachtet. Aber hier geht es mir einzig um seine Rolle bei der Fortpflanzung.
+Nun, wenn all das viel erscheint: Es ist viel. Und es ist nur ein kleiner Teil von dem, was Wijesekera anführt. Die unvereinbare und paradoxe Komplexität der verschiedenen Vorstellungen, aus denen der *gandhabba* besteht, spricht für seine Herkunft aus der Vorzeit; wir erhalten vielfältige Aspekte, die durch die Zeit gebrochen wurden. Viele dieser Aspekte finden nun ihren Ausdruck im Palikanon. Normalerweise wird der *gandhabba* natürlich als eine muntere und lebhafte niedere Gottheit betrachtet. Aber hier geht es mir einzig um seine Rolle bei der Fortpflanzung.
 
 Betrachten wir nun einige der alten brahmanischen Theorien zur Wiedergeburt. Es gibt verschiedene nicht immer miteinander zu vereinbarende Berichte, aber [ein berühmter findet sich in der Chandogya-Upaniṣhad](https://archive.org/details/sechzigupanishad00deusuoft/page/140/mode/2up?view=theater).
 
@@ -55,12 +55,12 @@ Aber dann sagt er, der Text sei „unmissverständlich und lässt keinen Zweifel
 
 Ich glaube aber nicht, dass diese Diskussion überhaupt eine so klare Schlussfolgerung begründet. Wijesekera zeigt eine Verbindung zwischen dem *gandhabba* und der Macht über den Geist, die ich als Bezug auf die Macht des Sexualverlangens verstehe. Die *apsaras* zum Beispiel gelten als die „Frauen der *gandhabbas*, die den Geist verwirren“. Dann verweist er auf ein paar Fälle von Besessenheit zur Unterstützung der Vorstellung, dass ein *gandhabba* ein Geist war, aber das sind bloß gewöhnliche Fälle von Besessenheit durch einen Geist, die nichts mit Fortpflanzung zu tun haben.
 
-All die Hinweise über die kosmischen bzw. organischen Eingeschaften des *gandhabba* und des Samens, die er so akribisch zusammengetragen hat, lässt er beiseite. Dann stützt er als Nächstes seine Schlussfolgerung mit Bezügen zu späteren buddhistischen Texten. Aber diese sind natürlich bemüht, diese merkwürdige Idee, die auf alle möglichen rätselhaften und unbquemen Vorstellungen anspielt, zu rationalisieren und sie in ihre Lehren einzupassen.
+All die Hinweise über die kosmischen bzw. organischen Eigenschaften des *gandhabba* und des Samens, die er so akribisch zusammengetragen hat, lässt er beiseite. Dann stützt er als Nächstes seine Schlussfolgerung mit Bezügen zu späteren buddhistischen Texten. Aber diese sind natürlich bemüht, diese merkwürdige Idee, die auf alle möglichen rätselhaften und unbequemen Vorstellungen anspielt, zu rationalisieren und sie in ihre Lehren einzupassen.
 
 Das größte Einzelproblem mit der späteren buddhistischen Idee, dass *gandhabba* = Wiedergeburtsbewusstsein sei, ist, dass dann der Mann kaum eine Rolle spielen würde. Tatsächlich hätte bei den drei Faktoren der Mann nichts weiter zu tun, als Geschlechtsverkehr zu haben. Er hätte sonst überhaupt keinen direkten Bezug zur Fortpflanzung. Aber wie wir gesehen haben, ist in der brahmanischen Tradition der „Keim“ im Wesentlichen männlich, und es ist die Frau, die zweitrangig ist.
 
 >*indriyeṇa te retasā reta ādadhāmīti* | *garbhiṇy eva bhavati* || BrhUp_6,4.11 ||  
->‚Mit Macht, mit Samen, lege ich Samen in dir ab!‘ So wird sie schwanger. („Durch meine Kraft, durch meinen Saft leg' ich in dich hinein den Saft“; so wird sie schwanger werden, in Deussens Übersetzung.)
+>‚Mit Macht, mit Samen, lege ich Samen in dir ab!‘ So wird sie schwanger. („Durch meine Kraft, durch meinen Saft leg' ich in dich hinein den Saft“; so wird sie schwanger werden, in Deussens Übersetzung; A.d.Ü.)
 
 ([https://archive.org/details/sechzigupanishad00deusuoft/page/514/mode/2up?view=theater](https://archive.org/details/sechzigupanishad00deusuoft/page/514/mode/2up?view=theater))
 
@@ -70,4 +70,4 @@ Nein. Der *gandhabba* ist ein Euphemismus für das göttliche Element der männl
 
 Somit sollten wir etwa in dieser Art übersetzen:
 
->Ein Embryo wird empfangen, wenn diese drei Dinge zusammenkommen: Mutter und Vater kommen zusammen, die Mutter ist in der fruchtbaren Phase ihres Zyklus, und der virile Geist ist potent.
+>Ein Embryo wird empfangen, wenn diese drei Dinge zusammenkommen: Mutter und Vater kommen zusammen, die Mutter ist in der fruchtbaren Phase ihres Zyklus, und der virile Geist ist bereit.
