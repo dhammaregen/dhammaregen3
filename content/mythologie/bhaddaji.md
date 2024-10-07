@@ -10,7 +10,7 @@ order: 13.5
 
 *Bhante Sujato antwortet auf die Frage eines Benutzers auf dem SuttaCentral-Diskussionsforum:*
 
-Du hast ganz recht, Thag 2.22 ist eins der seltsamsten und schwierigsten Gedichte im Theragāthā, oder eigentlich im ganzen Kanon. Hier ist meine Übersetzung [ich gebe meine deutsche Übersetzung, die sich auf Bhante Sujatos englische stützt; diese wurde seit diesem Beitrag aktualisiert, und ich gebe hier die jüngste Fassung wieder; AdÜ]:
+Du hast ganz recht, Thag 2.22 ist eins der seltsamsten und schwierigsten Gedichte im Theragāthā, oder eigentlich im ganzen Kanon. Hier ist meine Übersetzung [ich gebe meine deutsche Übersetzung, die sich auf Bhante Sujatos englische stützt; beide wurden seit diesem Beitrag aktualisiert, und ich gebe hier die jüngste Fassung wieder; A.d.Ü.]:
 
 >[Thag 2.22](#/sutta/thag2.22/de/sabbamitta)  
 >*Da war ein König mit Namen Panāda,*  
@@ -27,7 +27,7 @@ Ich habe daran lange gearbeitet und bin mit dem Ergebnis einigermaßen zufrieden
 
 Die Grundidee beschäftigt sich mit dem vedischen Opfer. Bei ihren Tieropfern gab es einen Pfahl, an den die Opfertiere angebunden wurden. Das ist der *yūpa*, der in der zweiten Zeile erwähnt wird. Die Beschreibung soll die üppige Pracht dieses Pfahls verherrlichen als ein Zeichen für König Panādas Ruhm. Der *yūpa* wurde für das großartigste der vedischen Opfer, das Pferdeopfer, benutzt. Das wird in der Brihadaranyaka als die höchste Quelle der Herrschaftsgewalt und Macht eines Herrschers glorifiziert.
 
-Die frühesten Darstellungen, die zeigen, wie ein *yūpa* tatsächlich aussah, scheinen sich auf Münzen zu finden. Diese sind allerdings fast tausend Jahre jünger als die Suttas und im Vergleich zu den Vedas noch viel jünger und sollten daher mit Vorsicht benutzt werden.
+Die frühesten Darstellungen, die zeigen, wie ein *yūpa* tatsächlich aussah, scheinen sich auf Münzen zu finden. Diese sind allerdings fast tausend Jahre jünger als die Suttas und im Vergleich zu den Veden noch viel jünger und sollten daher mit Vorsicht benutzt werden.
 
 <style>
 .my-img {
@@ -47,6 +47,6 @@ Auf dem letzten Bild kann man ein Bündel von Bändern sehen, das vom oberen End
 
 In jedem Fall ähnelt die Beschreibung in dem Gedicht erkennbar den Bildern des *yūpa* und ist der mythischen Dichtung gemäß aufgebauscht.
 
-Man beachte die Anweseheit der Königin auf den Bildern vom Pferdeopfer, und nicht des Königs. Die Beteiligung der Königin war für den Vollzug des Pferdeopfers erforderlich. Auf dem Höhepunkt der Zeremonie, nachdem der Hengst getötet war, musste sie mit dem toten Pferd „unter die Laken“ gehen. Sie unterhielt einen obszönen und freizügigen Wortwechsel mit dem Oberpriester, während sie die Akte, die sie beschrieb, ausführte – oder vorgab, auszuführen? Nein, wirklich, es ist genau, was Sie denken!
+Man beachte die Anwesenheit der Königin auf den Bildern vom Pferdeopfer, und nicht des Königs. Die Beteiligung der Königin war für den Vollzug des Pferdeopfers erforderlich. Auf dem Höhepunkt der Zeremonie, nachdem der Hengst getötet war, musste sie mit dem toten Pferd „unter die Laken“ gehen. Sie unterhielt einen obszönen und freizügigen Wortwechsel mit dem Oberpriester, während sie die Akte, die sie beschrieb, ausführte – oder vorgab, auszuführen? Nein, wirklich, es ist genau, was Sie denken!
 
 Der Text ist außerordentlich ungewöhnlich insofern, als er keine „buddhistische“ Lektion anbietet. Normalerweise wäre eine solche Strophe gefolgt von der Einsicht, dass solche Opfer nutzlos und schädlich sind, und wie viel besser es ist, den Dhamma zu üben. Sicherlich fehlt etwas an diesem Text, entweder zusätzliche Strophen oder eine Prosa-Hintergrunderzählung (die ursprünglich dem Kommentar geähnelt haben könnte oder auch nicht).
