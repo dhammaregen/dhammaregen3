@@ -16,7 +16,7 @@ In diesem Sinn wäre die Geschichte vom Leben des Buddha immer noch ein Mythos, 
 
 Zu den Punkten im Einzelnen: Einige davon, wie etwa Punkt 3, sind Elemente in einer mythischen Geschichte. Die von Wundern begleitete Geburt ist ein wesentliches Element im Heldenmythos.
 
-Die Behauptungen des Mahayana machen das aus, was ich als eine sektenbezogene Mythologie betrachte. Ich habe das in meinem Buch „Sekten und Sektenwesen“ ([Sects & Sectarianism](https://www.lulu.com/search?page=1&q=sujato%2C+sects+%26+sectarianism&adult_audience_rating=00)) diskutiert, wenngleich hauptsächlich im Zusammenhang mit den frühen Schulen und nicht dem Mahayana. Im Wesentlichen ist das eine Art früher Propaganda, Geschichten, die zu Marketingzwecken erfunden wurden, die bewusst Form und Motive der klasischen Mythologie annehmen, um der jeweiligen Schule Autorität zu verleihen. Keine davon ist wahr, wenn das deine Frage war.
+Die Behauptungen des Mahayana machen das aus, was ich als eine sektenbezogene Mythologie betrachte. Ich habe das in meinem Buch „Sekten und Sektenwesen“ ([Sects & Sectarianism](https://www.lulu.com/search?page=1&q=sujato%2C+sects+%26+sectarianism&adult_audience_rating=00)) diskutiert, wenngleich hauptsächlich im Zusammenhang mit den frühen Schulen und nicht dem Mahayana. Im Wesentlichen ist das eine Art früher Propaganda, Geschichten, die zu Marketingzwecken erfunden wurden, die bewusst Form und Motive der klassischen Mythologie annehmen, um der jeweiligen Schule Autorität zu verleihen. Keine davon ist wahr, wenn das deine Frage war.
 
 Aber das alles ist, und ich hoffe, du verzeihst mir das, belanglos. Nichts davon berührt das Herz der Angelegenheit, das da lautet: Warum ist Mythos bedeutsam? Warum haben solche Geschichten so große Wirkung auf uns?
 
@@ -30,7 +30,7 @@ Wenn die grundlegende Form des Mythos die Schöpfungsgeschichte ist, so ist das 
 
 Doch das ist nur ein Beispiel. In Ägypten, Griechenland, Indien, Persien, überall sehen wir das Gleiche. Und nicht nur das, wir sehen das Gleiche bereits vom ersten Anfang an. Der älteste Mythos, den wir haben – Gilgamesch –, enthält bereits Erinnerungen an ältere Mythen und Betrachtungen darüber, wie Götter betrogen und sich zurückgezogen haben.
 
-Das ist natürlich ein übergreifendes Thema buddhistischer Texte. Sie sind zwar typischerweise sanfter in der Herangehensweise – wir nageln unsere alten Götter nicht an Kreuze, wir machen Witze über sie –, aber der Effekt ist der Gleiche. Sobald wir den nötigen Abstand und die Ironie haben, um in der Lage zu sein, einen Witz auf Kosten Gottes zu machen, ist es mit diesem Gott vorbei. Wir verlassen uns nicht länger auf göttlches Eingreifen oder göttliche Offenbarung, um die Wahrheit oder einen Sinn zu finden, wir verlassen uns auf unsere eigene Erfahrung, unseren Verstand, unsere Erkenntnis.
+Das ist natürlich ein übergreifendes Thema buddhistischer Texte. Sie sind zwar typischerweise sanfter in der Herangehensweise – wir nageln unsere alten Götter nicht an Kreuze, wir machen Witze über sie –, aber der Effekt ist der Gleiche. Sobald wir den nötigen Abstand und die Ironie haben, um in der Lage zu sein, einen Witz auf Kosten Gottes zu machen, ist es mit diesem Gott vorbei. Wir verlassen uns nicht länger auf göttliches Eingreifen oder göttliche Offenbarung, um die Wahrheit oder einen Sinn zu finden, wir verlassen uns auf unsere eigene Erfahrung, unseren Verstand, unsere Erkenntnis.
 
 Die Geschichte vom Tod Gottes ist auch die Geschichte vom Aufstieg der Menschheit. Nietzsche:
 

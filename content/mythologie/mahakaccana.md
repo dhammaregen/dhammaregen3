@@ -31,13 +31,15 @@ Außerdem ist es wahrscheinlich, dass der Zweig des Buddhismus, den wir als Ther
 In [SN 35.132](#/sutta/sn35.132/de/sabbamitta) haben wir ein interessantes Sutta, in dem Mahākaccāna von einer Gruppe rüpelhafter Vedenstudenten in seiner Meditation gestört wird. Sie lassen ihre Beschimpfungen ab:
 
 >*ime pana muṇḍakā samaṇakā ibbhā kaṇhā bandhupādāpaccā, imesaṃ bharatakānaṃ sakkatā garukatā mānitā pūjitā apacitā*  
->*Diese glatzköpfigen Pfaffen, diese falschen Asketen, diese Primitiven, diese schwarze Ausgeburt aus den Füßen unseres Verwandten, des Gebieters! Sie werden geehrt, geachtet, gewürdigt, verehrt und wertgeschätzt von diesen angeblichen Indern.*
+>Diese glatzköpfigen Pfaffen, diese falschen Asketen, diese Primitiven, diese schwarze Ausgeburt aus den Füßen unseres Verwandten, des Gebieters! Sie werden geehrt, geachtet, gewürdigt, verehrt und wertgeschätzt von diesen angeblichen Indern.
 
-In diesem Sutta gibt es Vieles, das von Interesse ist, aber ich will das Augenmerk auf den anscheinend nur hier vorkommenden Begriff *bharataka* lenken. Wie man in meiner (provisorischen!) Übersetzung erkennen kann, denke ich, dass dies ein früher,  möglicherweise einmaliger, Fall ist, in dem der Ausdruck im Sinn von „indisch“ verwendet wird. [Inzwischen wurde die Übersetzung dahingehend abgeändert, dass „Inder“ durch „Erben der vedischen Kultur“ ersetzt wurde. AdÜ]
+In diesem Sutta gibt es Vieles, das von Interesse ist, aber ich will das Augenmerk auf den anscheinend nur hier vorkommenden Begriff *bharataka* lenken. Wie man in meiner (provisorischen!) Übersetzung erkennen kann, denke ich, dass dies ein früher,  möglicherweise einmaliger, Fall ist, in dem der Ausdruck im Sinn von „indisch“ verwendet wird. [Inzwischen wurde die Übersetzung dahingehend abgeändert, dass „Inder“ durch „Erben der vedischen Kultur“ ersetzt wurde. A.d.Ü.]
 
 Bhikkhu Bodhi scheint das Wort von *bhāra* abzuleiten, im Sinn von „Unterstützer“, aber ich denke, dass das ein Fehler ist. Der entscheidende Punkt ist, dass die Jugendlichen, die übereifrige fundamentalistische Brahmanen sind, die Tatsache kritisieren, dass Brahmanen, die es doch besser wissen sollten, buddhistische Mönche unterstützen. Das Grundthema des ganzen Sutta ist die wahre Natur der Brahmanen.
 
 Aber zuerst ein wenig Hintergrundinformation. Wir sind natürlich mit dem Mahābharata vertraut, dem größten Mythos Indiens, der die Bedeutung dieser Abstammungslinie etabliert. Von Wijesekera wurde argumentiert, dass der Ursprung des Ausdrucks *bharata* *bhāra* sei, im Sinn der „Beute“, die die indo-arischen Reiterfürsten mitnahmen.
+
+[https://upload.wikimedia.org/wikipedia/commons/6/68/Raja_Ravi_Varma_-_Mahabharata_-_Bharata.jpg](https://upload.wikimedia.org/wikipedia/commons/6/68/Raja_Ravi_Varma_-_Mahabharata_-_Bharata.jpg)
 
 Wie dem auch sei, der Begriff ist vedisch, und das Sanskrit-Wörterbuch [hat eine Zusammenfassung seiner Geschichte](https://sanskritdictionary.com/bharata/2210/6). In den Legenden wurde Bharata ein großer König, der einen Großteil Indiens eroberte. In [DN 19](#/sutta/dn19:36.14/de/sabbamitta) wird Bharata ebenfalls als eine alte Linie von Königen genannt. Hier ist er ein Junge. Niedlich!
 
