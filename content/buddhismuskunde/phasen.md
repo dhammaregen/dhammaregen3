@@ -93,7 +93,7 @@ So behaupten Manche etwa, der Abhidhamma sei vom Buddha gelehrt worden, obwohl H
 
 ### Vergleichend
 
-Gerade wie die harmonisierende Bewegung ihre Wurzeln in den Erkenntnissen der archäologischen Phase hatte, baut die vergleichende Phase auf den Entdeckungen auf, die im 19. Jahrhundert gemacht wurden: nämlich, dass Parallelen zu den Palitexten in chinesischer und tibetischer Sprache und auf Sanskrit existieren. Der Buddhismus, und insbesondere der frühe Buddhismus der Suttas und des Vinaya, ist nicht identisch mit dem Theravada, noch ist er dessen einziges Betätigunsfeld. Alle buddhistischen Traditionen bewahren einen Kanon von Lehren und Schriften, die aus der frühesten Zeit stammen und die den Kern enthalten, der allen Arten des Buddhismus gemeinsam ist.
+Gerade wie die harmonisierende Bewegung ihre Wurzeln in den Erkenntnissen der archäologischen Phase hatte, baut die vergleichende Phase auf den Entdeckungen auf, die im 19. Jahrhundert gemacht wurden: nämlich, dass Parallelen zu den Palitexten in chinesischer und tibetischer Sprache und auf Sanskrit existieren. Der Buddhismus, und insbesondere der frühe Buddhismus der Suttas und des Vinaya, ist nicht identisch mit dem Theravada, noch ist er dessen einziges Betätigungsfeld. Alle buddhistischen Traditionen bewahren einen Kanon von Lehren und Schriften, die aus der frühesten Zeit stammen und die den Kern enthalten, der allen Arten des Buddhismus gemeinsam ist.
 
 Diese Forschung wurde ursprünglich im 20. Jahrhundert von japanischen Wissenschaftlern betrieben, die einen höheren Ertrag an akademischer Arbeit produzierten als der gesamte Rest der Welt. Taiwanesische Wissenschaftler, darunter besonders die Galionsfigur des Meisters Yin Shun, steuerten ebenfalls größere Beiträge bei. Europäische Wissenschaftler richteten ihr Interesse hauptsächlich auf indische Sprachen, und es dauerte bis zum frühen 21. Jahrhundert mit den Arbeiten von Rod Bucknell und des Ehrwürdigen Anālayo, bis vergleichende Studien in der internationalen Buddhismuskunde zum Mainstream wurden.
 
@@ -119,7 +119,7 @@ Diese Forschung wurde ursprünglich im 20. Jahrhundert von japanischen Wissensch
 * Digitales Wörterbuch: *Digital Dictionary of Buddhism*
 * Ausführliche vergleichende Untersuchungen (Anālayo, Dhammadinna)
 * SuttaCentral!
-* Unterstützung für nicht-sektiererische und nicht-nationalistische Bewegenungen quer durch die buddhistsiche Welt
+* Unterstützung für nicht-sektiererische und nicht-nationalistische Bewegungen quer durch die buddhistische Welt
 * Die gemeinsame Grundlage der Vinayas führte zur Gründung des modernen Bhikkhuni-Ordens im Theravada
 
 #### Schwächen
@@ -130,7 +130,7 @@ Selbst für Spezialisten kann die Rekonstruktion von Texten nur bis zu einem gew
 
 ### Dialektisch
 
-Vergleichende Untersuchungen helfen zwar, die allen Buddhisten gemeinsamen Lehren zusammenzuführen, und bringen uns dem frühen Kanon näher, aber sie helfen nicht, zu verstehen, wie diese Lehren auf die Menschen aus der Zeit und dem Lebensraum des Buddha wirkten. Wieder einmal war dieses Verständnis bereits in der archäologischen Phase angelegt, und mehrere Wissenschalftler zeigten Beziehungen zwischen Buddhismus, Brahmanismus und Jainismus auf und hoben die historischen und gesellschaftlichen Verhältnisse in der Zeit des Buddha hervor.
+Vergleichende Untersuchungen helfen zwar, die allen Buddhisten gemeinsamen Lehren zusammenzuführen, und bringen uns dem frühen Kanon näher, aber sie helfen nicht, zu verstehen, wie diese Lehren auf die Menschen aus der Zeit und dem Lebensraum des Buddha wirkten. Wieder einmal war dieses Verständnis bereits in der archäologischen Phase angelegt, und mehrere Wissenschaftler zeigten Beziehungen zwischen Buddhismus, Brahmanismus und Jainismus auf und hoben die historischen und gesellschaftlichen Verhältnisse in der Zeit des Buddha hervor.
 
 Aber Fortschritte in diesem Bereich waren langsam, Übersetzungen und Untersuchungen steckten in der kolonialistischen und herablassenden Haltung des 19. Jahrhunderts fest. Neuere Forschung war selten und begrenzt und wurde oft durch nationalistische Vorstellungen ihres Wertes beraubt. Eine Ausnahme ist Wijesekeras *Buddhist and Vedic Studies*, das ausführliche und einsichtsvolle Analysen der vedischen Wurzeln einer Reihe buddhistischer Begriffe enthält.
 
@@ -170,12 +170,12 @@ Für mich sieht es so aus, als seien die vier Phasen eine Art Wachstum. Die arch
 
 ### (Un)ehrenhafte Nennung
 
-Es folgt ein Sammelsurium von Beiträgen zum Verständnis des frühen buddhistischen Schrifttums, die in Warheit nichts beitragen. Einige davon haben vollkommen ihren eigenen Wert für ihr Forschungs- oder Untersuchungsgebiet, und vielleicht könnten sie in Zukunft sinnvolle Ergebnisse für unseren Bereich erbringen, aber zum jetzigen Stand denke ich, dass jeder Beitrag, den sie geleistet haben, unwesentlich ist.
+Es folgt ein Sammelsurium von Beiträgen zum Verständnis des frühen buddhistischen Schrifttums, die in Wahrheit nichts beitragen. Einige davon haben vollkommen ihren eigenen Wert für ihr Forschungs- oder Untersuchungsgebiet, und vielleicht könnten sie in Zukunft sinnvolle Ergebnisse für unseren Bereich erbringen, aber zum jetzigen Stand denke ich, dass jeder Beitrag, den sie geleistet haben, unwesentlich ist.
 
 * „Hermeneutik des Argwohns“ nach Art Schopens, die nur beweist, dass ein „kritteliger“ Geist tatsächlich eine Suche nach der Wahrheit unmöglich macht. Übermäßig skeptische Resultate wurden regelmäßig von wirklichen Experten widerlegt, doch sie geistern weiter als Zombie-Doktrinen umher.
 * Subjektive Interpretationen (feministisch, maskulinistisch, geschlechterkritisch, „Beschwerde-Studien“ usw.) werden von den Werten des Autors getragen. Da sie sich typischerweise auf Sekundäruntersuchungen stützen, spiegeln sie grundsätzliche Probleme in der Forschung wider, statt zu ihr beizutragen.
-* Säkulare materialistische Interpretationen beißen sich daran fest, zu beweisen, dass der Buddha wie der Autor ein Materialist war (oder nicht war). Solche Studien sind nur interessant, wenn man denkt, was der Auror glaubt, sei interessant.
-* Neuropsychologische Studien, etwa der Jhāna-Zustände, versprechen ein neues Forschugnsfeld, aber haben nicht wirklich etwas zum Verständnis der Quelltexte beigetragen.
+* Säkulare materialistische Interpretationen beißen sich daran fest, zu beweisen, dass der Buddha wie der Autor ein Materialist war (oder nicht war). Solche Studien sind nur interessant, wenn man denkt, was der Autor glaubt, sei interessant.
+* Neuropsychologische Studien, etwa der Jhāna-Zustände, versprechen ein neues Forschungsfeld, aber haben nicht wirklich etwas zum Verständnis der Quelltexte beigetragen.
 * In vergleichbarer Weise haben KI und ähnliche Ansätze noch zu keinem wesentlichen neuen Verständnis der Schriften geführt.
 
 ### Zukunft?

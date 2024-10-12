@@ -10,7 +10,7 @@ order: 7
 
 Wer den Buddhismus studiert, ist mit dem Begriff *sakkāya* vertraut, und die entsprechende Ansicht zu haben, ist eine der Fesseln, die uns an das Leiden bindet. Ich habe das Wort früher mit „Identität“ (identity) übersetzt, aber in seinem jüngsten Werk, der Übersetzung des Suttanipāta, sagt der Ehrwürdige Bodhi:
 
-> *Sakkāya*: der Verbund der fünf mit Anklammern verbundenen Aggregate. Eine Übersetzung des Wortes ist beinhae unmöglich. Meine früheren Versuche als „Persönlichkeit“ (personality) und „Identität“ (identity) werden dem Wort nicht gerecht. *Sakkāya* ist ein zusammengesetztes Wort aus *sat* = „existierend“ (existent) und *kāya* = „Körper“ (body), aber was gemeint ist, ist nicht nur der physische Körper, sondern die gesamte Anhäufung materieller und geistiger Faktoren, die die empirische Person ausmachen.
+> *Sakkāya*: der Verbund der fünf mit Anklammern verbundenen Aggregate. Eine Übersetzung des Wortes ist beinahe unmöglich. Meine früheren Versuche als „Persönlichkeit“ (personality) und „Identität“ (identity) werden dem Wort nicht gerecht. *Sakkāya* ist ein zusammengesetztes Wort aus *sat* = „existierend“ (existent) und *kāya* = „Körper“ (body), aber was gemeint ist, ist nicht nur der physische Körper, sondern die gesamte Anhäufung materieller und geistiger Faktoren, die die empirische Person ausmachen.
 
 Jetzt gibt er es mit „persönliche Entität“ (personal entity) wieder.
 
@@ -31,7 +31,7 @@ Die doktrinale Erklärung von *sakkāya* als die fünf Aggregate ist zwar gut ve
 
 Angesichts der Tatsache, dass *sakkāya* speziell dafür gebraucht wird, falsche Ansichten und Missverständnisse von Nicht-Buddhisten zu bezeichnen, scheint es naheliegend, in nicht-buddhistischen Texten zu suchen.
 
-Eine Suche durch die vorbuddhistische brahmanische Literatur verläuft ergebnislos. Nicht nur ist *sakkāya* nicht zu finden, sondern, noch interessanter, auch *kāya* selbst ist nicht zu finden. Oder zmindest konnte ich es nicht ausfindig machen. Wenn es da ist, dann sicherlich nicht in irgendeinem doktrinal bedeutsamen Zusammenhang.
+Eine Suche durch die vorbuddhistische brahmanische Literatur verläuft ergebnislos. Nicht nur ist *sakkāya* nicht zu finden, sondern, noch interessanter, auch *kāya* selbst ist nicht zu finden. Oder zumindest konnte ich es nicht ausfindig machen. Wenn es da ist, dann sicherlich nicht in irgendeinem doktrinal bedeutsamen Zusammenhang.
 
 Doch dann fiel mir ein, dass *kāya* tatsächlich an doktrinal zentraler Stelle in [DN 2](#/sutta/dn2/de/sabbamitta) vorkommt, wenn gewisse Ansichten nicht-brahmanischer Asketen beschrieben werden.
 
