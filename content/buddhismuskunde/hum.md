@@ -24,23 +24,23 @@ Doch die Suttas kennen vier upanishadische Traditionen, darunter auch eine Grupp
 
 Jede der Upanishaden ist mit einem bestimmten vedischen Text assoziiert und betont die Besonderheit dieses Textes. Die Bṛhadāraṇyaka ist Teil der Yajurveda-Tradition und betont die Handlung des Rituals und des Opfers. Sie beginnt mit einer langatmigen Besprechung der mystischen Bedeutung des Pferdeopfers. Es ist kein Zufall, dass hier der Ort ist, an dem wir das Aufkommen der Doktrin vom *Karma* finden. 
 
-So, wie es die Absicht der Bṛhadāraṇyaka ist, die mystische und kontemplative Weisheit, die implizit in den Handlungen des Rituals liegt, auszuweiten, legt die Chāndogya die Bedeutung der Worte des Rituals offen. Sie gehört zur liturgischen Tradition des Sāmaveda und wurde von jenen brahmanischen Priestern studiert, die die Liturgie rezitierten. 
+So wie es die Absicht der Bṛhadāraṇyaka ist, die mystische und kontemplative Weisheit, die implizit in den Handlungen des Rituals liegt, auszuweiten, legt die Chāndogya die Bedeutung der Worte des Rituals offen. Sie gehört zur liturgischen Tradition des Sāmaveda und wurde von jenen brahmanischen Priestern studiert, die die Liturgie rezitierten. 
 
 ### Die mystischen Silben (*stobha*)
 
-Das erste Kapitel der Chāndogya legt die Bedeutung der Liturgie dar, besonders, wie sie in der mystischen Silbe *om* enthalten ist, die *udgītha* genannt wird, „das laut Vorgetragene“. Das *udgītha* steht am Anfang jedes Rituals.
+Das erste Kapitel der Chāndogya legt die Bedeutung der Liturgie dar, besonders wie sie in der mystischen Silbe *om* enthalten ist, die *udgītha* genannt wird, „das laut Vorgetragene“. Das *udgītha* steht am Anfang jedes Rituals.
 
 Nun gibt es in diesem Kapitel zwölf Abschnitte, die vom *udgītha* handeln. Der dreizehnte und letzte Abschnitt wendet sich einem nebensächlichen Thema zu, den *stobha* oder tonalen Interjektionen. Diese werden im Laufe des Rituals geäußert. Es sind Silben, die an sich bedeutungslos sind, denen aber die Chāndogya eine kontemplative Bedeutung innerhalb der Liturgie zuordnet. 
 
 Zwölf solchen Silben werden in Chāndogya-Upaniṣad 1.13 spezifische Bedeutungen zugeschrieben:
 
-> *Ayam vāva [lokaḥ](https://www.wisdomlib.org/definition/loka#hinduism) hāukāraḥ*, diese Erde [wird erkannt durch] die Silbe ‚hāu‘; *[vāyuḥ](https://www.wisdomlib.org/definition/vayu#hinduism) hāikāraḥ*, Luft durch die Silbe ‚hāi‘; *[candramā](https://www.wisdomlib.org/definition/candrama#hinduism) athakāraḥ*, der Mond durch die Silbe ‚[atha](https://www.wisdomlib.org/definition/atha#hinduism)‘; *[ātmā](https://www.wisdomlib.org/definition/atma#hinduism) ihakāraḥ*, das Selbst des Einzelnen durch die Silbe ‚iha‘; *[agniḥ](https://www.wisdomlib.org/definition/agni#hinduism) [īkāraḥ](https://www.wisdomlib.org/definition/ikara#hinduism)*, Feuer durch die Sillbe ‚ī‘. [Āditya](https://www.wisdomlib.org/definition/aditya#hinduism), die Sonne, wird durch die Sillbe *ū* repräsentiert; nihava, die Willkommenshymne, durch die Sillbe *e*; die [Viśvadeva](https://www.wisdomlib.org/definition/vishvadeva#hinduism)-Götter durch das Stobha *auhoyi*; [Prajāpati](https://www.wisdomlib.org/definition/prajapati#hinduism) durch das Stobha *hiṃ* ; [prāṇa](https://www.wisdomlib.org/definition/prana#hinduism) durch das Stobha *[svara](https://www.wisdomlib.org/definition/svara#upanishad)*; Nahrung durch das Stobha *yā*; und [Virāṭ](https://www.wisdomlib.org/definition/virat#hinduism) durch das Stobha *vāk*.
+> *Ayam vāva [lokaḥ](https://www.wisdomlib.org/definition/loka#hinduism) hāukāraḥ*, diese Erde [wird erkannt durch] die Silbe ‚hāu‘; *[vāyuḥ](https://www.wisdomlib.org/definition/vayu#hinduism) hāikāraḥ*, Luft durch die Silbe ‚hāi‘; *[candramā](https://www.wisdomlib.org/definition/candrama#hinduism) athakāraḥ*, der Mond durch die Silbe ‚[atha](https://www.wisdomlib.org/definition/atha#hinduism)‘; *[ātmā](https://www.wisdomlib.org/definition/atma#hinduism) ihakāraḥ*, das Selbst des Einzelnen durch die Silbe ‚iha‘; *[agniḥ](https://www.wisdomlib.org/definition/agni#hinduism) [īkāraḥ](https://www.wisdomlib.org/definition/ikara#hinduism)*, Feuer durch die Silbe ‚ī‘. [Āditya](https://www.wisdomlib.org/definition/aditya#hinduism), die Sonne, wird durch die Silbe *ū* repräsentiert; nihava, die Willkommenshymne, durch die Silbe *e*; die [Viśvadeva](https://www.wisdomlib.org/definition/vishvadeva#hinduism)-Götter durch das Stobha *auhoyi*; [Prajāpati](https://www.wisdomlib.org/definition/prajapati#hinduism) durch das Stobha *hiṃ* ; [prāṇa](https://www.wisdomlib.org/definition/prana#hinduism) durch das Stobha *[svara](https://www.wisdomlib.org/definition/svara#upanishad)*; Nahrung durch das Stobha *yā*; und [Virāṭ](https://www.wisdomlib.org/definition/virat#hinduism) durch das Stobha *vāk*.
 
 Dann haben wir das dreizehnte und letzte *stobha* des dreizehnten und letzten Abschnitts des Kapitels (1.13.3). Die Zahl dreizehn kommt wiederholt im Text vor und hat sicher eine Bedeutung; es ist die Portion, die von dem vollständigen Zyklus von zwölf (Monaten usw.) übrig ist. Das letzte *stobha* ist gemäß der Chāndogya die *vedopaniṣad* selbst, die verborgene Bedeutung oder Verbindung des Veda. Sie steht im Gegensatz zu den zwölf *stobhas*, die mit einem einzigen Begriff beschrieben werden. 
 
 Vom dreizehnten *stobha* heißt es, es sei *anirukta* und *saṁcara*. *Anirukta* heißt „unbestimmt“, „undeutlich“, „nicht aussprechbar“. Das hat eine praktische Bedeutung: Im Unterschied zum „laut vorgetragenen“ *udgītha* wird dieses eben noch gemurmelt, kaum hörbar. Aber seine fehlende Hörbarkeit ist seine „geheime Bedeutung“, denn es ist die nicht ausdrückbare Wirklichkeit, die die primordiale Göttlichkeit ist, *brahman*. Das ist der Grund, warum es das letzte Wort über die Deutung des Sāma ist; gerade wie die höchste Handlung die Ruhe ist, so ist der höchste Ausdruck die Erkenntnis, dass die Wirklichkeit nicht ausgedrückt werden kann. Die Deutung der Liturgie bewegt sich unausweichlich zur Stille jenseits der Liturgie hin. 
 
-Und diese Bewegung spiegelt sich hier in der ungewöhnlichen Wahl *saṁcara* wider. Muttersprachliche Kommentatoren sagen, das könne bedeuten, dass die Bedeutung des Wortes variabel ist, dass jeder es in seiner Meditation deuten kann, wie er möchte; oder dass es das Innewohnen der Göttlichketi ist, die sich in allen Dingen bewegt. 
+Und diese Bewegung spiegelt sich hier in der ungewöhnlichen Wahl *saṁcara* wider. Muttersprachliche Kommentatoren sagen, das könne bedeuten, dass die Bedeutung des Wortes variabel ist, dass jeder es in seiner Meditation deuten kann, wie er möchte; oder dass es das Innewohnen der Göttlichkeit ist, die sich in allen Dingen bewegt. 
 
 Diese dreizehnte mystische Silbe, unbestimmt und sich stets verändernd, ist *huṁ*.
 
@@ -50,7 +50,7 @@ Unser nicht namentlich genannter Brahmane ist nicht irgendeine zufällige Karika
 
 Die Silbe *huṁ* hat keine Bedeutung, aber sie ist auch nicht beliebig. Die Hauptvokale des Sanskrit haben eine Reihenfolge: *a*, *i*, *u*, wobei das *a* mit vollständig geöffnetem Mund erzeugt wird und das *u* mit fast geschlossenem Mund. 
 
-Daher spiegelt die Wahl des *u* hier den Platz der Silbe als letzter der *stobhas* wieder, den geschlossensten und phonetisch unbestimmtesten Laut unmittelbar vor der Stille. 
+Daher spiegelt die Wahl des *u* hier den Platz der Silbe als letzter der *stobha* wieder, den geschlossensten und phonetisch unbestimmtesten Laut unmittelbar vor der Stille. 
 
 ### Die Langlebigkeit der Silbe *huṁ*
 
@@ -70,10 +70,10 @@ Wie gewöhnlich ist der Großteil des Textes, sowohl der Prosa als auch der Stro
 
 Es gibt allerdings zwei ungewöhnliche Wendungen, die beide auch in der Chāndogya vorkommen. 
 
-* *Nikkasāvo*, „frei von Flecken“, kommt anderswo nur in Strophen und in der Verneinungsform vor; man findet den gleichen Vers sowohl in [Dhp 9](#/sutta/dhp9:1/de/sabbamitta) and [Thag 17.1](#/sutta/thag17.1/de/sabbamitta). *Kāsāva* bedeutet „Fleck, Farbe“ und wird gewöhnlich im wörtlichen Sinn gebraucht, statt wie hier als Metapher für Befleckungen. Es kommt im gleichen Sinn in Chāndogya-Upaniṣad 7.26.2 vor, *mṛditakaṣāyāya*, was, so glaube ich, das einzige Vorkommen in dieser Bedetung im frühen Sanskrit ist. 
+* *Nikkasāvo*, „frei von Flecken“, kommt anderswo nur in Strophen und in der Verneinungsform vor; man findet den gleichen Vers sowohl in [Dhp 9](#/sutta/dhp9:1/de/sabbamitta) und [Thag 17.1](#/sutta/thag17.1/de/sabbamitta). *Kāsāva* bedeutet „Fleck, Farbe“ und wird gewöhnlich im wörtlichen Sinn gebraucht statt wie hier als Metapher für Befleckungen. Es kommt im gleichen Sinn in Chāndogya-Upaniṣad 7.26.2 vor, *mṛditakaṣāyāya*, was, so glaube ich, das einzige Vorkommen in dieser Bedeutung im frühen Sanskrit ist. 
 * *Brahmavāda*, „göttliche Doktrin“, kommt sonst nirgends im Pali vor. In brahmanischen Texten hat es die Bedeutung „orthodoxe vedische Doktrin“ (Atharvaveda 11.3.26a, 15.1.8a; Bṛhadāraṇyaka-Upaniṣad 14.7.3.1; Chāndogya-Upaniṣad 2.24.1), vergleichbar der Bedeutung von Theravāda „Doktrin der Altehrwürdigen“. Hier passt der Buddha, wie so oft, die Bedeutung im Sinn seiner eigenen Ziele an. 
 
-Somit haben wir drei charakterisitsche Begriffe, die alle in der Chāndogya zu finden sind, was die Verbindung zwischen dem Sutta und der Upaniṣad bekräftigt. 
+Somit haben wir drei charakteristische Begriffe, die alle in der Chāndogya zu finden sind, was die Verbindung zwischen dem Sutta und der Upaniṣad bekräftigt. 
 
 *Brahmavāda* ist, denke ich, besonders bedeutsam. Die vierte Zeile der Strophe lautet: 
 
@@ -82,13 +82,13 @@ Somit haben wir drei charakterisitsche Begriffe, die alle in der Chāndogya zu f
 
 Das zeigt das Gesamtthema des Textes als Antwort auf die liturgische Tradition. Man wird kein Sprecher der „göttlichen Doktrin“, indem man bloß verständnislos die Worte aufsagt (was die Chāndogya-Upaniṣad selbst kritisiert), und auch nicht, indem man den Worten richtige Bedeutungen zuschreibt (was die Chāndogya größtenteils lehrt), und nicht einmal, indem man durch die Silbe *huṁ* das Unaussprechliche ausspricht (was die esoterische, letztendliche Bedeutung der Chāndogya ist). 
 
-Ein wahrer Brahmane ist *nihuṁhuṅko*, „einer, der nicht ‚huṁ huṁ‘ murmelt“, sondern vielmehr einer, der den budhistischen Pfad gemeistert und den „Veda“ verwirklicht hat, wie er vom Buddha gelehrt wurde. 
+Ein wahrer Brahmane ist *nihuṁhuṅko*, „einer, der nicht ‚huṁ huṁ‘ murmelt“, sondern vielmehr einer, der den buddhistischen Pfad gemeistert und den „Veda“ verwirklicht hat, wie er vom Buddha gelehrt wurde. 
 
 ### Die fünfte Zeile
 
-Die Verbindung zwischen diesem Sutta und „Stolz“ wird nur in der letzten Zeile der Strophe angedeutet. Aber eine nähere Betrachtung zeigt, dass das nicht so einduetig ist, wie man hoffen könnte. 
+Die Verbindung zwischen diesem Sutta und „Stolz“ wird nur in der letzten Zeile der Strophe angedeutet. Aber eine nähere Betrachtung zeigt, dass das nicht so eindeutig ist, wie man hoffen könnte. 
 
-Nach der Erwähnung der „göttlichen Doktrin“ hat die Strophe eine fünfte Zeile. Das ist sehr ungewöhnlich, so ungewöhnlich, dass es tatsächlich die einzige Strophe mit fünf Zeilen im Udāna ist. Die Zeile selbst findet man im früheren Aṭṭhavagga ([Snp 4.3](#/sutta/snp4.3:4.4/de/sabbamitta)).
+Nach der Erwähnung der „göttlichen Doktrin“ hat die Strophe eine fünfte Zeile. Das ist sehr ungewöhnlich, so ungewöhnlich, dass es tatsächlich die einzige Strophe mit fünf Zeilen im Udāna ist. Die Zeile selbst findet man im früheren Aṭṭhakavagga ([Snp 4.3](#/sutta/snp4.3:4.4/de/sabbamitta)).
 
 Hier im Udāna folgt die fünfte nachhängende Zeile auf eine Zeile, die bereits grammatikalisch vollständig ist; in der vierten Zeile antwortet das Demonstrativpronomen *so* auf das Relativpronomen *yo* der eröffnenden Zeile. Vielleicht wurde die fünfte Zeile angefügt, um die Bedeutung des Ausdrucks *brahmavāda* herunterzuspielen. 
 
@@ -98,13 +98,13 @@ Doch diese Bedeutung von *ussada* ist schwach fundiert. Es ist ein poetischer Au
 
 Das Wort wird in unserem ältesten Suttakommentar, dem spätkanonischen Text Niddesa, kommentiert. Dieser bringt es nicht speziell mit Stolz in Verbindung, sondern erklärt es als siebenfach: Gier, Hass, Täuschung, Einbildung, Ansichten, Verunreinigungen und Taten ([Mnd 10:105.4](https://suttacentral.net/mnd10/pli/ms?lang=de&layout=linebyline&reference=main&notes=sidenotes&highlight=false&script=latin#105.3)). Der Ehrwürdige Bodhi gibt es in seinen jüngsten Übersetzungen wörtlich mit „Schwellung“ wider. 
 
-Somit ist die fünfte Zeile selbst von zweifelhafter Authentizität, und das Wort darin, das als „Stolz“ verstanden wird, enthält nicht eindutig diese Bedeutung. 
+Somit ist die fünfte Zeile selbst von zweifelhafter Authentizität, und das Wort darin, das als „Stolz“ verstanden wird, enthält nicht eindeutig diese Bedeutung. 
 
 ### Der Erzählfluss
 
 Lassen Sie uns zum Schluss kurz den Kontext der Erzählung oder der Struktur betrachten. Dieses Sutta erscheint an einem der kritischen Punkte in der Geschichte des Buddha, es berichtet buchstäblich die ersten Worte, die er nach dem Erwachen zu einem anderen Wesen sprach. Wie es mit dem Brahmanen weiterging, erfahren wir nicht. 
 
-Wenn wir ähnliche Schlüsselpunkte zum Vergleich heranziehen, wird ein Muster erkennbar. Als der Buddha unter seinen früheren Lehrern studierte, übte er unter den allerbesten Meditationsmeistern der upanṣadischen Tradition seiner Zeit. Das verleiht seiner Kritik an ihren Lehren Kraft; eine belanglose Doktrin zu widerlegen, ist nichts Besonderes. Im Dīgha-Nikāya begegnet der Buddha nach den ersten beiden Lehrreden, von denen jede auf ihre Art machtvoll ist, einem brahmanischden Lehrer und bekehrt ihn: Pokkharasādi. Dieser war einer der angesehensten und einflussreichsten Lehrer seiner Zeit, und die Auswirkungen seiner Bekehrung strahlen ihr Echo durch den Dīgha-Nikāya. Am Ende des Sutta-Nipāta unterweist der Buddha sechzehn brahmanische Meditationsschüler, die alle Schüler eines berühmten Meditationsmeisters sind. 
+Wenn wir ähnliche Schlüsselpunkte zum Vergleich heranziehen, wird ein Muster erkennbar. Als der Buddha unter seinen früheren Lehrern studierte, übte er unter den allerbesten Meditationsmeistern der upanṣadischen Tradition seiner Zeit. Das verleiht seiner Kritik an ihren Lehren Kraft; eine belanglose Doktrin zu widerlegen, ist nichts Besonderes. Im Dīgha-Nikāya begegnet der Buddha nach den ersten beiden Lehrreden, von denen jede auf ihre Art machtvoll ist, einem brahmanischen Lehrer und bekehrt ihn: Pokkharasādi. Dieser war einer der angesehensten und einflussreichsten Lehrer seiner Zeit, und die Auswirkungen seiner Bekehrung strahlen ihr Echo durch den Dīgha-Nikāya. Am Ende des Suttanipāta unterweist der Buddha sechzehn brahmanische Meditationsschüler, die alle Schüler eines berühmten Meditationsmeisters sind. 
 
 Somit wollten die Bearbeiter an herausragenden Stellen machtvolle Augenblicke einschließen, in denen der Buddha auf die *allerbesten* der bestehenden religiösen Traditionen einging. Einen einzelnen stolzen Brahmanen zu tadeln, ist keine große Sache, da es etwas ist, für das er in seiner eigenen Tradition ohnehin getadelt worden wäre. 
 
