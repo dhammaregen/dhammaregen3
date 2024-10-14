@@ -50,7 +50,7 @@ Ein offensichtliches Merkmal ist das Maß an ungewöhnlichem oder einzigartigem 
 
 Das ist eine Menge. Es sagt uns, dass der Dichter sein Vergnügen daran hatte, mit Wörtern zu spielen und Dinge auf ungewöhnliche und neue Arten auszudrücken. Es erinnert viel mehr an die spielerische Virtuosität vedischer Poesie als an den zweckmäßigeren Stil der meisten Paligedichte. 
 
-Die Tatsache, dass sich in einer Strophe über *Hirsche, die Täuschungen schaffen,* so viele Obskuritäten und Rätsel finden, legt nahe, dass der Dichter sein Thema bewusst in seiner poetischen Wahl wiederspiegelte. Er ließ sich von den Hirschen anregen, uns Streiche zu spielen. Und das weckt unsere Aufmerksamkeit, nach Dingen Ausschau zu halten, die wir vielleicht übersehen haben. 
+Die Tatsache, dass sich in einer Strophe über *Hirsche, die Täuschungen schaffen,* so viele Obskuritäten und Rätsel finden, legt nahe, dass der Dichter sein Thema bewusst in seiner poetischen Wahl widerspiegelte. Er ließ sich von den Hirschen anregen, uns Streiche zu spielen. Und das weckt unsere Aufmerksamkeit, nach Dingen Ausschau zu halten, die wir vielleicht übersehen haben. 
 
 ### Spiel mit der Form
 
@@ -141,7 +141,7 @@ Aber was, wenn das alles ein Irrtum wäre? Wir wissen, dass der Dichter es liebt
 
 Das macht aus der ganzen Sache eine schön gegliederte Erzählung. Die ersten beiden Zeilen und die zweite Strophe werden vom Fürsprecher des Hirschschülers gesprochen, der eine folgerichtige Argumentation vorlegt, dass sein Schützling tatsächlich schlau und listig genug ist, um angenommen zu werden. Der Lehrer ist widerstrebend wegen der mangelnden Pünktlichkeit des Hirschs, doch der Fürsprecher drängt darauf. 
 
-Dieser Spannung liegt die recht witzige Vorstellung zugrunde, dass man, wenn man eine Listen-Schule für ein entsetzlich flüchtiges Tier betreibt, nicht erwarten kann, dass es seine Listen nicht an einem selbst ausprobiert! Und wenn man annimmt, dass das eine Analogie dafür ist, junge Schüler zu unterrichten, so legt es reizenderweise nahe: Schreibe Tennager nicht ab, bloß weil sie Zicken machen, denn diese Aufsässigkeit und Verspieltheit sind die Quelle ihrer Kreativität, und sie sind unglaublich hilfreich, um in der wirklichen Welt zu überleben. 
+Dieser Spannung liegt die recht witzige Vorstellung zugrunde, dass man, wenn man eine Listen-Schule für ein entsetzlich flüchtiges Tier betreibt, nicht erwarten kann, dass es seine Listen nicht an einem selbst ausprobiert! Und wenn man annimmt, dass das eine Analogie dafür ist, junge Schüler zu unterrichten, so legt es reizenderweise nahe: Schreibe Teenager nicht ab, bloß weil sie Zicken machen, denn diese Aufsässigkeit und Verspieltheit sind die Quelle ihrer Kreativität, und sie sind unglaublich hilfreich, um in der wirklichen Welt zu überleben. 
 
 > *„Bitte nimm den achthufigen Esel an,*  
 > *den Hirsch, listiger als der Listige.“*  

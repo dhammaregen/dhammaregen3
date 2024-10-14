@@ -18,11 +18,11 @@ Essay: [Wie man beim Glücksspiel unfehlbar gewinnt](#/wiki/buddhismuskunde/unfe
 
 Einen Hinweis auf das Glücksspiel gibt die letzte Zeile, wo der Weise „nach dem Unfehlbaren greifen“ würde, d.  h. nach „einem Satz ohne einen fünften“ (*apaṇṇakaṁ*), auch als „perfekte Hand“ (*kaṭaggāha*) bekannt. Der Gebrauch von „greifen“ weist hier auf das Würfelspiel hin, wo die Spieler eine Handvoll Samen greifen und dabei versuchen, eine Zahl zu bekommen, die durch vier teilbar ist. 
 
-Die Strophe stellt den Weisen dem *takkikā* gegenüber, dem „Denker“, der eine vordergründig plausible Lehre aufstellt, die der Prüfung im Licht der Tatsachen nicht standhält. Das ähnelt dem Gebrauch in [Ud 6.10](#/sutta/ud6.10/de/sabbamitta). Sie bezieht sich auf die „Geschichte aus der Gegenwart“ (d. h. dem letzten Leben des Buddha), in der Menschen auf Andersgläubige hörten und vom Dhamma abfielen. 
+Die Strophe stellt den Weisen dem *takkikā* gegenüber, dem „Denker“, der eine vordergründig plausible Lehre aufstellt, die der Prüfung im Licht der Tatsachen nicht standhält. Das ähnelt dem Gebrauch in [Ud 6.10](#/sutta/ud6.10:6.1/de/sabbamitta). Sie bezieht sich auf die „Geschichte aus der Gegenwart“ (d. h. dem letzten Leben des Buddha), in der Menschen auf Andersgläubige hörten und vom Dhamma abfielen. 
 
-Das Interessante hier ist, dass die Strophe nicht direkt auf das eigentliche Jātaka, die „Geschichte aus der Vergangenheit“, hinweist. Dort ist der Gegenspieler ein *yakkha*, und die Geschichte ist von [DN 23:23.1 ff](#/sutta/dn23:23.1/de/sabbamitta) angepasst. Sowohl die Geschichte aus der Vergangenheit als auch die Geschichte aus der Gegenwart veranschulichen, wie töricht Menschen waren, als sie auf schlechte Ratgeber hörten. Aber die Strophe weist unmittelbar nicht auf den *yakkha*, sondern auf die Denker hin, und die Gechichte des *yakkha* wird zur Veranschaulichung hinzugezogen. 
+Das Interessante hier ist, dass die Strophe nicht direkt auf das eigentliche Jātaka, die „Geschichte aus der Vergangenheit“, hinweist. Dort ist der Gegenspieler ein *yakkha*, und die Geschichte ist von [DN 23:23.1 ff](#/sutta/dn23:23.1/de/sabbamitta) angepasst. Sowohl die Geschichte aus der Vergangenheit als auch die Geschichte aus der Gegenwart veranschaulichen, wie töricht Menschen waren, als sie auf schlechte Ratgeber hörten. Aber die Strophe weist unmittelbar nicht auf den *yakkha*, sondern auf die Denker hin, und die Geschichte des *yakkha* wird zur Veranschaulichung hinzugezogen. 
 
-Das zeigt, dass, auch wenn sich die Strophen der Jātakas üblicherweise auf die Geschichte aus der Vergangenhiet beziehen, das nicht immer der Fall ist. Es ist tatsächlich wahrscheinlich, dass in diesem Fall ursprünglich die „Geschichte aus der Gegenwart“ mit der Strophe verknüpft wurde, wie ein Udāna oder Dhammapada mit Kommentar, und dann das Jātaka zur Veranschaulichung eingefügt wurde. 
+Das zeigt, dass, auch wenn sich die Strophen der Jātakas üblicherweise auf die Geschichte aus der Vergangenheit beziehen, das nicht immer der Fall ist. Es ist tatsächlich wahrscheinlich, dass in diesem Fall ursprünglich die „Geschichte aus der Gegenwart“ mit der Strophe verknüpft wurde, wie ein Udāna oder Dhammapada mit Kommentar, und dann das Jātaka zur Veranschaulichung eingefügt wurde. 
 
 ### [Ja 2 Vaṇṇupatha](#/sutta/ja2/de/sabbamitta)
 
@@ -30,13 +30,13 @@ Dies setzt das Thema des Reisens durch eine Wüste mit einer Handelskarawane for
 
 Dieses Mal ist es ein junger Arbeiter in der Karawane, der nach Wasser gräbt. Alles scheint verloren, und die Karawane sieht den Tod vor sich, doch der Bodhisatta will nicht aufgeben. Als er ein Büschel Gras in der Sandwüste sieht, lauscht er genau und hört das ferne Geräusch einer dahinfließenden unterirdischen Strömung. 
 
-Die interessante Wendung ist hier *udaṅgaṇe*, wobei *uda* vom Kommentar als bloße Partikel abgetan wird, und *aṅgaṇa*, von der Wurzelbedeutung „sich bewegen“, als ein Ort gedeutet wird, an dem sich Menschen hin und her bewegen, eine „offene Stelle“. 
+Die interessante Wendung ist hier *udaṅgaṇe*, wobei *uda* vom Kommentar als bloße Partikel abgetan wird und *aṅgaṇa*, von der Wurzelbedeutung „sich bewegen“, als ein Ort gedeutet wird, an dem sich Menschen hin und her bewegen, eine „offene Stelle“. 
 
 Aber wo *uda* als Partikel gebraucht wird, ist es üblicherweise nicht ohne Bedeutung; es bedeutet „entweder – oder“. 
 
-Sanskritwörterbücher geben die Bedeutung „Durchgang“ für *aṅgaṇa*, d. h. ein „Ort, durch den sich Dinge  hindurchbewegen“. *Uda* kann auch „Wasser“ bedeuten, so hätte es die Bedeutung „Wasser-Durchfluss“, was passend ist, um auf einen unterirdidschen Wasserlauf zu verweisen. 
+Sanskritwörterbücher geben die Bedeutung „Durchgang“ für *aṅgaṇa*, d. h. ein „Ort, durch den sich Dinge  hindurch bewegen“. *Uda* kann auch „Wasser“ bedeuten, so hätte es die Bedeutung „Wasser-Durchfluss“, was passend ist, um auf einen unterirdischen Wasserlauf zu verweisen. 
 
-Somit haben wir statt der Übersetzung „dort an der offenen Stelle fand er Wasser“ das befriedigerndere: 
+Somit haben wir statt der Übersetzung „dort an der offenen Stelle fand er Wasser“ das befriedigendere: 
 
 >*dort beim unterirdischen Wasserlauf fand er Wasser.*
 
@@ -58,11 +58,11 @@ In diesem Fall kann die Form *serivā* als ein *taddhita* aufgegliedert werden, 
 
 In solchen Fällen ist es wichtig, im Auge zu behalten, dass der Kommentar nicht an sich falsch liegt. Tatsächlich kann man die Erklärung von *seri* als *lola* noch erkennen, wenn auch versteckt. Es ist im Pali üblich, dass eine Eigenschaft eines Menschen sein Name wird, daher wird jemand, der rücksichtslos handelt, als „Rücksichtslos“ (*Serivā*) bekannt. Wenn die Kenntnis über den ursprünglichen Zusammenhang verloren geht, kann der Name Serivā erklärt werden als jemand, der aus einer Stadt dieses Namens stammt. 
 
-Ein interesaanter Punkt ist hier noch, dass diese Strophe großenteils mit [AN 8.29:15.1-4](#/sutta/an8.29:15.1/de/sabbamitta) übereinstimmt. Der Unterschied besteht darin, dass der *serivā*-Händler nicht genannt wird; stattdessen finden wir den einzigartigen Begriff *atītattho*. Der Ehrwürdige Bodhi übersetzte ihn, und ich bin ihm zuvor gefolgt, als den Händler, der „einen Gewinn versäumt“ hat, indem er *attha* in der Bedeutung „Nutzen, Gewinn“ auffasste. Aber es ist eine merkwürdige Art, das auszudrücken. 
+Ein interessanter Punkt ist hier noch, dass diese Strophe großenteils mit [AN 8.29:15.1-4](#/sutta/an8.29:15.1/de/sabbamitta) übereinstimmt. Der Unterschied besteht darin, dass der *serivā*-Händler nicht genannt wird; stattdessen finden wir den einzigartigen Begriff *atītattho*. Der Ehrwürdige Bodhi übersetzte ihn, und ich bin ihm zuvor gefolgt, als den Händler, der „einen Gewinn versäumt“ hat, indem er *attha* in der Bedeutung „Nutzen, Gewinn“ auffasste. Aber es ist eine merkwürdige Art, das auszudrücken. 
 
 Eine andere der vielen Bedeutungen von *attha* ist „Geschichte, Angelegenheit, Sache“, und in diesem Sinn entspricht es dem Wort *vatthu*. In den Jātakas wird die „Geschichte aus der Vergangenheit“ stets als *atītavatthu* bezeichnet, und ich schlage vor, dass *atītattho* die gleiche Bedeutung hat. 
 
-Somit sollten wir anstatt „wie der Händler, der einen Gewinn versäumte“, übersetzen: „wie der Händler in der Geschichte aus der Vergangenheit“. Das würde bedeuten, dass die Strophe im Aṅguttara indirekt auf die gleiche Geschichte Bezug nimmt, die  man in den Jātakas findet. 
+Somit sollten wir anstatt „wie der Händler, der einen Gewinn versäumte“, übersetzen: „wie der Händler in der Geschichte aus der Vergangenheit“. Das würde bedeuten, dass die Strophe im Aṅguttara indirekt auf die gleiche Geschichte Bezug nimmt, die man in den Jātakas findet. 
 
 Das mag überraschend erscheinen, da der Aṅguttara Teil des frühen Kanon ist und die Jātakas später aufgenommen wurden. Wie kann dann ein früherer Text sich auf einen späteren beziehen? 
 
