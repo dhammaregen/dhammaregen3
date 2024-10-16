@@ -106,7 +106,7 @@ Faszinierend zu sehen, dass sie eine Aufzählung von Fällen hatten, in denen es
 
 Das passt gut in diesen Zusammenhang. Der Esel ist ein unpaarhufiges Tier, und statt sich auf eine Schwester zu beziehen, über die wir nichts wissen, weckt der Dichter Interesse an der Geschichte, indem er mit einem bewusst komischen Kontrast beginnt: 
 
-> Du sollst den achthufigen Esel annehman 
+> Du sollst den achthufigen Esel annehmen 
 
 In der nächsten Zeile besagt das Pali, der Hirsch sei *vaṅkātivaṅkinaṁ*, was in diesem Zusammenhang gut einleuchtet. Er wird empfohlen als einer, der ausgesprochen trickreich und voller Listen ist, und das setzt sich in der nächsten Strophe fort. Wir wissen aus [MN 51:4.14](#/sutta/mn51:4.14/de/sabbamitta) oder [AN 8.13:1.11](#/sutta/an8.13:1.11/de/sabbamitta), dass Tiere Listen und Finten haben, mit denen sie sich menschlicher Kontrolle entziehen. Der Text erkennt diese an; er versteht Tiere als klug und nimmt sogar an, dass sie die Listen-Schule besuchen müssen, um von ihren Vorfahren zu lernen. 
 
