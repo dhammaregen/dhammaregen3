@@ -8,6 +8,11 @@ order: -9999
 
 Hier finden Sie eine kurze Themenübersicht der bisher erschienenen Newsletter. Klicken sie auf die Überschrift, um zu einem Newsletter zu gelangen.
 
+### [November 2024](#/wiki/news/2024-11)
+- Große Füße, die Spuren hinterlassen (MN 27, MN 28)
+- Würdigung eines Lebens im Geist des Dhamma (Akincana)
+- Dhp 322-323
+
 ### [Oktober 2024](#/wiki/news/2024-10)
 - Wozu ist Großzügigkeit gut? (Visākhā, AN 1.259, AN 3.70, Ud 8.8, Kd 8)
 - Jātakas (Essays)
