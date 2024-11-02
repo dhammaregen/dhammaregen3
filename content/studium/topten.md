@@ -25,11 +25,11 @@ Im Saccavibhaṅga-Sutta erinnert der Buddha an das Dhammacakka und erwähnt, da
 
 ### 2. Sie kennen: das Mettā-Sutta (--> [Snp 1.8](#/sutta/snp1.8/de/sabbamitta) und --> [Kp 9](#/sutta/kp9/de/sabbamitta))
 
-Das Mettā-Sutta oder Karaṇīyamettā-Sutta findet man bei Snp 1.8 und bei Kp 9. Es ist ein Gedicht über die Tugenden von Mettā, der liebenden Güte. Es besteht aus wunderschönen Strophen, die in ihrer kurzen Spanne die ethischen Grundlagen für die Liebe darlegen, zeigen, wie man sie in der Meditation entwickelt, und beschreiben, wie allumfassende Liebe sich anfühlt. Es muss wenig verwundern, dass es vielleicht die beliebteste Lehrrede zum Rezitieren ist, ob in einer Gruppe oder als Bestandteil der perönlichen Meditation. Viele Menschen rezitieren es gerne, bevor sie sich zum Meditieren hinsetzen, oder hören es im Hintergrund über den Tag.
+Das Mettā-Sutta oder Karaṇīyamettā-Sutta findet man bei Snp 1.8 und bei Kp 9. Es ist ein Gedicht über die Tugenden von Mettā, der liebenden Güte. Es besteht aus wunderschönen Strophen, die in ihrer kurzen Spanne die ethischen Grundlagen für die Liebe darlegen, zeigen, wie man sie in der Meditation entwickelt, und beschreiben, wie allumfassende Liebe sich anfühlt. Es muss wenig verwundern, dass es vielleicht die beliebteste Lehrrede zum Rezitieren ist, ob in einer Gruppe oder als Bestandteil der persönlichen Meditation. Viele Menschen rezitieren es gerne, bevor sie sich zum Meditieren hinsetzen, oder hören es im Hintergrund über den Tag.
 
 ### Warum lesen Sie nicht: das Kodhana-Sutta über Reizbarkeit (--> [AN 7.64](#/sutta/an7.64/de/sabbamitta))
 
-Wenn der positive Impuls des Metta-Sutta nicht überzeugend genug ist, dann schauen Sie, was der Buddha über das Gegenteil gesagt hat: wie es ist, wenn man zornig ist. Diese kurze Lehrrede gibt eine ziemlich vernichtende Beschreibung der Reizbarkeit, gefolgt von einer Reihe lebhafter und denkwürdiger Strophen.
+Wenn der positive Impuls des Mettā-Sutta nicht überzeugend genug ist, dann schauen Sie, was der Buddha über das Gegenteil gesagt hat: wie es ist, wenn man zornig ist. Diese kurze Lehrrede gibt eine ziemlich vernichtende Beschreibung der Reizbarkeit, gefolgt von einer Reihe lebhafter und denkwürdiger Strophen.
 
 ### 3. Sie kennen: das Maṅgala-Sutta über glückverheißenden Segen (--> [Snp 2.4](#/sutta/snp2.4/de/sabbamitta) und --> [Kp 5](#/sutta/kp5/de/sabbamitta))
 
@@ -61,7 +61,7 @@ Diese berühmte Sammlung von Lehren über das Meditieren stellt die Grundlage f�
 
 ### Warum lesen Sie nicht: die Früchte des Asketenlebens (--> [DN 2](#/sutta/dn2/de/sabbamitta))
 
-Das Satipaṭṭhāna-Sutta ist mit seiner Betonung eines bestimmten Gliedes des achtfachen Pfades recht ungewöhnlich. Häufiger hat der Buddha das gelehrt, was man die „stufenweise Schulung“ nennt, die den vollständigen und ganzheitlichen Pfad vom ersten Hören des Dhamma bis zum vollständigen Verwirklichen von Nibbana darlegt. Das wird zwar viele Male gelehrt, aber die schönste und machtvollste Darlegung ist das Sāmaññaphala-Sutta, in dem der Buddha zu dem unehrenhaften König Ajātasattu über die Vorzüge des Übens des kontemplativen Pfades spricht.
+Das Satipaṭṭhāna-Sutta ist mit seiner Betonung eines bestimmten Gliedes des achtfachen Pfades recht ungewöhnlich. Häufiger hat der Buddha das gelehrt, was man die „stufenweise Schulung“ nennt, die den vollständigen und ganzheitlichen Pfad vom ersten Hören des Dhamma bis zum vollständigen Verwirklichen von Nibbāna darlegt. Das wird zwar viele Male gelehrt, aber die schönste und machtvollste Darlegung ist das Sāmaññaphala-Sutta, in dem der Buddha zu dem unehrenhaften König Ajātasattu über die Vorzüge des Übens des kontemplativen Pfades spricht.
 
 ### 7. Sie kennen: den Dhammapada (--> [Dhp](#/sutta/dhp1/de/sabbamitta))
 
@@ -89,7 +89,7 @@ Viel an alter Literatur zeichnet die Meinungen von Männern über Frauen auf, ab
 
 ### 10. Sie kennen: das Kālāma-Sutta über Freiheit zum Nachforschen (--> [AN 3.65](#/sutta/an3.65/de/sabbamitta))
 
-Keine Lehrrede verkörpert den Geist des modernen reformierten Buddhismus besser als das sogenannte Kālāma-Sutta, das in den Texten auch manchmal Kesaputtiya genannt wird. Eine Gemsinschaft zweifelnder Laien, die sich einem Strom von Lehrern gegenübersieht, von denen jeder etwas anderes sagt, fragt den Buddha, was sie glauben soll. Der Buddha gibt ihnen den berühmten Rat, blinden Glauben abzulehnen, ebenso wie reine Logik, und zu beobachten, was zur Zunahme oder Abnahme von Befleckungen und Leiden führt.
+Keine Lehrrede verkörpert den Geist des modernen reformierten Buddhismus besser als das sogenannte Kālāma-Sutta, das in den Texten auch manchmal Kesaputtiya genannt wird. Eine Gemeinschaft zweifelnder Laien, die sich einem Strom von Lehrern gegenübersieht, von denen jeder etwas anderes sagt, fragt den Buddha, was sie glauben soll. Der Buddha gibt ihnen den berühmten Rat, blinden Glauben abzulehnen, ebenso wie reine Logik, und zu beobachten, was zur Zunahme oder Abnahme von Befleckungen und Leiden führt.
 
 ### Warum lesen Sie nicht: die Lehrrede an den Brahmanen Caṅkī über die Frage, wie man bei der Wahrheit ankommt (--> [MN 95](#/sutta/mn95/de/sabbamitta))
 
