@@ -5,7 +5,7 @@ img: newpath.png
 img-alt: Waldweg, in den von der Seite die Sonne fällt
 order: 2
 ---
-Die deutschsprachige Welt ist in der glücklichen Lage, dass es bereits viele deutsche Übersetzungen früher buddhistischer Texte gibt. Der Sutta-Pitaka ist weitgehend abgedeckt, und Deutsch gehörte zu den ersten europäischen Sprachen, in die buddhistische Texte übersetzt wurden.
+Die deutschsprachige Welt ist in der glücklichen Lage, dass es bereits viele deutsche Übersetzungen früher buddhistischer Texte gibt. Der Suttapiṭaka ist weitgehend abgedeckt, und Deutsch gehörte zu den ersten europäischen Sprachen, in die buddhistische Texte übersetzt wurden.
 
 Mit dieser Situation war ich lange Zeit sehr zufrieden und dachte nicht daran, dass etwas anderes nötig sei.
 

@@ -8,7 +8,7 @@ order: 0.5
 ### Historisches
 *Dhammaregen* wurde ursprünglich als eine Begleitwebseite zu [Voice.suttacentral.net](https://voice.suttacentral.net) entworfen und enthielt Informationen über die Benutzung von Voice und [SuttaCentral](https://suttacentral.net/?lang=de) sowie auch eine Infoseite zu den deutschen Sutta-Übersetzungen von Silashin Sabbamitta. Die heute noch relevanten Informationen aus dieser ersten Version sind jetzt [im Dhammaregen-GitHub-Wiki](https://github.com/dhammaregen/dhammaregen3/wiki) zu finden.
 
-2021 wurde *Dhammaregen* als Glied der SC-Voice-Wenseitenfamilie zu einer Webseite zum Studium der Suttas ausgebaut. Das heutige *Dhammaregen* entstand 2023 und ist eine weiterentwickelte Version davon.
+2021 wurde *Dhammaregen* als Glied der SC-Voice-Webseitenfamilie zu einer Webseite zum Studium der Suttas ausgebaut. Das heutige *Dhammaregen* entstand 2023 und ist eine weiterentwickelte Version davon.
 
 2024 wurde das ursprüngliche Voice stillgelegt; die deutlich verbesserte Nachfolgeversion findet sich unter [SC-Voice.net](https://sc-voice.net).
 
@@ -25,16 +25,16 @@ Lesen Sie [hier](#/wiki/studium/inhalt), wie Sie die Suttas besser kennenlernen 
 *Dhammaregen* ist Teil der [SC-Voice.net](https://sc-voice.net)-Webseitenfamilie und ist mit einer Audiofunktion ausgestattet. Damit können Sie die Suttas sowohl *lesen* als auch *hören*! Lesen Sie [hier](#/wiki/studium/hoeren), wie's funktioniert.
 
 ### Sutta-Übersetzungen
-*Dhammaregen* beherbergt die neuen deutschen Übersetzungen der Suttas des Palikanons von Silashin Sabbamitta. Es handelt sich um ein fortlaufendes Übersetzungsprojekt. Lesen Sie, [was bereits übersetzt ist](#/wiki/uebersetzung/uebersicht), oder öffnen Sie eine [Suchkarte](#/search//de) und gehen Sie zu den Suttas.
+*Dhammaregen* beherbergt die neuen deutschen Übersetzungen der Suttas des Palikanon von Silashin Sabbamitta. Es handelt sich um ein fortlaufendes Übersetzungsprojekt. Lesen Sie, [was bereits übersetzt ist](#/wiki/uebersetzung/uebersicht), oder öffnen Sie eine [Suchkarte](#/search//de) und gehen Sie zu den Suttas.
 
 ### Unterschiede zu SuttaCentral
 
 *Dhammaregen* nutzt Suttas aus dem Datendepot von [SuttaCentral](https://suttacentral.net). SuttaCentral ist jedoch im Unterschied zu *Dhammaregen* wesentlich umfassender. Es hat den Ansatz, alle existierenden frühen buddhistischen Texte möglichst vollständig zu zeigen. Neben den Quelltexten der Palitradition hat es auch solche, die in chinesischer Übersetzung oder in anderen Sprachen wie Sanskrit, Tibetisch usw. überliefert wurden. Wer die Parallelen zwischen diesen Texten studieren will, ist auf SuttaCentral bestens aufgehoben. SuttaCentral hat auch Übersetzungen in viele verschiedene moderne Sprachen und ist eine wahrhaft internationale Webseite.
 
-*Dhammaregen* hingegen sieht sich als ein Angebot für Menschen, denen die umfassende Fülle auf SuttaCentral zu überwältigend ist. Es umfasst lediglich die Quelltexte des Palikanons und nur [segmentierte](https://github.com/dhammaregen/dhammaregen3/wiki/Voice-%E2%80%93-Segmentierung) deutsche Übersetzungen. Es beschränkt sich gegenwärtig auf einen der drei „Körbe“ des Palikanons, die Suttas (die Lehrreden). Der Vinaya (die Ordenssatzung) und der Abhidhamma (die systematischen Abhandlungen) sind nicht berücksichtigt. Zusätzlich enthält *Dhammaregen* in seinem Wiki-Bereich Info-Material in deutscher Sprache.
+*Dhammaregen* hingegen sieht sich als ein Angebot für Menschen, denen die umfassende Fülle auf SuttaCentral zu überwältigend ist. Es umfasst lediglich die Quelltexte des Palikanon und nur [segmentierte](https://github.com/dhammaregen/dhammaregen3/wiki/Voice-%E2%80%93-Segmentierung) deutsche Übersetzungen. Es beschränkt sich gegenwärtig auf einen der drei „Körbe“ des Palikanon, die Suttas (die Lehrreden). Der Vinaya (die Ordenssatzung) und der Abhidhamma (die systematischen Abhandlungen) sind nicht berücksichtigt. Zusätzlich enthält *Dhammaregen* in seinem Wiki-Bereich Informationsmaterial in deutscher Sprache.
 
 ### FBT- und Dhamma-Essays
-Im [Wiki-Bereich von *Dhammaregen*](#/wiki/inhalt) finden Sie mehrere Wikikarten mit Aufsätzen zu verschiedenen Themembereichen. Dazu zählen mehr wissenschaftliche Aufsätze wie etwa im Abschnitt zur [Buddhismuskunde](#/wiki/buddhismuskunde/inhalt) oder zur [buddhistischen Mythologie](#/wiki/mythologie/inhalt), aber auch die [Dhamma-Regentropfen](#/wiki/tropfen/inhalt) mit leicht lesbaren Texten.
+Im [Wiki-Bereich von *Dhammaregen*](#/wiki/inhalt) finden Sie mehrere Wikikarten mit Aufsätzen zu verschiedenen Themenbereichen. Dazu zählen mehr wissenschaftliche Aufsätze wie etwa im Abschnitt zur [Buddhismuskunde](#/wiki/buddhismuskunde/inhalt) oder zur [buddhistischen Mythologie](#/wiki/mythologie/inhalt), aber auch die [Dhamma-Regentropfen](#/wiki/tropfen/inhalt) mit leicht lesbaren Texten.
 
 Nehmen Sie einen Essay als Ausgangspunkt für eine Wanderung durch den Sutta-Wald. Wenn Suttas in einem Essay erwähnt sind, ist ein Link zu dem entsprechenden Sutta angebracht, sodass Sie das Zitat gleich im Kontext lesen und von dort aus auch weitere Expeditionen antreten können. Wenn Sie möchten, nehmen Sie sicherheitshalber einen Schirm zu Ihrer Wanderung mit: Hier kann es, gemäß dem Motto der [Startseite](#/wiki/startseite), immer ein bisschen feucht sein. Aber ein paar Dhamma-Regentropfen können schließlich nicht schaden … 😉
 

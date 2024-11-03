@@ -33,6 +33,7 @@ Lesen und *hören* Sie [Snp 1.8](#/sutta/snp1.8:0.1/de/sabbamitta) oder [Kp 9](#
 Gute Frage! Der buddhistische Kanon ist tatsächlich alles andere als übersichtlich. Er ist weder chronologisch noch didaktisch geordnet. Die Ordnung, wie wir sie heute finden, erklärt sich aus seiner Entstehungsgeschichte. Der Kanon entstand in einer mündlichen Tradition, wo es darauf ankam, Textsammlungen in geeignetem Umfang zusammenzustellen, damit sie von verschiedenen Gruppen auswendig gelernt und weitergegeben werden konnten; jede Sammlung sollte dabei auch die wesentlichen Lehren enthalten. Das Resultat erscheint uns heute eher chaotisch und bietet nicht viel gute Anhaltspunkte für das Studium.
 
 Ein paar Anregungen, um den Einstieg zu erleichtern:
+- Eine [Übersicht über die Struktur des Kanon](#/wiki/studium/palikanon) 
 - Ein paar [allgemeine Überlegungen zum Lesen der Suttas](#/wiki/studium/suttas-lesen) von Bhante Sujato
 - Bhante Sujatos Aufsatz [*Top Ten Suttas (… und zehn weitere, die sich ebenfalls zu lesen lohnen)*](#/wiki/studium/topten) schlägt beliebte Suttas vor sowie einige weitere, die genauso unsere Aufmerksamkeit verdienen.
 - Die Ausgaben des [*Dhammaregen*-Newsletters](#/wiki/news/inhalt) führen jeweils an eine kleine Zahl von Suttas heran und bieten so kleine „Wanderführer“ für eine Sutta-Wanderung.

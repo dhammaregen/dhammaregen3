@@ -8,7 +8,7 @@ category: Dhammaregen
 order: 2
 ---
 ### Lernen Sie die Suttas kennen
-*Dhamaregen* hat verschiedene Möglichkeiten, sich mit den frühen Lehrredentexten vertraut zu machen.
+*Dhammaregen* hat verschiedene Möglichkeiten, sich mit den frühen Lehrredentexten vertraut zu machen.
 
 Die Webseite ist auf Schlüsselbegriffen aufgebaut, die wichtige Lehrthemen und andere bemerkenswerte Merkmale der Texte repräsentieren. Diese Art des Vorgehens unterstützt ein themenbezogenes, vergleichendes Studium.
 

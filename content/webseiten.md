@@ -30,15 +30,15 @@ Hier finden Sie Webseiten mit den frühen buddhistischen Texten von [SuttaCentra
 
    EBT-Vue3 ist das Front-End-Entwicklungsgerüst, das von folgenden Webseiten genutzt wird:
 
-   - [voice.suttacentral.net](https://voice.suttacentral.net)
-   - [sc-voice.net](https://sc-voice.net)
+   - [SC-Voice.net](https://sc-voice.net)
    - [Dhammaregen](https://dhammaregen.net)
+   - [FR.SC-Voice.net](https://fr.sc-voice.net)
    - Weitere Seiten werden in Zukunft dazukommen.
 
 1. [EBT-Site](https://ebt-site.sc-voice.net)  
    *Eine eigene Webseite mit frühen buddhistischen Texten erstellen*
 
-   EBT-Site3 ist eine Vorlage, um mit den frühen buddhistischen Texten (FBT), die von [SuttaCentral](https://suttacentral.net/?lang=de) bezogen werden, auf der Grundlage von EBT-Vue3 eine individuelle Webseite zu erstellen. Webseiten, die das EBT-Vue3-Programmiergerüsterüst benutzen, können mittels Markdown-Dateien nach Wunsch individuell angepasst werden.
+   EBT-Site ist eine Vorlage, um mit den frühen buddhistischen Texten (FBT), die von [SuttaCentral](https://suttacentral.net/?lang=de) bezogen werden, auf der Grundlage von EBT-Vue3 eine individuelle Webseite zu erstellen. Webseiten, die das EBT-Vue3-Programmiergerüst benutzen, können mittels Markdown-Dateien nach Wunsch individuell angepasst werden.
 
 1. [FR.SC-Voice.net](https://fr.sc-voice.net/#/wiki/toc)
    *SC-Voice in französischer Sprache*
@@ -58,7 +58,7 @@ Webseiten mit frühen buddhistischen Texten aus anderen Quellen als SuttaCentral
 1. [BuddhaNexus](https://buddhanexus.net/)  
    *Datenbank für das Studium buddhistischer Texte*
 
-   BuddhaNexus ist eine Dantenbank, die dem Studium buddhistischer Texte und Literaturkorpora auf Pāli, Sanskrit, Tibetisch und Chinesisch gewidmet ist. Ein besonderer Schwerpunkt liegt auf der Entwicklung der Schriften, der Bildung der Kanons und der Vernetzung der Texte untereinander.
+   BuddhaNexus ist eine Datenbank, die dem Studium buddhistischer Texte und Literaturkorpora auf Pali, Sanskrit, Tibetisch und Chinesisch gewidmet ist. Ein besonderer Schwerpunkt liegt auf der Entwicklung der Schriften, der Bildung der Kanon und der Vernetzung der Texte untereinander.
 
 1. [Suttanta](https://www.suttanta.de/)  
   *Buddhistische Gemeinschaft in der Theravada-Tradition*

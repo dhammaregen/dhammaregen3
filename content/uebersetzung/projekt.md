@@ -11,7 +11,7 @@ order: 1.6
 
 #### Beschreibung
 
-Das Übersetzungsprojekt umfasst die vier Hauptnikāyas des Palikanon sowie die älteren Teile des Khuddaka-Nikāya. Die Übersetzung geht von Bhikkhu Sujatos englischer Übersetzung aus, wie sie auf [SuttaCentral](https://suttacentral.net/?lang=de)) publiziert ist. Die Ziele des Projekts sind: einfaches, leicht verständliches Deutsch; einheitliche Terminologie; möglichst genaue Wiedergabe des Pali; kein Copyright. 
+Das Übersetzungsprojekt umfasst die vier Hauptnikāyas des Palikanon sowie die älteren Teile des Khuddaka-Nikāya. Die Übersetzung geht von Bhikkhu Sujatos englischer Übersetzung aus, wie sie auf [SuttaCentral](https://suttacentral.net/?lang=de) publiziert ist. Die Ziele des Projekts sind: einfaches, leicht verständliches Deutsch; einheitliche Terminologie; möglichst genaue Wiedergabe des Pali; kein Copyright. 
 
 Das Projekt wurde in der zweiten Hälfte von 2019 begonnen und ist noch nicht abgeschlossen.
 
@@ -34,7 +34,7 @@ Alle Texte sind dem [Datendepot von SuttaCentral](https://github.com/suttacentra
 - Zuerst möchte ich Bhante Sujato danken, der die englische Übersetzung angefertigt hat, auf die ich mich bei meinem Projekt stütze. Seine Recherchen und Überlegungen zu schwierigen Passagen hat er in [zahlreichen Aufsätzen](https://discourse.suttacentral.net/tags/ebt-translation) festgehalten, die nicht nur hilfreich, sondern oft auch sehr unterhaltsam zu lesen sind. Zusammen mit dem [Team von SuttaCentral](https://suttacentral.net/acknowledgments?lang=de) unterstützt er auf seiner englischen Version aufbauende Übersetzungen in andere Sprachen, die dann dort der Öffentlichkeit zugänglich gemacht werden. Sadhu, Sadhu, Sadhu!
 - Noch bevor ich mit dem Übersetzungsprojekt begann, hat Karl Lew mich dazu ermutigt und mich von Anfang an in vielerlei Hinsicht unterstützt, sowohl mit seinem technischen Know-how als auch mit vielen fruchtbaren Diskussionen und stetiger moralischer Unterstützung. Worte reichen kaum aus, um meinen Dank dafür zum Ausdruck zu bringen!
 - Eine weitere unschätzbare Hilfe ist die Übersetzungs-Software [Bilara](https://bilara.suttacentral.net), die ursprünglich von Blake Walsh entwickelt wurde und vom SuttaCentral-Team weiterentwickelt wird.
-- Für Rückmeldungen zu meiner Übersetzung und Korrekturlesen danke ich Olivia Haas, Annegret Gratzky, Sabrina Reininger und Wolfgang Neufing.
+- Für Rückmeldungen zu meiner Übersetzung und Korrekturlesen danke ich Olivia Haas, Annegret Gratzky, Julia Grassl, Sabrina Reininger und Wolfgang Neufing.
 - Für kundige Führung durch den Dschungel der deutschen und europäischen Datenschutzgesetze bei der Erstellung dieser Webseite danke ich Klaus Wollsieffer.
 - Des weiteren gilt mein Dank allen, die dieses Projekt wohlwollend begleiten, die ich hier nicht im Einzelnen nennen kann.
 

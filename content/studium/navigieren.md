@@ -12,6 +12,8 @@ order: 1.5
 - Wiki-Karten: zeigen Webseiten-Dokumentation usw.
 - Suchkarten: zeigen Suchbegriffe und zugehörige Ergebnisse
 - Suttakarten: zeigen einzelne Suttas
+- Suttalisten-Karten: zeigen Wiedergabelisten mit mehreren Suttas
+- Wörterbuchkarten: Zeigen Wörterbucheinträge
 - Graphenkarten: zeigen graphische Darstellungen, wie ein Sutta über Schlüsselbegriffe mit anderen Suttas verbunden ist
 
 Ein Tabulator-Menü links oben ermöglicht, zwischen den geöffneten Karten hin- und herzuspringen. Auf großen Bildschirmen können zwei Karten nebeneinander angesehen werden.

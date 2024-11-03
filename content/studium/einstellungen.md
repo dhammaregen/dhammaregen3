@@ -23,7 +23,7 @@ Hinter dem kleinen Zahnrädchen rechts oben verbergen sich verschiedene Einstell
 **Wiedergabe** 
 - Wählen Sie für Deutsch zwischen drei Lesestimmen: Vicki, Hans oder Marlene.
 - Wählen Sie für Pali zwischen Aditis und Bhante Sujatos Stimme. Letztere steht nur für wenige Suttas zur Verfügung; wenn diese Stimme eingestellt ist, werden alle anderen Suttas mit Aditis Stimme abgespielt.
-- Für Vergleihstexte steht keine Lesestimme zur Verfügung.
+- Für Vergleichstexte steht keine Lesestimme zur Verfügung.
 
 - Wählen Sie aus verschiedenen Wiedergabeoptionen:
   - Bis zum Ende des Sutta
