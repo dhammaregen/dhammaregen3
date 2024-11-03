@@ -25,7 +25,7 @@ Im Saccavibhaṅga-Sutta erinnert der Buddha an das Dhammacakka und erwähnt, da
 
 ### 2. Sie kennen: das Mettā-Sutta (--> [Snp 1.8](#/sutta/snp1.8/de/sabbamitta) und --> [Kp 9](#/sutta/kp9/de/sabbamitta))
 
-Das Mettā-Sutta oder Karaṇīyamettā-Sutta findet man bei Snp 1.8 und bei Kp 9. Es ist ein Gedicht über die Tugenden von Mettā, der liebenden Güte. Es besteht aus wunderschönen Strophen, die in ihrer kurzen Spanne die ethischen Grundlagen für die Liebe darlegen, zeigen, wie man sie in der Meditation entwickelt, und beschreiben, wie allumfassende Liebe sich anfühlt. Es muss wenig verwundern, dass es vielleicht die beliebteste Lehrrede zum Rezitieren ist, ob in einer Gruppe oder als Bestandteil der persönlichen Meditation. Viele Menschen rezitieren es gerne, bevor sie sich zum Meditieren hinsetzen, oder hören es im Hintergrund über den Tag.
+Das Mettasutta oder Karaṇīyamettasutta findet man bei Snp 1.8 und bei Kp 9. Es ist ein Gedicht über die Tugenden von Mettā, der liebenden Güte. Es besteht aus wunderschönen Strophen, die in ihrer kurzen Spanne die ethischen Grundlagen für die Liebe darlegen, zeigen, wie man sie in der Meditation entwickelt, und beschreiben, wie allumfassende Liebe sich anfühlt. Es muss wenig verwundern, dass es vielleicht die beliebteste Lehrrede zum Rezitieren ist, ob in einer Gruppe oder als Bestandteil der persönlichen Meditation. Viele Menschen rezitieren es gerne, bevor sie sich zum Meditieren hinsetzen, oder hören es im Hintergrund über den Tag.
 
 ### Warum lesen Sie nicht: das Kodhana-Sutta über Reizbarkeit (--> [AN 7.64](#/sutta/an7.64/de/sabbamitta))
 
@@ -33,7 +33,7 @@ Wenn der positive Impuls des Mettā-Sutta nicht überzeugend genug ist, dann sch
 
 ### 3. Sie kennen: das Maṅgala-Sutta über glückverheißenden Segen (--> [Snp 2.4](#/sutta/snp2.4/de/sabbamitta) und --> [Kp 5](#/sutta/kp5/de/sabbamitta))
 
-Ahh, wie gut, wenn man ein gesegnetes Leben hat, nicht wahr? Aber wie erlangt man diesen Segen, das ist die Frage! Geht es darum, die richtige Gottheit anzubeten, die richtigen Riten auszuführen oder in der richtigen Mondphase ein Opfer darzubringen? Keins von diesen, sagte der Buddha und stellte 38 Arten von „Segen“ vor, die darin bestehen, dass man sein Leben im Einklang mit dem Dhamma führt. Wie so oft, übernimmt der Buddha hier die Sprache der herkömmlichen Religion, aber wendet sie auf eine völlig neue Art an.
+Aah, wie gut, wenn man ein gesegnetes Leben hat, nicht wahr? Aber wie erlangt man diesen Segen, das ist die Frage! Geht es darum, die richtige Gottheit anzubeten, die richtigen Riten auszuführen oder in der richtigen Mondphase ein Opfer darzubringen? Keins von diesen, sagte der Buddha und stellte 38 Arten von „Segen“ vor, die darin bestehen, dass man sein Leben im Einklang mit dem Dhamma führt. Wie so oft, übernimmt der Buddha hier die Sprache der herkömmlichen Religion, aber wendet sie auf eine völlig neue Art an.
 
 ### Warum lesen Sie nicht: das Sigala-Sutta über Ethik für Laien (--> [DN 31](#/sutta/dn31/de/sabbamitta))
 
