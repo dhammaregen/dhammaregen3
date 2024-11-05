@@ -1,0 +1,42 @@
+---
+title: Die Geburt des Buddha und Indras
+description: Bhikkhu Sujato, 2024
+img:  sujato.png
+img-alt: Foto von Bhante Sujato
+order: 3
+---
+
+[Zum Originaltext](https://discourse.suttacentral.net/t/the-births-of-the-buddha-and-indra/36412)
+
+As is well known, the birth stories of great heroes often share many details in common. The Buddha’s birth, detailed in [MN 123](https://suttacentral.net/mn123/en/sujato), shows that such heroic storytelling was already featured from a relatively early time, and more details were added later.
+
+An early version of a heroic birth is recorded in Rig Veda 4.18, which tells of the birth of Indra. Let us make a brief comparison, to see whether any similarities are merely generic, or whether the Buddha’s birth might be modelled after Indra’s.
+
+Right away we are struck with a familiar phrase, as the Veda speaks of the “ancient road” (*ayam panthā anuvittaḥ purāṇo*), an image that recalls [SN 12.65](https://suttacentral.net/sn12.65/en/sujato) (*purāṇaṁ maggaṁ purāṇañjasaṁ*). But whereas the sutta is speaking of a literal lost road, the Veda is speaking of birth: the mother is urging the child to be born vaginally. The mother is not identified here, but later tradition says she was Aditi, who is also regarded as the ancestor of the Buddha’s solar lineage (*ādiccabandhu*).
+
+Indra refuses (2), saying he will be born from her side. This detail is not in the suttas, but later texts often depict the Bodhisatta being born from the mother’s side.
+
+But this highlights another similarity: both babies are conscious and able to speak. And another: Indra’s mother’s request is so that the mother shall not “fall”, invoking the danger to the mother in the time of birth; the Bodhisatta’s mother, of course, died seven days later. Indra’s mother’s possible death is perhaps also alluded to in verse 3. But from the conclusion of the poem it seems that she did survive.
+
+Verse 4 says that she bore him for “a thousand months and many autumns”. Obviously this is not describing a human birth, but numerologically, a thousand is a multiple of ten, the number of months the Bodhisatta is borne. Ten is a number of “grand perfection”, and a thousand is an “astronomical” expansion of the same number, signifying divinity.
+
+Indra is said to have no equal or “counterpart” (*pratimā*); similar phrases are said of the Buddha, and we are reminded of the Bodhisatta’s declaration of supremacy after his birth. The same Vedic phrase speaks of those “born or to be born”, another line with echoes in the suttas.
+
+Next (5) there is an allusion to the shame of a hidden birth, and hence that Indra, being full of heroic energy, stood on his own feet. This recalls the public birth of the Bodhisatta in a park, and that he immediately stood on his own feet. Indra is said to “fill the two world-halves” with his glory; at the Bodhisatta’s birth, a light fills the cosmos.
+
+The Veda goes on to speak somewhat mysteriously about the flowing and babbling waters, rivers that are let loose by Indra; this evokes the primary Indra myth, the slaying of the serpent Vritra and the loosing of the waters. The breaking of the mother’s waters by the child prior to birth is here analogized with the cosmic loosing of waters trapped by the dragon.
+
+When the Bodhisatta is born, two showers of water appear in the sky for bathing the mother and child. Despite the showers, the Bodhisatta is said to be clean from birth, a motif perhaps echoed when Indra is described as the “unlicked calf”.
+
+One of the most striking images of the Bodhisatta’s birth is when, standing on his feet, he takes seven mighty strides to the north and bellows with the “voice of a bull” that he is the first, the eldest. Indra, standing by his own strength, is likewise said to wander immediately after his birth. The Veda refers to the legendary strides of Vishnu (11), a motif that seems to underlie the strides of the Bodhisatta. Moreover, Indra’s bull-like strength is emphasized: “sturdy, powerfully charging, unassailable bull, the brawny”. Note that while Jamison/Brereton translate *sthavira* as “sturdy”, it might also be translated as “elder”, echoing the Bodhisatta’s epithet of “eldest” (*jeṭṭha*).
+
+---
+
+This is just a cursory survey. Of course I have omitted many details that are quite different between the two accounts. As usual, the Vedic account is full of obscurities, for which different translations offer quite different readings. There is also an undercurrent of violence in the Vedic account that is absent from the Buddhist, while contrarily the Buddhist account emphasizes the pure qualities of the mother.
+
+The Vedic account also alludes to several mythic events from the Indra cycle, notably an allusion to the Oedipal motif that Indra kills his father. While this is absent from the Buddhist account, it is still the case that the Buddha unintentionally caused distress to his father with his going forth, and later with Rāhula’s going forth. From a mythic point of view, this can be seen as a gentled recasting of the conflict between father and son.
+
+Myth is in a constant state of revision, tellings and retellings shifting focus, bringing certain elements into light while leaving others to drift into shadow. The ocean of story arises restlessly in waves, of which we see but a reflection of a shape, the murmur of an echo. Who is to say whether one wave has caused another, or whether they both arise from the swelling powers of the deep?
+
+It seems to me that these stories share more in common than we would expect if they were both just generic heroic births. I think it’s culturally expected, boring even, to posit that the stories of the Bodhisatta’s birth drew, directly or indirectly, on Vedic precedents. Clearly they are not the same story, but the sharing of multiple motifs, many of them in the same order, attests that these are stories that live in the same cultural stream, the great Ganges of Indian story.
+
