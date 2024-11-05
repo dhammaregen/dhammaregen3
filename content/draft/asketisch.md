@@ -1,14 +1,14 @@
 ---
 title: Über die asketischen Praktiken
 description: Bhikkhu Sujato, 2024
-img:  sujato.png
-img-alt: Foto von Bhante Sujato
+img:  fast200.png
+img-alt: Bild des ausgemergelten Buddha
 order: 3
 ---
 
 [Zum Originaltext](https://discourse.suttacentral.net/t/on-the-austerities/3837)
 
-There is a stock passage on the various forms of austerities and self-mortification. It’s found in full in [MN 12](#/sutta/mn12/de/sabbamitta), and fully or partially in several other places. It is a fascinating and vivid account, one of the places in the Suttas where the Buddha’s personal experience is described most fully. As you might expect, there are numerous obscure or problematic terms found in the account. Here are some notes on issues that I encountered. It’s not meant as a full account, just some points of interest.
+Es gibt eine Standardpassage über die verschiedenen Arten von Entbehrungen und Selbstquälerei. Man findet sie in voller Länge in [MN 12](#/sutta/mn12/de/sabbamitta) und vollständig oder teilweise an verschiedenen anderen Stellen. Es ist ein faszinierender und lebhafter Bericht, eine der Stellen in den Suttas, an denen die persönliche Erfahrung des Buddha am vollständigsten beschrieben wird. It is a fascinating and vivid account, one of the places in the Suttas where the Buddha’s personal experience is described most fully. As you might expect, there are numerous obscure or problematic terms found in the account. Here are some notes on issues that I encountered. It’s not meant as a full account, just some points of interest.
 
 ### Schafe halten
 
