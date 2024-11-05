@@ -8,17 +8,17 @@ order: 3
 
 [Zum Originaltext](https://discourse.suttacentral.net/t/on-the-austerities/3837)
 
-Es gibt eine Standardpassage über die verschiedenen Arten von Entbehrungen und Selbstquälerei. Man findet sie in voller Länge in [MN 12](#/sutta/mn12/de/sabbamitta) und vollständig oder teilweise an verschiedenen anderen Stellen. Es ist ein faszinierender und lebhafter Bericht, eine der Stellen in den Suttas, an denen die persönliche Erfahrung des Buddha am umfassendsten beschrieben wird. Wie zu erwarten gibt es in diesem Bericht zahlreiche unklare oder problematische Begriffe. Hier sind einige Bemerkungen zu Problemen, die mir begegneten. Sie sind nicht als vollständige Zusammenstellung gedacht, sondern nur als ein paar interessante Punkte. 
+Es gibt eine Standardpassage über die verschiedenen Arten von Entbehrungen und Selbstquälerei. Man findet sie in voller Länge in [MN 12](#/sutta/mn12/de/sabbamitta) und vollständig oder teilweise an verschiedenen anderen Stellen. Es ist eine faszinierende und lebhafte Schilderung, eine der Stellen in den Suttas, an denen die persönliche Erfahrung des Buddha am umfassendsten beschrieben wird. Wie zu erwarten gibt es in dieser Schilderung zahlreiche unklare oder problematische Begriffe. Hier sind einige Bemerkungen zu Problemen, die mir begegneten. Sie sind nicht als vollständige Zusammenstellung gedacht, sondern nur als ein paar interessante Punkte. 
 
 ### Schafe halten
 
-> *na eḷakamantaraṃ na daṇḍamantaraṃ na musalamantaraṃ*
+> *na eḷakamantaraṁ na daṇḍamantaraṁ na musalamantaraṁ*
 
 Dies bezieht sich auf Situationen, in denen ein Jaina oder den Jaina ähnlicher Asket es ablehnt, angebotene Nahrung anzunehmen. Der Ehrwürdige Bodhi übersetzt dies als „jenseits einer Schwelle, jenseits eines Stocks, jenseits eines Stößels“. Diese Übersetzung bleibt vom MN bis zum AN einheitlich. Aber sie ist äußerst unwahrscheinlich. Es gibt eigentlich keinen Beleg für die Vorstellung, *eḷaka* bedeute „Schwelle“. Und obwohl „Stock“ und „Stößel“ unproblematisch sind, ist es die Bedeutung der Wendungen in diesem Zusammenhang  nicht. Und wie wurde *antara* schließlich zu „jenseits“? 
 
 Die ganze Übersetzung erweckt den Eindruck, als wären die Regeln der Jainas bizarr und willkürlich gewesen. Und obwohl sie in ihrer Anwendung oft extrem erscheinen, sind die Sittenregeln der Jainas aber tatsächlich ausgesprochen rational und leiten sich ganz ausdrücklich von von ihrem wichtigsten Wert der Gewaltlosigkeit ab. 
 
-Lassen sie uns nach der gewöhnlichen, alltäglichen Bedeutung dieser Begriffe übersetzen: 
+Lassen Sie uns nach der gewöhnlichen, alltäglichen Bedeutung dieser Begriffe übersetzen: 
 
 * *eḷaka* = Schaf
 * *daṇḍa* = Stock, d. h. Waffe 
@@ -33,13 +33,13 @@ Nun ist es vollkommen einleuchtend. Ein Jaina hätte kein Essen annehmen wollen 
 
 Dessen ungeachtet gibt es noch eine andere mögliche Lesart für *musala*. In [MN 81](#/sutta/mn81/de/sabbamitta) wird der ideale Laienschüler Ghaṭīkāra in leuchtenden Ausdrücken geschildert, darunter auch, dass er eine Reihe von Mönchsregeln einhielt. Eine davon ist, dass er, obwohl sein Lebensunterhalt die Töpferei ist, nicht die Erde umgräbt, weder mit der Hand noch mit einem *musala*. Hier muss *musala* irgendeine Art von Hacke oder Schaufel bedeuten. Das würde auch im Zusammenhang mit den Jainas Sinn ergeben, da sie die Erde als lebendiges Gebilde betrachteten und es nicht verletzt hätten. Daher hätten sie vielleicht kein Almosen von einem Haus mit Grabwerkzeugen angenommen. 
 
-Nebenbei bemerkt sind diese Einschränkungen, als eine reizende Ironie der Geschichte, der Grund, dass die Jainas heute eine wohlhabende Gemeinschaft sind. Da sie keinen Ackerbau betreiben konnten, wandten sie sich dem Handel zu, der damals mühsam war, sich aber langfristig als viel rentabler erwies. 
+Nebenbei bemerkt sind diese Einschränkungen, als eine reizende Ironie der Geschichte, der Grund, dass die Jainas heute eine wohlhabende Gemeinschaft sind. Da sie keinen Ackerbau betreiben konnten, wandten sie sich dem Handel zu, der damals mühsam war, sich aber langfristig als viel profitabler erwies. 
 
 ### Bier
 
 In the same passage we find:
 
-> *na suraṃ na merayaṃ na thusodakaṃ pivāmi*
+> *na suraṁ na merayaṁ na thusodakaṁ pivāmi*
 
 *Thusodaka* is obscure, and only found in this stock phrase. From the context, it evidently refers to some kind of liquor. *Thusa* means the husks or chaff of grain. The commentary says it’s a brew fermented from grain. Beer is one of the most widespread and ancient of brews. Often it would be a much coarser thing than we know today, a thick breadish brew.
 
@@ -48,8 +48,6 @@ It’s curious that there’s no common word for beer in Pali, but I think this 
 ### Knotige Gelenke
 
 Some of the most memorable imagery comes when the Buddha describes his extreme state of emaciation due to fasting. You’ve all seen the images.
-
-![image](upload://uRbmOqSQloJP7q0YSZsJTW25TrQ)
 
 The Buddha gives a series of similes to describe his emaciation, the first of which says that his limbs had become like:
 
