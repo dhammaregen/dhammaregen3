@@ -8,32 +8,32 @@ order: 3
 
 [Zum Originaltext](https://discourse.suttacentral.net/t/on-the-austerities/3837)
 
-Es gibt eine Standardpassage über die verschiedenen Arten von Entbehrungen und Selbstquälerei. Man findet sie in voller Länge in [MN 12](#/sutta/mn12/de/sabbamitta) und vollständig oder teilweise an verschiedenen anderen Stellen. Es ist ein faszinierender und lebhafter Bericht, eine der Stellen in den Suttas, an denen die persönliche Erfahrung des Buddha am vollständigsten beschrieben wird. It is a fascinating and vivid account, one of the places in the Suttas where the Buddha’s personal experience is described most fully. As you might expect, there are numerous obscure or problematic terms found in the account. Here are some notes on issues that I encountered. It’s not meant as a full account, just some points of interest.
+Es gibt eine Standardpassage über die verschiedenen Arten von Entbehrungen und Selbstquälerei. Man findet sie in voller Länge in [MN 12](#/sutta/mn12/de/sabbamitta) und vollständig oder teilweise an verschiedenen anderen Stellen. Es ist ein faszinierender und lebhafter Bericht, eine der Stellen in den Suttas, an denen die persönliche Erfahrung des Buddha am umfassendsten beschrieben wird. Wie zu erwarten gibt es in diesem Bericht zahlreiche unklare oder problematische Begriffe. Hier sind einige Bemerkungen zu Problemen, die mir begegneten. Sie sind nicht als vollständige Zusammenstellung gedacht, sondern nur als ein paar interessante Punkte. 
 
 ### Schafe halten
 
 > *na eḷakamantaraṃ na daṇḍamantaraṃ na musalamantaraṃ*
 
-This refers to situations where a Jain or Jain-like ascetic would refuse to accept offered food. Ven Bodhi translates this as “across a threshold, across a stick, across a pestle”. This translation remains consistent from MN to AN. But it seems highly unlikely. There’s basically no support for the idea that *eḷaka* means “threshold”. And while “stick” and “pestle” are straightforward, the meaning of the phrases in this context is not. Finally, how did *antara* become “across”?
+Dies bezieht sich auf Situationen, in denen ein Jaina oder den Jaina ähnlicher Asket es ablehnt, angebotene Nahrung anzunehmen. Der Ehrwürdige Bodhi übersetzt dies als „jenseits einer Schwelle, jenseits eines Stocks, jenseits eines Stößels“. Diese Übersetzung bleibt vom MN bis zum AN einheitlich. Aber sie ist äußerst unwahrscheinlich. Es gibt eigentlich keinen Beleg für die Vorstellung, *eḷaka* bedeute „Schwelle“. Und obwohl „Stock“ und „Stößel“ unproblematisch sind, ist es die Bedeutung der Wendungen in diesem Zusammenhang  nicht. Und wie wurde *antara* schließlich zu „jenseits“? 
 
-The whole translation gives the impression that the Jain rules were weird and arbitrary. However, while they often seem extreme in their application, Jain ethics are in fact highly rational, and follow very explicitly from their core value of non-violence.
+Die ganze Übersetzung erweckt den Eindruck, als wären die Regeln der Jainas bizarr und willkürlich gewesen. Und obwohl sie in ihrer Anwendung oft extrem erscheinen, sind die Sittenregeln der Jainas aber tatsächlich ausgesprochen rational und leiten sich ganz ausdrücklich von von ihrem wichtigsten Wert der Gewaltlosigkeit ab. 
 
-Let’s translate according to the ordinary, everyday meanings of these terms.
+Lassen sie uns nach der gewöhnlichen, alltäglichen Bedeutung dieser Begriffe übersetzen: 
 
-* *eḷaka* = sheep
-* *daṇḍa* = staff, i.e. weapon
-* *musala* = pestle, but also “club”
-* *antara* = within
+* *eḷaka* = Schaf
+* *daṇḍa* = Stock, d. h. Waffe 
+* *musala* = Stößel, aber auch Knüppel 
+* *antara* = innerhalb
 
-An ascetic would not accept food:
+Ein Asket würde demnach kein Essen annehmen: 
 
-> where there is a sheep kept inside, or a weapon or a club kept inside.
+> wo drinnen ein Schaf gehalten wird oder eine Waffe oder ein Knüppel 
 
-Now it makes perfect sense. A Jain would not want to accept food where animals were kept for slaughter, or where the ownership of weapons showed a propensity for violence.
+Nun ist es vollkommen einleuchtend. Ein Jaina hätte kein Essen annehmen wollen von da, wo Tiere zum Schlachten gehalten wurden oder wo der Besitz von Waffen eine Bereitschaft zur Gewalt zeigte. 
 
-Having said this, there is another possible reading of *musala*. In [MN 81](#/sutta/mn81/de/sabbamitta), the ideal lay disciple Ghaṭīkāra is described in glowing terms, including following a number of monastic rules. one of these is that, even though his livelihood is pottery, he does not dig the earth, either by hand or with a *musala*. Here *musala* must mean a pick or shovel of some kind. This would also make sense in the Jain context, as they regarded earth as a living entity and would not harm it. So perhaps they would not take alms at a house with digging implements.
+Dessen ungeachtet gibt es noch eine andere mögliche Lesart für *musala*. In [MN 81](#/sutta/mn81/de/sabbamitta) wird der ideale Laienschüler Ghaṭīkāra in leuchtenden Ausdrücken geschildert, darunter auch, dass er eine Reihe von Mönchsregeln einhielt. Eine davon ist, dass er, obwohl sein Lebensunterhalt die Töpferei ist, nicht die Erde umgräbt, weder mit der Hand noch mit einem *musala*. Hier muss *musala* irgendeine Art von Hacke oder Schaufel bedeuten. Das würde auch im Zusammenhang mit den Jainas Sinn ergeben, da sie die Erde als lebendiges Gebilde betrachteten und es nicht verletzt hätten. Daher hätten sie vielleicht kein Almosen von einem Haus mit Grabwerkzeugen angenommen. 
 
-Incidentally, such restrictions are, in one of those lovely ironies of history, why the Jains are today a wealthy community. Unable to farm, they turned to trade, which was a struggle at the time, but in the long term turned out to be much more profitable.
+Nebenbei bemerkt sind diese Einschränkungen, als eine reizende Ironie der Geschichte, der Grund, dass die Jainas heute eine wohlhabende Gemeinschaft sind. Da sie keinen Ackerbau betreiben konnten, wandten sie sich dem Handel zu, der damals mühsam war, sich aber langfristig als viel rentabler erwies. 
 
 ### Bier
 
