@@ -37,13 +37,13 @@ Nebenbei bemerkt sind diese Einschränkungen, als eine reizende Ironie der Gesch
 
 ### Bier
 
-In the same passage we find:
+In der selben Passage finden wir: 
 
 > *na suraṁ na merayaṁ na thusodakaṁ pivāmi*
 
-*Thusodaka* is obscure, and only found in this stock phrase. From the context, it evidently refers to some kind of liquor. *Thusa* means the husks or chaff of grain. The commentary says it’s a brew fermented from grain. Beer is one of the most widespread and ancient of brews. Often it would be a much coarser thing than we know today, a thick breadish brew.
+*Thusodaka* ist unklar und findet sich nur in dieser Standardwendung. Nach dem Zusammenhang zu urteilen bezieht es sich auf eine Art von alkoholischem Getränk. *Thusa* bedeutet Spelzen oder Spreu von Getreide. Der Kommentar sagt, es sei ein aus Getreide gegorener Sud. Bier ist einer der am weitesten verbreiteten und ältesten Sude. Oft war es sicher etwas sehr viel Gröberes als das, was wir heute kennen, ein dickflüssiges, brotartiges Gebräu. 
 
-It’s curious that there’s no common word for beer in Pali, but I think this must be it. *Thusodaka* refers to that fundamental pillar of civilization, beer.
+Es ist merkwürdig, dass es kein allgemeines Wort für Bier im Pali gibt, aber ich denke, das muss es sein. *Thusodaka* bezieht sich auf diese elementare Säule der Zivilisation, das Bier. 
 
 ### Knotige Gelenke
 
