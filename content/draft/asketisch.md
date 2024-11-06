@@ -14,9 +14,9 @@ Es gibt eine Standardpassage über die verschiedenen Arten von Entbehrungen und 
 
 > *na eḷakamantaraṁ na daṇḍamantaraṁ na musalamantaraṁ*
 
-Dies bezieht sich auf Situationen, in denen ein Jaina oder den Jaina ähnlicher Asket es ablehnt, angebotene Nahrung anzunehmen. Der Ehrwürdige Bodhi übersetzt dies als „jenseits einer Schwelle, jenseits eines Stocks, jenseits eines Stößels“. Diese Übersetzung bleibt vom MN bis zum AN einheitlich. Aber sie ist äußerst unwahrscheinlich. Es gibt eigentlich keinen Beleg für die Vorstellung, *eḷaka* bedeute „Schwelle“. Und obwohl „Stock“ und „Stößel“ unproblematisch sind, ist es die Bedeutung der Wendungen in diesem Zusammenhang  nicht. Und wie wurde *antara* schließlich zu „jenseits“? 
+Dies bezieht sich auf Situationen, in denen ein Jaina oder den Jaina ähnlicher Asket es ablehnt, angebotene Nahrung anzunehmen. Der Ehrwürdige Bodhi übersetzt dies als „über eine Schwelle hinweg, über einen Stock hinweg, über einen Stößel hinweg“. Diese Übersetzung bleibt vom MN bis zum AN einheitlich. Aber sie ist äußerst unwahrscheinlich. Es gibt eigentlich keinen Beleg für die Vorstellung, *eḷaka* bedeute „Schwelle“. Und obwohl „Stock“ und „Stößel“ unproblematisch sind, ist es die Bedeutung der Wendungen in diesem Zusammenhang  nicht. Und wie wurde *antara* schließlich zu „über … hinweg“? 
 
-Die ganze Übersetzung erweckt den Eindruck, als wären die Regeln der Jainas bizarr und willkürlich gewesen. Und obwohl sie in ihrer Anwendung oft extrem erscheinen, sind die Sittenregeln der Jainas aber tatsächlich ausgesprochen rational und leiten sich ganz ausdrücklich von von ihrem wichtigsten Wert der Gewaltlosigkeit ab. 
+Die ganze Übersetzung erweckt den Eindruck, als wären die Regeln der Jainas bizarr und willkürlich gewesen. Und obwohl sie in ihrer Anwendung oft extrem erscheinen, sind die Sittenregeln der Jainas aber tatsächlich ausgesprochen rational und leiten sich ganz ausdrücklich von ihrem wichtigsten Wert der Gewaltlosigkeit ab. 
 
 Lassen Sie uns nach der gewöhnlichen, alltäglichen Bedeutung dieser Begriffe übersetzen: 
 
@@ -31,7 +31,7 @@ Ein Asket würde demnach kein Essen annehmen:
 
 Nun ist es vollkommen einleuchtend. Ein Jaina hätte kein Essen annehmen wollen von da, wo Tiere zum Schlachten gehalten wurden oder wo der Besitz von Waffen eine Bereitschaft zur Gewalt zeigte. 
 
-Dessen ungeachtet gibt es noch eine andere mögliche Lesart für *musala*. In [MN 81](#/sutta/mn81:18.12/de/sabbamitta) wird der ideale Laienschüler Ghaṭīkāra in leuchtenden Ausdrücken geschildert, darunter auch, dass er eine Reihe von Mönchsregeln einhielt. Eine davon ist, dass er, obwohl sein Lebensunterhalt die Töpferei ist, nicht die Erde umgräbt, weder mit der Hand noch mit einem *musala*. Hier muss *musala* irgendeine Art von Hacke oder Schaufel bedeuten. Das würde auch im Zusammenhang mit den Jainas Sinn ergeben, da sie die Erde als lebendiges Gebilde betrachteten und es nicht verletzt hätten. Daher hätten sie vielleicht kein Almosen von einem Haus mit Grabwerkzeugen angenommen. 
+Dessen ungeachtet gibt es noch eine andere mögliche Lesart für *musala*. In [MN 81](#/sutta/mn81:18.12/de/sabbamitta) wird der ideale Laienschüler Ghaṭīkāra in überschwänglichen Ausdrücken geschildert, darunter auch, dass er eine Reihe von Mönchsregeln einhielt. Eine davon ist, dass er, obwohl sein Lebensunterhalt die Töpferei ist, nicht die Erde umgräbt, weder mit der Hand noch mit einem *musala*. Hier muss *musala* irgendeine Art von Hacke oder Schaufel bedeuten. Das würde auch im Zusammenhang mit den Jainas Sinn ergeben, da sie die Erde als lebendiges Gebilde betrachteten und es nicht verletzt hätten. Daher hätten sie vielleicht kein Almosen von einem Haus mit Grabwerkzeugen angenommen. 
 
 Nebenbei bemerkt sind diese Einschränkungen, als eine reizende Ironie der Geschichte, der Grund, dass die Jainas heute eine wohlhabende Gemeinschaft sind. Da sie keinen Ackerbau betreiben konnten, wandten sie sich dem Handel zu, der damals mühsam war, sich aber langfristig als viel profitabler erwies. 
 
