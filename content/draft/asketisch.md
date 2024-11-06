@@ -8,7 +8,7 @@ order: 3
 
 [Zum Originaltext](https://discourse.suttacentral.net/t/on-the-austerities/3837)
 
-Es gibt eine Standardpassage über die verschiedenen Arten von Entbehrungen und Selbstquälerei. Man findet sie in voller Länge in [MN 12](#/sutta/mn12/de/sabbamitta) und vollständig oder teilweise an verschiedenen anderen Stellen. Es ist eine faszinierende und lebhafte Schilderung, eine der Stellen in den Suttas, an denen die persönliche Erfahrung des Buddha am umfassendsten beschrieben wird. Wie zu erwarten gibt es in dieser Schilderung zahlreiche unklare oder problematische Begriffe. Hier sind einige Bemerkungen zu Problemen, die mir begegneten. Sie sind nicht als vollständige Zusammenstellung gedacht, sondern nur als ein paar interessante Punkte. 
+Es gibt eine Standardpassage über die verschiedenen Arten von Entbehrungen und Selbstquälerei. Man findet sie in voller Länge in [MN 12](#/sutta/mn12:45.1/de/sabbamitta) und vollständig oder teilweise an verschiedenen anderen Stellen. Es ist eine faszinierende und lebhafte Schilderung, eine der Stellen in den Suttas, an denen die persönliche Erfahrung des Buddha am umfassendsten beschrieben wird. Wie zu erwarten gibt es in dieser Schilderung zahlreiche unklare oder problematische Begriffe. Hier sind einige Bemerkungen zu Problemen, die mir begegneten. Sie sind nicht als vollständige Zusammenstellung gedacht, sondern nur als ein paar interessante Punkte. 
 
 ### Schafe halten
 
@@ -31,7 +31,7 @@ Ein Asket würde demnach kein Essen annehmen:
 
 Nun ist es vollkommen einleuchtend. Ein Jaina hätte kein Essen annehmen wollen von da, wo Tiere zum Schlachten gehalten wurden oder wo der Besitz von Waffen eine Bereitschaft zur Gewalt zeigte. 
 
-Dessen ungeachtet gibt es noch eine andere mögliche Lesart für *musala*. In [MN 81](#/sutta/mn81/de/sabbamitta) wird der ideale Laienschüler Ghaṭīkāra in leuchtenden Ausdrücken geschildert, darunter auch, dass er eine Reihe von Mönchsregeln einhielt. Eine davon ist, dass er, obwohl sein Lebensunterhalt die Töpferei ist, nicht die Erde umgräbt, weder mit der Hand noch mit einem *musala*. Hier muss *musala* irgendeine Art von Hacke oder Schaufel bedeuten. Das würde auch im Zusammenhang mit den Jainas Sinn ergeben, da sie die Erde als lebendiges Gebilde betrachteten und es nicht verletzt hätten. Daher hätten sie vielleicht kein Almosen von einem Haus mit Grabwerkzeugen angenommen. 
+Dessen ungeachtet gibt es noch eine andere mögliche Lesart für *musala*. In [MN 81](#/sutta/mn81:18.12/de/sabbamitta) wird der ideale Laienschüler Ghaṭīkāra in leuchtenden Ausdrücken geschildert, darunter auch, dass er eine Reihe von Mönchsregeln einhielt. Eine davon ist, dass er, obwohl sein Lebensunterhalt die Töpferei ist, nicht die Erde umgräbt, weder mit der Hand noch mit einem *musala*. Hier muss *musala* irgendeine Art von Hacke oder Schaufel bedeuten. Das würde auch im Zusammenhang mit den Jainas Sinn ergeben, da sie die Erde als lebendiges Gebilde betrachteten und es nicht verletzt hätten. Daher hätten sie vielleicht kein Almosen von einem Haus mit Grabwerkzeugen angenommen. 
 
 Nebenbei bemerkt sind diese Einschränkungen, als eine reizende Ironie der Geschichte, der Grund, dass die Jainas heute eine wohlhabende Gemeinschaft sind. Da sie keinen Ackerbau betreiben konnten, wandten sie sich dem Handel zu, der damals mühsam war, sich aber langfristig als viel profitabler erwies. 
 
