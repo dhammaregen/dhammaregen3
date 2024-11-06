@@ -43,7 +43,7 @@ In der selben Passage finden wir:
 
 *Thusodaka* ist unklar und findet sich nur in dieser Standardwendung. Nach dem Zusammenhang zu urteilen bezieht es sich auf eine Art von alkoholischem Getränk. *Thusa* bedeutet Spelzen oder Spreu von Getreide. Der Kommentar sagt, es sei ein aus Getreide gegorener Sud. Bier ist einer der am weitesten verbreiteten und ältesten Sude. Oft war es sicher etwas sehr viel Gröberes als das, was wir heute kennen, ein dickflüssiges, brotartiges Gebräu. 
 
-Es ist merkwürdig, dass es kein allgemeines Wort für Bier im Pali gibt, aber ich denke, das muss es sein. *Thusodaka* bezieht sich auf diese elementare Säule der Zivilisation, das Bier. 
+Es ist merkwürdig, dass es kein allgemeines Wort für Bier im Pali gibt, aber ich denke, das muss es sein. *Thusodaka* bezieht sich auf diese fundamentale Säule der Zivilisation, das Bier. 
 
 ### Knotige Gelenke
 
