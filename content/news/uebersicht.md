@@ -8,6 +8,10 @@ order: -9999
 
 Hier finden Sie eine kurze Themenübersicht der bisher erschienenen Newsletter. Klicken sie auf die Überschrift, um zu einem Newsletter zu gelangen.
 
+### [Dezember 2024](#/wiki/news/2024-12)
+- Wenn am Himmel des Lebens dunkle Gewitterwolken aufziehen … (MN 8)
+- Dhp 354
+
 ### [November 2024](#/wiki/news/2024-11)
 - Große Füße, die Spuren hinterlassen (MN 27, MN 28)
 - Würdigung eines Lebens im Geist des Dhamma (Akincana)
