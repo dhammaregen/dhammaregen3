@@ -1,6 +1,6 @@
 ---
 title: Saccavadis Geschichte
-description: Veröffentlicht von Bhikkhu Sujato, 2010
+description: Situation der Nonnen in Myanmar
 img:  myanmar.png
 img-alt: Foto der Schwedagon-Pagode
 link: https://commons.wikimedia.org/wiki/File:SHWE_DAGON_BUDDIST_PAGODA_YANGON_MYANMA_JAN2013_(8492353053).jpg
