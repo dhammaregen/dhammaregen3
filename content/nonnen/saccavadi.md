@@ -4,7 +4,7 @@ description: Veröffentlicht von Bhikkhu Sujato, 2010
 img:  myanmar.png
 img-alt: Foto der Schwedagon-Pagode
 link: https://commons.wikimedia.org/wiki/File:SHWE_DAGON_BUDDIST_PAGODA_YANGON_MYANMA_JAN2013_(8492353053).jpg
-order: 8
+order: -1
 ---
 
 *Übersetzung eines Artikels, den Bhante Sujato im Februar 2010 mit einem kleinen Kommentar versehen und auf seinem Blog veröffentlicht hat.*

@@ -3,7 +3,7 @@ title: In Memoriam – Ehrwürdige Ayyā Mie Vimalā
 description: Bhikkhu Bodhi, 2023
 img: mievimala.png
 img-alt: Ayya Mie Vimala 2019
-order: -1
+order: -2
 ---
 
 [Zum Originaltext](https://discourse.suttacentral.net/t/the-passing-of-a-generation-in-memory-of-ven-ayya-mie-vimala-of-konigsberg/27835/5?u=sabbamitta)
