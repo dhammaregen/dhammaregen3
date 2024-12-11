@@ -1,5 +1,5 @@
 ---
-title: Nonnen
+title: Buddhistische Nonnen
 description: Der weibliche Orden im Buddhismus
 img: nuns.png
 img-alt: Nonnen beim Almosengang
@@ -8,4 +8,4 @@ category: Weitere Informationen
 order: 2.5
 ---
 
-Die Situation für Nonnen im Buddhismus ist völlig anders als die für Mönche. Die Artikel in dieser Rubrik zeigen Nonnen mit ihren Schwierigkeiten und Erfolgen.
+Die Situation der Nonnen im Buddhismus ist völlig anders als die der Mönche. Sie sind Pionierinnen und haben um ihre Anerkennung zu kämpfen. Die Artikel in dieser Rubrik zeigen Nonnen mit ihren Schwierigkeiten und Erfolgen.
