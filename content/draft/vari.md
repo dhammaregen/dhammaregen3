@@ -28,7 +28,7 @@ Text here:
 
 Translation and study here:
 
-https://archive.org/details/in.ernet.dli.2015.322298/page/7/mode/2up
+[https://archive.org/details/in.ernet.dli.2015.322298/page/7/mode/2up](https://archive.org/details/in.ernet.dli.2015.322298/page/7/mode/2up)
 
 The relevant section, chapter 29, has a series of verses attributed to *vaddhamāṇa*, who rather curiously in the Jain tradition is not identified with their teacher Mahāvīra Vardhamāna, but with another sage. However this seems to be incorrect, not least because the same teaching is ascribed to him in Pali too. Thus we can assume this in, in fact, attributed to Mahāvīra.
 
@@ -166,7 +166,7 @@ Thus we can translate:
 > *sabbavārivārito sabbavāriyutto sabbavāridhuto sabbavāriphuṭo*
 > (A Jain ascetic) is restrained in all restraints, is bridled in all restraints, has shaken off evil in all restraints, and is curbed in all restraints.
 
-Note (A.d.Ü.): Inzwischen lautet die Übersetzung:
+Note [A.d.Ü.]: Inzwischen lautet die Übersetzung:  
 > It’s when a Jain ascetic is restrained in all that is to be restrained, is bridled in all that is to be restrained, has shaken off evil in all that is to be restrained, and is curbed in all that is to be restrained.
 
 > Da ist ein Jaina-Asket in allem, was zu zügeln ist, gezügelt, in allem, was zu zügeln ist, im Zaum gehalten, hat in allem, was zu zügeln ist, das Böse abgeschüttelt und und hat sich in allem, was zu zügeln ist, Einhalt geboten.

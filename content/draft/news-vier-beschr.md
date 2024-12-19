@@ -14,7 +14,7 @@ Ob das bei den frühen Buddhisten auch der Fall war, ist gar nicht so leicht zu 
 
 Aus diesem Grund haben 
 
-Eine der wenigen Religionen, die bis heute existieren, ist der Jainismus. Und es gibt sogar Jaina-Texte, die aber alle jünger sind als die buddhistischen. Inwiefern spiegeln Aussagen in diesen Texten also Überzeugungen wieder, die die Jainas, denen der Buddha begegnete, hatten? Immerhin ist ein kleiner Anhaltspunkt mehr als gar kein Anhaltspunkt. Immerhin.
+Eine der wenigen Religionen, die bis heute existieren, ist der Jainismus. Und er hat sogar schriftliche Zeugnisse hinterlassen, die aber alle jünger sind als die frühen buddhistischen Texte. Inwiefern spiegeln Aussagen in diesen Texten also Überzeugungen wieder, die die Jainas, denen der Buddha begegnete, hatten? Immerhin ist ein kleiner Anhaltspunkt mehr als gar kein Anhaltspunkt. Immerhin.
 
 [https://discourse.suttacentral.net/t/on-vari-and-the-restraint-of-mahavira/31388](https://discourse.suttacentral.net/t/on-vari-and-the-restraint-of-mahavira/31388)
 
