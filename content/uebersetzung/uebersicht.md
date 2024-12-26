@@ -15,7 +15,7 @@ Bitte klicken Sie auf `Such mir etwas aus!` oder geben Sie Suchbegriffe ins Such
 
 ### Bisher liegen folgende Suttas auf *Dhammaregen* vor:
 - Dīgha-Nikāya: vollständig
-- Majjhima-Nikāya: MN 1-78, MN 81-82, MN 93, MN 109, MN 113, MN 116, MN 118-119, MN 122, MN 128, MN 131-134, MN 139-141, MN 143-147
+- Majjhima-Nikāya: MN 1-82, MN 93, MN 109, MN 113, MN 116, MN 118-119, MN 122, MN 128, MN 131-134, MN 139-141, MN 143-147
 - Saṁyutta-Nikāya: vollständig
 - Aṅguttara-Nikāya: vollständig
 - Khuddaka-Nikāya: 
@@ -27,7 +27,7 @@ Bitte klicken Sie auf `Such mir etwas aus!` oder geben Sie Suchbegriffe ins Such
   - Theragāthā: vollständig
   - Therīgāthā: vollständig
   - Cariyāpiṭaka: Cp 1-34
-  - Jātaka: Ja 1-16
+  - Jātaka: Ja 1-20
   - Milindapañha: Mil 3.1.1
 
 Neue Texte kommen laufend hinzu, die vorhandenen werden regelmäßig aktualisiert.
