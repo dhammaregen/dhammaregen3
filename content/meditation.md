@@ -20,6 +20,6 @@ Im Unterschied zum theoretischen Studium, das man gut mithilfe der überlieferte
 
 Eine reduzierte Version mit deutlich geringerem Datenvolumen und etwas reduzierter Tonqualität gibt es [auf dem SuttaCentral-Diskussionsforum](https://discourse.suttacentral.net/t/bhante-sujato-metta-meditation-retreat-2013/8443).
 
-Für die iSangha-Gruppe des [Klosters Tilorien](https://www.samita.be/de/tilorien-monastery/) in Belgien wird von Silashin Sabbamitta einmal im Monat eine angeleitete Meditation in deutscher Sprache angeboten (überwiegend, aber nicht ausschließlich Mettameditation). Die Meditation findet jeweils am zweiten Dienstag eines Monats von 18:00 bis 19:00 Uhr ME(S)Z statt.
+Für die [iSangha-Gruppe](https://www.samita.be/de/isangha/) des [Klosters Tilorien](https://www.samita.be/de/tilorien-monastery/) in Belgien wird von Silashin Sabbamitta einmal im Monat eine angeleitete Meditation in deutscher Sprache angeboten (überwiegend, aber nicht ausschließlich Mettameditation). Die Meditation findet jeweils am zweiten Dienstag eines Monats von 18:00 bis 19:00 Uhr ME(S)Z statt.
 
 Bei Interesse senden Sie bitte eine Email an [dhammaregen@gmail.com](mailto:dhammaregen@gmail.com), damit Sie in den Verteiler aufgenommen werden und die Zoom-Zugangsdaten erhalten können.
