@@ -18,6 +18,8 @@ Alle drei bauen aufeinander auf und durchdringen einander zutiefst. Grob kann ma
 
 Im Unterschied zum theoretischen Studium, das man gut mithilfe der überlieferten Texte durchführen kann, erfordert die Praxis der Meditation Anleitung durch erfahrene menschliche Meditationslehrer. Hier finden Sie Audioaufnahmen einer Metta-Meditationsklausur, die Bhante Sujato 2013 in Deutschland unterrichtete und die zusammen mit einer deutschen Übersetzung aufgenommen wurde: [Metta-Klausur 2013](https://drive.google.com/drive/folders/1pUp7S5zVJaSAKbCwlL6VNYSfPm54QBxt?usp=sharing)
 
+Eine reduzierte Version mit deutlich geringerem Datenvolumen und etwas reduzierter Tonqualität gibt es [auf dem SuttaCentral-Diskussionsforum](https://discourse.suttacentral.net/t/bhante-sujato-metta-meditation-retreat-2013/8443).
+
 Für die iSangha-Gruppe des [Klosters Tilorien](https://www.samita.be/de/tilorien-monastery/) in Belgien wird von Silashin Sabbamitta einmal im Monat eine angeleitete Meditation in deutscher Sprache angeboten (überwiegend, aber nicht ausschließlich Mettameditation). Die Meditation findet jeweils am zweiten Dienstag eines Monats von 18:00 bis 19:00 Uhr ME(S)Z statt.
 
 Bei Interesse senden Sie bitte eine Email an [dhammaregen@gmail.com](mailto:dhammaregen@gmail.com), damit Sie in den Verteiler aufgenommen werden und die Zoom-Zugangsdaten erhalten können.
