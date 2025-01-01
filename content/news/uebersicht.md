@@ -8,6 +8,13 @@ order: -9999
 
 Hier finden Sie eine kurze Themenübersicht der bisher erschienenen Newsletter. Klicken sie auf die Überschrift, um zu einem Newsletter zu gelangen.
 
+### [Januar 2025](#/wiki/news/2025-01)
+- Wozu all das Glück? (MN 8, MN 139, MN 36)
+- Was ist der Zweck? (AN 11.1, DN 16)
+- Vertiefung oder klares Sehen? (AN 6.46)
+- Iti 2
+- Infoseite Meditation
+
 ### [Dezember 2024](#/wiki/news/2024-12)
 - Wenn am Himmel des Lebens dunkle Gewitterwolken aufziehen … (MN 8)
 - Dhp 354
