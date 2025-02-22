@@ -3,7 +3,7 @@ title: Was ist ein Pāsāda?
 description: Bhikkhu Brahmali, 2016
 img:  brahmali.png
 img-alt: Foto von Ajahn Brahmali
-order: 3
+order: 10
 ---
 
 [Zum Originaltext](https://discourse.suttacentral.net/t/what-is-a-pasada/3083)
