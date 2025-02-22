@@ -1,5 +1,5 @@
 ---
-title: Was ist ein Pāsāda?
+title: Was ist ein *pāsāda*?
 description: Bhikkhu Brahmali, 2016
 img:  brahmali.png
 img-alt: Foto von Ajahn Brahmali
