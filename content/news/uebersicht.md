@@ -8,6 +8,13 @@ order: -9999
 
 Hier finden Sie eine kurze Themenübersicht der bisher erschienenen Newsletter. Klicken sie auf die Überschrift, um zu einem Newsletter zu gelangen.
 
+### [März 2025](#/wiki/news/2025-03)
+- Ein Pfahl-Langhaus (MN 85)
+- Nonnen im Buddhismus
+- Thig 3.3
+- Rubrik „Buddhistische Nonnen“
+- Essay: Was ist ein Pāsāda?
+
 ### [Januar 2025](#/wiki/news/2025-01)
 - Wozu all das Glück? (MN 8, MN 139, MN 36)
 - Was ist der Zweck? (AN 11.1, DN 16)
