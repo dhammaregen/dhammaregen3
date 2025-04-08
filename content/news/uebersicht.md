@@ -8,6 +8,12 @@ order: -9999
 
 Hier finden Sie eine kurze Themenübersicht der bisher erschienenen Newsletter. Klicken sie auf die Überschrift, um zu einem Newsletter zu gelangen.
 
+### [April 2025](#/wiki/news/2025-04)
+- Die Nachteile des Zorns (AN 7.64)
+- Zorn im Vergleich (AN 3.132, AN 3.25, AN 4.110)
+- Groll vollständig aufgeben – gegen alle! (AN 5.162)
+- Das Befriedigende am Zorn (SN 1.71)
+
 ### [März 2025](#/wiki/news/2025-03)
 - Ein Pfahl-Langhaus (MN 85)
 - Nonnen im Buddhismus
