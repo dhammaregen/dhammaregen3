@@ -8,4 +8,4 @@ category: Weitere Informationen
 order: 2.5
 ---
 
-Die Situation der Nonnen im Buddhismus ist völlig anders als die der Mönche. Sie sind Pionierinnen und haben um ihre Anerkennung zu kämpfen. Die Artikel in dieser Rubrik zeigen Nonnen mit ihren Schwierigkeiten und Erfolgen.
+Die Situation der Nonnen im Buddhismus ist völlig anders als die der Mönche. Sie sind Pionierinnen und haben um ihre Anerkennung zu kämpfen. Die Artikel in dieser Rubrik zeigen Nonnen mit ihren Schwierigkeiten und Erfolgen und werfen gelegentlich einen Blick auf Frauen im Buddhismus allgemein.
