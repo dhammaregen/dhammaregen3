@@ -8,6 +8,11 @@ order: -9999
 
 Hier finden Sie eine kurze Themenübersicht der bisher erschienenen Newsletter. Klicken sie auf die Überschrift, um zu einem Newsletter zu gelangen.
 
+### [Mai 2025](#/wiki/news/2025-05)
+- Warum der König den Buddha liebt (MN 89)
+- Pasenadi und sein Sohn (MN 90, SN 3.1)
+- Der Räuber Aṅgulimāla (MN 86, Thag 16.8)
+
 ### [April 2025](#/wiki/news/2025-04)
 - Die Nachteile des Zorns (AN 7.64)
 - Zorn im Vergleich (AN 3.132, AN 3.25, AN 4.110)
