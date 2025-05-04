@@ -6,7 +6,7 @@ img-alt: Ordinierte Person, die Stapel mit Roben trägt; obenauf eine Blüte
 link: https://pixabay.com/photos/theravada-buddhism-1773666
 order: 1
 ---
-[Originaltext](https://www.buddhismuskunde.uni-hamburg.de/pdf/5-personen/analayo/bahudhatuka.pdf) (PDF zum Herunterladen, 405 kB)
+[Originaltext](https://www.buddhismuskunde.uni-hamburg.de/pdf/5-personen/analayo/bahudhatuka.pdf) (PDF zum Herunterladen, 405 kB, auf Englisch)
 
 Im Palikanon finden sich ein paar Passagen, die verschiedene Arten von Unvermögen von Frauen aufzählen. Dazu gehören das Unvermögen, ein vollkommen erwachter Buddha zu werden, ebenso wie die Unfähigkeit, die Positionen eines Rad-drehenden Weltherrschers, des Götterkönigs (Sakka), des Herrn des Todes (Māra) oder Brahmās einzunehmen. Diese Funktionen, so heißt es, können nur von einem Mann bekleidet werden. Hat der Buddha das tatsächlich gelehrt?
 
