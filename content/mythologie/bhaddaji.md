@@ -8,7 +8,7 @@ order: 13.5
 
 [Zum Originaltext](https://discourse.suttacentral.net/t/about-thag-2-22-what-this-verse-means/3784/5)
 
-*Bhante Sujato antwortet auf die Frage eines Benutzers auf dem SuttaCentral-Diskussionsforum:*
+*Bhante Sujato antwortet auf die Frage eines Benutzers auf dem SuttaCentral-Diskussionsforum:* ja
 
 Du hast ganz recht, Thag 2.22 ist eins der seltsamsten und schwierigsten Gedichte im Theragāthā, oder eigentlich im ganzen Kanon. Hier ist meine Übersetzung [ich gebe meine deutsche Übersetzung, die sich auf Bhante Sujatos englische stützt; beide wurden seit diesem Beitrag aktualisiert, und ich gebe hier die jüngste Fassung wieder; A.d.Ü.]:
 
