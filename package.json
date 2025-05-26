@@ -1,11 +1,11 @@
 {
   "name": "dhammaregent3",
-  "version": "1.65.197",
+  "version": "1.65.198",
   "description": "Site template for EBT-Vue3 applications",
   "main": "src/index.mjs",
   "private": false,
   "dependencies": {
-    "ebt-vue3": "^2.25.71",
+    "ebt-vue3": "^2.25.72",
     "vue": "^3.4.21",
     "vuetify": "^3.5.11",
     "webfontloader": "^1.0.0"
