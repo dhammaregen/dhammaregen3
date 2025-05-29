@@ -1,6 +1,6 @@
 ---
 title: Kann eine Frau ein Buddha werden?
-description: Bhikkhu Anālayo über weibliches Unvermögen
+description: Bhikkhu Anālayo über weibliches Unvermögen, 2009
 img: pixabay-theravada-buddhism-1773666_1920.png
 img-alt: Ordinierte Person, die Stapel mit Roben trägt; obenauf eine Blüte
 link: https://pixabay.com/photos/theravada-buddhism-1773666
