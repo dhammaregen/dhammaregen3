@@ -1,5 +1,5 @@
 ---
-title: Das war aber unerwartet: Knochenwaschrituale bei den Kastenlosen in Südindien
+title: Nun, das war unerwartet: Knochenwaschrituale bei den Kastenlosen in Südindien
 description: Bhikkhu Sujato, 2023
 img: sujato.png
 img-alt: Foto von Bhante Sujato
@@ -10,24 +10,24 @@ order: 2.99
 
 Im Abschnitt über Ethik in [DN 1](#/sutta/dn1/de/sabbamitta) gibt es eine seltsame Gruppe von Ausdrücken, die zu den Vorführungen gehören, die ein Mönch oder eine Nonne nicht besuchen sollte: 
 
-caṇḍālaṁ vaṁsaṁ dhovanaṁ  
-Kastenloser, Bambus, Waschen
+> caṇḍālaṁ vaṁsaṁ dhovanaṁ  
+> Kastenloser, Bambus, Waschen
 
 Es ist völlig unklar, inwiefern das Vorführungen sein sollen. 
 
 Alle Ausgaben wie auch der Kommentar behandeln diese als getrennte Gegenstände. Sie kommen jedoch, wie T.W. Rhys Davids bemerkt hat, gemeinsam im Kommentar zu [Ja 498](https://suttacentral.net/ja498) vor, wo sie als ein zusammengesetztes Wort erscheinen. Dort beschließen zwei junge *candālas* (Kastenlose) aus Ujjeni (in Avanti, das aus der Perspektive der frühen Texte als der Süden gilt), von ihrem „Handwerk“ (*sippa*) genannt *caṇḍālavaṁsadhovana* Gebrauch zu machen, und sie tun es am östlichen und nördlichen Stadttor. Zwei Frauen, die in den Vorzeichen bewandert sind, sehen sie und sind bei dem Anblick so entsetzt, dass sie sich die Augen mit parfümiertem Wasser auswaschen; was für den bloßen Anblick von *candālas* etwas übertrieben erscheint. 
 
-Now, it seems from this that we should treat the three items as a compound and assume corruption in the DN text. Perhaps the commentary originally explained the items separately and the text was adjusted to suit.
+Nun, nach dieser Stelle sieht es aus, als sollten wir die drei Begriffe als zusammengesetztes Wort behandeln und eine Verfälschung des DN-Textes annehmen. Vielleicht erklärte ursprünglich der Kommentar die Wörter getrennt, und der Text wurde dem angepasst. 
 
-The Jataka story does not tell us what the nature of the show was, but clearly it was something meant as an entertainment, which was taught as a tradition among the candalas.
+Die Jatakageschichte sagt uns nicht, welcher Natur die Vorführung war, aber es war sicherlich etwas, das zur Unterhaltung gedacht war und das als Überlieferung unter den *candālas* weitergegeben wurde. 
 
-The DN passage has been translated by Rhys Davids as “acrobatic feats by candalas". Bodhi has “acrobatic performances”, Walshe (followed by Thanissaro) has “acrobatic and conjuring tricks”. These are very loosely inspired by the commentary, which says:
+Die DN-Passage wurde von Rhys Davids mit „akrobatisches Kunststück von *candālas*“ übersetzt. Bodhi hat „akrobatische Vorführungen“, Walshe (gefolgt von Thanissaro) hat „Akrobatik- und Zaubertricks“. Sie alle sind sehr lose vom Kommentar inspiriert, der sagt: 
 
-Candala means a game with an iron ball, or they say it is the outcaste’s game of hemp-washing. Vamsa means, they lift up a bamboo and play.
+> *Candāla* bedeutet ein Spiel mit einer Eisenkugel, oder es heißt, es sei das Hanfwasch-Spiel der Kastenlosen. *Vaṁsa* bedeutet, dass sie eine Bambusstange aufstellen und spielen. 
 
-Now, as for vaṁsa, this can have several meanings, but here it relates to SN 47.19, where we meet the “bamboo acrobat of the corpse-workers” (caṇḍālavaṁsika), which I discuss further in another article.
+Nun, was *vaṁsa* betrifft, so kann das mehrere Bedeutungen haben, aber hier bezieht es sich auf [SN 47.19](#/sutta/sn47.19/de/sabbamitta), wo wir einem „Bambusakrobaten von den Leichenarbeitern“(*caṇḍālavaṁsika*) begegnen. Das bespreche ich in einem anderen Artikel.
 
-The one we are interested in here is the explanation of dhovana (“washing”).
+Was uns hier interessiert, ist die Erklärung von *dhovana* (waschen). 
 
 Dhovana means “bone-washing”. It seems that in certain countries when a relative dies, they do not cremate them, but bury them. Then, when they know the body has decayed, they exhume the bones. They set it in a certain place with liquor, etc., and weeping and wailing they drink the liquor. For it is said (AN 10.107): ““Mendicants, in the southern lands there is a practice named ‘[bone]-washing’. There they have food, drink, snacks, meals, refreshments, and beverages, as well as dancing, singing, and music. There is such a washing, I don’t deny it.” But some say the washing is bone-washing with Indra’s net.
 
