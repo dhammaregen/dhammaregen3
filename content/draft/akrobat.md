@@ -8,12 +8,12 @@ order: 3
 
 [Zum Originaltext](https://discourse.suttacentral.net/t/the-snake-or-the-acrobat-jataka-43/35978)
 
-In Jataka 43 we find the following verse:
+In Jataka 43 finden wir diese Strophe:
 
-> One who does not follow advice when instructed
-> by an ally who desires their good,
-> ends up destroyed
-> like Veḷuka’s father.
+> Wer den Rat nicht befolgt,  
+> wenn er von einem angeleitet wird, der es gut meint,  
+> sieht sich vernichtet  
+> wie  Veḷukas Vater.
 
 * For Pali geeks, the only tricky bit in the verse is in the third line, where we find *seti*, which normally means “lies down”. Here, however, it is *sa + eti* in the sense “he comes (to such a state)” i.e. “becomes” or “ends up”.
 

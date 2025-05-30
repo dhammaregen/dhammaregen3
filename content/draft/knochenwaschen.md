@@ -18,15 +18,15 @@ Es ist völlig unklar, inwiefern das Vorführungen sein sollen.
 
 Alle Ausgaben wie auch der Kommentar behandeln diese als getrennte Gegenstände. Sie kommen jedoch, wie T.W. Rhys Davids bemerkt hat, gemeinsam im Kommentar zu [Ja 498](https://suttacentral.net/ja498) vor, wo sie als ein zusammengesetztes Wort erscheinen. Dort beschließen zwei junge *candālas* (Leichenarbeiter) aus Ujjeni (in Avanti, das aus der Perspektive der frühen Texte als der Süden gilt), von ihrem „Handwerk“ (*sippa*) genannt *caṇḍālavaṁsadhovana* Gebrauch zu machen, und sie tun es am östlichen und am nördlichen Stadttor. Zwei Frauen, die in den Vorzeichen bewandert sind, sehen sie und sind bei dem Anblick so entsetzt, dass sie sich die Augen mit parfümiertem Wasser auswaschen; was für den bloßen Anblick von *candālas* etwas übertrieben erscheint. 
 
-Nun, nach dieser Stelle sieht es so aus, als sollten wir die drei Begriffe als zusammengesetztes Wort behandeln und eine Verfälschung des DN-Textes annehmen. Vielleicht erklärte ursprünglich der Kommentar die Wörter getrennt, und der Text wurde dem angepasst. 
+Nun, nach dieser Stelle sieht es so aus, als sollten wir die drei Begriffe als ein zusammengesetztes Wort behandeln und eine Verfälschung des DN-Textes annehmen. Vielleicht erklärte ursprünglich der Kommentar die Wörter getrennt, und der Text wurde dem angepasst. 
 
-Die Jatakageschichte sagt uns nicht, welcher Natur die Vorführung war, aber es war offenbar etwas, das zur Unterhaltung gedacht war und das als Überlieferung unter den *candālas* weitergegeben wurde. 
+Die Jātakageschichte sagt uns nicht, welcher Natur die Vorführung war, aber es war offenbar etwas, das zur Unterhaltung gedacht war und das als Überlieferung unter den *candālas* weitergegeben wurde. 
 
 Die DN-Passage wurde von Rhys Davids mit „akrobatisches Kunststück von *candālas*“ übersetzt. Bodhi hat „akrobatische Vorführungen“, Walshe (gefolgt von Thanissaro) hat „Akrobatik- und Zaubertricks“. Sie alle sind sehr lose vom Kommentar inspiriert, der sagt: 
 
 > *Candāla* bedeutet ein Spiel mit einer Eisenkugel, oder es heißt, es sei das Hanfwasch-Spiel der Leichenarbeiter. *Vaṁsa* bedeutet, dass sie eine Bambusstange aufstellen und spielen. 
 
-Nun, was *vaṁsa* betrifft, so kann das mehrere Bedeutungen haben, aber hier bezieht es sich auf [SN 47.19](#/sutta/sn47.19/de/sabbamitta), wo wir einem „Bambusakrobaten von den Leichenarbeitern“(*caṇḍālavaṁsika*) begegnen. Das bespreche ich in einem anderen Artikel.
+Nun, was *vaṁsa* betrifft, so kann das mehrere Bedeutungen haben, aber hier bezieht es sich auf [SN 47.19](#/sutta/sn47.19/de/sabbamitta), wo wir einem „Bambusakrobaten von den Leichenarbeitern“ (*caṇḍālavaṁsika*) begegnen. Das bespreche ich in einem anderen Artikel.
 
 Was uns hier interessiert, ist die Erklärung von *dhovana* (waschen): 
 
