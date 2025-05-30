@@ -2,7 +2,7 @@
 title: Nun, das war unerwartet: Knochenwaschrituale bei den Kastenlosen in Südindien
 description: Bhikkhu Sujato, 2023
 img: bones.png
-link: https://www.publicdomainpictures.net/pictures/310000/velka/pile-of-bones-1574252704Bhm.jpg
+link: https://www.publicdomainpictures.net/en/view-image.php?image=309009&picture=pile-of-bones
 img-alt: Foto eines Haufens Knochen
 order: 2.99
 ---
