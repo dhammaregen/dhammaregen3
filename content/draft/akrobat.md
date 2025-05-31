@@ -15,9 +15,9 @@ In Jataka 43 finden wir diese Strophe:
 > sieht sich vernichtet  
 > wie  Veḷukas Vater.
 
-* Für Pali-Geeks: Das einzige knifflige Stück in dieser Strophe ist die dritte Zeile, wo wir *seti* finden, das normalerweise „legt sich nieder“ bedeutet. Hier ist es allerdings *sa + eti* im Sinn von „er kommt (zu einem solchen Zustand)“, d. h. er „wird“ oder „findet sich wieder“. 
+* Für Pali-Geeks: Das einzig Knifflige in dieser Strophe ist die dritte Zeile, wo wir *seti* finden, das normalerweise „legt sich nieder“ bedeutet. Hier ist es allerdings *sa + eti* im Sinn von „er kommt (zu einem solchen Zustand)“, d. h. er „wird“ oder „findet sich wieder“. 
 
-Das bezieht sich offensichtlich auf eine Geschichte, die zu der Strophe dazugehörte, wenn sie erzählt wurde. Sie ist Teil einer Reihe von drei Jātakas (41, 42, 43), die die ersten beiden Zeilen gemeinsam haben. 
+Das bezieht sich offensichtlich auf eine Geschichte, die zu der Strophe dazugehörte, wenn sie erzählt wurde. Die Strophe ist Teil einer Reihe von drei Jātakas (41, 42, 43), die die ersten beiden Zeilen gemeinsam haben. 
 
 Hier ist die Geschichte: 
 
@@ -25,11 +25,11 @@ Hier ist die Geschichte:
 
 Und der Wortkommentar (englisch):
 
-https://ancient-buddhist-texts.net/Texts-and-Translations/Jatakagathavannana/043.htm
+[https://ancient-buddhist-texts.net/Texts-and-Translations/Jatakagathavannana/043.htm](https://ancient-buddhist-texts.net/Texts-and-Translations/Jatakagathavannana/043.htm)
 
 Nun, eins der interessanten Dinge bei den Jātakas ist ihre zusammengesetzte Natur. Die Strophen und Geschichten gehören zusammen, und häufig, so wie hier, ist die Strophe ohne eine Geschichte nicht zu verstehen. Doch wir wissen von anderen buddhistischen Texten, dass eine Strophe oder eine Redensart (oder übrigens auch eine Vinayaregel), die zu einer Geschichte gehören soll, nicht notwendigerweise zu *dieser* Geschichte gehört. Die gleiche Strophe oder Regel findet sich an verschiedenen Stellen häufig mit verschiedenen Geschichten. Daher sollten wir bei den Jātakas nicht annehmen, dass die Geschichte immer die einzige ist, ja nicht einmal die ursprüngliche. 
 
-Die Geschichte ist in diesem Fall eine bekannte Fabel. Ein Eremit freundet sich mit einer Viper an und hält sie in einem Bambusrohr, daher ist die Viper als „Veḷuka“ bekannt (von *veḷu*, Bambus). So sehr hängt er an ihr, dass er als ihr Vater bekannt wird. Seine Kameraden warnen ihn, dass die Schlange sich gegen ihn wenden werde, aber er besteht darauf, dass sie sein Freund sei. Einmal muss er für ein paar Tage weggehen, und bei seiner Rückkehr beißt ihn die hungrige Viper und er stirbt. 
+Die Geschichte ist in diesem Fall eine bekannte Fabel. Ein Eremit freundet sich mit einer Viper an und hält sie in einem Bambusrohr, daher ist die Viper als „Veḷuka“ bekannt (von *veḷu*, Bambus). So sehr hängt er an ihr, dass er als ihr Vater bekannt wird. Seine Kameraden warnen ihn, dass die Schlange sich gegen ihn wenden werde, aber er besteht darauf, dass sie sein Freund sei. Einmal muss er für ein paar Tage weggehen, und bei seiner Rückkehr beißt ihn die hungrige Viper, und er stirbt. 
 
 Die Geschichte im Pali  hat mehrere moralische Lehren: 
 
@@ -51,7 +51,7 @@ Diese Geschichte ist eins der vielen Jātakas, die eine Verbindung zu griechisch
 
 In jüngster Zeit geriet sie in Verruf, da sie von Donald Trump bei seinen Wahlkampfauftritten laut vorgelesen wurde. Ich werde hier aus Mitgefühl für Sie alle keinen Link anfügen, aber es ist wirklich bemerkenswert, wie er durch den Text stolpert, indem er auf Drittklässler-Niveau liest, intoniert in einem Kinderlied-Singsang, außer an einer Stelle: wenn es darum geht, die Schlange als böse zu beschreiben. Hier wird er lebendig, knurrt die Worte heraus und wiederholt sie. 
 
-Es wurde oft darauf hingewiesen, dass diese Darbietung ein Akt narzisstischer Projektion sei: Er ist die Schlange, und die leichtgläubigen Toren sind seine eigenen Anhänger, die ihn hereinlassen. Aber was er vordergründig im Sinn hat, ist, dass die Einwanderer die Schlange sind, und die andere Partei ist der gutherzige Tor, der gebissen werden wird. Die Tatsache, dass er die Worte eines schwarzen Aktivisten gebraucht, um farbige Menschen zu dämonisieren, spricht natürlich für sich selbst. 
+Es wurde oft darauf hingewiesen, dass diese Darbietung ein Akt narzisstischer Projektion ist: Er ist die Schlange, und die leichtgläubigen Toren sind seine eigenen Anhänger, die ihn hereinlassen. Aber was er vordergründig im Sinn hat, ist, dass die Einwanderer die Schlange sind, und die andere Partei ist der gutherzige Tor, der gebissen werden wird. Die Tatsache, dass er die Worte eines schwarzen Aktivisten gebraucht, um farbige Menschen zu dämonisieren, spricht natürlich für sich selbst. 
 
 We are now seeing the direct results of this hateful rhetoric in the US. A vile old lie about immigrants eating cats was pushed by a leader of the Nazi group Blood Tribe, and spread by a woman who now is consumed by guilt at her carelessness. It was taken up by Trump and [his cronys who knew they were lying](https://x.com/MikeNellis/status/1835324106037772655). As a direct result of this, in the town in question, Springfield, schools and universities were shut down over bomb threats while Nazi thugs roamed the streets.
 
