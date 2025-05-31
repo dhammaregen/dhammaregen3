@@ -15,43 +15,43 @@ In Jataka 43 finden wir diese Strophe:
 > sieht sich vernichtet  
 > wie  Veḷukas Vater.
 
-* For Pali geeks, the only tricky bit in the verse is in the third line, where we find *seti*, which normally means “lies down”. Here, however, it is *sa + eti* in the sense “he comes (to such a state)” i.e. “becomes” or “ends up”.
+* Für Pali-Geeks: Das einzige knifflige Stück in dieser Strophe ist die dritte Zeile, wo wir *seti* finden, das normalerweise „legt sich nieder“ bedeutet. Hier ist es allerdings *sa + eti* im Sinn von „er kommt (zu einem solchen Zustand)“, d. h. er „wird“ oder „findet sich wieder“. 
 
-Obviously this alludes to a story that would have accompanied the verse when told. It’s part of a series of three Jatakas (41, 42, 43) that share the first two lines.
+Das bezieht sich offensichtlich auf eine Geschichte, die zu der Strophe dazugehörte, wenn sie erzählt wurde. Sie ist Teil einer Reihe von drei Jātakas (41, 42, 43), die die ersten beiden Zeilen gemeinsam haben. 
 
-Here is the story:
+Hier ist die Geschichte: 
 
-[https://ancient-buddhist-texts.net/English-Texts/Jataka/043.htm ](https://ancient-buddhist-texts.net/English-Texts/Jataka/043.htm)
+[https://palikanon.com/khuddaka/jataka/j043.htm](https://palikanon.com/khuddaka/jataka/j043.htm)
 
-And the word commentary:
+Und der Wortkommentar (englisch):
 
 https://ancient-buddhist-texts.net/Texts-and-Translations/Jatakagathavannana/043.htm
 
-Now, one of the interesting things about the Jatakas is their composite nature. The verses and stories go together, and frequently, as here, the verse makes no sense without a story. However, we know from other Buddhist texts that when a verse or saying (or Vinaya rule for that matter) is supposed to be attached to a story, it is not necessarily attached to *that* story. The same verse or rule is commonly found in different places with different stories. So in the Jatakas, we should not assume that the story is always going to be the only one, or even the original one.
+Nun, eins der interessanten Dinge bei den Jātakas ist ihre zusammengesetzte Natur. Die Strophen und Geschichten gehören zusammen, und häufig, so wie hier, ist die Strophe ohne eine Geschichte nicht zu verstehen. Doch wir wissen von anderen buddhistischen Texten, dass eine Strophe oder eine Redensart (oder übrigens auch eine Vinayaregel), die zu einer Geschichte gehören soll, nicht notwendigerweise zu *dieser* Geschichte gehört. Die gleiche Strophe oder Regel findet sich an verschiedenen Stellen häufig mit verschiedenen Geschichten. Daher sollten wir bei den Jātakas nicht annehmen, dass die Geschichte immer die einzige ist, ja nicht einmal die ursprüngliche. 
 
-The story in this case is a popular fable. A hermit befriends a viper, keeping him in a bamboo, so that the viper is known as “Veḷuka” (from *veḷu*, “bamboo”). So attached does he grow that he becomes known as the viper’s father. His comrades warn him that the snake will turn on him, but he insists it is his friend. One time he has to leave for a few days, and when he returns the hungry viper strikes him and he dies.
+Die Geschichte ist in diesem Fall eine bekannte Fabel. Ein Eremit freundet sich mit einer Viper an und hält sie in einem Bambusrohr, daher ist die Viper als „Veḷuka“ bekannt (von *veḷu*, Bambus). So sehr hängt er an ihr, dass er als ihr Vater bekannt wird. Seine Kameraden warnen ihn, dass die Schlange sich gegen ihn wenden werde, aber er besteht darauf, dass sie sein Freund sei. Einmal muss er für ein paar Tage weggehen, und bei seiner Rückkehr beißt ihn die hungrige Viper und er stirbt. 
 
-The story in Pali has a few morals.
+Die Geschichte im Pali  hat mehrere moralische Lehren: 
 
-* Listen to advice.
-* Don’t get attached.
-* Snakes are dangerous.
+* Höre auf guten Rat.
+* Hafte nicht an.
+* Schlangen sind gefährlich.
 
-But the main one emphasized in the verse is about listening to advice, and this must be the core of the verse’s story.
+Doch die wichtigste Lehre aus der Strophe behandelt das Hören auf guten Rat, und das muss der Kern der zugehörigen Geschichte sein. 
 
-The Jataka story as it stands, however, seems to emphasize, rather, the dangerous nature of the viper, emphasizing that a bad creature (or person) is inherently bad and cannot change. This is a dubious message that, at the very least least, requires some contextualization.
+So wie die Jātaka-Geschichte da steht, scheint sie jedoch vielmehr den Schwerpunkt auf die gefährliche Natur der Viper zu legen und zu betonen, dass ein schlechtes Geschöpf (oder ein schlechter Mensch) grundsätzlich schlecht ist und sich nicht ändern kann. Das ist eine zweifelhafte Botschaft, die zumindest in ihren Kontext eingeordnet werden muss. 
 
-This story is one of many Jatakas that is connected to Greek stories.
+Diese Geschichte ist eins der vielen Jātakas, die eine Verbindung zu griechischen Geschichten haben. 
 
-https://en.wikipedia.org/wiki/The_Farmer_and_the_Viper
+[https://www.projekt-gutenberg.org/aesop/fabeln2/chap004.html](https://www.projekt-gutenberg.org/aesop/fabeln2/chap004.html) (55. Unangebrachte Mildtätigkeit)
 
-Aesop’s fable was proverbial in ancient times, and remains so in the English adage “nourish a viper in one’s bosom”. It was popularized in the song “The Snake” by Oscar Brown:
+Äsops Fabel war im Altertum sprichwörtlich und bleibt bis heute so in der englischen [und deutschen; A.d.Ü.] Redensart „eine Schlange am Busen nähren“. Mit dem Lied „The Snake“ von Oscar Brown wurde sie populär: 
 
-https://en.wikipedia.org/wiki/Oscar_Brown
+[https://de.wikipedia.org/wiki/Oscar_Brown,_Jr.](https://de.wikipedia.org/wiki/Oscar_Brown,_Jr.)
 
-Recently it has become notorious for being read out loud by Donald Trump at his rallies. I won’t link it here, out of compassion for y’all, but it’s really noteworthy how he stumbles through, reading at his third-grader level, using a sing-songy nursery rhyme intonation, except for one part—when it comes to describing the snake as vicious. There he comes to life, growling out the words and repeating them.
+In jüngster Zeit geriet sie in Verruf, da sie von Donald Trump bei seinen Wahlkampfauftritten laut vorgelesen wurde. Ich werde hier aus Mitgefühl für Sie alle keinen Link anfügen, aber es ist wirklich bemerkenswert, wie er durch den Text stolpert, indem er auf Drittklässler-Niveau liest, intoniert in einem Kinderlied-Singsang, außer an einer Stelle: wenn es darum geht, die Schlange als böse zu beschreiben. Hier wird er lebendig, knurrt die Worte heraus und wiederholt sie. 
 
-It has been often pointed out that this performance is an act of narcissistic projection: he is the snake, and the gullible fools are his own followers who let him in. But his surface intention is that immigrants are the snake, and the other party are the kindhearted fools who will be bitten. The fact that he is using the words of a black activist to demonize people of color is, of course, entirely on brand.
+Es wurde oft darauf hingewiesen, dass diese Darbietung ein Akt narzisstischer Projektion sei: Er ist die Schlange, und die leichtgläubigen Toren sind seine eigenen Anhänger, die ihn hereinlassen. Aber was er vordergründig im Sinn hat, ist, dass die Einwanderer die Schlange sind, und die andere Partei ist der gutherzige Tor, der gebissen werden wird. Die Tatsache, dass er die Worte eines schwarzen Aktivisten gebraucht, um farbige Menschen zu dämonisieren, spricht natürlich für sich selbst. 
 
 We are now seeing the direct results of this hateful rhetoric in the US. A vile old lie about immigrants eating cats was pushed by a leader of the Nazi group Blood Tribe, and spread by a woman who now is consumed by guilt at her carelessness. It was taken up by Trump and [his cronys who knew they were lying](https://x.com/MikeNellis/status/1835324106037772655). As a direct result of this, in the town in question, Springfield, schools and universities were shut down over bomb threats while Nazi thugs roamed the streets.
 
