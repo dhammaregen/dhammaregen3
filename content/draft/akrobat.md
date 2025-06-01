@@ -55,27 +55,27 @@ Wir sehen nun die unmittelbaren Ergebnisse dieser Hassrhetorik in den USA. Eine 
 
 Wie kann es sein, so fragt man sich vielleicht, dass eine buddhistische Geschichte ein solches Ende nimmt? Dem nachzugehen, wäre eine verwickelte Reise, aber [Wikipedia (EN) bemerkt](https://en.wikipedia.org/wiki/The_Farmer_and_the_Viper#Variations_on_a_theme), dass der Gebrauch dieser Geschichte zum Zweck der Dämonisierung von Einwanderern bis ins Russland des 19. Jahrhunderts zurückreicht: 
 
-> Der russische Fabeldichter [Ivan Krylov](https://de.wikipedia.org/wiki/Iwan_Andrejewitsch_Krylow), der oft La Fontaines Fabeln für seine eigenen Variationen nutzte, adaptierte die Geschichte in seiner Fassung von „Der Landmann und die Schlange“, um zeitgenössische Umstände anzusprechen. Die Fabel entstand zu einer Zeit, in der viele russische Familien ihre Kinder von französischen Gefangenen aus der Invasion [Napoleons I.](https://de.wikipedia.org/wiki/Napoleon_Bonaparte) von 1812 erziehen ließen, und er drückte sein Misstrauen gegenüber dem besiegten Feind aus. In seiner Fabel sucht die Schlange Zuflucht in einem Bauernhaus und bittet darum, als Dienerin aufgenommen zu werden. Der Bauer antwortet, er könne das Risiko nicht eingehen, denn selbst, wenn sie mit ihrer Freundlichkeit ehrlich sei, würde eine einzige freundliche Schlange den Weg für hundert böse bereiten. 
+> Der russische Fabeldichter [Ivan Krylov](https://de.wikipedia.org/wiki/Iwan_Andrejewitsch_Krylow), der oft La Fontaines Fabeln für seine eigenen Variationen nutzte, adaptierte die Geschichte in seiner Fassung von „Der Landmann und die Schlange“, um zeitgenössische Umstände anzusprechen. Die Fabel entstand zu einer Zeit, in der viele russische Familien ihre Kinder von französischen Gefangenen aus der Invasion [Napoleons I.](https://de.wikipedia.org/wiki/Napoleon_Bonaparte) von 1812 erziehen ließen, und er drückte sein Misstrauen gegenüber dem besiegten Feind aus. In seiner Fabel sucht die Schlange Zuflucht in einem Bauernhaus und bittet darum, als Dienerin aufgenommen zu werden. Der Bauer antwortet, er könne das Risiko nicht eingehen, denn selbst wenn sie mit ihrer Freundlichkeit ehrlich sei, würde eine einzige freundliche Schlange den Weg für hundert böse bereiten. 
 
 Die Wurzel des Problems liegt darin, dass bestimmte Eigenschaften Menschen oder Gruppen von Menschen zugeordnet werden. Wie wir gesehen haben, ist das nicht die wichtigste Moral der Jātaka-Geschichte, obwohl es darin angedeutet wird. Vergessen wir nicht, dass es in Indien, damals wie heute, eine große Zahl tatsächlicher Schlangen gibt, die tatsächlich Menschen töten, und es ist sehr wahrscheinlich, dass die ursprüngliche Bedeutung einfach eine Warnung war, sich vor gefährlichen Tieren in Acht zu nehmen. Wenn Geschichten wiederholt werden, wird es möglich, ihre Bedeutung in Form einer Metapher zu abstrahieren. Aber die Art und Weise, in der Metaphern erweitert werden, sagt uns viel über den, der sie erweitert, und wenig über die ursprüngliche Geschichte. 
 
 Wie so oft bei diesen Geschichten ist es nicht ganz klar, ob sie ihren Ursprung im indischen oder im griechischen Kulturkreis (oder noch woanders) hatte. Wir können mit einiger Zuversicht sagen, dass die große Zahl gemeinsamer Geschichten in den Jātakas den Handel zwischen Indien auf der einen und Griechenland und Rom auf der anderen Seite nach Alexander widerspiegelt. Die Jātakasammlung weist selbst darauf hin, da es im ersten Kapitel um Geschichten über Kaufleute geht. 
 
-Die Strophen können sehr wohl älter sein als die Geschichten und in manchen Fällen, vielleicht in vielen, sogar älter als der Buddha. Schließlich sollen sie ja aus einer Zeit vor dem Buddha kommen. So alte Strophen spiegeln aber weniger wahrscheinlich mit Griechenland gemeinsame Formen wider, obwohl sie früher entstanden und später nach Griechenland gekommen sein könnten. Doch das ist in diesem Fall unwahrscheinlich, da die Geschichte schon vor Alexander in Griechenland sprichwörtlich war. 
+Die Strophen können sehr wohl älter sein als die Geschichten und in manchen Fällen, vielleicht in vielen, sogar älter als der Buddha. Schließlich sollen sie ja aus einer Zeit vor dem Buddha stammen. So alte Strophen spiegeln aber weniger wahrscheinlich mit Griechenland gemeinsame Formen wider, obwohl sie früher entstanden und später nach Griechenland gekommen sein könnten. Doch das ist in diesem Fall unwahrscheinlich, da die Geschichte schon vor Alexander in Griechenland sprichwörtlich war. 
 
 Dann wollen wir also fragen, was es über die Strophe selbst zu sagen gibt. 
 
 Wir wissen:
 
 * Das Thema ist die Gefahr der Vernachlässigung guten Rats. 
-* Ein Protagonist ist „*Veḷuka*s Vater“ 
+* Ein Protagonist ist „*Veḷuka*s Vater“. 
 * Für diesen Protagonisten geht es schlecht aus. 
 
 Das ist schon alles. Nichts über einen Eremiten oder eine Giftschlange. 
 
 Nun, *veḷu* heißt „Bambus“ und *veḷuka* ist typischerweise eine Art Bambusarbeiter. Spätere Hindutexte sagen, sie gehörten einer niederen Kaste an. 
 
-Es gibt viele Wörter für Bambus im Pali, und eins der anderen kommt in [SN 47.19](#/sutta/sn47.19/de/sabbamitta) vor. Dort begegnen wir einem „Bambusakrobaten von den Leichenarbeitern (*caṇḍālavaṁsika*). Offensichtlich gab es eine Tradition von Leichenarbeitern (*caṇḍāla*, die am meisten verachtete Kaste), die auf der Straße akrobatische Kunststücke vorführten. 
+Es gibt viele Wörter für Bambus im Pali, und eins der anderen kommt in [SN 47.19](#/sutta/sn47.19/de/sabbamitta) vor. Dort begegnen wir einem „Bambusakrobaten von den Leichenarbeitern“ (*caṇḍālavaṁsika*). Offensichtlich gab es eine Tradition von Leichenarbeitern (*caṇḍāla*, die am meisten verachtete Kaste), die auf der Straße akrobatische Kunststücke vorführten. 
 
 Being a Buddhist text, the story does not denigrate the acrobats, but rather praises them for wisdom and harmony as an example for meditators. They can do their trick safely because they listen to each other’s good advice as they balance on the bamboo pole.
 
