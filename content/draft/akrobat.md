@@ -8,7 +8,7 @@ order: 3
 
 [Zum Originaltext](https://discourse.suttacentral.net/t/the-snake-or-the-acrobat-jataka-43/35978)
 
-In Jataka 43 finden wir diese Strophe:
+In [Jātaka 43](#/sutta/ja43/de/sabbamitta) finden wir diese Strophe:
 
 > Wer den Rat nicht befolgt,  
 > wenn er von einem angeleitet wird, der es gut meint,  
@@ -77,34 +77,34 @@ Nun, *veḷu* heißt „Bambus“ und *veḷuka* ist typischerweise eine Art Bam
 
 Es gibt viele Wörter für Bambus im Pali, und eins der anderen kommt in [SN 47.19](#/sutta/sn47.19/de/sabbamitta) vor. Dort begegnen wir einem „Bambusakrobaten von den Leichenarbeitern“ (*caṇḍālavaṁsika*). Offensichtlich gab es eine Tradition von Leichenarbeitern (*caṇḍāla*, die am meisten verachtete Kaste), die auf der Straße akrobatische Kunststücke vorführten. 
 
-Being a Buddhist text, the story does not denigrate the acrobats, but rather praises them for wisdom and harmony as an example for meditators. They can do their trick safely because they listen to each other’s good advice as they balance on the bamboo pole.
+Als buddhistischer Text setzt die Geschichte die Akrobaten nicht herab, sondern preist sie wegen ihrer Weisheit und Eintracht als Vorbild für das Meditieren. Sie können ihr Kunststück sicher vorführen, weil sie auf den guten Rat des anderen hören, während sie auf der Bambusstange balancieren. 
 
-(And yes, this does mean that Buddhist suttas contain probably the world’s earliest reference to pole-dancing. The connection is not arbitrary. In the story, the apprentice Medakathālikā is a girl. The commentary tries to argue that it is a boy, evidently unable to comprehend that a girl, an outcaste girl at that, can not only speak back to their teacher, but the Buddha praises her for it. Although the Buddha evidently appreciated their skill, it seems that the sight of a girl—probably naked or near-naked—contorting on a pole was considered inappropriately erotic for monks, as suggested by the fact that this is one of the banned performances at [DN 1:1.13.2](https://suttacentral.net/dn1/en/sujato#dn1:1.13.2). I’ll bet you didn’t have “the Buddha was canonically a fan of pole-dancers” on your bingo card this morning!)
+(Und ja, das bedeutet, dass buddhistische Suttas vermutlich den ältesten Hinweis der Welt auf Stangentanz enthalten. Die Verbindung ist nicht zufällig. In der Geschichte ist die Schülerin Medakathālikā ein Mädchen. Der Kommentar versucht zu behaupten, es sei ein Junge, da er sich offenbar nicht vorstellen kann, dass ein Mädchen, noch dazu ein kastenloses Mädchen, nicht nur ihrem Lehrer widersprechen kann, sondern dass der Buddha sie dafür noch lobt. Obwohl der Buddha offensichtlich ihre Geschicklichkeit anerkannte, scheint es doch, dass der Anblick eines Mädchens – wahrscheinlich nackt oder fast nackt –, das sich an einer Stange windet, für Mönche als unangemessen erotisch angesehen wurde, wie die Tatsache nahelegt, dass dies eine der verbotenen Vorführungen in [DN 1:1.13.2](#/sutta/dn1:1.13.2/de/sabbamitta) ist. Ich wette, Sie hatten „der Buddha war, kanonisch nachgewiesen, ein Fan von Stangentänzerinnen“ heute Morgen nicht auf Ihrer Bingokarte!)
 
-This seems like a good match for our Jataka verse.
+Das scheint zu unserer Jātaka-Strophe gut zu passen.:
 
-* Where the Jataka verse has *veḷuka*, the story has the synonymous *vaṁsika*.
-* Both contexts highlight the importance of listening to good advice.
-* The story features a master/apprentice relationship, where the apprentice could easily be the master’s child. Thus it fits the use of “father” better than the snake story.
+* Wo die Jātaka-Strophe *veḷuka* hat, hat die Geschichte das synonyme *vaṁsika*. 
+* Beide Kontexte betonen, wie wichtig es ist, auf guten Rat zu hören. 
+* Die Geschichte enthält eine Lehrer-Schüler-Beziehung, in der die Schülerin gut das Kind des Lehrmeisters sein könnte. Somit passt sie zu dem Gebrauch von „Vater“ besser als die Geschichte mit der Schlange. 
 
-Of course the narrative is inverted, as in the sutta the acrobats are safe, whereas in the Jataka he dies. But both assume that the acrobatics were dangerous and required care and cooperation.
+Natürlich ist die Erzählung umgekehrt, da im Sutta die Akrobaten in Sicherheit sind, während der Protagonist im Jātaka stirbt. Aber beide gehen davon aus, dass die akrobatischen Kunststücke gefährlich sind und Sorgsamkeit und Kooperation erfordern. 
 
-In such cases, we can’t conclude without stronger evidence whether the verse should be read in light of SN 47.19 or with its traditional story. Personally I think it’s more likely about acrobats. If I was to follow this, I would translate the last line, “like the acrobat’s father”.
+In solchen Fällen können wir nicht ohne gewichtigere Hinweise schlussfolgern, ob die Strophe im Licht von SN 47.19 oder mit ihrer traditionellen Geschichte gelesen werden sollte. Ich persönlich denke, es geht wahrscheinlicher um Akrobaten. Wenn ich dem folgen sollte, würde ich die letzte Zeile übersetzen: „wie der Vater des Akrobaten“. 
 
-But it does give me pause as a translator. I tried translating the title as “The viper in the bamboo” until I realize there’s no viper in the verse. Better to avoid implying a connection with the story unless it is justified.
+Doch als Übersetzer lässt es mich innehalten. Ich versuchte den Titel mit „Die Giftschlange im Bambus“ zu übersetzen, bis mir auffiel, es in der Strophe keine Giftschlange gibt. Besser, man vermeidet, eine Verbindung mit der Geschichte anzunehmen, wenn sie nicht gerechtfertigt ist. 
 
-And in terms of historical provenance, it seems that we cannot assume from a Greek connection with the story—of whatever kind that may be—to a similar connection with the verse. Rather, the verse, if it is about acrobats, alludes to an indigenous Indian cultural practice that must have originated in a local story.
+Und was die historische Herkunft betrifft, so scheint es, dass wir von einer Verbindung der Geschichte mit Griechenland – welcher Art auch immer – nicht auf eine ähnliche Verbindung für die Strophe schließen können. Die Strophe, wenn sie von Akrobaten handelt, spielt vielmehr auf eine indigene indische kulturelle Praxis an und muss ihren Ursprung in einer lokalen Geschichte haben. 
 
-More importantly, this shows the dangers of reading morals from ancient scripture. Such tales, and the moral lessons they impart, would have been told and passed down by a teacher, in a context, where the meaning and intent was made clear. When we strip a text of its context, it is easy to read it in a way that its creator would find abhorrent. If we lack any morality or sense of decency, we will turn even a simple parable into an instrument of evil.
+Was aber noch wichtiger ist: Das Ganze zeigt die Gefahren auf, die entstehen, wenn wir eine Moral aus einem alten Text ziehen wollen. Solche Erzählungen und auch die moralischen Lehren, die sie übermitteln, wurden von einem Lehrer erzählt und weitergegeben, in einem Zusammenhang, wo die Bedeutung und der Zweck klar herausgestellt wurden. Wenn wir einen Text aus seinem Zusammenhang herausnehmen, ist es leicht, ihn auf eine Art zu lesen, die sein Schöpfer unerträglich gefunden hätte. Wenn uns jede Moral und jeder Sinn für Anstand fehlen, können wir selbst eine einfache Parabel zu einem Werkzeug des Bösen machen. 
 
 ---
 
-For a detailed list of connections, see *GREEK MOTIFS IN THE JATAKAS*, Merlin Peiris:
+Für eine ausführliche Zusammenstellung von Verbindungen siehe *GREEK MOTIFS IN THE JATAKAS*, Merlin Peiris:
 
 [https://www.jstor.org/stable/23730784?seq=15 ](https://www.jstor.org/stable/23730784?seq=15)
 
-And on the author:
+Und über den Autor:
 
-http://www.srilankaguardian.org/2022/12/prof-merlin-peiris-last-of-mohicans.html
+[http://www.srilankaguardian.org/2022/12/prof-merlin-peiris-last-of-mohicans.html](http://www.srilankaguardian.org/2022/12/prof-merlin-peiris-last-of-mohicans.html)
 
 
