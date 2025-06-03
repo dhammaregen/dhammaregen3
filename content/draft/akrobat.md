@@ -34,7 +34,7 @@ Die Geschichte ist in diesem Fall eine bekannte Fabel. Ein Eremit freundet sich 
 Die Geschichte im Pali  hat mehrere moralische Lehren: 
 
 * Höre auf guten Rat.
-* Hafte nicht an.
+* Sei nicht zu anhänglich.
 * Schlangen sind gefährlich.
 
 Doch die wichtigste Lehre aus der Strophe behandelt das Hören auf guten Rat, und das muss der Kern der zugehörigen Geschichte sein. 
@@ -47,11 +47,11 @@ Diese Geschichte ist eins der vielen Jātakas, die eine Verbindung zu griechisch
 
 Äsops Fabel war im Altertum sprichwörtlich und bleibt es bis heute in der englischen [und deutschen; A.d.Ü.] Redensart „eine Schlange am Busen nähren“. Mit dem Lied „The Snake“ von [Oscar Brown](https://de.wikipedia.org/wiki/Oscar_Brown,_Jr.) wurde sie populär. 
 
-In jüngster Zeit geriet dieses Lied in Verruf, da es von Donald Trump bei seinen Wahlkampfauftritten laut vorgelesen wurde. Ich werde hier aus Mitgefühl für Sie alle keinen Link anfügen, aber es ist wirklich bemerkenswert, wie er durch den Text stolpert, indem er auf Drittklässler-Niveau liest, in einem Kinderlied-Singsang intoniert, außer an einer Stelle: wenn es darum geht, die Schlange als böse zu beschreiben. Hier wird er lebendig, knurrt die Worte heraus und wiederholt sie. 
+In jüngster Zeit geriet dieses Lied in Verruf, da es von Donald Trump bei seinen Wahlkampfauftritten laut vorgelesen wurde. Ich werde hier aus Mitgefühl mit Ihnen keinen Link anfügen, aber es ist wirklich bemerkenswert, wie er durch den Text stolpert, indem er auf Drittklässler-Niveau liest, in einem Kinderlied-Singsang intoniert, außer an einer Stelle: wenn es darum geht, die Schlange als böse zu beschreiben. Hier wird er lebendig, knurrt die Worte heraus und wiederholt sie. 
 
 Es wurde oft darauf hingewiesen, dass diese Darbietung ein Akt narzisstischer Projektion ist: Er ist die Schlange, und die leichtgläubigen Toren sind seine eigenen Anhänger, die ihn hereinlassen. Aber was er vordergründig im Sinn hat, ist, dass die Einwanderer die Schlange seien, und die andere Partei sei der gutherzige Tor, der gebissen werde. Die Tatsache, dass er die Worte eines schwarzen Aktivisten gebraucht, um farbige Menschen zu dämonisieren, spricht natürlich für sich selbst. 
 
-Wir sehen nun die unmittelbaren Folgen dieser Hassrhetorik in den USA. Eine widerwärtige alte Lüge über Einwanderer, die Katzen essen, wurde von einem Anführer der Nazigruppe Blood Tribe angeschoben und von einer Frau verbreitet, die nun von Schuldgefühlen wegen ihres Leichtsinns verzehrt wird. Die Geschichte wurde von Trump und seinen Spießgesellen aufgegriffen, [die wussten, dass sie logen](https://x.com/MikeNellis/status/1835324106037772655). Als unmittelbares Ergebnis davon wurden in der betreffenden Stadt, Springfield, Schulen und Universitäten wegen Bombendrohungen geschlossen, während Nazi-Rowdys durch die Straßen zogen. 
+Wir sehen nun die unmittelbaren Folgen dieser Hassrhetorik in den USA. Eine widerwärtige alte Lüge über Einwanderer, die Katzen essen, wurde von einem Anführer der Nazigruppe Blood Tribe angeschoben und von einer Frau verbreitet, die nun von Schuldgefühlen wegen ihres Leichtsinns verzehrt wird. Die Geschichte wurde von Trump und seinen Spießgesellen aufgegriffen, [die wussten, dass sie logen](https://x.com/MikeNellis/status/1835324106037772655). Als unmittelbare Folge davon wurden in der betreffenden Stadt, Springfield, Schulen und Universitäten wegen Bombendrohungen geschlossen, während Nazi-Rowdys durch die Straßen zogen. 
 
 Wie kann es sein, so fragt man sich vielleicht, dass eine buddhistische Geschichte ein solches Ende nimmt? Dem nachzugehen, wäre eine verwickelte Reise, aber [Wikipedia (EN) bemerkt](https://en.wikipedia.org/wiki/The_Farmer_and_the_Viper#Variations_on_a_theme), dass der Gebrauch dieser Geschichte zum Zweck der Dämonisierung von Einwanderern bis ins Russland des 19. Jahrhunderts zurückreicht: 
 
@@ -95,7 +95,7 @@ Doch als Übersetzer lässt es mich innehalten. Ich wollte den Titel mit „Die 
 
 Und was die historische Herkunft betrifft, so scheint es, dass wir von einer Verbindung der Geschichte mit Griechenland – welcher Art auch immer – nicht auf eine ähnliche Verbindung für die Strophe schließen können. Die Strophe, wenn sie von Akrobaten handelt, spielt vielmehr auf eine indigene indische kulturelle Praxis an und muss ihren Ursprung in einer lokalen Geschichte haben. 
 
-Was aber noch wichtiger ist: Das Ganze zeigt die Gefahren auf, die entstehen, wenn wir eine Moral aus einem alten Text ziehen wollen. Solche Erzählungen und auch die moralischen Lehren, die sie übermitteln, wurden von einem Lehrer erzählt und weitergegeben, in einem Zusammenhang, wo die Bedeutung und der Zweck klar herausgestellt wurden. Wenn wir einen Text aus seinem Zusammenhang herausnehmen, ist es leicht, ihn auf eine Art zu lesen, die sein Schöpfer unerträglich gefunden hätte. Wenn uns jede Moral und jeder Sinn für Anstand fehlen, können wir selbst eine einfache Parabel zu einem Werkzeug des Bösen machen. 
+Was aber noch wichtiger ist: Das Ganze zeigt die Gefahren auf, die entstehen, wenn wir eine Moral aus einem alten Text ziehen wollen. Solche Erzählungen und auch die moralischen Lehren, die sie übermitteln, wurden von einem Lehrer erzählt und weitergegeben, in einem Zusammenhang, wo die Bedeutung und der Zweck klar herausgestellt wurden. Wenn wir einen Text aus seinem Zusammenhang herausnehmen, ist es leicht, ihn auf eine Art zu lesen, die sein Schöpfer unerträglich gefunden hätte. Wenn uns jede Moral und jeder Sinn für Anstand abgehen, werden wir selbst eine einfache Parabel zu einem Werkzeug des Bösen machen. 
 
 ---
 
