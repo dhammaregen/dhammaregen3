@@ -1,9 +1,9 @@
 ---
-title: Schlange oder Akrobat – Jataka 43
+title: Schlange oder Akrobat – Jātaka 43
 description: Bhikkhu Sujato, 2024
 img:  sujato.png
 img-alt: Foto von Bhante Sujato
-order: 3
+order: 2.98
 ---
 
 [Zum Originaltext](https://discourse.suttacentral.net/t/the-snake-or-the-acrobat-jataka-43/35978)
