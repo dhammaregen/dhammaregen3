@@ -43,7 +43,7 @@ So wie die Jātaka-Geschichte da steht, scheint sie jedoch vielmehr den Schwerpu
 
 Diese Geschichte ist eins der vielen Jātakas, die eine Verbindung zu griechischen Geschichten haben: 
 
-[https://www.projekt-gutenberg.org/aesop/fabeln2/chap004.html](https://www.projekt-gutenberg.org/aesop/fabeln2/chap004.html) (55. Unangebrachte Mildtätigkeit)
+[https://www.projekt-gutenberg.org/aesop/fabeln2/chap004.html](https://www.projekt-gutenberg.org/aesop/fabeln2/chap004.html) (siehe 55. Unangebrachte Mildtätigkeit)
 
 Äsops Fabel war im Altertum sprichwörtlich und bleibt es bis heute in der englischen [und deutschen; A.d.Ü.] Redensart „eine Schlange am Busen nähren“. Mit dem Lied „The Snake“ von [Oscar Brown](https://de.wikipedia.org/wiki/Oscar_Brown,_Jr.) wurde sie populär. 
 
