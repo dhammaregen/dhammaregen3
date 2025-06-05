@@ -87,7 +87,7 @@ Das scheint zu unserer Jātaka-Strophe gut zu passen.:
 * Beide Kontexte betonen, wie wichtig es ist, auf guten Rat zu hören. 
 * Die Geschichte enthält eine Lehrer-Schüler-Beziehung, in der die Schülerin gut das Kind des Lehrmeisters sein könnte. Somit passt sie zu dem Gebrauch von „Vater“ besser als die Geschichte mit der Schlange. 
 
-Natürlich ist die Erzählung umgekehrt, da im Sutta die Akrobaten in Sicherheit sind, während der Protagonist im Jātaka stirbt. Aber beide gehen davon aus, dass die akrobatischen Kunststücke gefährlich sind und Sorgsamkeit und Kooperation erfordern. 
+Natürlich ist die Erzählung umgekehrt, da im Sutta die Akrobaten in Sicherheit sind, während der Protagonist in der Jātaka-Strophe stirbt. Aber beide gehen davon aus, dass die akrobatischen Kunststücke gefährlich sind und Sorgsamkeit und Kooperation erfordern. 
 
 In solchen Fällen können wir nicht ohne gewichtigere Hinweise schlussfolgern, ob die Strophe im Licht von SN 47.19 oder mit ihrer traditionellen Geschichte gelesen werden sollte. Ich persönlich denke, es geht wahrscheinlicher um Akrobaten. Wenn ich dem folgen sollte, würde ich die letzte Zeile übersetzen: „wie der Vater des Akrobaten“. 
 
