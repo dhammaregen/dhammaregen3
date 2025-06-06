@@ -13,6 +13,7 @@ Hier finden Sie eine kurze Themenübersicht der bisher erschienenen Newsletter. 
 - Knochenwaschen (AN 10.107)
 - Essay: Schlange oder Akrobat – Jātaka 43
 - Essay: Nun, das war unerwartet: Knochenwaschrituale bei den Kastenlosen in Südindien
+- Iti 27
 
 ### [Mai 2025](#/wiki/news/2025-05)
 - Warum der König den Buddha liebt (MN 89)
