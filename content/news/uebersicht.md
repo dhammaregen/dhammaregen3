@@ -8,6 +8,12 @@ order: -9999
 
 Hier finden Sie eine kurze Themenübersicht der bisher erschienenen Newsletter. Klicken sie auf die Überschrift, um zu einem Newsletter zu gelangen.
 
+### [Juni 2025](#/wiki/news/2025-06)
+- Stangenakrobatik (SN 47.19, Ja 43, DN 1)
+- Knochenwaschen (AN 10.107)
+- Essay: Schlange oder Akrobat – Jātaka 43
+- Essay: Nun, das war unerwartet: Knochenwaschrituale bei den Kastenlosen in Südindien
+
 ### [Mai 2025](#/wiki/news/2025-05)
 - Warum der König den Buddha liebt (MN 89)
 - Pasenadi und sein Sohn (MN 90, SN 3.1)
