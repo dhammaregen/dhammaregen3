@@ -31,8 +31,8 @@ Diese Webseite legt Wert auf den Schutz der persönlichen Daten ihrer Besucher. 
 
 Für die Datenverarbeitung auf dieser Webseite verantwortlich ist:  
 Maria Backes (Silashin Sabbamitta)  
-c/o Gerhart-Hauptmann-Straße 25  
-66386 St. Ingbert  
+St. Ingberter Str. 34 b 
+66583 Spiesen-Elversberg  
 Deutschland  
 [dhammaregen@gmail.com](mailto:dhammaregen@gmail.com)
 
@@ -43,7 +43,7 @@ Die sogenannte „verantwortliche Stelle“ entscheidet über die Zwecke und Mit
 
 Der Hoster dieser Webseite erhebt in sogenannten Logfiles folgende Daten, die ihm vom Browser des Benutzers übermittelt werden:
 
-IP-Adresse, die Adresse der vorher besuchten Webseite (Referer Anfrage-Header), Datum und Uhrzeit der Anfrage, Zeitzonendifferenz zur Greenwich-Mean-Time, Inhalt der Anforderung, HTTP-Statuscode, übertragene Datenmenge, Webseite, von der die Anforderung kommt, und Informationen zu Browser und Betriebssystem.
+IP-Adresse, die Adresse der vorher besuchten Webseite, Datum und Uhrzeit der Anfrage, Zeitzonendifferenz zur Greenwich-Mean-Time, Inhalt der Anforderung, HTTP-Statuscode, übertragene Datenmenge, Webseite, von der die Anforderung kommt, und Informationen zu Browser und Betriebssystem.
 
 Das ist erforderlich, um diese Webseite anzuzeigen und die Stabilität und Sicherheit zu gewährleisten. Dies entspricht dem berechtigten Interesse der Webseitenbetreiberin im Sinne des Art. 6 Abs. 1 Buchst. f DSGVO.
 
@@ -57,7 +57,9 @@ United States
 
 Dieser ist Empfänger der personenbezogenen Daten der Besucher der Webseite. Dies entspricht dem berechtigten Interesse der Webseitenbetreiberin im Sinne des Art. 6 Abs. 1 Buchst. f DSGVO, selbst keinen eigenen Server vorhalten zu müssen. Serverstandort sind die USA.
 
-Weitere Informationen zu Widerspruchs- und Beseitigungsmöglichkeiten gegenüber GitHub finden Sie unter: [https://docs.github.com/en/free-pro-team@latest/github/site-policy/github-privacy-statement#github-pages](https://docs.github.com/en/free-pro-team@latest/github/site-policy/github-privacy-statement#github-pages)
+Die GitHub Inc. hat sich nach dem Trans-Atlantic Data Privacy Framework (TADPF) zertifiziert. Der TADPF ist ein Angemessenheitsbeschluss der EU-Kommission, der ein adäquates Datenschutzniveau in den USA gewährleistet. Durch diese Zertifizierung verpflichtet sich der Anbieter, die europäischen Datenschutzgrundsätze einzuhalten
+
+Weitere Informationen zu Widerspruchs- und Beseitigungsmöglichkeiten gegenüber GitHub finden Sie unter: [https://docs.github.com/de/site-policy/privacy-policies/github-general-privacy-statement](https://docs.github.com/de/site-policy/privacy-policies/github-general-privacy-statement)
 
 Sie haben das Recht, der Verarbeitung zu widersprechen. Ob der Widerspruch erfolgreich ist, ist im Rahmen einer Interessenabwägung zu ermitteln.
 
@@ -65,13 +67,13 @@ Die Daten werden gelöscht, sobald der Zweck der Verarbeitung entfällt.
 
 Die Verarbeitung der unter diesem Abschnitt angegebenen Daten ist weder gesetzlich noch vertraglich vorgeschrieben. Die Funktionsfähigkeit der Webseite ist ohne die Verarbeitung nicht gewährleistet.
 
-GitHub hat Compliance-Maßnahmen für internationale Datenübermittlungen umgesetzt. Diese gelten für alle weltweiten Aktivitäten, bei denen GitHub personenbezogene Daten von natürlichen Personen in der EU verarbeitet. Diese Maßnahmen basieren auf den EU-Standardvertragsklauseln (SCCs). Weitere Informationen finden Sie unter: [https://docs.github.com/en/free-pro-team@latest/github/site-policy/github-data-protection-addendum#attachment-1–the-standard-contractual-clauses-processors](https://docs.github.com/en/free-pro-team@latest/github/site-policy/github-data-protection-addendum#attachment-1–the-standard-contractual-clauses-processors)
-
 Es soll in diesem Zusammenhang darauf hingewiesen werden, dass mit dem Einsatz geeigneter technischer Mittel auch ein anonymes Surfen im Internet möglich ist.
 
 #### Cookies
 
-Diese Webseite verwendet Cookies lediglich zu dem Zweck, die Darstellung der Webseiteninhalte zu ermöglichen und die Einstellungen des Benutzers in dessen Browser zu speichern. Folgende Inhalte werden mittels Cookies gespeichert:
+Diese Webseite verwendet Cookies lediglich zu dem Zweck, die Darstellung der Webseiteninhalte zu ermöglichen und die Einstellungen des Benutzers in dessen Browser zu speichern. Es werden keine Cookies benutzt, um Nutzerverhalten zu analysieren. 
+
+Folgende Inhalte werden mittels Cookies gespeichert:
 - der Text vom Benutzer geladener FBT-Dokumente
 - die Audiodateien vom Benutzer geladener FBT-Dokumente
 - persönliche Webseiten-Einstellungen des Benutzers
@@ -88,11 +90,13 @@ Diese Webseite nutzt YouTube mit der Funktion „Erweiterter Datenschutzmodus“
 
 Über Ihren Internet-Browser speichert YouTube Cookies auf dem Gerät, mit dem Sie das Video auf dieser Webseite betrachten. Falls Sie mit dieser Verarbeitung nicht einverstanden sind, können Sie die Speicherung der Cookies durch eine Einstellung in Ihrem Internet-Browser verhindern.
 
+YouTube LLC. hat sich nach dem Trans-Atlantic Data Privacy Framework (TADPF) zertifiziert. Der TADPF ist ein Angemessenheitsbeschluss der EU-Kommission, der ein adäquates Datenschutzniveau in den USA gewährleistet. Durch diese Zertifizierung verpflichtet sich der Anbieter, die europäischen Datenschutzgrundsätze einzuhalten.
+
 Weitergehende Informationen über die Erhebung und Nutzung von Daten sowie über Ihre Rechte und Schutzmöglichkeiten hält Google in seinen Datenschutzhinweisen bereit, die unter [https://policies.google.com/privacy](https://policies.google.com/privacy) abrufbar sind.
 
-#### Kontakt per Email
+#### Kontakt per E-Mail
 
-Wenn Sie an [dhammaregen@gmail.com](mailto:dhammaregen@gmail.com) eine Email senden, werden Ihre Kontaktdaten und der Inhalt der Email gespeichert, um die Anfrage bearbeiten zu können. Diese Daten werden gemäß Art. 6 Abs. 1 Buchst. f DSGVO („berechtigtes Interesse“) verarbeitet.
+Wenn Sie an [dhammaregen@gmail.com](mailto:dhammaregen@gmail.com) eine E-Mail senden, werden Ihre Kontaktdaten und der Inhalt der E-Mail gespeichert, um die Anfrage bearbeiten zu können. Diese Daten werden gemäß Art. 6 Abs. 1 Buchst. f DSGVO („berechtigtes Interesse“) verarbeitet.
 
 #### Speicherdauer
 
