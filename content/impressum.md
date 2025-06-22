@@ -43,7 +43,7 @@ Die sogenannte „verantwortliche Stelle“ entscheidet über die Zwecke und Mit
 
 Der Hoster dieser Webseite erhebt in sogenannten Logfiles folgende Daten, die ihm vom Browser des Benutzers übermittelt werden:
 
-IP-Adresse, die Adresse der vorher besuchten Webseite, Datum und Uhrzeit der Anfrage, Zeitzonendifferenz zur Greenwich-Mean-Time, Inhalt der Anforderung, HTTP-Statuscode, übertragene Datenmenge, Webseite, von der die Anforderung kommt, und Informationen zu Browser und Betriebssystem.
+IP-Adresse, die Adresse der vorher besuchten Webseite (Referrer), Datum und Uhrzeit der Anfrage, Zeitzonendifferenz zur Greenwich-Mean-Time, Inhalt der Anforderung, HTTP-Statuscode, übertragene Datenmenge, Webseite, von der die Anforderung kommt, und Informationen zu Browser und Betriebssystem.
 
 Das ist erforderlich, um diese Webseite anzuzeigen und die Stabilität und Sicherheit zu gewährleisten. Dies entspricht dem berechtigten Interesse der Webseitenbetreiberin im Sinne des Art. 6 Abs. 1 Buchst. f DSGVO.
 
