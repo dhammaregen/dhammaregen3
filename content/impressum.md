@@ -16,8 +16,8 @@ Geschäftliche oder kommerzielle Interessen werden nicht verfolgt, auch soll nic
 
 Kontakt:  
 Maria Backes (Silashin Sabbamitta)  
-c/o Gerhart-Hauptmann-Straße 25  
-66386 St. Ingbert  
+St. Ingberter Str. 34 b  
+66583 Spiesen-Elversberg  
 Deutschland  
 [dhammaregen@gmail.com](mailto:dhammaregen@gmail.com)
 
