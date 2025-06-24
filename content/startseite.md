@@ -15,7 +15,7 @@ order: 1
 
 ### Was Sie auf *Dhammaregen* finden
 
-*Dhammaregen* ist eine Webseite zum Studium früher buddhistischer Texte, im Speziellen der Suttas (Lehrreden des Buddha und seiner frühen Schülerinnen und Schüler). Es beherbergt neue deutsche Sutta-Übersetzungen von Silashin Sabbamitta. Daneben enthält es verschiedene Hintergrundinformationen zu den frühen buddhistischen Texten (FBT).
+*Dhammaregen* ist eine Webseite zum Studium früher buddhistischer Texte, im Speziellen der Suttas (Lehrreden des Buddha und seiner frühen Schülerinnen und Schüler). Es beherbergt neue deutsche Sutta-Übersetzungen von Silashin Sabbamitta. Verschiedene Hintergrundinformationen zu den frühen buddhistischen Texten (FBT) finden Sie auf unserer Begleitwebseite [*Mehr von Dhammaregen*](mehr.dhammaregen.net).
 
 - Neu bei den Suttas? Finden Sie hier [ein paar Tipps zum Einstieg](#/wiki/studium/einstieg).  
 - Neu bei *Dhammaregen*? Lesen Sie hier [über die Idee hinter der Webseite](#/wiki/studium/neu).
@@ -24,9 +24,9 @@ order: 1
 
 ### Nachrichten von *Dhammaregen*
 
-*Dhammaregen* versendet in unregelmäßigen Abständen einen Newsletter mit Nachrichten über Neues auf dieser Webseite und rund um die frühen buddhistischen Texte. Zum Newsletter-Archiv [hier klicken](#/wiki/news/inhalt). Wenn Sie den Newsletter abonnieren möchten, senden Sie bitte eine formlose Email an [dhammaregen@gmail.com](mailto:dhammaregen@gmail.com). 
+*Dhammaregen* versendet in unregelmäßigen Abständen einen Newsletter mit Nachrichten über Neues auf dieser Webseite und rund um die frühen buddhistischen Texte. Zum Newsletter-Archiv auf *Mehr von Dhammaregen* [hier klicken](https://mehr.dhammaregen.net/s/dhammaregen-newsletter). Wenn Sie den Newsletter abonnieren möchten, senden Sie bitte eine formlose E-Mail an [dhammaregen@gmail.com](mailto:dhammaregen@gmail.com) oder nutzen Sie die „Abonnieren“-Schaltflächen auf *Mehr von Dhammaregen*.
 
-Auch Fragen oder Anregungen können an diese Email-Adresse gesandt werden, oder wenden Sie sich an das SuttaCentral-Diskussionsforum [Discourse.SuttaCentral](https://discourse.suttacentral.net).
+Sie können auch gerne Fragen oder Anregungen per E-mail senden, oder Sie wenden sich an das SuttaCentral-Diskussionsforum [Discourse.SuttaCentral](https://discourse.suttacentral.net).
 
 ### Copyright und Datenschutz
 
