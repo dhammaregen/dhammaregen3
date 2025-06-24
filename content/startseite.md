@@ -15,7 +15,7 @@ order: 1
 
 ### Was Sie auf *Dhammaregen* finden
 
-*Dhammaregen* ist eine Webseite zum Studium früher buddhistischer Texte, im Speziellen der Suttas (Lehrreden des Buddha und seiner frühen Schülerinnen und Schüler). Es beherbergt neue deutsche Sutta-Übersetzungen von Silashin Sabbamitta. Verschiedene Hintergrundinformationen zu den frühen buddhistischen Texten (FBT) finden Sie auf unserer Begleitwebseite [*Mehr von Dhammaregen*](mehr.dhammaregen.net).
+*Dhammaregen* ist eine Webseite zum Studium früher buddhistischer Texte, im Speziellen der Suttas (Lehrreden des Buddha und seiner frühen Schülerinnen und Schüler). Es beherbergt neue deutsche Sutta-Übersetzungen von Silashin Sabbamitta. Verschiedene Hintergrundinformationen zu den frühen buddhistischen Texten (FBT) finden Sie auf unserer Begleitwebseite [*Mehr von Dhammaregen*](https://mehr.dhammaregen.net).
 
 - Neu bei den Suttas? Finden Sie hier [ein paar Tipps zum Einstieg](#/wiki/studium/einstieg).  
 - Neu bei *Dhammaregen*? Lesen Sie hier [über die Idee hinter der Webseite](#/wiki/studium/neu).
