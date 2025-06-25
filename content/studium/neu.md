@@ -1,6 +1,6 @@
 ---
 title: Dhammaregen in neuem Kleid 
-description: Juli 2023 
+description: Juni 2025 
 img: newdress.png
 img-alt: Waldboden mit Teppich aus blühenden Anemonen
 order: 0.5
