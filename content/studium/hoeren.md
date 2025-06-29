@@ -6,7 +6,7 @@ img-alt: Kissen mit MP3-Player am Fuß eines Baumes
 order: 2
 ---
 
-Das Wiedergabemodul erscheint am unteren Bildschirmrand, sobald eine Suttakarte geöffnet wird.  
+Das Wiedergabemodul erscheint am unteren Bildschirmrand, sobald eine Sutta- oder Suttalistenkarte geöffnet wird.  
 
 <style>
 .my-img {

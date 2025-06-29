@@ -36,7 +36,8 @@ Sie können auch einen freien Suchtext in die Suchkarte eingeben oder Suttas nac
 
 ### 3. Zu benachbarten Suttas oder zu SuttaCentral gehen
 
-Links zum vorherigen und zum nächsten Sutta nach der Ordnung des Kanon finden Sie sowohl am oberen als auch am unteren Rand der Suttakarte; die Suttakennung ganz oben links hat einen Link zum entsprechenden Text auf SuttaCentral. 
+Links zum vorherigen und zum nächsten Sutta [nach der Ordnung des Kanon](#/wiki/studium/palikanon) finden Sie sowohl am oberen als auch am unteren Rand der Suttakarte; die Suttakennung ganz oben links hat einen Link zum entsprechenden Text auf SuttaCentral. 
+
 ### 4. Suttas vergleichen
 
 Sie können in *Dhammaregen* mehrere Suttakarten und auch mehrere Suchkarten gleichzeitig geöffnet haben und über das Tabulatormenü links oben zwischen ihnen hin- und herspringen. 

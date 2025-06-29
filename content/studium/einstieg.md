@@ -36,9 +36,9 @@ Ein paar Anregungen, um den Einstieg zu erleichtern:
 - Eine [Übersicht über die Struktur des Kanon](#/wiki/studium/palikanon) 
 - Ein paar [allgemeine Überlegungen zum Lesen der Suttas](#/wiki/studium/suttas-lesen) von Bhante Sujato
 - Bhante Sujatos Aufsatz [*Top Ten Suttas (… und zehn weitere, die sich ebenfalls zu lesen lohnen)*](#/wiki/studium/topten) schlägt beliebte Suttas vor sowie einige weitere, die genauso unsere Aufmerksamkeit verdienen.
-- Die Ausgaben des [*Dhammaregen*-Newsletters](#/wiki/news/inhalt) führen jeweils an eine kleine Zahl von Suttas heran und bieten so kleine „Wanderführer“ für eine Sutta-Wanderung.
+- Die Ausgaben des [*Dhammaregen*-Newsletters](https://mehr.dhammaregen.net/s/dhammaregen-newsletter) führen jeweils an eine kleine Zahl von Suttas heran und bieten so kleine „Wanderführer“ für eine Sutta-Wanderung.
 - Die Seite [*Dhammaregen* in neuem Kleid](#/wiki/studium/neu) vermittelt einen Überblick über die grundsätzliche Idee hinter *Dhammaregen*. 
-- Es gibt auch eine [Übersicht über die Themen, die auf dieser Webseite behandelt werden](#/wiki/inhalt). Klicken Sie auf einen der Themenschwerpunkte, um mehr zu erfahren.
+- Weitere ergänzende Informationen neben dem Newsletter finden Sie auf der Begleitwebseite [„Mehr von Dhammaregen“](https://mehr.dhammaregen.net). Klicken Sie auf eine der Rubriken in der Kopfleiste, um mehr zu erfahren.
 - Fangen Sie einfach irgendwo an! Öffnen Sie [eine Suchkarte](#/search//de), klicken Sie auf „Such mir etwas aus!“ und lassen Sie sich überraschen. Egal wo Sie anfangen, den Berg zu besteigen – irgendwann werden Sie beim Gipfel ankommen. [Erläuterungen zum Durchsuchen der Suttas auf *Dhammaregen*](#/wiki/studium/suche)
 
 <div style="text-align: center;">* * *</div>

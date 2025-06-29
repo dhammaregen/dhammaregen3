@@ -10,7 +10,7 @@ order: 3
 
 Seit ich mit der Praxis des Buddhismus begonnen habe, habe ich die Suttas als eine unschätzbare Zuflucht erlebt. Da gibt es soviel Weisheit, so viele erstaunliche Dinge – sie sind eine unerschöpfliche Dhamma-Fundgrube. Ich ermutige alle Buddhistinnen und Buddhisten, sich tägliches oder zumindest wöchentliches Suttalesen zur Gewohnheit zu machen.
 
-Die Suttas überzeugen nicht auf Anhieb. Sie haben viele Wiederholungen und sind oft langweilig. Ihre Schönheit ist vielmehr eine zarte Sache. Sie besteht in der Ausgewogenheit, dem Sinn für Form, der Vernünftigkeit, in der inneren Heiterkeit und Weisheit des Buddha in jeder erdenklichen Situation.
+Die Suttas überzeugen nicht auf Anhieb. Sie haben viele Wiederholungen und sind oft langweilig. Ihre Schönheit ist vielmehr eine zarte Sache. Sie besteht in der Ausgewogenheit, dem Sinn für Form, der Vernünftigkeit, der inneren Heiterkeit und Weisheit des Buddha in jeder erdenklichen Situation.
 
 Am besten liest man sie in kleinen Stücken. Ein mittellanges Sutta ist für eine Sitzung ideal. Lesen Sie langsam und sorgfältig. Achten Sie darauf, ob Sie etwas nicht verstehen – und hüten Sie sich, wenn Sie denken, Sie hätten es schon verstanden. Wenn Sie fertig sind, prüfen Sie zum besseren Verständnis Fußnoten oder andere Leitfäden. Zergliedern Sie es nicht zu sehr – versuchen Sie, die gesamte Essenz der Lehre in sich aufzunehmen. Wenn Sie ein Sutta vor der Meditation lesen, kann es Ihren Geist erheben und ergreifen, und die Bedeutung wird klar.
 

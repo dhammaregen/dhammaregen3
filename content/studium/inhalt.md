@@ -26,6 +26,8 @@ Die Inhalte von *Dhammaregen* werden auf **Karten** dargestellt.
 * <b>Wikikarten</b> zeigen die verschiedenen Wiki-Inhalte
 * <b>Suchkarten</b> zeigen Suchergebnisse an
 * <b>Suttakarten</b> zeigen einzelne Suttas 
+* <b>Suttalistenkarten</b> zeigen Wiedergabelisten mit mehreren Suttas
+* <b>Wörterbuchkarten</b> zeigen Details zu Stichwörtern aus dem *Digital Pali Dictionary* (DPD)
 * <b>Graphenkarten</b> zeigen über Schlüsselbegriffe verbundene Netzwerke um ein bestimmtes Sutta herum
 </details>
 

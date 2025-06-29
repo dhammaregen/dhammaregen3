@@ -10,4 +10,4 @@ order: 2.7
 
 Wenn Sie in einem Segment auf ein Paliwort klicken, wird der Wörterbucheintrag angezeigt. Wenn Sie in diesem Eintrag erneut auf das Paliwort klicken, öffnet sich eine separate Wörterbuchkarte mit weiteren Einzelheiten. Hier können Sie auch die Aussprache hören, wenn Sie auf die Wiedergabe-Schaltfläche klicken.
 
-Die Wörterbucheinträge sind auf Englisch.
+Die Wörterbucheinträge sind auf größtenteils Englisch.

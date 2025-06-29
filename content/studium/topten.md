@@ -27,9 +27,9 @@ Im Saccavibhaṅga-Sutta erinnert der Buddha an das Dhammacakka und erwähnt, da
 
 Das Mettasutta oder Karaṇīyamettasutta findet man bei Snp 1.8 und bei Kp 9. Es ist ein Gedicht über die Tugenden von Mettā, der liebenden Güte. Es besteht aus wunderschönen Strophen, die in ihrer kurzen Spanne die ethischen Grundlagen für die Liebe darlegen, zeigen, wie man sie in der Meditation entwickelt, und beschreiben, wie allumfassende Liebe sich anfühlt. Es muss wenig verwundern, dass es vielleicht die beliebteste Lehrrede zum Rezitieren ist, ob in einer Gruppe oder als Bestandteil der persönlichen Meditation. Viele Menschen rezitieren es gerne, bevor sie sich zum Meditieren hinsetzen, oder hören es im Hintergrund über den Tag.
 
-### Warum lesen Sie nicht: das Kodhanasutta über Reizbarkeit (--> [AN 7.64](#/sutta/an7.64/de/sabbamitta))
+### Warum lesen Sie nicht: das Kodhanasutta über Zorn (--> [AN 7.64](#/sutta/an7.64/de/sabbamitta))
 
-Wenn der positive Impuls des Mettasutta nicht überzeugend genug ist, dann schauen Sie, was der Buddha über das Gegenteil gesagt hat: wie es ist, wenn man zornig ist. Diese kurze Lehrrede gibt eine ziemlich vernichtende Beschreibung der Reizbarkeit, gefolgt von einer Reihe lebhafter und denkwürdiger Strophen.
+Wenn der positive Impuls des Mettasutta nicht überzeugend genug ist, dann schauen Sie, was der Buddha über das Gegenteil gesagt hat: wie es ist, wenn man zornig ist. Diese kurze Lehrrede gibt eine ziemlich vernichtende Beschreibung des Zorns, gefolgt von einer Reihe lebhafter und denkwürdiger Strophen.
 
 ### 3. Sie kennen: das Maṅgalasutta über glückverheißenden Segen (--> [Snp 2.4](#/sutta/snp2.4/de/sabbamitta) und --> [Kp 5](#/sutta/kp5/de/sabbamitta))
 
