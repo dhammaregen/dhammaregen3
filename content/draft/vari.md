@@ -8,165 +8,165 @@ order: 3
 
 [Zum Originaltext](https://discourse.suttacentral.net/t/on-vari-and-the-restraint-of-mahavira/31388)
 
-[DN 2](https://suttacentral.net/dn2/en/sujato) offers an important survey of key teachings of several contemporaries of the Buddha, including Mahāvīra Vardhamāna, the “Jain ascetic of the Ñātika clan” as he is referred to in Pali.
+[DN 2](#/sutta/dn2/de/sabbamitta) gibt eine wichtige Übersicht über die Hauptlehren einiger Zeitgenossen des Buddha, darunter auch Mahāvīra Vardhamāna, der „Jaina-Asket aus dem Stamm Ñātika“, wie er in den Palitexten genannt wird.
 
-The Pali passage has been a struggle for translators as it is linguistically obscure and doesn’t obviously relate to other known teaching of the Jains as recorded in the Pali canon. The passage occurs at [DN 2:29.4](https://suttacentral.net/dn2/en/sujato#dn2:29.4) and [MN 56:12.2](https://suttacentral.net/mn56/en/sujato#mn56:12.2).
+Die Pali-Passage war für viele Übersetzer ein Kampf, da sie linguistisch unklar ist und sich nicht offensichtlich auf andere bekannte Lehren der Jainas bezieht, wie sie im Palikanon überliefert sind. Die Passage findet sich in [DN 2:29.4](#/sutta/dn2:29.4/de/sabbamitta) und in [MN 56:12.2](#/sutta/mn56:12.2/de/sabbamitta). 
 
-> *sabbavārivārito sabbavāriyutto sabbavāridhuto sabbavāriphuṭo*
+*sabbavārivārito sabbavāriyutto sabbavāridhuto sabbavāriphuṭo*
 
-Let’s see if we can untangle this with the assistance of Jain scriptures.
+Wir wollen sehen, ob wir das mithilfe von Jaina-Schriften entwirren können. 
 
-This is said to be a “fourfold constraint”. There is a better-known fourfold constraint that is mentioned at [DN 25:16.3](https://suttacentral.net/dn25/en/sujato#dn25:16.3), which corresponds with the known set of that name in Jainism. Thus the teaching here has been suspected of being corrupted, or perhaps a satire on Jain views. Given that *vāri* means “water” in Pali, and that the Jains were noted for their rules regarding water (see [MN 56:11.2](https://suttacentral.net/mn56/en/sujato#mn56:11.2), there using *udaka*), some interpreters, including myself, took this as a reference to Jain discipline regarding water.
+Es heißt, das sei eine „vierfache Beschränkung“. Es gibt eine bekanntere vierfache Beschränkung in DN 25:16.3, die mit der bekannten Reihe dieses Namens im Jainismus übereinstimmt. Daher entstand der Verdacht, die Lehre hier könnte verfälscht sein oder vielleicht eine Satire auf Ansichten der Jainas darstellen. Da vāri im Pali „Wasser“ bedeutet, und da die Jainas durch ihre Regeln in Bezug auf Wasser auffielen (siehe MN 56:11.2, wo udaka gebraucht wird), nahmen manche Übersetzer, mich selbst eingeschlossen, dies als Hinweis auf den Umgang der Jainas mit Wasser. 
 
-However, it turns out that the phrase has a close parallel in a genuine early jain text that records the teaching of Mahāvīra himself. Not only that, but almost the entire section has close parallels in the suttas.
+Es stellt sich allerdings heraus, dass die Stelle eine enge Parallele in einem authentischen frühen Jainatext hat, der die Lehren Mahāvīras selbst aufzeichnet. Nicht nur das, sondern fast der gesamte Abschnitt hat enge Parallelen in den Suttas. 
 
-The text is Isibhāsiyāiṁ, the “Sayings of the Seers”. This is a rather extraordinary text which records saying by some 40 or so sages, most of whom do not seem to be Jain. Several are Buddhist—including verses by Sāriputta, which I hope to look at in the future—some are brahmins, while others have no known affiliation.
+Der Text ist das Isibhāsiyāiṁ, die „Sprüche der Seher“. Das ist ein recht außergewöhnlicher Text, der Sprüche von vielleicht vierzig Weisen aufzeichnet, von denen die meisten keine Jainas zu sein scheinen. Manche sind Buddhisten – einschließlich Strophen von Sāriputta, von denen ich hoffe, dass ich sie mir in der Zukunft anschauen kann –, manche sind Brahmanen, und andere haben keine bekannte Zuordnung. 
 
-Text here:
+Text hier:
 
-[https://gretil.sub.uni-goettingen.de/gretil/2_prakrt/isibhasu.htm ](https://gretil.sub.uni-goettingen.de/gretil/2_prakrt/isibhasu.htm)
+https://gretil.sub.uni-goettingen.de/gretil/2_prakrt/isibhasu.htm
 
-Translation and study here:
+Übersetzung [englisch] und Studie hier: 
 
-[https://archive.org/details/in.ernet.dli.2015.322298/page/7/mode/2up](https://archive.org/details/in.ernet.dli.2015.322298/page/7/mode/2up)
+https://archive.org/details/in.ernet.dli.2015.322298/page/7/mode/2up
 
-The relevant section, chapter 29, has a series of verses attributed to *vaddhamāṇa*, who rather curiously in the Jain tradition is not identified with their teacher Mahāvīra Vardhamāna, but with another sage. However this seems to be incorrect, not least because the same teaching is ascribed to him in Pali too. Thus we can assume this in, in fact, attributed to Mahāvīra.
+Der in Frage stehende Abschnitt, Kapitel 29, hat eine Reihe von Strophen, die Vaddhamāṇa zugeschrieben sind, der seltsamerweise in der Jainatradition nicht mit ihrem Lehrer Mahāvīra Vardhamāna, sondern mit einem anderen Weisen identifiziert wird. Das scheint jedoch falsch zu sein, nicht zuletzt, weil ihm die gleiche Lehre auch im Pali zugeschrieben wird. Daher können wir annehmen, dass dies tatsächlich Mahāvīra zugeschrieben wurde. 
 
-Given that the whole text has close Buddhist parallels, it is natural to wonder what the relation is. Perhaps the Buddhists vorrowed from the Jains, or vice versa, or both, or both drew from the same source, or both shared the teachings before splitting in two (assuming the early Buddhist tradition was less differentiated than it became later). All or none of these could be the case, and I don’t have enough familiarity with the texts to draw any solid conclusions.
+Vor dem Hintergrund der engen buddhistischen Parallelen, die der ganze Text hat, liegt es nahe, sich zu fragen, welche Beziehung zwischen beiden besteht. Vielleicht entlehnten die Buddhisten von den Jainas oder umgekehrt oder beides, oder beide griffen auf die gleiche Quelle zurück, oder beide hatten die gleichen Lehren, bevor sie sich in zwei Traditionen aufspalteten (dies nimmt an, dass die frühe buddhistische Tradition weniger differenziert war als sie es später wurde). Alle oder keine dieser Möglichkeiten könnten zutreffen, und ich bin mit den Texten nicht vertraut genug, um verlässliche Schlussfolgerungen zu ziehen. 
 
-I’ll present the Jain text here, although since much of it is repetitive, I’ll abbreviate. I give a rough translation, but since I don’t know Ardhamagadhi, take it with a grain of salt. There’s a nice study and translation of the text; the translation is very free but still helpful. Pali parallels are included.
+Ich werde den Jainatext hier vorstellen, aber da sich Vieles wiederholt, werde ich ihn abkürzen. Ich gebe eine grobe Übersetzung, aber da ich Ardhamagadhi nicht beherrsche, nehmen Sie es bitte mit Vorbehalt. Über den Text gibt es eine gute Studie mit Übersetzung; die Übersetzung ist sehr frei, aber dennoch hilfreich. Paliparallelen sind mit aufgenommen. [Deutsche Übersetzung hier nach Bhikkhu Sujatos englischer; A.d.Ü.]  
 
-> <em>savanti savvato sotā, | kiṃ -a sotoṇṇivāraṇaṃ? /
-> puṭhe muṇī āikkhe: | kahaṃ soto pihijjati? ||1||</em>
-> The stream flow everywhere, what is their blocking?
-> I ask the sage this question: how are the streams dammed?
+savanti savvato sotā, | kiṃ -a sotoṇṇivāraṇaṃ? /  
+puṭhe muṇī āikkhe: | kahaṃ soto pihijjati? ||1||  
+Die Ströme fließen überallhin, was ist ihre Blockade?  
+Ich stelle dem Abgeklärten diese Frage: Wie werden die Ströme eingedämmt? 
 
-[Snp5.2:3.1](https://suttacentral.net/snp5.2/en/sujato#snp5.2:3.1):
+Snp5.2:3.1:
 
-> <em>“Savanti sabbadhi sotā,
-> (iccāyasmā ajito)
-> Sotānaṁ kiṁ nivāraṇaṁ;
-> Sotānaṁ saṁvaraṁ brūhi,
-> Kena sotā pidhiyyare”.</em>
+“Savanti sabbadhi sotā,  
+(iccāyasmā ajito)  
+Sotānaṁ kiṁ nivāraṇaṁ;  
+Sotānaṁ saṁvaraṁ brūhi,  
+Kena sotā pidhiyyare”.
 
-Note that the verb *pihijjati* / *pidhiyyare* is extremely rare, it occurs only here in the Pali canon.
+Beachte, dass das Verb pihijjati / pidhiyyare ausgesprochen selten ist, dies ist sein einziges Vorkommen im Palikanon. 
 
-In both the Buddhist and Jain texts, this opening question recieves a good and pertinent response, although they are completely different.
+Sowohl im buddhistischen als auch im Jainatext erhält diese einleitende Frage eine gute und angemessene Antwort, aber beide sind vollkommen verschieden.
 
-> *vaddhamāṇeṇa arahatā isiṇā buitam. ||1||*
-> The perfected seer Vardhamāna said:
+vaddhamāṇeṇa arahatā isiṇā buitam. ||1||  
+Der vollendete Seher Vardhamāna sagte:
 
-> <em>panca jāgarao suttā, | panca suttassa jāgarā /
-> pancahiṃ rayam ādiyati, | pancahiṃ ca rayaṃ ṭhae ||2||</em>
-> Five sleep amid the wakened, five wake amid the sleeping
-> By five are dust gathered, by five dust prevented.
+panca jāgarao suttā, | panca suttassa jāgarā /  
+pancahiṃ rayam ādiyati, | pancahiṃ ca rayaṃ ṭhae ||2||  
+Fünf schlafen unter den Wachen, fünf wachen unter den Schlafenden  Von fünf wird Staub gesammelt, von fünf Staub abgewendet. 
 
-[SN 1.6:3.1](https://suttacentral.net/sn1.6/en/sujato#sn1.6:3.1):
+SN 1.6:3.1:
 
-> <em>“Pañca jāgarataṁ suttā,
-> pañca suttesu jāgarā;
-> Pañcabhi rajamādeti,
-> pañcabhi parisujjhatī”ti.</em>
+“Pañca jāgarataṁ suttā,  
+pañca suttesu jāgarā;  
+Pañcabhi rajamādeti,  
+pañcabhi parisujjhatī”ti.
 
-The Pali commentary explains these as the five hindrances and five spiritual faculties, whereas in the Jain text they refer to the five senses, which are “asleep” (dormant) in the enlightened, but “awake” (rampant) in fools.
+Der Palikommentar erklärt diese als die fünf Hindernisse und die fünf spirituellen Fähigkeiten, während sich der Jainatext auf die fünf Sinne bezieht, die bei den Erleuchteten „schlafend“ (inaktiv) sind, aber „wach“ (zügellos) bei den Toren. 
 
-The Jain text next goes on to discuss each of the five senses, in verses that loosely parallel [SN 35.94](https://suttacentral.net/sn35.94/en/sujato). The parallel is not as close as the previous two verses, but the general tenor is the same. The Jain text for some reason starts with the ear, and repeats the five senses in the exact same form. The Pali, on the other hand, has the normal sequence, and introduces variations in each verse. I won’t give all of them, just the eye is enough.
+Als nächstes geht der Jainatext dazu über, jeden der fünf Sinne zu besprechen, in Strophen, die lose an SN 35.94 erinnern. Die Parallele ist nicht so eng wie bei den beiden vorigen Strophen, aber der allgemeine Tenor ist der gleiche. Der Jainatext beginnt aus irgendeinem Grund mit dem Ohr und wiederholt die fünf Sinne in genau der gleichen Form. Der Palitext auf der anderen Seite hat die übliche Reihenfolge und führt in jeder Strophe Variationen ein. Ich werde nicht alle wiedergeben, das Auge soll genügen. 
 
-> <em>rūvaṃ cakkhum uvādāya | maṇuṇṇaṃ vā vi pāvagaṃ /
-> maṇuṇṇammi -a rajjejjā, | -a padussejjā hi pāvae ||5||
-> maṇuṇṇammi arajjante | aduṭhe iyarammi ya /
-> asutte avirodhīṇaṃ | evaṃ soe pihijjati ||6||</em>
-> When a sight arises in the eye, delightful or bad,
-> don’t desire the delightful, nor repulse the bad.
-> Not desiring the delightful, nor repulsing the disliked,
-> not attached, not rejecting: that is how the stream is dammed.
+rūvaṃ cakkhum uvādāya | maṇuṇṇaṃ vā vi pāvagaṃ /  
+maṇuṇṇammi -a rajjejjā, | -a padussejjā hi pāvae ||5||  
+maṇuṇṇammi arajjante | aduṭhe iyarammi ya /  
+asutte avirodhīṇaṃ | evaṃ soe pihijjati ||6||  
+Wenn im Auge ein Bild entsteht, erfreulich oder schlecht,  
+verlange nicht nach dem Erfreulichen, noch wehre das Schlechte ab.  
+Das Erfreuliche nicht verlangen, das Unerwünschte nicht abwehren,  
+ohne zu haften, ohne zurückzuweisen: So wird der Strom eingedämmt. 
 
-[SN 35.94:4.1](https://suttacentral.net/sn35.94/en/sujato#sn35.94:4.1):
+SN 35.94:4.1:
 
-> <em>Disvāna rūpāni manoramāni,
-> Athopi disvāna amanoramāni;
-> Manorame rāgapathaṁ vinodaye,
-> Na cāppiyaṁ meti manaṁ padosaye.</em>
-> Having seen pleasing sights
-> and unpleasant ones too,
-> get rid of all manner of desire for the pleasant,
-> without hating what you don’t like.
+Disvāna rūpāni manoramāni,  
+Athopi disvāna amanoramāni;  
+Manorame rāgapathaṁ vinodaye,  
+Na cāppiyaṁ meti manaṁ padosaye.  
+Wenn du angenehme Bilder gesehen hast  
+und auch unangenehme,  
+mach dich von allem Begehren nach Angenehmem los,  
+ohne zu hassen, was du nicht magst.
 
-Notice that Ardhamagadhi *maṇuṇṇaṃ* serves for Pali *manorama*. Both have the same sense and are derived from *man* (“mind”). The more exact Pali equivalent is *manuññaṁ* which is found rarely (eg. [MN 66:11.3](https://suttacentral.net/mn66/en/sujato#mn66:11.3)). It’s interesting that *maṇuṇṇaṃ* appears in Isibhāsiyāiṁ only here and in the verses attributed to Sāriputta, where it is in fact a close match for the passage at [MN 66:11.3](https://suttacentral.net/mn66/en/sujato#mn66:11.3).
+Beachte, dass das Ardhamagadhi-Wort maṇuṇṇaṃ an Stelle des Paliworts manorama steht. Beide haben die gleiche Bedeutung und sind von man („Geist“) abgeleitet. Die genauere Palientsprechung ist manuññaṁ, das man selten findet (z. B. in MN 66:11.3). Es ist interessant, dass manuññaṁ im Isibhāsiyāiṁ nur hier und in den Sāriputta zugeschriebenen Strophen vorkommt, wo es tatsächlich eine enge Übereinstimmung mit der Passage in MN 66:11.3 darstellt. 
 
-I’m not sure of the senses of *asutte* in the last line of the Jain verse. It would seem to mean “not sleeping” as it does earlier in the poem. But the sense requires rather “not attached, not favoring”; in similar passages the Pali has *ananurodha* (“not favoring”). Perhaps it is a form of *asatta*, “unattached”.
+Über die Bedeutung von asutte in der letzten Zeile der Jaina-Strophe bin ich mir nicht sicher. Es scheint, es bedeutet „nicht schlafend“ wie in dem Gedicht weiter oben. Aber der Sinn verlangt vielmehr „nicht haftend, ohne zu bevorzugen“; in ähnlichen Passagen hat das Pali ananurodha („ohne zu bevorzugen“).  Vielleicht ist es eine Form von asatta, „nicht haftend“. 
 
-The next series of verses doesn’t seem to have any close Pali equivalents, though there are some phrases in common, which I note, although this is surely not all. A curious detail, however, is that the prose framework for [SN 35.94](https://suttacentral.net/sn35.94/en/sujato) speaks of the “tamed” and “untamed”, just as these verses do. Thus the above verses speak of restraining through the senses, and are more-or-less shared. Each has a context that is unshared, but the context—prose in one, verse in another— introduces the concept of the “tamed”.
+Die nächste Reihe von Strophen scheint keine nahen Pali-Äquivalente zu haben, obwohl es einige gemeinsamen Wendungen gibt, die mir auffallen, aber das ist sicher nicht alles. Ein merkwürdiges Detail ist allerdings, dass der Prosarahmen von SN 35.94 vom „Gezähmten“ und „Ungezähmten“ spricht, gerade wie diese Strophen. Somit sprechen die obengenannten Strophen von Zügelung durch die Sinne und haben das mehr oder weniger mit denen in SN 35.94 gemeinsam. Beide Male sind die Strophen in einen Kontext eingebettet, der verschieden ist, aber der Kontext – Prosa in einem Fall, Strophen im anderen – führt das Konzept des „Gezähmten“ ein. 
 
-I provide a very rough translation, leaving them mostly unpunctuated to show their tenuousness.
+Ich gebe eine sehr grobe Übersetzung, die ich großenteils ohne Satzzeichen belasse, um zu zeigen, wie unsicher sie ist. 
 
-> <em>duddantā indiyā panca | saṃsārāya sarīriṇaṃ /
-> te c’ eva -iyamiyā sammaṃ | -evvāṇāya bhavanti hi ||13||</em>
-> when the five senses are ill-tamed, one transmigrates in transmigration
-> once restrained, they serve as tools for deliverance
+duddantā indiyā panca | saṃsārāya sarīriṇaṃ /  
+te c’ eva -iyamiyā sammaṃ | -evvāṇāya bhavanti hi ||13||  
+wenn die fünf Sinne schlecht gezähmt sind, wandert man im Umherwandern umher  
+sobald sie gezügelt sind, dienen sie als Werkzeug für die Befreiung 
 
-> <em>duddanteh’ indieh’ appā | duppahaṃ hīrae balā /
-> duddantehiṃ turaṃgehiṃ | sārahī vā mahā-pahe ||14||</em>
-> unrestrained senses drive the soul downwards to hell
-> as wild steeds drag the chariot off the highway
+duddanteh’ indieh’ appā | duppahaṃ hīrae balā /  
+duddantehiṃ turaṃgehiṃ | sārahī vā mahā-pahe ||14||  
+ungezügelte Sinne treiben die Seele hinab in die Hölle  
+so wie wilde Rosse den Wagen von der Straße ziehen 
 
-> <em>indiehiṃ sudantehiṃ | -a saṃcarati goyaraṃ /
-> vidheyehiṃ turaṃgehiṃ | sārahi vvāva saṃjue ||15||</em>
-> When the five senses are well-tamed, one proceeds in that domain,
-> like trained steeds that stay on the highway
+indiehiṃ sudantehiṃ | -a saṃcarati goyaraṃ /  
+vidheyehiṃ turaṃgehiṃ | sārahi vvāva saṃjue ||15||  
+wenn die fünf Sinne gut gezähmt sind, schreitet man in diesem Bereich fort  
+so wie geschulte Rosse auf der Straße bleiben 
 
-> <em>puvvaṃ maṇaṃ jiṇittāṇaṃ | vāre visaya-goyaraṃ /
-> vidheyaṃ gayam ārūḍho | sūro vā gahit’ āyudho ||16||</em>
-> first conquer the mind, restrain in the domain,
-> ride and command the elephant like an armored warrior.
+puvvaṃ maṇaṃ jiṇittāṇaṃ | vāre visaya-goyaraṃ /  
+vidheyaṃ gayam ārūḍho | sūro vā gahit’ āyudho ||16||  
+zuerst bezwinge den Geist, zügele ihn in dem Hoheitsgebiet  
+reite und befehlige den Elefanten wie ein Krieger in Rüstung 
 
-> <em>jittā maṇaṃ kasāe yā | jo sammaṃ kurute tavaṃ /
-> saṃdippate sa suddh’ appā | aggī vā havisāhute ||17||</em>
-> One who has conquered mind and defilements, rightly practicing austerities,
-> shines bright as the fire on an altar rich in offerings.
+jittā maṇaṃ kasāe yā | jo sammaṃ kurute tavaṃ /  
+saṃdippate sa suddh’ appā | aggī vā havisāhute ||17||  
+wer Geist und Befleckungen bezwungen hat und richtig Askese übt  
+leuchtet hell wie das Feuer auf einem Altar voller Opfergaben 
 
-> <em>sammattaṇṇirataṃ dhīraṃ | danta-kohaṃ jitindiyaṃ /
-> devā vi taṃ -amaṃsanti | mokkhe c’ eva parāyaṇaṃ ||18||</em>
-> The sage rightly conducted, tamed, victor over the senses,
-> is praised even by the gods, liberation is their destiny.
+sammattaṇṇirataṃ dhīraṃ | danta-kohaṃ jitindiyaṃ /  
+devā vi taṃ -amaṃsanti | mokkhe c’ eva parāyaṇaṃ ||18||  
+der Bedächtige, der richtig geleitet ist, gezähmt, Sieger über die Sinne  
+wird selbst von den Göttern gepriesen, Freiheit ist seine Bestimmung 
 
-A couple of Pali parallels:
+Ein paar Pali-Parallelen: 
 
-> [an4.28:7.5](https://suttacentral.net/an4.28/en/sujato#an4.28:7.5): Devāpi naṁ pasaṁsanti,
-> [snp5.15:3.5](https://suttacentral.net/snp5.15/en/sujato#snp5.15:3.5): Vimuttaṁ tapparāyaṇaṁ.
+AN 4.28:7.5: Devāpi naṁ pasaṁsanti,  
+Snp 5.15:3.5: Vimuttaṁ tapparāyaṇaṁ.
 
-> <em>savvattha viraye dante | savva-vārīhiṃ vārie /
-> savva-dukkha-ppahīṇe ya | siddhe bhavati -īraye ||19||</em>
-> One everywhere desireless, tamed, restrained in all restraints
-> who has let go of all suffering, wanders achieving success.
+savvattha viraye dante | savva-vārīhiṃ vārie /  
+savva-dukkha-ppahīṇe ya | siddhe bhavati -īraye ||19||  
+Einer, der allseits wunschlos ist, gezähmt, in allen Zügelungen gezügelt  
+der sich von allem Leiden freigemacht hat, wandert und erzielt Erfolg 
 
-Note *dhīra* in preceding verse, also in the following:
+Beachte dhīra in der vorangehenden Strophe (18), auch in den folgenden: 
 
-> [pli-tv-kd1:22.14.5](https://suttacentral.net/pli-tv-kd1/en/brahmali#pli-tv-kd1:22.14.5): “Yo dhīro sabbadhi danto,*
-> The sage everywhere tamed
+[Pli-tv-kd1/de/maitrimurti-traetow#mt14-169](https://suttacentral.net/pli-tv-kd1/de/maitrimurti-traetow?lang=de&reference=main&highlight=true#mt14-169): Yo dhīro sabbadhi danto  
+Der Bedächtige, allseits gezähmt 
 
-> [snp2.2:12.3](https://suttacentral.net/snp2.2/en/sujato#snp2.2:12.3): *Saṅgātigo sabbadukkhappahīno, Na lippati diṭṭhasutesu dhīro”.*
-> The sage has slipped their chains and given up all pain; they don’t cling to the seen and the heard.”
+Snp 2.2:12.3: Saṅgātigo sabbadukkhappahīno, Na lippati diṭṭhasutesu dhīro”.  
+Der Bedächtige ist seinen Schlingen entschlüpft und hat alles Leiden aufgegeben; er hängt nicht an Gesehenem und Gehörtem. 
 
-Our main point of interest here is the final verse, where we find *savva-vārīhiṃ vārie*, which obviously has the same sense as the Pali *sabbavārivārito*.
+Der Punkt, der uns hier am meisten interessiert, ist die letzte Strophe (19), wo wir savva-vārīhiṃ vārie finden, das offensichtlich die gleiche Bedeutung hat wie die Paliwendung sabbavārivārito. 
 
-The Jain text has only this one phrase, not the four. The “four constraints” are normally ethical precepts in Jainism, starting with not killing, and that sense is indeed found at Isibhāsiyāiṁ 31.39ff. Most likely the fourfold scheme is summarized here in verse.
+Der Jainatext hat nur diese eine Wendung, nicht die vier. Die „vier Beschränkungen“ sind im Jainismus normalerweise ethische Regeln, beginnend damit, nicht zu töten, und diese Bedeutung findet man in der Tat bei Isibhāsiyāiṁ 31.39 ff. Sehr wahrscheinlich wird dieses vierfache Schema hier als Strophe zusammengefasst. 
 
-The Jain context is enough to conclusively rule out any connection between *vāri* here and “water”. It is, rather, a causitive form, “to make stop” i.e. “restrain”. This sense is introduced in the first verse of the poem and consistently reinforced throughout.
+Der jainistische Kontext reicht aus, um einen Zusammenhang zwischen vāri hier und „Wasser“ eindeutig auszuschließen. Es ist vielmehr eine Kausativ-Form, „zum Halten bringen“, d. h. „zügeln“. Diese Bedeutung wird in der ersten Strophe des Gedichts eingeführt und im Verlauf durchgängig bekräftigt. 
 
-The form *vārīhiṃ* is, I believe, a locative plural, as opposed to the Pali commentary which glosses with instrumental. The Pali form is ambiguous as it is compounded, but such variations in oblique forms are not unusual.
+Die Form vārīhiṃ ist, so glaube ich, ein Lokativ Plural, im Gegensatz zum Palikommentar, der mit Instrumental erklärt. Die Paliform ist mehrdeutig und zusammengesetzt, aber solche Variationen bei indirekten Formen sind nichts Ungewöhnliches. 
 
-Returning at last to the Pali phrase, a couple of notes.
+Kommen wir zuletzt mit ein paar Bemerkungen auf die Palipassage zurück: 
 
-* *Dhuta* in the sense “shaken off (evil by means of ascetic practices)” is a characteristic Jain term.
-* For *sabbavāriphuṭo* compare *ophuṭo* at mn99:15.5. In both cases *phuṭ* appears in a string of terms from the root *var*, and is possibly a corrupted form, or at least has the same meaning.
+- Dhuta im Sinn von „abgeschüttelt (Böses mithilfe asketischer Praktiken)“ ist ein typischer Jaina-Ausdruck. 
+- Zu sabbavāriphuṭo vergleiche ophuṭo in MN 99:15.5. In beiden Fällen erscheint phuṭ in einer Kette von Begriffen aus der Wurzel var und ist möglicherweise eine verfälschte Form oder hat zumindest die gleiche Bedeutung. 
 
-Thus we can translate:
+Daher können wir übersetzen: 
 
-> *sabbavārivārito sabbavāriyutto sabbavāridhuto sabbavāriphuṭo*
-> (A Jain ascetic) is restrained in all restraints, is bridled in all restraints, has shaken off evil in all restraints, and is curbed in all restraints.
+sabbavārivārito sabbavāriyutto sabbavāridhuto sabbavāriphuṭo  
+(Ein Jaina-Asket) ist in allen Zügelungen gezügelt, in allen Zügelungen im Zaum gehalten, hat in allen Zügelungen das Böse abgeschüttelt und hat sich in allen Zügelungen Einhalt geboten. 
 
-Note [A.d.Ü.]: Inzwischen lautet die Übersetzung:  
-> It’s when a Jain ascetic is restrained in all that is to be restrained, is bridled in all that is to be restrained, has shaken off evil in all that is to be restrained, and is curbed in all that is to be restrained.
+Anmerkung [A.d.Ü.]: Inzwischen lautet die Übersetzung:
 
-> Da ist ein Jaina-Asket in allem, was zu zügeln ist, gezügelt, in allem, was zu zügeln ist, im Zaum gehalten, hat in allem, was zu zügeln ist, das Böse abgeschüttelt und und hat sich in allem, was zu zügeln ist, Einhalt geboten.
+It’s when a Jain ascetic is restrained in all that is to be restrained, is bridled in all that is to be restrained, has shaken off evil in all that is to be restrained, and is curbed in all that is to be restrained.
+
+Da ist ein Jaina-Asket in allem, was zu zügeln ist, gezügelt, in allem, was zu zügeln ist, im Zaum gehalten, hat in allem, was zu zügeln ist, das Böse abgeschüttelt und und hat sich in allem, was zu zügeln ist, Einhalt geboten.
