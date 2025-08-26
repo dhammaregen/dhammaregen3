@@ -24,7 +24,7 @@ Es heißt, das sei eine „vierfache Beschränkung“. Es gibt eine bekanntere v
 
 Es stellt sich allerdings heraus, dass die Stelle eine enge Parallele in einem authentischen frühen Jainatext hat, der die Lehren Mahāvīras selbst aufzeichnet. Nicht nur das, sondern fast der gesamte Abschnitt hat enge Parallelen in den Suttas. 
 
-Der Text ist das Isibhāsiyāiṁ, die „Sprüche der Seher“. Das ist ein recht außergewöhnlicher Text, der Sprüche von vielleicht vierzig Weisen aufzeichnet, von denen die meisten keine Jainas zu sein scheinen. Manche sind Buddhisten – einschließlich Strophen von Sāriputta, von denen ich hoffe, dass ich sie mir in der Zukunft anschauen kann –, manche sind Brahmanen, und andere haben keine bekannte Zuordnung. 
+Der Text ist das Isibhāsiyāiṁ, die „Sprüche der Seher“. Das ist ein recht außergewöhnlicher Text, der Sprüche von vielleicht vierzig Weisen aufzeichnet, von denen die meisten keine Jainas zu sein scheinen. Manche sind Buddhisten – einschließlich Sāriputta; ich hoffe, dass ich mir seine ‘Strophen in der Zukunft anschauen kann –, manche sind Brahmanen, und andere haben keine bekannte Zuordnung. 
 
 Text hier:
 
@@ -71,7 +71,7 @@ SN 1.6:3.1:
 >Pañcabhi rajamādeti,  
 >pañcabhi parisujjhatī”ti.
 
-Der Palikommentar erklärt diese als die fünf Hindernisse und die fünf spirituellen Fähigkeiten, während sich der Jainatext auf die fünf Sinne bezieht, die bei den Erleuchteten „schlafend“ (inaktiv) sind, aber „wach“ (zügellos) bei den Toren. 
+Der Palikommentar erklärt die Fünf als die fünf Hindernisse und die fünf spirituellen Fähigkeiten, während sich der Jainatext auf die fünf Sinne bezieht, die bei den Erleuchteten „schlafend“ (inaktiv) sind, aber „wach“ (zügellos) bei den Toren. 
 
 Als nächstes geht der Jainatext dazu über, jeden der fünf Sinne zu besprechen, in Strophen, die lose an SN 35.94 erinnern. Die Parallele ist nicht so eng wie bei den beiden vorigen Strophen, aber der allgemeine Tenor ist der gleiche. Der Jainatext beginnt aus irgendeinem Grund mit dem Ohr und wiederholt die fünf Sinne in genau der gleichen Form. Der Palitext auf der anderen Seite hat die übliche Reihenfolge und führt in jeder Strophe Variationen ein. Ich werde nicht alle wiedergeben, das Auge soll genügen. 
 
