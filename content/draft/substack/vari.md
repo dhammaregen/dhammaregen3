@@ -30,7 +30,7 @@ Text hier:
 
 https://gretil.sub.uni-goettingen.de/gretil/2_prakrt/isibhasu.htm
 
-Übersetzung [englisch] und Studie hier: 
+Übersetzung [englisch; A.d.Ü.] und Studie hier: 
 
 https://archive.org/details/in.ernet.dli.2015.322298/page/7/mode/2up
 
