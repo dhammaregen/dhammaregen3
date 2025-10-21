@@ -5,6 +5,17 @@ local
 archive
 .eslint*
 
+# Development files
+.vscode/settings.json
+.cursor/
+*.log
+.DS_Store
+Thumbs.db
+
+# Audio development
+audio-cache/
+temp-audio/
+
 # Logs
 logs
 *.log

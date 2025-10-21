@@ -1,0 +1,31 @@
+# Dhammaregen3 Project Rules
+
+This is a Buddhist text study application built with Vue.js and the EBT-Vue3 framework.
+
+## Project Structure
+- `content/` - Markdown content files for the website
+- `public/` - Static assets (audio, images, HTML)
+- `src/` - Source code
+- `node_modules/ebt-vue3/` - EBT framework with audio playback functionality
+
+## Key Technologies
+- Vue.js 3 with Vite
+- EBT-Vue3 framework for Buddhist text presentation
+- Web Audio API for text-to-speech
+- Markdown for content management
+
+## Important Notes
+- Audio playback uses Web Audio API with Safari-specific fixes for sample rate issues
+- Content is in German (monolingual: "de")
+- Audio files are stored in `public/audio/`
+- The application serves Buddhist texts with audio pronunciation
+
+## Development
+- Use `npm run dev` to start development server
+- Audio fixes are applied to node_modules/ebt-vue3 files
+- Safari requires specific sample rate handling to prevent chipmunk audio
+
+## Code Style
+- Follow Vue 3 Composition API patterns
+- Use German for UI text and content
+- Maintain accessibility for audio playback
