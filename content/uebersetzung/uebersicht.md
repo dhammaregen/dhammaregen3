@@ -27,7 +27,7 @@ Bitte klicken Sie auf `Such mir etwas aus!` oder geben Sie Suchbegriffe ins Such
   - Theragāthā: vollständig
   - Therīgāthā: vollständig
   - Cariyāpiṭaka: Cp 1-34
-  - Jātaka: Ja 1-45
+  - Jātaka: Ja 1-47
   - Milindapañha: Mil 3.1.1
 
 Neue Texte kommen laufend hinzu, die vorhandenen werden regelmäßig aktualisiert.
