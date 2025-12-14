@@ -5,6 +5,9 @@ on:
 jobs:
   build-job:
     runs-on: ubuntu-22.04
+    permissions:
+      id-token: write    # OIDC npm auth
+      content: read
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
