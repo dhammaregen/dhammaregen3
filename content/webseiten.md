@@ -5,8 +5,7 @@ img: brett-zeck-eyfMgGvo9PA-unsplash.png
 img-alt: Eine Weltkarte in Holz-Einlegearbeit
 link: https://unsplash.com/photos/brown-wooden-map-board-eyfMgGvo9PA
 slugDir: sites
-category: Weitere Informationen
-order: 999
+order: 6
 ---
 
 Hier finden Sie Webseiten mit den frühen buddhistischen Texten von [SuttaCentral](https://suttacentral.net/?lang=de).

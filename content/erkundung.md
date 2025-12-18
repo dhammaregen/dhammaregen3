@@ -4,8 +4,7 @@ description: Online-Programm zur meditativen Erkundung der Suttas
 img: santa-sabba.png
 img-alt: Ayya Santacitta und Ayya Sabbamitta
 slugDir: erkundung
-category: Weitere Informationen
-order: 10
+order: 4
 ---
 
 Mit [Santacitta Bhikkhuni](https://alokavihara.org/deutsch/#ayyasc) & [Sabbamitta Silashin](#/wiki/uebersetzung/sabbamitta)

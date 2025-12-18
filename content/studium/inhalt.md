@@ -4,7 +4,6 @@ description: Wie man Dhammaregen benutzt
 img: study.png
 img-alt: Bücher auf Picknicktisch im Wald
 slugDir: studium
-category: Dhammaregen
 order: 2
 ---
 ### Lernen Sie die Suttas kennen

@@ -5,8 +5,7 @@ img:  pxhere-monk-meditating-1291659.png
 img-alt: Meditierende Person
 link: https://pxhere.com/en/photo/1291659
 slugDir: meditation
-category: Weitere Informationen
-order: 12
+order: 5
 ---
 
 Die praktische Seite der Lehre des Buddha besteht aus dem edlen achtfachen Pfad, der sich in drei Kategorien gliedern lässt: Sittlichkeit, Meditation und Weisheit.
