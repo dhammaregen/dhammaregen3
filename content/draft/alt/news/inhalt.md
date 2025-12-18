@@ -4,7 +4,6 @@ description: Neues rund um Dhammaregen und frühe buddhistische Texte
 img: letter.png
 img-alt: Brief, der in einer Baumgabel steckt
 slugDir: news
-category: Dhammaregen
 order: 9998
 ---
 ### Newslsetter-Archiv
