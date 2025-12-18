@@ -11,8 +11,8 @@ sudo apt upgrade -y
 
 set -e
 
-${DIR}/install-node 20 &&
-${DIR}/update-npm 10 &&
+${DIR}/install-node 24 &&
+${DIR}/update-npm 11 &&
 npm install
 
 echo -e "${SCRIPT}: END `date` (OK)"
