@@ -8,7 +8,7 @@ jobs:
     runs-on: ubuntu-24.04
     permissions:
       id-token: write    # OIDC npm auth
-      content: write
+      contents: write
     steps:
       - uses: actions/checkout@v6
       - uses: actions/setup-node@v6
