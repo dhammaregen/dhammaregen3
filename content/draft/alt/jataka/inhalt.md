@@ -5,7 +5,6 @@ img: sanchi.png
 img-alt: Sanchi 1 (Nord-Torana) mit Jātaka-Reliefs, ArnoldBetten, Public domain, via Wikimedia Commons
 link: https://commons.wikimedia.org/wiki/File:Sanchi_Stupa_1_Nord-Torana_(1999).JPG
 slugDir: jataka
-category: Weitere Informationen
 order: 5
 ---
 

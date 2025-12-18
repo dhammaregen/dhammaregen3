@@ -4,7 +4,6 @@ description: Dhamma-Essays und Diverses
 img: drops.png
 img-alt: Tautropfen auf Moos 
 slugDir: tropfen
-category: Weitere Informationen
 order: 2
 ---
 

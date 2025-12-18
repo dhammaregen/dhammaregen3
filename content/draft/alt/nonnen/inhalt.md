@@ -4,7 +4,6 @@ description: Der weibliche Orden im Buddhismus
 img: nuns.png
 img-alt: Nonnen beim Almosengang
 slugDir: nonnen
-category: Weitere Informationen
 order: 2.5
 ---
 
