@@ -12,9 +12,9 @@ order: 3
 - Paliwörter kursiv
 - Zitate
 
-[DN 2](#/sutta/dn2/de/sabbamitta) gibt eine wichtige Übersicht über die Hauptlehren einiger Zeitgenossen des Buddha, darunter auch Mahāvīra Vardhamāna, der „Jaina-Asket aus dem Stamm Ñātika“, wie er in den Palitexten genannt wird.
+[DN 2](https://dhammaregen.net/#/sutta/dn2/de/sabbamitta) gibt eine wichtige Übersicht über die Hauptlehren einiger Zeitgenossen des Buddha, darunter auch Mahāvīra Vardhamāna, der „Jaina-Asket aus dem Stamm Ñātika“, wie er in den Palitexten genannt wird.
 
-Die Pali-Passage war für viele Übersetzer ein Kampf, da sie linguistisch unklar ist und sich nicht offensichtlich auf andere bekannte Lehren der Jainas bezieht, wie sie im Palikanon überliefert sind. Die Passage findet sich in [DN 2:29.4](#/sutta/dn2:29.4/de/sabbamitta) und in [MN 56:12.2](#/sutta/mn56:12.2/de/sabbamitta). 
+Die Pali-Passage war für viele Übersetzer ein Kampf, da sie linguistisch unklar ist und sich nicht offensichtlich auf andere bekannte Lehren der Jainas bezieht, wie sie im Palikanon überliefert sind. Die Passage findet sich in [DN 2:29.4](https://dhammaregen.net/#/sutta/dn2:29.4/de/sabbamitta) und in [MN 56:12.2](https://dhammaregen.net/#/sutta/mn56:12.2/de/sabbamitta). 
 
 >*sabbavārivārito sabbavāriyutto sabbavāridhuto sabbavāriphuṭo*
 
