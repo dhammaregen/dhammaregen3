@@ -23,7 +23,7 @@ order: 1
 
 ### Nachrichten von *Dhammaregen*
 
-*Dhammaregen* versendet in unregelmäßigen Abständen einen Newsletter mit Nachrichten über Neues auf dieser Webseite und rund um die frühen buddhistischen Texte. Zum Newsletter-Archiv auf *Mehr von Dhammaregen* [hier klicken](https://mehr.dhammaregen.net/s/dhammaregen-newsletter). Wenn Sie den Newsletter abonnieren möchten, senden Sie bitte eine formlose E-Mail an [dhammaregen@gmail.com](mailto:dhammaregen@gmail.com) oder oder abonnieren Sie *Mehr von Dhammaregen* [direkt auf der Webseite](https://mehr.dhammaregen.net).
+*Dhammaregen* versendet in unregelmäßigen Abständen einen Newsletter mit Nachrichten über Neues auf dieser Webseite und rund um die frühen buddhistischen Texte. Zum Newsletter-Archiv auf *Mehr von Dhammaregen* [hier klicken](https://mehr.dhammaregen.net/s/dhammaregen-newsletter). Wenn Sie den Newsletter abonnieren möchten, senden Sie bitte eine formlose E-Mail an [dhammaregen@gmail.com](mailto:dhammaregen@gmail.com) oder abonnieren Sie *Mehr von Dhammaregen* [direkt auf der Webseite](https://mehr.dhammaregen.net).
 
 Sie können auch gerne Fragen oder Anregungen per E-mail senden, oder Sie wenden sich an das SuttaCentral-Diskussionsforum [Discourse.SuttaCentral](https://discourse.suttacentral.net).
 
