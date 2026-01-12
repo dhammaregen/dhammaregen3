@@ -1,5 +1,5 @@
 ---
-title: Wie sich der frühe Buddhismus vom Theravada unterscheidet – eine Checkliste
+title: Wie sich der frühe Buddhismus vom Theravāda unterscheidet – eine Checkliste
 description: Bhikkhu Sujato, 2022
 img: sujato.png
 img-alt: Bhante Sujato sitzt auf Felsen
@@ -8,22 +8,22 @@ order: 2
 
 [Zum Originaltext](https://discourse.suttacentral.net/t/how-early-buddhism-differs-from-theravada-a-checklist/23019)
 
-Dies ist eine praktische Zusammenfassung einiger wichtiger Punkte, in denen sich früher Buddhismus und Theravada unterscheiden. Lassen Sie uns klarstellen, was mit diesen Begriffen gemeint ist:
+Dies ist eine praktische Zusammenfassung einiger wichtiger Punkte, in denen sich früher Buddhismus und Theravāda unterscheiden. Lassen Sie uns klarstellen, was mit diesen Begriffen gemeint ist:
 
 - *Früher Buddhismus* sind die Lehren der „frühen buddhistischen Texte“ (FBT), das heißt, der kanonischen Lehrreden, die zur Zeit des Buddha oder kurz danach kodifiziert wurden und die uns auf Pali, Chinesisch, Tibetisch und Sanskrit überliefert worden sind.
-- *Theravada* ist die Schule des Buddhismus, die im Mahāvihāra in Anuradhapura in Sri Lanka gegründet wurde und die sich später in ganz Südostasien ausgebreitet hat. Sie betrachtet allein den Pali-Tipiṭaka als bindend.
+- *Theravāda* ist die Schule des Buddhismus, die im Mahāvihāra in Anuradhapura in Sri Lanka gegründet wurde und die sich später in ganz Südostasien ausgebreitet hat. Sie betrachtet allein den Pali-Tipiṭaka als bindend.
 
-Wie alle religiösen Traditionen hat sich auch der Theravada über die Jahre weiterentwickelt und verändert. Viele seiner Lehren wurden im Visuddhimagga und anderen Kommentaren von Buddhaghosa (5. Jhd. n. Chr.) kodifiziert, andere haben sich bis in die moderne Zeit hinein fortentwickelt. In dieser Zusammenstellung konzentriere ich mich auf diejenigen Lehren, die innerhalb der Hauptströmung des Theravada allgemein anerkannt sind, so wie sie von fachkundigen Wissenschaftlern und Praktizierenden gelehrt werden; grenzwertige Theorien und Volksgebräuche sind nicht berücksichtigt. Auch geht es nicht um zersetzende Tendenzen innerhalb des Theravada. Es geht um Überzeugungen und Bestrebungen, die gute Menschen haben, nicht darum, ob alle diesen gerecht werden.
+Wie alle religiösen Traditionen hat sich auch der Theravāda über die Jahre weiterentwickelt und verändert. Viele seiner Lehren wurden im Visuddhimagga und anderen Kommentaren von Buddhaghosa (5. Jhd. n. Chr.) kodifiziert, andere haben sich bis in die moderne Zeit hinein fortentwickelt. In dieser Zusammenstellung konzentriere ich mich auf diejenigen Lehren, die innerhalb der Hauptströmung des Theravāda allgemein anerkannt sind, so wie sie von fachkundigen Wissenschaftlern und Praktizierenden gelehrt werden; grenzwertige Theorien und Volksgebräuche sind nicht berücksichtigt. Auch geht es nicht um zersetzende Tendenzen innerhalb des Theravāda. Es geht um Überzeugungen und Bestrebungen, die gute Menschen haben, nicht darum, ob alle diesen gerecht werden.
 
-Wenn neue Umstände ein neues Lesen alter Texte erforderlich machen, können Abweichungen nicht ausbleiben. Die Weiterentwicklung von Ideen ist wesentlicher Bestandteil einer lebendigen Tradition, und wir führen heute die Praxis der Kommentare fort, sich eingehend mit den Bedeutungen zu befassen und neue Auslegungen von Schriften zu entdecken. Dennoch ist es wichtig, dass wir die Behauptungen der Kommentare kritisch prüfen, da diese für sich in Anspruch nehmen, die kanonischen Texte zu erläutern, und da ihre Lesarten den Glauben und die Übung vieler Menschen beeinflussen.
+Wenn neue Umstände ein neues Lesen alter Texte erforderlich machen, können Abweichungen nicht ausbleiben. Die Weiterentwicklung von Ideen ist wesentlicher Bestandteil einer lebendigen Tradition, und wir führen heute die Praxis der Kommentare fort, sich eingehend mit den Bedeutungen zu befassen und neue Auslegungen von Schriften zu entdecken. Dennoch ist es wichtig, dass wir die Behauptungen der Kommentare kritisch prüfen, da diese für sich in Anspruch nehmen, die kanonischen Texte zu erläutern, und da ihre Lesarten den Glauben und die Praxis vieler Menschen beeinflussen.
 
-Das Ziel dieser Zusammenstellung ist es, Studierenden zu helfen, zu verstehen, wo die Sprache und die Vorstellungen des modernen Theravada von den Suttas abweichen. Natürlich bedeutet die Tatsache, dass etwas anders ist, nicht, dass es besser oder schlechter ist. Manchmal ändern sich Dinge dem Buchstaben nach, aber nicht dem Sinn nach; manchmal passen sie sich den Umständen an; manchmal führen sie kurz gesagte Dinge weiter aus; und manchmal ändern sie die Bedeutung. Ich versuche, hinzuweisen, wo Veränderungen liegen, und bringe genügend Kontext, um zu zeigen, warum sie eine Rolle spielen.
+Das Ziel dieser Zusammenstellung ist es, Studierenden zu helfen, zu verstehen, wo die Sprache und die Vorstellungen des modernen Theravāda von den Suttas abweichen. Natürlich bedeutet die Tatsache, dass etwas anders ist, nicht, dass es besser oder schlechter ist. Manchmal ändern sich Dinge dem Buchstaben nach, aber nicht dem Sinn nach; manchmal passen sie sich den Umständen an; manchmal führen sie kurz gesagte Dinge weiter aus; und manchmal ändern sie die Bedeutung. Ich versuche, hinzuweisen, wo Veränderungen liegen, und bringe genügend Kontext, um zu zeigen, warum sie eine Rolle spielen.
 
 Schlussendlich müssen wir alle selbst für unsere Überzeugungen Rechenschaft ablegen, und Sie müssen letzten Endes zu Ihrem eigenen Verständnis des Dhamma gelangen. Es ist nicht meine Aufgabe, Ihnen zu sagen, was Sie glauben oder üben sollen. Aber als ich meinen Lernprozess begann, brauchte ich viele Jahre und schlug viele falsche Wege ein, als ich versuchte, diese Dinge zu verstehen; daher biete ich diese kurzen Notizen an in der Hoffnung, dass sie helfen, diesen Weg für Manche ebener zu machen.
 
 Ich unternehme keine große Anstrengung, um die historische Entwicklung der Begriffe und Vorstellungen zurückzuverfolgen. Es ist eine Checkliste, keine Doktorarbeit. Ich versuche auch nicht, mich mit der Komplexität des Diskurses um diese Fragen auseinanderzusetzen, von denen viele auf mehrere Arten ausgelegt werden.
 
-Auch diskutiere ich keine modernen Vorstellungen wie „abhängiges Entstehen innerhalb eines Lebens“ oder „Jhāna-light“, denn diese finden sich weder in den FBT noch in der Theravadatradition. Man sollte sich im Klaren sein, dass sich gewisse moderne Formen des Buddhismus mit ihrer Ablehnung von Wiedergeburt, Nibbāna und dem ordinierten Saṅgha in wenigen Jahrzehnten weiter von den Lehren des Buddha entfernt haben, als die Traditionen das in Jahrtausenden taten.
+Auch diskutiere ich keine modernen Vorstellungen wie „abhängiges Entstehen innerhalb eines Lebens“ oder „Jhāna-light“, denn diese finden sich weder in den FBT noch in der Theravādatradition. Man sollte sich im Klaren sein, dass sich gewisse moderne Formen des Buddhismus mit ihrer Ablehnung von Wiedergeburt, Nibbāna und dem ordinierten Saṅgha in wenigen Jahrzehnten weiter von den Lehren des Buddha entfernt haben, als die Traditionen das in Jahrtausenden taten.
 
 Es sollte uns nicht überraschen, dass sich in den Traditionen Veränderungen angesammelt haben. Und wenn wir sie alle in einer langen Liste zusammentragen, sieht es sicherlich nach viel aus. Aber vergessen Sie nicht: Die Traditionen sind auch für den Erhalt des Dhamma verantwortlich, dafür, dass es uns möglich ist, zu üben. Und sie bewahren auch viele Aspekte des Dhamma, die sich nicht leicht auf einfache Doktrinen reduzieren lassen: eine Art, zu sein, oder Ethos, ein Gefühl für Tugend, eine Ehrfurcht vor dem Buddha und seinen Lehren.
 
@@ -33,67 +33,67 @@ Viele der hier zusammengestellten Themen werden in den buddhistischen Traditione
 
 #### Überbetonung des Fehlens eines Selbst
 
-Das Fehlen eines Selbst ist eine der zentralen Doktrinen des Buddha, und alle buddhistischen Schulen lehren sie auf die eine oder andere Weise. Der Theravada betonte diese Lehre besonders, und es scheint, das geschah im Wettbewerb mit einer anderen der alten buddhistischen Schulen, dem Puggalavada.
+Das Fehlen eines Selbst ist eine der zentralen Doktrinen des Buddha, und alle buddhistischen Schulen lehren sie auf die eine oder andere Weise. Der Theravāda betonte diese Lehre besonders, und es scheint, das geschah im Wettbewerb mit einer anderen der alten buddhistischen Schulen, dem Puggalavāda.
 
-Die Anhänger des Puggalavada lehrten, dass es zwar tatsächlich kein „Selbst“ gebe, doch es gebe eine „Person“ (*puggala*). Für sie war das eine Möglichkeit, die Lehre vom Fehlen eines Selbst mit der Erfahrung persönlicher Identität in Einklang zu bringen. Die Theravada-Anhänger wiesen das zurück als eine Unterscheidung ohne Unterschied, die auf nicht weniger als eine Ablehnung der Grundlagen der Lehren des Buddha hinauslaufe.
+Die Anhänger des Puggalavāda lehrten, dass es zwar tatsächlich kein „Selbst“ gebe, doch es gebe eine „Person“ (*puggala*). Für sie war das eine Möglichkeit, die Lehre vom Fehlen eines Selbst mit der Erfahrung persönlicher Identität in Einklang zu bringen. Die Theravāda-Anhänger wiesen das zurück als eine Unterscheidung ohne Unterschied, die auf nicht weniger als eine Ablehnung der Grundlagen der Lehren des Buddha hinauslaufe.
 
-Die Widerlegung des Puggalavada ist der erste und längste der Punkte, die in dem Abhidhammabuch Kathāvatthu diskutiert werden; das zeigt, welche Bedeutung dieser Debatte von den Theravada-Anhängern beigemessen wurde. Es ist wahrscheinlich, dass der Kern dieser Erörterung von niemand anderem als Moggaliputtatissa, dem ideologischen Vater des Theravada, begründet wurde, als Antwort auf etwas, das er als akute Bedrohung des Kernverständnisses des Dhamma empfand.
+Die Widerlegung des Puggalavāda ist der erste und längste der Punkte, die in dem Abhidhammabuch *Kathāvatthu* diskutiert werden; das zeigt, welche Bedeutung dieser Debatte von den Theravāda-Anhängern beigemessen wurde. Es ist wahrscheinlich, dass der Kern dieser Erörterung von niemand anderem als Moggaliputtatissa, dem ideologischen Vater des Theravāda, begründet wurde, als Antwort auf etwas, das er als akute Bedrohung des Kernverständnisses des Dhamma empfand.
 
-Das Bestehen des Theravada auf dem Fehlen eines Selbst erstreckt sich allerdings weit über diesen Dialog hinaus und grenzt zeitweise an eine Phobie oder Verunsicherung. Das gesamte Abhidhamma-Projekt mit seiner schonungslosen Analyse und der kompromisslosen Weigerung, etwas mit herkömmlichen Vorstellungen von einer „Person“ zu tun zu haben, ist von diesem Geist durchdrungen. Viele einzelne der nachfolgend genannten Punkte kommen aus dieser übermäßigen Abwehrhaltung.
+Das Bestehen des Theravāda auf dem Fehlen eines Selbst erstreckt sich allerdings weit über diesen Dialog hinaus und grenzt zeitweise an eine Phobie oder Verunsicherung. Das gesamte Abhidhamma-Projekt mit seiner schonungslosen Analyse und der kompromisslosen Weigerung, etwas mit herkömmlichen Vorstellungen von einer „Person“ zu tun zu haben, ist von diesem Geist durchdrungen. Viele einzelne der nachfolgend genannten Punkte kommen aus dieser übermäßigen Abwehrhaltung.
 
 #### Die zwei Wahrheiten
 
-Der Theravada gibt viel auf die Lehre von den „zwei Wahrheiten“, der herkömmlichen Wahrheit (_sammutisacca_) und der höchsten Wahrheit (_paramatthasacca_). Herkömmliche Wahrheit ist der Bereich solcher letztlich unwirklichen Ideen wie „Personen“, „Nationen“ und Ähnlichem, wohingegen die höchste Wahrheit von den grundlegenden Phänomenen der Existenz (_Dhammas_) handelt. Diese Unterscheidung betrifft sowohl das Ausdrücken der Wahrheit – wobei die Suttas als die Texte gelten, die von der herkömmlichen Wahrheit handeln, während der Abhidhamma von der höchsten Wahrheit handelt – als auch die zugrundeliegenden Wirklichkeiten, von denen die Rede ist, wobei die „im höchsten Sinne wahren“ Phänomene so sind, weil sie eine „ihnen innewohnende Essenz“ (_sabhāva_) besitzen.
+Der Theravāda gibt viel auf die Lehre von den „zwei Wahrheiten“, der herkömmlichen Wahrheit (*sammutisacca*) und der höchsten Wahrheit (*paramatthasacca*). Herkömmliche Wahrheit ist der Bereich solcher letztlich unwirklicher Ideen wie „Personen“, „Nationen“ und Ähnlichem, wohingegen die höchste Wahrheit von den grundlegenden Phänomenen der Existenz (*Dhammas*) handelt. Diese Unterscheidung betrifft sowohl das Ausdrücken der Wahrheit – wobei die Suttas als die Texte gelten, die von der herkömmlichen Wahrheit handeln, während der Abhidhamma von der höchsten Wahrheit handelt – als auch die zugrunde liegenden Wirklichkeiten, von denen die Rede ist, wobei die „im höchsten Sinne wahren“ Phänomene so sind, weil sie eine „ihnen innewohnende Essenz“ (*sabhāva*) besitzen.
 
 Keine solche Unterscheidung findet man in den FBT. Dort sehen wir den Buddha, wie er sich leicht zwischen Gesprächen, die in Begriffen von Menschen formuliert sind, und solchen in Begriffen von Phänomenen hin- und herbewegt, ohne dass er dieser Unterscheidung irgendeine ontologische Bedeutung zuschreiben müsste.
 
 Die Tatsache, dass Wörter spezialisierte Bedeutungen haben, und dass etwas, das in einem Gegenstandsbereich wahr ist, auf einen anderen vielleicht nicht zutrifft, ist ein normales Merkmal der Spezialisierung und keine besondere Eigenschaft des Dhamma. In der Physik zum Beispiel wird das, was wir als feste Materie betrachten, als sich im Raum bewegende Energien angesehen. Das heißt nicht, dass die Vorstellung von „Festigkeit“ falsch oder weniger bedeutsam wäre; es heißt lediglich, dass sie zutrifft, wenn man Dinge aus bestimmten Blickwinkeln betrachtet, aber aus anderen nicht. In der gewöhnlichen Welt, in der wir leben, ist „Festigkeit“ völlig real: Kein Physiker versucht, durch Wände zu gehen.
 
-Wenn der Begriff _paramattha_ in den FBT vorkommt, heißt er nicht „höchste Bedeutung“ oder „höchste Wirklichkeit“, sondern „höchstes Ziel“ und ist ein Wort für Nibbana.
+Wenn der Begriff *paramattha* in den FBT vorkommt, heißt er nicht „höchste Bedeutung“ oder „höchste Wirklichkeit“, sondern „höchstes Ziel“ und ist ein Wort für Nibbāna.
 
 #### Abhidhamma-artige Systematisierung
 
-Die Abhidhammatexte erfüllen viele Zwecke. Einer davon ist es, die verschiedenen Begriffe und Ausdrücke, die man in den Suttas findet, zu sammeln und zu zeigen, wo sie einander entsprechen und wo sie sich unterscheiden. So praktisch das ist, liefert es manchmal ungeschickte und unpassende Ergebnisse, da die Feinheiten des Kontextes, in dem die Begriffe gebraucht werden, verloren gehen.
+Die Abhidhammatexte erfüllen viele Zwecke. Einer davon ist es, die verschiedenen Begriffe und Ausdrücke, die man in den Suttas findet, zu sammeln und zu zeigen, wo sie einander entsprechen und wo sie sich unterscheiden. So praktisch das ist, liefert es manchmal plumpe und schlecht passende Ergebnisse, da die Feinheiten des Kontextes, in dem die Begriffe gebraucht werden, verloren gehen.
 
-Daher finden wir im modernen Theravada manchmal Lehrbegriffe und Vorstellungen, die gleichgesetzt oder auf eine Art erklärt werden, dass sie subtile Unterscheidungen, die man in den FBT findet, verschleiern.
+Daher finden wir im modernen Theravāda manchmal Lehrbegriffe und Vorstellungen, die gleichgesetzt oder auf eine Art erklärt werden, dass sie subtile Unterscheidungen, die man in den FBT findet, verschleiern.
 
 #### Urheberschaft des Abhidhamma
 
-Die Suttas sind typischerweise an irdischen Schauplätzen wie Sāvatthī oder Rājagaha angelegt; demgegenüber lehrt die Theravadatradition, der Abhidhamma-Piṭaka sei vom Buddha seiner verstorbenen Mutter im Tusitahimmel dargelegt worden; danach sei der Buddha auf die Erde zurückgekehrt und habe die Unterweisungen für den Ehrwürdigen Sāriputta wiederholt.
+Die Suttas sind typischerweise an irdischen Schauplätzen wie Sāvatthī oder Rājagaha angelegt; demgegenüber lehrt die Theravādatradition, der Abhidhamma-Piṭaka sei vom Buddha seiner verstorbenen Mutter im Tusitahimmel dargelegt worden; danach sei der Buddha auf die Erde zurückgekehrt und habe die Unterweisungen für den Ehrwürdigen Sāriputta wiederholt.
 
 Diese Darstellung wird von internationalen Wissenschaftlern abgelehnt. Der Abhidhamma-Piṭaka wurde vielmehr von Mönchsgelehrten in den Jahrhunderten nach dem Buddha zusammengestellt, wobei entsprechend der Blickwinkel verschiedener Schulen verschiedene Versionen geschaffen wurden. Diese Schlussfolgerung, die sich auf einen großen Umfang an linguistischen, textlichen, historischen und doktrinalen Belegen stützt, ist seit weit über hundert Jahren Konsens unter internationalen Buddhismuskundlern.
 
 #### Abhidhamma höher als Suttas
 
-Die Lehre von den zwei Wahrheiten dient dazu, die Lehrreden, die vom Buddha gelehrt wurden, gegenüber dem Abhidhamma, der in späteren Jahrhunderten entwickelt wurde, abzuwerten. Es ist üblich, dass im modernen Theravada der Abhidhamma als die „höhere Lehre“ betrachtet wird und die Suttas als lediglich herkömmliche Lehren, die, wenn sie überhaupt gelehrt werden, durch die Augen des Abhidhamma betrachtet werden.
+Die Lehre von den zwei Wahrheiten dient dazu, die Lehrreden, die vom Buddha gelehrt wurden, gegenüber dem Abhidhamma, der in späteren Jahrhunderten entwickelt wurde, abzuwerten. Es ist üblich, dass im modernen Theravāda der Abhidhamma als die „höhere Lehre“ betrachtet wird und die Suttas als lediglich herkömmliche Lehren, die, wenn sie überhaupt gelehrt werden, durch die Augen des Abhidhamma betrachtet werden.
 
-Beachte, dass der Begriff *Abhidhamma* selbst problematisch ist, da er im Theravada selten direkt auf die Texte des Abhidhamma-Piṭaka bezogen wird, sondern vielmehr auf weiterentwickelte und systematisierte Interpretationen in den Kommentaren und spätere Texte wie den Abhidhammatthasaṅgaha. Ich selbst wurde zuerst direkt aus einer modernen Zusammenfassung des Abhidhammatthasaṅgaha unterwiesen und musste selbst meinen Weg finden, um die Suttas zu erkunden.
+Beachte, dass der Begriff *Abhidhamma* selbst problematisch ist, da er im Theravāda selten direkt auf die Texte des Abhidhamma-Piṭaka bezogen wird, sondern vielmehr auf weiterentwickelte und systematisierte Interpretationen in den Kommentaren und spätere Texte wie den Abhidhammatthasaṅgaha. Ich selbst wurde zuerst direkt aus einer modernen Zusammenfassung des Abhidhammatthasaṅgaha unterwiesen und musste selbst meinen Weg finden, um die Suttas zu erkunden.
 
 #### Linguistischer Essenzialismus
 
-Der Visuddhimagga stellt die ziemlich außerordentliche Behauptung auf, dass Pali – womit er speziell die Sprache der Theravada-Schriften meint – die „von Natur aus bestehende Sprache“ (_sabhāvanirutti_) sei. Wenn ein Kind ganz ohne äußere Einflüsse aufgezogen würde, würde es ganz natürlich perfektes Pali sprechen.
+Der Visuddhimagga stellt die ziemlich außerordentliche Behauptung auf, dass Pali – womit er speziell die Sprache der Theravāda-Schriften meint – die „von Natur aus bestehende Sprache“ (*sabhāvanirutti*) sei. Wenn ein Kind ganz ohne äußere Einflüsse aufgezogen würde, würde es ganz natürlich perfektes Pali sprechen.
 
 Der Buddha betrachtete demgegenüber Sprache als einen Satz von Konventionen für die Kommunikation zwischen Menschen. So etwas wie eine „besondere“ Sprache gibt es nicht. Der Buddha lehrte in der Sprache, die er und die Menschen um ihn herum sprachen, und ermunterte andere, das Gleiche zu tun.
 
-Die Idee von _sabhāvanirutti_ liegt einer gewissen fundamentalistischen Haltung zu Schriften zugrunde, die die Aufbewahrung des *Buchstabens* als vorrangige Aufgabe des Kanon ansieht.
+Die Idee von *sabhāvanirutti* liegt einer gewissen fundamentalistischen Haltung zu Schriften zugrunde, die die Aufbewahrung des *Buchstabens* als vorrangige Aufgabe des Kanon ansieht.
 
 #### Verlust des brahmanischen Kontextes
 
-Der Buddha lebte nicht in einer buddhistischen Kultur, und in den FBT finden wir viele Beispiele, wo er sich mit Anhängern anderer Konfessionen unterhält, darunter auch Brahmanen. Er nahm stets eine kritische Haltung ein, weder nahm er unbekümmert alles an, noch wies er es zurück, sondern er untersuchte es, um zu verstehen. Er zeigte sich willens, Überzeugungen und Übungen anzunehmen, die er als gut ansah, während er zurückwies, was er für falsch oder schädlich hielt.
+Der Buddha lebte nicht in einer buddhistischen Kultur, und in den FBT finden wir viele Beispiele, wo er sich mit Anhängern anderer Konfessionen unterhält, darunter auch Brahmanen. Er nahm stets eine kritische Haltung ein, weder nahm er unbekümmert alles an, noch wies er es zurück, sondern er untersuchte es, um zu verstehen. Er zeigte sich willens, Überzeugungen und Praktiken anzunehmen, die er als gut ansah, während er zurückwies, was er für falsch oder schädlich hielt.
 
-Es gibt im Buddhismus viele Übungen und Vorstellungen, die eine direkte Antwort auf brahmanische Lehren darstellen. Spätere Generationen von Buddhisten diskutierten allerdings vorwiegend untereinander, und der Kontext geriet allmählich in Vergessenheit. In solchen Fällen war die Tradition ratlos und erfand neue Erklärungen.
+Es gibt im Buddhismus viele Praktiken und Vorstellungen, die eine direkte Antwort auf brahmanische Lehren darstellen. Spätere Generationen von Buddhisten diskutierten allerdings vorwiegend untereinander, und der Kontext geriet allmählich in Vergessenheit. In solchen Fällen war die Tradition ratlos und erfand neue Erklärungen.
 
-Beachte, dass wir in der populären Theravadakultur auch Einflüsse von hinduistischen Vorstellungen und Praktiken berücksichtigen können. Diese liegen jedoch außerhalb unseres Rahmens, da sachkundige Theravadalehrer sich dieser Dinge wohl bewusst sind und sie nicht als Theravada verbreiten.
+Beachte, dass wir in der populären Theravādakultur auch Einflüsse von hinduistischen Vorstellungen und Praktiken berücksichtigen können. Diese liegen jedoch außerhalb unseres Rahmens, da sachkundige Theravādalehrer sich dieser Dinge wohl bewusst sind und sie nicht als Theravāda verbreiten.
 
-#### Der Geist der Untersuchung
+#### Der Geist des Untersuchens
 
-Modernistische Formen des Theravada begrüßen zwar theoretisch die Vorstellung, dass der Buddha individuelle Nachforschung und Verwirklichung lehrte, in der Praxis stützt sich die Tradition jedoch häufig noch auf Auswendiglernen und Unterordnung unter Autoritäten. Älteste zu hinterfragen, wird unter manchen Theravada-Anhängern als ein tief sitzendes Zeichen spiritueller Aufsässigkeit und Undankbarkeit angesehen.
+Modernistische Formen des Theravāda begrüßen zwar theoretisch die Vorstellung, dass der Buddha individuelle Nachforschung und Verwirklichung lehrte, in der Praxis stützt sich die Tradition jedoch häufig noch auf Auswendiglernen und Unterordnung unter Autoritäten. Älteste zu hinterfragen, wird unter manchen Theravāda-Vertretern als ein tief sitzendes Zeichen spiritueller Malaise und Undankbarkeit angesehen.
 
 Die Lernmethode in den FBT gründet sich viel stärker auf Dialog, Frage und Antwort und persönliches Entdecken. Der Buddha sagte nicht nur, dass man ihn ausfragen und hinterfragen dürfe, er gab auch ausführliche Anleitung, wie man das tun sollte.
 
 #### Meditationsmethoden
 
-Moderner Theravada legt großen Wert auf besondere Meditationsmethoden, die alle für sich in Anspruch nehmen, authentisch und wirkungsvoll zu sein. Sie bauen auf den ausführlichen Beschreibungen von Meditationsmethoden auf, die man im Visuddhimagga findet, der den ausführlichsten und umfassendsten Satz an praktischen Meditationsanleitungen enthält, den man in einem alten Buch überhaupt finden kann. Dazu gehören so bekannte Techniken wie Zählen, die Aufmerksamkeit auf bestimmte Punkte richten, Ereignisse mit Worten vermerken, die Phasen eines Schrittes bei der Gehmeditation vermerken usw.
+Moderner Theravāda legt großen Wert auf besondere Meditationsmethoden, die alle für sich in Anspruch nehmen, authentisch und wirkungsvoll zu sein. Sie bauen auf den ausführlichen Beschreibungen von Meditationsmethoden auf, die man im Visuddhimagga findet, der den ausführlichsten und umfassendsten Satz an praktischen Meditationsanleitungen enthält, den man in einem alten Buch überhaupt finden kann. Dazu gehören so bekannte Techniken wie Zählen, die Aufmerksamkeit auf bestimmte Punkte richten, Ereignisse mit Worten vermerken, die Phasen eines Schrittes bei der Gehmeditation vermerken usw.
 
 Die FBT besprechen die Besonderheiten des Meditierens viel weniger genau. Im Allgemeinen geben sie eine Übersicht über die Übung und ihre Ziele und legen mehr Wert auf den Kontext und die Bedeutung der Übung als auf den Mechanismus der Methode. Der Buddha lehrte typischerweise eine breite Palette an Betrachtungsübungen, und die Meditationsschüler lernten, wie sie diese für ihren eigenen Fall anwendeten.
 
@@ -101,7 +101,7 @@ In diesem Fall denke ich, dass der Visuddhimagga zum größten Teil lediglich da
 
 #### Meditationsklausuren
 
-Die intensive Meditationsklausur ist ein bestimmendes Kennzeichen der modernen Meditationsbewegung im Theravada. Populär wurde sie durch die großen Vipassana-Schulen von Myanmar, und ihr Ziel ist es, praktizierenden Laien die Möglichkeit zu geben, tiefe Meditation zu verwirklichen, die traditionell hauptsächlich für Ordinierte gedacht ist.
+Die intensive Meditationsklausur ist ein bestimmendes Kennzeichen der modernen Meditationsbewegung im Theravāda. Populär wurde sie durch die großen Vipassanā-Schulen von Myanmar, und ihr Ziel ist es, praktizierenden Laien die Möglichkeit zu geben, tiefe Meditation zu verwirklichen, die traditionell hauptsächlich für Ordinierte gedacht ist.
 
 Die FBT enthalten kein Konzept einer solchen intensiven Meditationsklausur für Laien. Vielmehr wäre die normale Praxis für engagierte Laien, dass sie einen Tag in der Woche nehmen, an dem sie die acht Ethikregeln aufnehmen und sich, so gut sie können, dem Dhamma und der Meditation widmen. Das ist eine sanfte, machbare und ganzheitliche Art, im Laienleben spirituell zu wachsen.
 
@@ -111,25 +111,25 @@ Das intensive Retreat hat vielen Menschen, auch mir, eine entscheidende Initialz
 
 #### Das absolute Minimum
 
-Es ist vielleicht eine menschliche Neigung und nicht so sehr eine Neigung des Theravada, aber man sieht häufig Theravada-Anhänger dabei, zu analysieren und darüber zu debattieren, was das *absolute Minimum* ist, das sie üben und erreichen können.
+Es ist vielleicht eine menschliche Neigung und nicht so sehr eine Neigung des Theravāda, aber man sieht häufig Theravāda-Anhänger dabei, zu analysieren und darüber zu debattieren, was das *absolute Minimum* ist, das sie üben und erreichen können.
 
 Mehrere moderne Meditationsschulen wurden auf der Vorstellung aufgebaut, dass man den Stromeintritt gewinnen soll als das absolute Minimum, um auf den Pfad zu gelangen. Die gesamte Struktur ihrer Retreats gründet sich auf diese Vorstellung. Sobald man diesen Wert im Geist der Menschen verankert, neigen sie dazu, den Fokus zu verschieben von „was kann ich loslassen?“ zu „habe ich es schon geschafft?“ Diese Art des weltlichen Denkens ist mehr dem Materialismus des 20. Jahrhunderts geschuldet als dem Buddha.
 
-Insbesondere wird dabei die Rolle der Jhānas zum Problem erhoben. Moderne Theravada-Anhänger argumentieren ständig, dass man sie nicht brauche oder dass sie in Wirklichkeit bloß oberflächliche Meditationszustände seien, in denen man sich wegdenke und glücklich fühle. Sie warnen einen, sich nicht an die Jhānas zu hängen, und argumentieren, es „reiche aus“, einfach nur auf alltägliche Geisteszustände achtsam zu sein. Das ist von den FBT weit entfernt, wo die Jhānas einen Höhepunkt auf dem Pfad darstellen und ausnahmslos als tiefgründige Geisteszustände gepriesen werden, die aus weitreichendem Loslassen hervorgehen.
+Insbesondere wird dabei die Rolle der Jhānas zum Problem erhoben. Moderne Theravāda-Vertreter argumentieren ständig, dass man sie nicht brauche oder dass sie in Wirklichkeit bloß oberflächliche Meditationszustände seien, in denen man sich wegdenke und glücklich fühle. Sie warnen einen, sich nicht an die Jhānas zu hängen, und argumentieren, es „reiche aus“, einfach nur auf alltägliche Geisteszustände achtsam zu sein. Das ist von den FBT weit entfernt, wo die Jhānas einen Höhepunkt auf dem Pfad darstellen und ausnahmslos als tiefgründige Geisteszustände gepriesen werden, die aus weitreichendem Loslassen hervorgehen.
 
-Eine ähnliche Tendenz findet man in der Diskussion um das Fleischessen. Die Texte *erlauben* das Essen von Fleisch, und viele Theravada-Anhänger nehmen das als Blanko-Einladung. Es ist nicht ungewöhnlich, dass Mahayana-Buddhisten, die zum Theravada übertreten, überhaupt erst anfangen, Fleisch zu essen. Aber die Tatsache, dass der Buddha etwas nicht *verboten* hat, heißt nicht, dass wir es tun sollten. Das Tierwohl und die Umweltfolgen des Fleischessens haben sich seit den Tagen des Buddha völlig verändert, doch darüber wird hinweggesehen, weil wir *damit durchkommen können*.
+Eine ähnliche Tendenz findet man in der Diskussion um das Fleischessen. Die Texte *erlauben* das Essen von Fleisch, und viele Theravāda-Anhänger nehmen das als Blanko-Einladung. Es ist nicht ungewöhnlich, dass Mahāyāna-Buddhisten, die zum Theravāda übertreten, überhaupt erst anfangen, Fleisch zu essen. Aber die Tatsache, dass der Buddha etwas nicht *verboten* hat, heißt nicht, dass wir es tun sollten. Das Tierwohl und die Umweltfolgen des Fleischessens haben sich seit den Tagen des Buddha völlig verändert, doch darüber wird hinweggesehen, *weil wir damit durchkommen können*.
 
 Das ist nicht die Art, wie der Buddha lehrte. Er ermutigte seine Schüler, nach dem Besten zu streben, das ihnen möglich ist. Er richtete den Pfad als eine großartige, tiefgründige Reise ein, ohne je die harte Arbeit, die damit verbunden ist, kleinzureden oder zu entschuldigen. Vielmehr zeigte er, dass es auf dem Pfad Schritte gibt, die jeder jetzt gehen kann. Diese Schritte, so einfach sie erscheinen, sind der Anfang der Reise des Loslassens.
 
 #### Andacht versus Meditation
 
-Während es im Theravada, wie er in der internationalen Arena verstanden wird, vor allem um Achtsamkeit und Meditation geht, ist der traditionelle Theravada eine Andachtsreligion. Für die meisten Anhänger bedeutet religiöse Praxis, dass man das Kloster besucht, eine Spende gibt, einige Unterweisungen anhört und in einen Sprechgesang einstimmt. Für sie ist das eine Möglichkeit, sich mit einer Gemeinschaft zu verbinden, ihre Familie zu ehren, den Saṅgha zu unterstützen und Gutes zu tun, das eine günstige Wiedergeburt sicherstellt.
+Während es im Theravāda, wie er in der internationalen Arena verstanden wird, vor allem um Achtsamkeit und Meditation geht, ist der traditionelle Theravāda eine Andachtsreligion. Für die meisten Anhänger bedeutet religiöse Praxis, dass man das Kloster besucht, eine Spende gibt, einige Unterweisungen anhört und in einen Sprechgesang einstimmt. Für sie ist das eine Möglichkeit, sich mit einer Gemeinschaft zu verbinden, ihre Familie zu ehren, den Saṅgha zu unterstützen und Gutes zu tun, das eine günstige Wiedergeburt sicherstellt.
 
 Man findet zwar alle diese Handlungen in den FBT, aber der Schwerpunkt hat sich verschoben. Der frühe Buddhismus war eine Bewegung, die sich auf Kontemplation und Meditation gründete, eine Möglichkeit, durch Verstehen und Einsicht tiefgründige Wahrheiten zu verwirklichen. Andächtige Übungen boten Unterstützung und Kontext, waren aber kein Ziel an sich.
 
-Dieser Gegensatz wird nirgends klarer, als wenn man das Thera- and Therīgāthā mit ihren späteren Gegenstücken, dem Thera- and Therīapadāna, vergleicht. Die Ersteren sind Berichte von den oder über die Mönche und Nonnen, die zur Zeit des Buddha oder wenig später lebten. Sie sprechen von Entsagung, von den Freuden des Meditierens im Wald, von den Kämpfen mit Begierden, vom Triumph des Erwachens. Die Apadānas, die ein paar hundert Jahre später verfasst wurden, erzählen die legendenhaften Geschichten aus den früheren Leben häufig der gleichen Mönche und Nonnen. Nun wird ihr Erwachen nicht ihrem hingegebenen Streben in Meditation und Entsagung zugeschrieben, sondern einem einfachen Akt wie einer Blumenspende an einen Buddha vor vielen Äonen.
+Dieser Gegensatz wird nirgends klarer, als wenn man das Thera- und Therīgāthā mit ihren späteren Gegenstücken, dem Thera- und Therīapadāna, vergleicht. Die Ersteren sind Berichte von den oder über die Mönche und Nonnen, die zur Zeit des Buddha oder wenig später lebten. Sie sprechen von Entsagung, von den Freuden des Meditierens im Wald, von den Kämpfen mit Begierden, vom Triumph des Erwachens. Die Apadānas, die ein paar hundert Jahre später verfasst wurden, erzählen die legendenhaften Geschichten aus den früheren Leben häufig der gleichen Mönche und Nonnen. Nun wird ihr Erwachen nicht ihrem hingegebenen Streben in Meditation und Entsagung zugeschrieben, sondern einem einfachen Akt wie einer Blumenspende an einen Buddha vor vielen Äonen.
 
-Es ist gut möglich, diese auf doktrinaler Ebene miteinander in Einklang zu bringen. Man kann anführen, dass die Spende in der Vergangenheit sie auf den Pfad zum Erwachen brachte, und dass das Streben in der Gegenwart nur wegen dieses früheren Kamma möglich war. Aber wenn man diesen Texten Glauben schenkt, gibt es ein auffälliges Missverhältnis in den Werten und der Gewichtung. In nur ein paar Jahrhunderten wurde der Weg der Meditation zu etwas Nachträglichem, und neue Texte wurden geschaffen, die den Weg der Andacht fördern. Dieses Missverhältnis ist bis auf den heutigen Tag offensichtlich, und Reformer im Theravada betonen eine Rückkehr zur Meditation.
+Es ist gut möglich, diese auf doktrinaler Ebene miteinander in Einklang zu bringen. Man kann anführen, dass die Spende in der Vergangenheit sie auf den Pfad zum Erwachen brachte, und dass das Streben in der Gegenwart nur wegen dieses früheren Kamma möglich war. Aber wenn man diesen Texten Glauben schenkt, gibt es ein auffälliges Missverhältnis in den Werten und der Gewichtung. In nur ein paar Jahrhunderten wurde der Weg der Meditation zu etwas Nachträglichem, und neue Texte wurden geschaffen, die den Weg der Andacht fördern. Dieses Missverhältnis ist bis auf den heutigen Tag offensichtlich, und Reformer im Theravāda betonen eine Rückkehr zur Meditation.
 
 ### Buddha
 
@@ -137,7 +137,7 @@ Der Buddha der FBT ist menschlicher und man kann sich leichter mit ihm identifiz
 
 #### Bodhisatta: einer, der zum Erwachen entschlossen ist
 
-Der Theravada lehrt, wie alle modernen Schulen des Buddhismus, über den Bodhisatta, den „künftigen Buddha“, der aus Mitgefühl mit allen Lebewesen seine spirituellen Eigenschaften über unzählige Leben hinweg entwickelte mit dem Ziel, Buddhaschaft zu erlangen. Es heißt, der Bodhisatta legte vor langer Zeit unter einem früheren Buddha ein entsprechendes Gelübde ab.
+Der Theravāda lehrt, wie alle modernen Schulen des Buddhismus, über den Bodhisatta, den „künftigen Buddha“, der aus Mitgefühl mit allen Lebewesen seine spirituellen Eigenschaften über unzählige Leben hinweg entwickelte mit dem Ziel, Buddhaschaft zu erlangen. Es heißt, der Bodhisatta legte vor langer Zeit unter einem früheren Buddha ein entsprechendes Gelübde ab.
 
 In den FBT finden wir keine solche Vorstellung. Der Begriff *bodhisatta* beschreibt gewöhnlich den jungen Siddhattha während seines Strebens nach dem Erwachen, nachdem er sein Heim verlassen hat. Die Lehrreden dehnen das, es ist wahr, bis zu Siddhatthas Geburt aus, aber das ist wahrscheinlich eine spätere Entwicklung.
 
@@ -147,7 +147,7 @@ In den FBT zeigt sich klar die Bedeutung, dass das, was den jungen Kandidaten au
 
 #### Die Vollkommenheiten
 
-Ein wesentlicher Teil der Bodhisatta-Doktrin ist die Vorstellung, dass der Bodhisatta, nachdem er das Gelübde abgelegt hatte, zu erwachen, die systematische Entwicklung einer Anzahl spiritueller Eigenschaften betrieb, die im letzten Leben im Erwachen gipfelten. Diese Eigenschaften werden „Vollkommenheiten“ genannt, und wir finden im modernen Theravada und Mahayana verschiedene Versionen davon.
+Ein wesentlicher Teil der Bodhisatta-Doktrin ist die Vorstellung, dass der Bodhisatta, nachdem er das Gelübde abgelegt hatte, zu erwachen, die systematische Entwicklung einer Anzahl spiritueller Eigenschaften betrieb, die im letzten Leben im Erwachen gipfelten. Diese Eigenschaften werden „Vollkommenheiten“ genannt, und wir finden im modernen Theravāda und Mahāyāna verschiedene Versionen davon.
 
 Die FBT enthalten keinen Hinweis auf diese Doktrin, weder auf die allgemeine Vorstellung, dass der Bodhisatta infolge eines Gelübdes einen Entwicklungsweg verfolgte, noch auf die genauen Einzelheiten des Verzeichnisses von Vollkommenheiten. Tatsächlich geben sich die FBT, wenn sie von den Übungen sprechen, die der Bodhisatta in früheren Leben praktizierte – wie etwa den Brahmāvihāras bis zur Stufe der Jhānas –, große Mühe, zu betonen, dass diese Übungen *nicht* zum Erwachen führten. Das steht in direktem Widerspruch zur Doktrin der Vollkommenheiten.
 
@@ -155,11 +155,12 @@ Darüber hinaus beschreiben die FBT im Einzelnen, was Siddhattha in den sechs Ja
 
 #### Jātaka-Geschichten
 
-Theravada-Anhänger lernen den Dhamma häufig zuerst als Kinder über das Medium der Jātaka-Geschichten, der früheren Leben des Buddha. Solche Geschichten werden wieder und wieder erzählt und haben überall in der Theravada-Welt Kunst und Drama geprägt. Jātaka-Geschichten variieren in Länge und Form stark, aber sie alle schärfen eine Botschaft ein oder eine Tugend, die der Bodhisatta in der Vergangenheit pflegte, und verbinden das mit einem Ereignis in der Gegenwart, wobei sie es oft auch zu anderen Menschen im Leben des Buddha in Beziehung setzen.
+Theravāda-Anhänger lernen den Dhamma häufig zuerst als Kinder über das Medium der Jātaka-Geschichten, der früheren Leben des Buddha. Solche Geschichten werden wieder und wieder erzählt und haben überall in der Theravāda-Welt Kunst und Drama geprägt. Jātaka-Geschichten variieren in Länge und Form stark, aber sie alle schärfen eine Botschaft ein oder eine Tugend, die der Bodhisatta in der Vergangenheit pflegte, und verbinden das mit einem Ereignis in der Gegenwart, wobei sie es oft auch zu anderen Menschen im Leben des Buddha in Beziehung setzen.
 
 Jātaka-Geschichten wurden als die älteste, vollständigste und am besten erhaltene Sammlung von Volkserzählungen der Welt anerkannt. Sie sind ein unschätzbarer Schatz der buddhistischen Kultur. Doch erzählen sie nicht, von vielleicht wenigen Ausnahmen abgesehen, die Geschichten der früheren Leben des Buddha.
 
 In den FBT finden wir ein paar Beispiele, in denen der Buddha aus einem früheren Leben erzählt, und solche Geschichten müssen die Keimzelle gewesen sein, aus der sich die Idee der Jātakas entwickelte. 
+
 Allerdings sind fast alle Jātakas, die wir heute haben, Volkserzählungen, die in den Buddhismus aufgenommen wurden. Es gibt zahlreiche Anzeichen dafür, dass sie ahistorisch sind, zum Beispiel setzen sie fast alle eine Stufe der Kultur, der Sprache, der politischen Verhältnisse und der Technologie voraus, die nur für wenige Jahrhunderte vor der Geburt des Buddha bestanden.
 
 Aus diesem Grund zählen Jātakas nicht zu den FBT, und obwohl Experten des frühen Buddhismus sie wegen ihrer erzählerischen Qualitäten und ihres Sinngehalts schätzen, betrachten wir sie nicht als bindende Texte.
@@ -168,25 +169,25 @@ Aus diesem Grund zählen Jātakas nicht zu den FBT, und obwohl Experten des frü
 
 Die Tradition sagt uns, der Buddha stamme aus einer bedeutenden königlichen Familie, und sein Vater sei der König der Sakyer gewesen.
 
-Nach den FBT waren die Sakyer eine aristokratische Republik, die ihre Anführer aus den führenden landbesitzenden Stämmen wählte. Solche Anführer waren als *rājā* bekannt, und in diesem Sinn können wir tatsächlich zustimmen, dass die Familie des Buddha königlich war. Aber das Führungsmodell unterschied sich deutlich von der Idee einer absoluten erblichen Monarchie, die zur Vorstellung von einem „König“ gehört.
+Nach den FBT waren die Sakyer eine aristokratische Republik, die ihre Anführer aus den führenden Land besitzenden Stämmen wählte. Solche Anführer waren als *rājā* bekannt, und in diesem Sinn können wir tatsächlich zustimmen, dass die Familie des Buddha königlich war. Aber das Führungsmodell unterschied sich deutlich von der Idee einer absoluten erblichen Monarchie, die zur Vorstellung von einem „König“ gehört.
 
 #### Die vier Zeichen
 
 Die Tradition sagt uns, Siddhattha sei vom unerwarteten Anblick von vier Zeichen zum Fortziehen bewogen worden, die sein Vater versucht habe, vor ihm zu verbergen: einem Alten, einem Kranken, einem Toten und einem Hauslosen.
 
-Die FBT hingegen erzählen diese Geschichte über den Buddha Vipassī und setzen sie in eine Zeit weit zurück in legendärer Vergangenheit. Unser Buddha der Gegenwart gab einen ähnlichen Beweggrund für sein Fortziehen an – ein Entrinnen von Wiedergeburt, Alter und Tod zu suchen –, aber ohne die dramatische Erzählung von den vier Zeichen. In dem übersehenen [Attadaṇḍa-Sutta](#/sutta/snp4.15/de/sabbamitta) erklärt er weiter, dass er fortgezogen sei, nachdem er den Unfrieden und die gewaltsamen Konflikte in der Welt gesehen habe.
+Die FBT hingegen erzählen diese Geschichte über den Buddha Vipassī und setzen sie in eine Zeit weit zurück in legendärer Vergangenheit. Unser Buddha der Gegenwart gab einen ähnlichen Beweggrund für sein Fortziehen an – ein Entrinnen von Wiedergeburt, Alter und Tod zu suchen –, aber ohne die dramatische Erzählung von den vier Zeichen. In dem übersehenen [Attadaṇḍa-Sutta](https://dhammaregen.net/#/sutta/snp4.15/de/sabbamitta) erklärt er weiter, dass er fortgezogen sei, nachdem er den Unfrieden und die gewaltsamen Konflikte in der Welt gesehen habe.
 
 #### Tathāgata
 
-Die Theravada-Kommentare geben eine weite Spanne von Lesarten für diesen Beinamen des Buddha, was zu modernen Behauptungen führt wie es bedeute „So-Gegangener“ oder die Bedeutung sei nicht feststellbar oder nicht übersetzbar.
+Die Theravāda-Kommentare geben eine weite Spanne von Lesarten für diesen Beinamen des Buddha, was zu modernen Behauptungen führt wie es bedeute „So-Gegangener“ oder die Bedeutung sei nicht feststellbar oder nicht übersetzbar.
 
 Man darf aber nicht vergessen, dass es eine der wichtigsten Funktionen der Kommentare war, Material für das Halten von Dhammavorträgen zur Verfügung zu stellen, was sie oft taten, indem sie gut bekannten Wörtern vielfache Bedeutungen zuordneten. Sie zielen darauf ab, zu didaktischen Zwecken die Bedeutung zu erweitern, im Unterschied zu einem Wörterbuch, das darauf abzielt, falsche Bedeutungen auszusondern. Das ist praktisch für Lehrer, da es ihnen etwas an die Hand gibt, mit dem sie spielen können, aber es vermittelt uns nicht immer die eigentliche Bedeutung des Wortes.
 
-In diesem Fall geben die FBT eine recht umfangreiche Reihe von Interpretationen für *tathāgata*, zum Beispiel „Wie er spricht, so  handelt er“. Die allgemeine Bedeutung meint jemanden, der in Übereinstimmung mit der Wahrheit, die ihm klar geworden ist, redet und handelt, was zu der Übersetzung „der Klargewordene“ passt.
+In diesem Fall geben die FBT eine recht umfangreiche Reihe von Interpretationen für *tathāgata*, zum Beispiel „Wie er spricht, so handelt er“. Die allgemeine Bedeutung meint jemanden, der in Übereinstimmung mit der Wahrheit, die ihm klar geworden ist, redet und handelt, was zu der Übersetzung „der Klargewordene“ (engl.: „*the Realized One*“) passt.
 
 #### Allwissenheit
 
-Es ist im modernen Theravada üblich, den Buddha als *sabbaññū*, „allwissend“, zu beschreiben, in dem engen Sinn, dass er buchstäblich alles weiß.
+Es ist im modernen Theravāda üblich, den Buddha als *sabbaññū*, „allwissend“, zu beschreiben, in dem engen Sinn, dass er buchstäblich alles weiß.
 
 Der Buddha weist aber die Vorstellung, er sei allwissend, ausdrücklich zurück. Tatsächlich widerspricht allein die Idee der Allwissenheit der Analyse des Bewusstseins durch den Buddha, nach der das Gewahrsein durch einen bestimmten Satz von Bedingungen zustande kommt.
 
@@ -194,7 +195,7 @@ Der Buddha behauptete, eine bemerkenswerte Bandbreite an übersinnlichen Fähigk
 
 #### Prophezeiung
 
-Ein Aspekt der angenommenen Allwissenheit des Buddha ist seine Fähigkeit, in die Zukunft zu sehen. Der Theravada glaubt, dass der Buddha umfassend bestimmte historische Entwicklungen in der Zukunft vorhersehen konnte wie etwa das Erscheinen von Ashoka und die Ausbreitung des Dhamma, sogar bis zum Niedergang und Verschwinden des Buddhismus.
+Ein Aspekt der angenommenen Allwissenheit des Buddha ist seine Fähigkeit, in die Zukunft zu sehen. Der Theravāda glaubt, dass der Buddha umfassend bestimmte historische Entwicklungen in der Zukunft vorhersehen konnte wie etwa das Erscheinen von Ashoka und die Ausbreitung des Dhamma, sogar bis zum Niedergang und Verschwinden des Buddhismus.
 
 Der Buddha selbst behauptete allerdings nicht, er könne bestimmte Ereignisse vorhersehen. Er sprach vielmehr von Ursache und Wirkung: Wenn Menschen sich so verhalten, werden diese Ergebnisse folgen. Das ergab sich aus seinem Verständnis der Natur des Dhamma, nicht aus einer mystischen Vision der Zukunft.
 
@@ -228,7 +229,7 @@ Wenn Mönche in den Toiletten mutmaßlicher Arahants graben, um die „Reliquien
 
 #### Geistobjekte
 
-Der moderne Theravada spricht von „Objekten“ (*objects*), einer englischen Wiedergabe des Paliwortes *ārammaṇa*. Das ist besonders verbreitet, wenn man von der sechsten Sinnesgrundlage spricht, dem, dessen der Geist gewahr ist. In den FBT ist das *dhamma*, im modernen Theravada ist es *dhammārammaṇa* und wird mit „Geistobjekt“ übersetzt.
+Der moderne Theravāda spricht von „Objekten“ (*objects*), einer englischen Wiedergabe des Paliwortes *ārammaṇa*. Das ist besonders verbreitet, wenn man von der sechsten Sinnesgrundlage spricht, dem, dessen der Geist gewahr ist. In den FBT ist das *dhamma*, im modernen Theravāda ist es *dhammārammaṇa* und wird mit „Geistobjekt“ übersetzt.
 
 Allerdings findet man *ārammaṇa* nie in der Bedeutung „Objekt“ in den FBT. Es wird immer im Sinn von „Verlass, Unterstützung“ gebraucht. Und es gibt auch kein anderes Wort, das in dieser Bedeutung gebraucht würde; ich habe die gesamten vier Pali-Nikāyas übersetzt, ohne auch nur einmal das Konzept eines „Geistobjektes“ zu benutzen.
 
@@ -236,41 +237,41 @@ Aus philosophischer Sicht ist ein „Objekt“ problematisch, weil es unterstell
 
 Siehe auch *sabhāva* oder „innewohnende Essenz“.
 
-#### Geistmomente
+Geistmomente
 
-Der Theravada hat eine anschauliche Zeittheorie, die sich auf die Vorstellung von „Geistmomenten“ (*cittakkhaṇa*) gründet. Das sind im Wesentlichen Zeitatome, die kleinstmöglichen Perioden, in die Zeit unterteilt werden kann. Diese Theorie war in vielen Schulen des alten Buddhismus verbreitet, wenn es auch in den Einzelheiten Unterschiede gab wie etwa, wie viele „Unter-Momente“ jeder Moment enthalten kann. Im Theravada  heißt es, ein Moment sei ein winziger Bruchteil der Dauer eines Blitzes.
+Der Theravāda hat eine anschauliche Zeittheorie, die sich auf die Vorstellung von „Geistmomenten“ (*cittakkhaṇa*) gründet. Das sind im Wesentlichen Zeitatome, die kleinstmöglichen Perioden, in die Zeit unterteilt werden kann. Diese Theorie war in vielen Schulen des alten Buddhismus verbreitet, wenn es auch in den Einzelheiten Unterschiede gab wie etwa, wie viele „Unter-Momente“ jeder Moment enthalten kann. Im Theravāda heißt es, ein Moment sei ein winziger Bruchteil der Dauer eines Blitzes.
 
 Die FBT enthalten keine solche Theorie, und sie erwähnen „Geistmomente“ gar nicht. Die FBT erklären zwar keine ausdrückliche Zeittheorie, doch aus der Art, wie Zeit behandelt wird, können wir sehen, dass es kein essenzielles Substrat gibt, aus dem Veränderung abgeleitet wird. Vielmehr behandeln die FBT jede Größenordnung der Zeit als gleichermaßen „wirklich“ und bedeutsam. Der Zyklus der Äonen, Aufstieg und Fall von Zivilisationen, die Dauer des menschlichen Lebens oder das Vorbeiziehen eines Gedankens sind alles Aspekte der Veränderung, alle sind gleichermaßen unbeständig, und es gibt keinen Versuch, sie auf eine reduktive Art zu erklären, indem man sagt, die „wirkliche“ Veränderung spiele sich auf einer Ebene ab, und die anderen seien Erscheinungsformen davon.
 
-Man sieht das in den Geschichten über die Einsicht. Während der moderne Theravada Einsicht auf die Ebene der Beobachtung von Geistmomenten eingrenzen will, kann in den FBT die Veränderung der Zeit auf jeder Ebene beobachtet werden: Wasser, das abfließt, die Zerbrechlichkeit des menschlichen Lebens, die kosmische Unbeständigkeit der Elemente. Was zählt, ist nicht, dass man ein bestimmtes Bild der „höchsten Wirklichkeit“ sieht, sondern dass man die Vorstellung von Beständigkeit loslässt.
+Man sieht das in den Geschichten über die Einsicht. Während der moderne Theravāda Einsicht auf die Ebene der Beobachtung von Geistmomenten eingrenzen will, kann in den FBT die Veränderung der Zeit auf jeder Ebene beobachtet werden: Wasser, das abfließt, die Zerbrechlichkeit des menschlichen Lebens, die kosmische Unbeständigkeit der Elemente. Was zählt, ist nicht, dass man ein bestimmtes Bild der „höchsten Wirklichkeit“ sieht, sondern dass man die Vorstellung von Beständigkeit loslässt.
 
 Aus diesem Grund würde ich argumentieren, dass für die FBT Zeit ein Konzept ist, das sich von unserer Erinnerung an Veränderungen im Bewusstsein und unserem Begehren nach künftigem Bewusstsein ableitet. Der Umfang der Zeit ist der Umfang unseres Begehrens.
 
 #### Der gegenwärtige Augenblick
 
-Im „gegenwärtigen Augenblick“ sein ist eine so verbreitete Trope in der modernen Meditation, dass es überrascht, wenn man herausfindet, dass der Buddha nie überhaupt vom „gegenwärtigen Augenblick“ gesprochen hat. Er sprach von der „Gegenwart“ (*paccuppanna*), was eine allgemeinere Idee ist, die nicht an eine bestimmte momenthafte Zeittheorie wie den „gegenwärtigen Augenblick“ (*paccuppannakkhaṇa*) gebunden ist. David Kalupahana brachte den denkwürdigen Vergleich, der „gegenwärtige Augenblick“ sei wie Seiltanz, während die „Gegenwart“ breiter sei, wie ein Kamelritt.
+Im „gegenwärtigen Augenblick“ sein ist eine so verbreitete Trope in der modernen Meditation, dass es überrascht, wenn man herausfindet, dass der Buddha nie überhaupt vom „gegenwärtigen Augenblick“ gesprochen hat. Er sprach von der „Gegenwart“ (*paccuppanna*), was eine allgemeinere Vorstellung ist, die nicht an eine bestimmte momenthafte Zeittheorie wie den „gegenwärtigen Augenblick“ (*paccuppannakkhaṇa*) gebunden ist. David Kalupahana brachte den denkwürdigen Vergleich, der „gegenwärtige Augenblick“ sei wie Seiltanz, während die „Gegenwart“ breiter sei, wie ein Kamelritt.
 
 Dieser Unterschied, so abstrus er erscheint, hat eine wesentliche Auswirkung darauf, wie Menschen die Meditation angehen. Strengen wir uns an, uns auf ein sehr enges und spezifisches Bild der Wirklichkeit auszurichten, neben dem alle anderen falsch sind? Oder bleiben wir einfach in der „Gegenwart“, dem Ort, wo wir ohnehin immer waren?
 
 #### Sterbebett-Kamma
 
-Die meisten Theravada-Anhänger machen sich große Sorgen um das Kamma, das zum Zeitpunkt des Todes geschaffen wird. Sie glauben, dass der letzte „Gedankenmoment“ den Ort der Wiedergeburt bestimmen kann.
+Die meisten Theravāda-Anhänger machen sich große Sorgen um das Kamma, das zum Zeitpunkt des Todes geschaffen wird. Sie glauben, dass der letzte „Gedankenmoment“ den Ort der Wiedergeburt bestimmen kann.
 
 Allerdings kommt diese Lehre nicht nur in den FBT nicht vor, sie widerspricht grundsätzlich der Vorstellung von Kamma. Es ist eine *Absicht von moralischer Bedeutung*, nicht ein vorbeiziehender Gedanke, was die Wiedergeburt gestaltet. Die meisten Gedanken haben wenig ethisches Gewicht, und das ist insbesondere so, wenn jemand schwach und unter Medikamenten auf dem Sterbebett liegt.
 
 Für die FBT wird Wiedergeburt stets durch eine Handlung von moralischer Bedeutung bestimmt: Geben, die Ethikregeln aufnehmen, Einsicht in die Wahrheit haben. Natürlich kann das ein rein geistiger Akt sein, aber es muss ein moralisch bedeutsamer geistiger Akt sein.
 
-Obwohl nun die Wiedergeburt nicht vom letzten „Gedanken“ geleitet wird, gibt es in den FBT ein paar Beispiele, wo ein außerordentlich starker moralischer Wille zum Zeitpunkt des Todes die Wiedergeburt bestimmt. In einem wird der korrupte Steuereinnehmer Dhanañjani auf dem Sterbebett von seiner verruchten Art bekehrt und kommt zu aufrichtiger Reue für ein miserabel geführtes Leben. In einem anderen heißt es, wenn ein Soldat sich mit einem Herzen voller Hass und Gedanken an das Töten in die Schlacht stürzt und fällt in diesem Augenblick, wird er zu einer schlechten Wiedergeburt gehen.
+Obwohl nun die Wiedergeburt nicht vom letzten „Gedanken“ geleitet wird, gibt es in den FBT ein paar Beispiele, wo ein außerordentlich starker moralischer Wille zum Zeitpunkt des Todes die Wiedergeburt bestimmt. In einem wird der korrupte Steuereinnehmer Dhanañjāni auf dem Sterbebett von seiner verruchten Art bekehrt und kommt zu aufrichtiger Reue für ein miserabel geführtes Leben. In einem anderen heißt es, wenn ein Soldat sich mit einem Herzen voller Hass und Gedanken an das Töten in die Schlacht stürzt und fällt in diesem Augenblick, wird er zu einer schlechten Wiedergeburt gehen.
 
 Normalerweise stirbt man nicht so, und die meisten Menschen begehen zum Zeitpunkt des Todes keine moralisch bedeutsamen Taten. Ihre Wiedergeburt wird zum größten Teil durch die Taten bestimmt werden, die sie im Lauf ihres Lebens getan haben. Tatsächlich wird dieses Verständnis in der Abhidhamma-Tradition fortgeführt, die die verschiedenen Arten von Kamma beschreibt, die zur Zeit des Todes vorherrschen können. Praktisch gesehen wird das Kamma in Todesnähe aber stark herausgestellt.
 
-Offensichtlich ist es eine gute Sache, Sterbende zu unterstützen und ihnen zu helfen, einen heilsamen Geisteszustand aufrechtzuerhalten. Aber wir müssen keine Angst haben, dass ein einzelner verirrter Gedanke uns zu einer schlechten Wiedergeburt stößt. Wie der Buddha zu seinem Verwandten Mahānāma sagte: „[Hab keine Furcht, hab keine Furcht!](#/sutta/sn55.21:2.1/de/sabbamitta)“ Jemand, der ein gutes Leben geführt hat, wird eine gute Wiedergeburt haben.
+Offensichtlich ist es eine gute Sache, Sterbende zu unterstützen und ihnen zu helfen, einen heilsamen Geisteszustand aufrechtzuerhalten. Aber wir müssen keine Angst haben, dass ein einzelner verirrter Gedanke uns zu einer schlechten Wiedergeburt stößt. Wie der Buddha zu seinem Verwandten Mahānāma sagte: „[Hab keine Furcht, hab keine Furcht!](https://dhammaregen.net/#/sutta/sn55.21:2.1/de/sabbamitta)“ Jemand, der ein gutes Leben geführt hat, wird eine gute Wiedergeburt haben.
 
 #### Der Zwischenzustand
 
-Der Theravada lehrt, dass, wenn ein Leben endet, lückenlos ein anderes beginnt. Es gibt keine Zeit des Übergangs von einem zum anderen. Vielmehr wird der letzte „Geistmoment“ des vorangehenden Lebens unmittelbar vom sogenannten „ankoppelnden Bewusstsein“ (*paṭisandhi viññāṇa*) gefolgt, einem Geistmoment, der ein Leben mit dem nächsten verbindet.
+Der Theravāda lehrt, dass, wenn ein Leben endet, lückenlos ein anderes beginnt. Es gibt keine Zeit des Übergangs von einem zum anderen. Vielmehr wird der letzte „Geistmoment“ des vorangehenden Lebens unmittelbar vom sogenannten „ankoppelnden Bewusstsein“ (*paṭisandhi viññāṇa*) gefolgt, einem Geistmoment, der ein Leben mit dem nächsten verbindet.
 
-Allerdings wurde von den meisten der alten Schulen des Buddhismus eine Übergangszeit oder ein „Zwischenzustand“ (*antarabhava*) gelehrt. Das ist trotz der fehlenden offiziellen Billigung im volkstümlichen Theravada immer noch eine beliebte Vorstellung.
+Allerdings wurde von den meisten der alten Schulen des Buddhismus eine Übergangszeit oder ein „Zwischenzustand“ (*antarabhava*) gelehrt. Das ist trotz der fehlenden offiziellen Billigung im volkstümlichen Theravāda immer noch eine beliebte Vorstellung.
 
 In diesem Fall scheint es, dass die Mehrheit richtig liegt, denn es gibt in den Suttas eine Anzahl von Passagen, die eindeutig von einem Vorgang zwischen einem Leben und dem nächsten sprechen. So heißt es zum Beispiel, dass manche Nichtwiederkehrer (Wesen auf der vorletzten Stufe des Erwachens) sterben, wenn sie noch nicht vollkommen erleuchtet sind, und Nibbāna „dazwischen“ verwirklichen, bevor sie wiedergeboren werden.
 
@@ -282,13 +283,13 @@ Eine der Meditationen, die man in allen Formen des Buddhismus findet, ist die *a
 
 In den FBT geschieht dies, indem man seinen eigenen Körper (*imameva kāyo*) betrachtet oder indem man seinen eigenen Körper mit einem anderen vergleicht, typischerweise mit einer verwesenden Leiche, und dabei versteht: „Dieser Körper hat dieselbe Natur.“ Der äußere Körper hat kein soziales Geschlecht, und Beispiele von Nonnen, die diese Praxis übten, zeigen, dass sie nie als eine geschlechtsbezogene Betrachtung gemeint war.
 
-Der spätere Buddhismus einschließlich des Theravada vergegenständlichte gemeinhin das äußere Objekt des Ekels als den Körper einer Frau und legte den Schwerpunkt der Übung auf das Überwinden des sexuellen Begehrens bei Mönchen. Obwohl die Überwindung des sexuellen Begehrens von Anfang an Teil der Praxis ist, wurde sie ursprünglich geübt, indem man die Natur des eigenen Körpers sah, nicht, indem man die Hässlichkeit auf die Körper von Frauen externalisierte.
+Der spätere Buddhismus einschließlich des Theravāda vergegenständlichte gemeinhin das äußere Objekt des Ekels als den Körper einer Frau und legte den Schwerpunkt der Übung auf das Überwinden des sexuellen Begehrens bei Mönchen. Obwohl die Überwindung des sexuellen Begehrens von Anfang an Teil der Praxis ist, wurde sie ursprünglich geübt, indem man die Natur des eigenen Körpers sah, nicht, indem man die Hässlichkeit auf die Körper von Frauen externalisierte.
 
 #### Sabhāva: innewohnende Essenz
 
-Gerade wie die späteren Schulen mittels reduktiver Analyse eine atomare Zeittheorie entwickelten, so entwickelten sie auch eine atomare Theorie des Seins, die eine substanzialistische Ontologie beinhaltet. Und auch hier fand sich diese Theorie verbreitet in den alten Schulen, und der Theravada übernahm seine eigene Interpretation.
+Gerade wie die späteren Schulen mittels reduktiver Analyse eine atomare Zeittheorie entwickelten, so entwickelten sie auch eine atomare Theorie des Seins, die eine substanzialistische Ontologie beinhaltet. Und auch hier fand sich diese Theorie verbreitet in den alten Schulen, und der Theravāda übernahm seine eigene Interpretation.
 
-Die Vorstellung besteht darin, dass die Welt auf eine endliche und klassifizierbare Reihe einzelner „Phänomene“ (*Dhammas*) reduziert werden kann, die in den Abhidhamma-Texten und Kommentaren aufgeführt sind. Diese Phänomene sind nicht weiter reduzierbare Bausteine der Wirklichkeit und bestehen unabhängig vom wahrnehmenden Geist. Wie Ledi Sayadaw, vielleicht der einflussreichste Begründer des modernen Theravada, es in seinem *The Manual of the Four Noble Truths* sagte, „verhalten sich Elemente mit *sabhāva* nie nach den Wünschen der Wesen, sondern arbeiten nach ihrer jeweiligen Natur“. Zu diesen letztendlich bestehenden Wirklichkeiten gehörten nicht nur die bedingten Erscheinungen, die im Abhidhamma definiert sind, sondern auch Nibbāna.
+Die Vorstellung besteht darin, dass die Welt auf eine endliche und klassifizierbare Reihe einzelner „Phänomene“ (*Dhammas*) reduziert werden kann, die in den Abhidhamma-Texten und Kommentaren aufgeführt sind. Diese Phänomene sind nicht weiter reduzierbare Bausteine der Wirklichkeit und bestehen unabhängig vom wahrnehmenden Geist. Wie Ledi Sayadaw, vielleicht der einflussreichste Begründer des modernen Theravāda, es in seinem *The Manual of the Four Noble Truths* sagte, „verhalten sich Elemente mit *sabhāva* nie nach den Wünschen der Wesen, sondern arbeiten nach ihrer jeweiligen Natur“. Zu diesen letztendlich bestehenden Wirklichkeiten gehörten nicht nur die bedingten Erscheinungen, die im Abhidhamma definiert sind, sondern auch Nibbāna.
 
 Die FBT enthalten keine solche Vorstellung und äußern keine substanzialistische ontologische Theorie. Das Sein wird, wie die Zeit, als ein relativer und verflochtener Vorgang behandelt, ohne dass auf ein höchstes Substrat zurückgegriffen wird.
 
@@ -296,11 +297,11 @@ Nibbāna wird als Freiheit vom Leiden beschrieben, und es wird ihm keine ontolog
 
 #### Die vielfältigen Arten von Samādhi
 
-Der moderne Theravada, besonders die Vipassanaschulen des 20. Jahrhunderts, betonen die Entwicklung dessen, was sie „Samādhi“ in verschiedenen Formen nennen, die man in den FBT nicht findet:
+Der moderne Theravāda, besonders die Vipassanāschulen des 20. Jahrhunderts, betonen die Entwicklung dessen, was sie „Samādhi“ in verschiedenen Formen nennen, die man in den FBT nicht findet:
 
-* „Augenblicks-“ (*khaṇika*)-Samādhi ist das achtsame Gewahrsein sich verändernder geistig-körperlicher Erscheinungen im gegenwärtigen Augenblick.
-* „Schwellen-“ (*upacāra*)-Samādhi ist eine Frist unmittelbar vor dem Jhāna, in der der Geist frei von Hindernissen, aber noch nicht völlig versunken ist. Sie wird manchmal so erweitert, dass sie jeden Zustand außerhalb der Jhānas abdeckt, der frei von Hindernissen ist.
-* „Überweltlicher“ (*lokuttara*) Samādhi ist der Geisteszustand von jemandem, der sich aktiv in dem Prozess befindet, die Pfade und Früchte der Stufen des Erwachens zu verwirklichen. Diese Form wurde ursprünglich im Abhidhamma genannt, und später hieß es, sie umfasse nur wenige Geistmomente.
+- „Augenblicks-“ (*khaṇika*)-Samādhi ist das achtsame Gewahrsein sich verändernder geistig-körperlicher Erscheinungen im gegenwärtigen Augenblick.
+- „Schwellen-“ (*upacāra*)-Samādhi ist eine Frist unmittelbar vor dem Jhāna, in der der Geist frei von Hindernissen, aber noch nicht völlig versunken ist. Sie wird manchmal so erweitert, dass sie jeden Zustand außerhalb der Jhānas abdeckt, der frei von Hindernissen ist.
+- „Überweltlicher“ (*lokuttara*) Samādhi ist der Geisteszustand von jemandem, der sich aktiv in dem Prozess befindet, die Pfade und Früchte der Stufen des Erwachens zu verwirklichen. Diese Form wurde ursprünglich im Abhidhamma genannt, und später hieß es, sie umfasse nur wenige Geistmomente.
 
 Alle diese Formen wurden von späteren Theoretikern als Zustände angeführt, die anstelle der Jhānas die Kriterien des „rechten Samādhi“ im edlen achtfachen Pfad erfüllten.
 
@@ -312,7 +313,7 @@ Vielleicht die einflussreichste Doktrin des modernistischen Buddhismus ist die I
 
 Es gibt keine Doktrin der trockenen Einsicht in den FBT. Jede Formulierung des Pfades schließt Samādhi ein, und überall, wo Samādhi in einem doktrinalen Schlüsselkontext definiert ist, sind es immer die vier Jhānas. Jemand, der „in den Strom eintritt“, ist jemand, der alle acht Faktoren des edlen achtfachen Pfades einschließlich der Jhānas erfüllt hat.
 
-Einen so zentralen und bedeutenden Teil des Pfades zu entfernen, ist eine nie dagewesene doktrinale Innovation, die auch die Meditationspraxis von Millionen von Menschen in Mitleidenschaft zieht. Es verdient Beachtung, dass sie Mitte des 20. Jahrhunderts als hochkontroverse Idee aufgenommen wurde, und viele altehrwürdige Mönche sprachen sich strikt dagegen aus. Und sie hatten Recht: Der Buddha lehrte einen ausgewogenen und integrierten Pfad, bei dem gesammelte und emotional freudige Zustände (*samatha*) mit durchdringendem klarem Sehen (*vipassanā*) Hand in Hand gehen.
+Einen so zentralen und bedeutenden Teil des Pfades zu entfernen, ist eine nie dagewesene doktrinale Innovation, die auch die Meditationspraxis von Millionen von Menschen in Mitleidenschaft zieht. Es verdient Beachtung, dass sie Mitte des 20. Jahrhunderts als hoch kontroverse Idee aufgenommen wurde, und viele altehrwürdige Mönche sprachen sich strikt dagegen aus. Und sie hatten Recht: Der Buddha lehrte einen ausgewogenen und integrierten Pfad, bei dem gesammelte und emotional freudige Zustände (*samatha*) mit durchdringendem klarem Sehen (*vipassanā*) Hand in Hand gehen.
 
 #### Einsichtsmeditation
 
@@ -324,23 +325,23 @@ In den FBT sind Sammlung und Einsicht nicht verschiedene Meditationsarten, sonde
 
 Die moderne Einsichtsmeditation ist im Hinblick auf das Fortschreiten der sechzehn „Einsichtserkenntnisse“ (*vipassanañāṇa*) strukturiert. Diese sind eine Reihe von Stadien sich vertiefender Einsicht, die sich für Menschen in der Meditation entfalten, wenn sich ihre Weisheit vertieft.
 
-Diese Erkenntnisse schöpfen aus Vorstellungen, die man in den Suttas findet, die aber dort nicht als solche aufgezählt sind. Eine einflussreiche Quelle war das [Rathavinīta-Sutta](#/sutta/mn24/de/sabbamitta), das sieben Stadien hat. Es hat sich mit Variationen in Inhalt und Zahl der Stadien durch den Paṭisambhidāmagga (5), den Vimuttimagga (6), den Visuddhimagga (16) und den Abhidhammatthasaṁgaha (10) entwickelt. Auch in anderen buddhistischen Schulen gibt es unterschiedliche Formulierungen.
+Diese Erkenntnisse schöpfen aus Vorstellungen, die man in den Suttas findet, die aber dort nicht als solche aufgezählt sind. Eine einflussreiche Quelle war das [Rathavinīta-Sutta](https://dhammaregen.net/#/sutta/mn24/de/sabbamitta), das sieben Stadien hat. Es hat sich mit Variationen in Inhalt und Zahl der Stadien durch den Paṭisambhidāmagga (5 Stadien), den Vimuttimagga (6 Stadien), den Visuddhimagga (16 Stadien) und den Abhidhammatthasaṁgaha (10 Stadien) entwickelt. Auch in anderen buddhistischen Schulen gibt es unterschiedliche Formulierungen. 
 
 Die Suttas präsentieren ein Gleichgewicht von auf einer Seite formal definierten Stadien und Inhalten von Einsicht und auf der anderen Seite individuellem und anscheinend zufälligem persönlichem Wachstum. Den Fortschritt der Einsicht als Verzeichnis auszuarbeiten, kann hilfreich sein für Menschen, die meditieren, und vor allem für Meditationslehrer, die häufig mit einer unglaublichen Variationsbreite von Erfahrungen konfrontiert werden. Aber Verzeichnisse sollten nicht Erfahrungen übergestülpt werden; sie sollen unser Verständnis der Erfahrung verbessern, nicht ein empfindliches persönliches Verständnis durch eine Reihe doktrinaler Kästchen zum Abhaken ersetzen.
 
 #### Die vier Paṭisambhidās
 
-Das erste umfassende Theravada-Buch über den Pfad ist der Paṭisambhidāmagga, und schon sein Titel erhebt die *Paṭisambhidās* von einer obskuren, gelegentlichen Lehre in den Suttas zu einem Kernaspekt des Selbstbildes des Theravada.
+Das erste umfassende Theravāda-Buch über den Pfad ist der Paṭisambhidāmagga, und schon sein Titel erhebt die *Paṭisambhidās* von einer obskuren, gelegentlichen Lehre in den Suttas zu einem Kernaspekt des Selbstbildes des Theravāda.
 
 Die *Paṭisambhidās* sind ein ungewöhnlicher Satz an Lehren, der verschiedene Aspekte der Textanalyse und des Verständnisses behandelt: den Text, seine Bedeutung, die Terminologie und das Ausdrücken der Lehre im spontanen Vortrag. Sie kommen in den FBT selten vor, aber ursprünglich müssen sie sich auf gewisse Fertigkeiten bezogen haben, die das wirksame Analysieren und Lehren des Dhamma fördern.
 
-Der Theravada sah irgendwann diese Merkmale als Eigenschaften gewisser Arahants an, die in der Lage waren, nicht nur diese Lehren zu verwirklichen, sondern intuitiv ihren korrekten linguistischen Ausdruck auf Pali zu verstehen. Somit könnte jemand, der die *Paṭisambhidās* besitzt, eine Wendung auf Pali anschauen und unmittelbar wissen, ob die Grammatik korrekt ist, selbst wenn er die Sprache nie gelernt hätte. Das stützte den Anspruch des Theravada, den Tipitaka dem *Buchstaben* nach zu bewahren, im Unterschied zu den verfälschten Texten anderer Traditionen, von denen sie sich aus eben diesem Grund abgesetzt hatten.
+Der Theravāda sah irgendwann diese Merkmale als Eigenschaften gewisser Arahants an, die in der Lage waren, nicht nur diese Lehren zu verwirklichen, sondern intuitiv ihren korrekten linguistischen Ausdruck auf Pali zu verstehen. Somit könnte jemand, der die *Paṭisambhidās* besitzt, eine Wendung auf Pali anschauen und unmittelbar wissen, ob die Grammatik korrekt ist, selbst wenn er die Sprache nie gelernt hätte. Das stützte den Anspruch des Theravāda, den Tipitaka dem *Buchstaben* nach zu bewahren, im Unterschied zu den verfälschten Texten anderer Traditionen, von denen sie sich aus eben diesem Grund abgesetzt hatten.
 
-Heute legen Lehrer, die behaupten, die *Paṭisambhidās* verwirklicht zu haben, eine Reihe bizarrer und unbegründeter Lesarten von Palitexten vor und haben Spaß an ihrer Opposition zu den Traditionen des Kommentars und der Grammatik. Solche Interpretationen werden vom Mainstream-Theravada zurückgewiesen, aber er hat mit der Doktrin der *Paṭisambhidās* den Weg dafür geebnet.
+Heute legen Lehrer, die behaupten, die *Paṭisambhidās* verwirklicht zu haben, eine Reihe bizarrer und unbegründeter Lesarten von Palitexten vor und haben Spaß an ihrer Opposition zu den Traditionen des Kommentars und der Grammatik. Solche Interpretationen werden vom Mainstream-Theravāda zurückgewiesen, aber er hat mit der Doktrin der *Paṭisambhidās* den Weg dafür geebnet.
 
 #### Die negativen Folgen des Kamma
 
-Der volkstümliche Theravada behauptet oft, gewisse Folgen in diesem Leben müssten durch schlechtes Kamma in früheren Leben geschaffen worden sein. Diese Vorstellungen sind in Theravada-Ländern verbreitet, finden aber selten den Weg in den internationalen Diskurs. Zu den Wirkungen, die schlechtem Kamma zugeschrieben werden, gehören Behinderung, Armut, als Frau wiedergeboren zu sein oder der LGBTQI+-Gruppe anzugehören.
+Der volkstümliche Theravāda behauptet oft, gewisse Folgen in diesem Leben müssten durch schlechtes Kamma in früheren Leben geschaffen worden sein. Diese Vorstellungen sind in Theravāda-Ländern verbreitet, finden aber selten den Weg in den internationalen Diskurs. Zu den Wirkungen, die schlechtem Kamma zugeschrieben werden, gehören Behinderung, Armut, als Frau wiedergeboren zu sein oder der LGBTQI+-Gruppe anzugehören.
 
 Diese Doktrin hat eine Reihe schädlicher Auswirkungen, da sie dazu einlädt, das Leid, das vulnerable Personen erfahren, einfach abzutun.
 
@@ -354,7 +355,7 @@ Richtig verstanden ist Kamma eine Grundlage für Mitgefühl, weil wir verstehen,
 
 #### Reduktionistisches Fehlen eines Selbst
 
-Der Theravada argumentiert für die Doktrin des Fehlens eines Selbst, indem er das Konventionelle auf das Absolute reduziert. Was wir für eine Person halten, ist tatsächlich nichts weiter als die fünf Aggregate. Wenn wir das sehen, werden wir das Fehlen eines Selbst verstehen und die Bindungen loslassen.
+Der Theravāda argumentiert für die Doktrin des Fehlens eines Selbst, indem er das Konventionelle auf das Absolute reduziert. Was wir für eine Person halten, ist tatsächlich nichts weiter als die fünf Aggregate. Wenn wir das sehen, werden wir das Fehlen eines Selbst verstehen und die Bindungen loslassen.
 
 Für die FBT auf der anderen Seite sind es gerade die fünf Aggregate, die als Selbst angesehen werden. Tatsächlich scheint es, als seien sie ursprünglich als ein Schema entwickelt worden, um Selbsttheorien einzuordnen. Wenn man versucht hätte, zu argumentieren: „Was du als dein Selbst ansiehst, ist nichts anderes als die Aggregate“, hätte man zur Antwort bekommen: „Ja, genau, das ist mein Selbst.“
 
@@ -364,17 +365,17 @@ Der Unterschied ist subtil. Stellen Sie sich vor, jemand hätte ein neues Auto g
 
 Die Aufgliederung in Teile kann Teil einer Strategie sein, die Bindungen zu überwinden, aber sie ist weder notwendig noch ausreichend. Manche Menschen können Bindungen loslassen, indem sie das Ganze betrachten und den Verlauf sehen, den ihr Leben nimmt. Andere sehen vielleicht die Teile und lassen unmittelbar los. Das sind Herangehensweisen, die nützlich sein können, aber es trifft nicht zu, dass das Reduzieren von etwas Ganzem auf letztendliche Bestandteile ein wesentlicher Teil der Einsicht wäre. Vielmehr hilft uns das Aufbrechen eines Ganzen in kleinere Teile, zu sehen, wie jeder der Teile unbeständig ist und wie das Ganze sogar noch instabiler ist, da es aus so vielen unbeständigen Teilen geschaffen ist.
 
-Der Fairness halber muss man sagen, dass der Visuddhimagga das anerkennt und zugibt, dass manche Menschen auf der Grundlage der herkömmlichen Wahrheit erleuchtet werden und andere durch die absolute Wahrheit. Aber das wird im modernen Theravada oft übergangen.
+Der Fairness halber muss man sagen, dass der Visuddhimagga das anerkennt und zugibt, dass manche Menschen auf der Grundlage der herkömmlichen Wahrheit erleuchtet werden und andere durch die absolute Wahrheit. Aber das wird im modernen Theravāda oft übergangen.
 
 #### Nāmarūpa als „Geist und Körper“
 
-Im Theravada hört man häufig, dass die Pali-Wendung *nāmarūpa* als „Geist und Körper“ definiert wird. *Nāma*, heißt es, bestehe aus den vier nicht-materiellen Aggregaten einschließlich des Bewusstseins.
+Im Theravāda hört man häufig, dass die Pali-Wendung *nāmarūpa* als „Geist und Körper“ definiert wird. *Nāma*, heißt es, bestehe aus den vier nicht-materiellen Aggregaten einschließlich des Bewusstseins.
 
-Die FBT definieren *nāma* als „Gefühl, Wahrnehmung, Absicht, Berührung und Aufmerksamkeit“ und schließen somit speziell das Bewusstsein aus. Man beachte aber, dass das Wort innerhalb der FBT auf verschiedene Arten behandelt wird. Manchmal finden wir auch eine Definition, die Bewusstsein einschließt. Ich würde das allerdings als aufkeimenden Einfluss des Abhidhamma betrachten.
+Die FBT definieren *nāma* als „Gefühl, Wahrnehmung, Absicht, Kontakt und Aufmerksamkeit“ und schließen somit speziell das Bewusstsein aus. Man beachte aber, dass das Wort innerhalb der FBT auf verschiedene Arten behandelt wird. Manchmal finden wir auch eine Definition, die Bewusstsein einschließt. Ich würde das allerdings als aufkeimenden Einfluss des Abhidhamma betrachten.
 
 Es verdient Beachtung, dass der Visuddhimagga der frühen Interpretation im Kontext des abhängigen Entstehens folgt.
 
-In den FBT gibt es kein dualistisches Konzept von „Körper und Geist“. Geist und Körper sind keine getrennten Dinge, die zusammengesetzt werden müssen. Vielmehr werden mentale und physische Erscheinungen in wechselseitiger Abhängigkeit erfahren. Die Analyse zielt darauf, diese Beziehung klarzustellen, aber sie beginnt nicht damit, Körper und Geist zu trennen.
+In den FBT gibt es kein dualistisches Konzept von „Körper und Geist“. Geist und Körper sind keine getrennten Dinge, die zusammengefügt werden müssen. Vielmehr werden mentale und physische Erscheinungen in wechselseitiger Abhängigkeit erfahren. Die Analyse zielt darauf, diese Beziehung klarzustellen, aber sie beginnt nicht damit, Körper und Geist zu trennen.
 
 Wenn zum Beispiel die Aggregate aufgegliedert werden, wird „Form“ nicht von den vier immateriellen Aggregaten getrennt. Es ist vielmehr das Bewusstsein, das abgegrenzt wird und dem alle anderen gegenüberstehen.
 
@@ -386,15 +387,15 @@ Die FBT gebrauchen hingegen das Wort *nimitta* nie auf diese Weise. *Nimitta* is
 
 In der Meditation bezieht sich *nimitta* auf eine bestimmte Eigenschaft oder einen Aspekt der Erfahrung, der, wenn man sich ihm zuwendet, das Anwachsen ähnlicher oder verwandter Eigenschaften fördert. Wenn man daher die Aufmerksamkeit dem „Anzeichen für Schönheit“ (*subhanimitta*) zuwendet, entsteht dadurch Begierde, während die „Grundlage für Samādhi“ (*samādhinimitta*) die vier Arten der Achtsamkeitsmeditation sind, d. h. die Übungen, die zum Samādhi hinführen.
 
-Das hat einige Interpreten dazu geführt, über das Ziel hinauszuschießen, indem sie die Behauptung aufstellen, dass die Kommentare nicht nur den *Ausdruck* geändert, sondern dass sie die ganze *Idee* von einem Licht, das man in der Meditation sehe, erfunden hätten. Der Bericht der Kommentare fügt zu den Suttas eine Menge Einzelheiten hinzu – was schließlich der Sinn und Zweck eines Kommentars ist –, aber in den FBT finden wir, dass „Lichter“ und „Formen“ ein normaler Aspekt der Samādhi-Erfahrung sind. Sicherlich beziehen sich diese Begriffe, die in vielfältiger Art in vielen Zusammenhängen vorkommen, auf die gleiche Art von Erfahrung, die moderne Theravada-Anhänger *nimitta* nennen.
+Das hat einige Interpreten dazu geführt, über das Ziel hinauszuschießen, indem sie die Behauptung aufstellen, dass die Kommentare nicht nur den *Ausdruck* geändert, sondern dass sie die ganze *Idee* von einem Licht, das man in der Meditation sehe, erfunden hätten. Der Bericht der Kommentare fügt den Suttas eine Menge Einzelheiten hinzu – was schließlich der Sinn und Zweck eines Kommentars ist –, aber in den FBT finden wir, dass „Lichter“ und „Formen“ ein normaler Aspekt der Samādhi-Erfahrung sind. Sicherlich beziehen sich diese Begriffe, die in vielfältiger Art in vielen Zusammenhängen vorkommen, auf die gleiche Art von Erfahrung, die moderne Theravāda-Vertreter *nimitta* nennen.
 
 #### Kasiṇa: meditative Totalität
 
-Der moderne Theravada erklärt, indem er aus dem Visuddhimagga schöpft, das *kasiṇa* als physische Scheibe, die als Grundlage für den Beginn der Meditation benutzt wird. Es kann ein reines Element wie Erde oder Wasser sein oder eine leuchtende, klare Farbe.
+Der moderne Theravāda erklärt, indem er aus dem Visuddhimagga schöpft, das *kasiṇa* als physische Scheibe, die als Grundlage für den Beginn der Meditation benutzt wird. Es kann ein reines Element wie Erde oder Wasser sein oder eine leuchtende, klare Farbe.
 
 Die Wurzelbedeutung des Ausdrucks *kasiṇa* ist aber „allumfassend“ oder „total“, und in den FBT wird er immer in dieser Bedeutung gebraucht. Er ist eine Beschreibung eines Samādhi-Zustandes, kein Gegenstand, um Samādhi zu erlangen.
 
-Die *kasiṇa*-Meditationen wurden aus ihrer relativen Unbekanntheit in den FBT herausgenommen und an den Anfang der Aufzählung von Meditationen gesetzt, wie man sie im Abhidhamma findet. Diese Reihenfolge, die der Visuddhimagga übernahm, scheint zu der Vorstellung vom Meditations„objekt“ beigetragen zu haben: etwas, das man beobachtet, aber das selbst unabhängig vom Beobachter ist.
+Die *kasiṇa*-Meditationen wurden aus ihrer relativen Unbekanntheit in den FBT herausgenommen und an den Anfang der Aufzählung von Meditationen gesetzt, wie man sie im Abhidhamma findet. Diese Reihenfolge, die der Visuddhimagga übernahm, scheint zu der Vorstellung vom Meditations-„Objekt“ beigetragen zu haben: etwas, das man beobachtet, aber das selbst unabhängig vom Beobachter ist.
 
 #### Ekāyana: wo alle Dinge als Eins zusammenkommen
 
@@ -404,7 +405,7 @@ Das Wort *ekāyana* kann auf viele verschiedene Arten gebraucht werden, aber im 
 
 #### Muta: das Gedachte
 
-Es gibt eine bekannte Abfolge von Erscheinungen in den FBT: was gesehen, gehört, gedacht (*muta*) und erkannt wird. Von einer frühen Zeit an wurde *muta* im Theravada und in vielen Schulen so interpretiert, als bedeute es das, was von den anderen Sinnen außer dem Seh-, dem Hör- und dem Denksinn erfahren wird.
+Es gibt eine bekannte Abfolge von Erscheinungen in den FBT: was gesehen, gehört, gedacht (*muta*) und erkannt wird. Von einer frühen Zeit an wurde *muta* im Theravāda und in vielen Schulen so interpretiert, als bedeute es das, was von den anderen Sinnen außer dem Seh-, dem Hör- und dem Denksinn erfahren wird.
 
 *Muta* ist allerdings das Partizip der Vergangenheit von *maññati* („gedacht“), und es hat in den FBT immer diese Bedeutung.
 
@@ -416,12 +417,12 @@ Die Bedeutung wurde von den Abhidhammikas nachträglich so angepasst, dass es ei
 
 In den FBT finden wir, dass das Wort *saṅkhāra* in vielen Bedeutungen gebraucht wird, von denen die folgenden aus doktrinaler Sicht am wichtigsten sind:
 
-* Wille oder Absicht (d. h. Kamma)
-* Bedingte Erscheinungen (d. h. alles außer Nibbana)
+- Wille oder Absicht (d. h. Kamma)
+- Bedingte Erscheinungen (d. h. alles außer Nibbāna)
 
-Der Theravada erkennt diese beiden Bedeutungen an; in der Wendung „alle *Saṅkhāras* sind unbeständig“ bedeutet es zum Beispiel „bedingte Erscheinung“, während es beim abhängigen Entstehen „Wille“ bedeutet.
+Der Theravāda erkennt diese beiden Bedeutungen an; in der Wendung „alle *Saṅkhāras* sind unbeständig“ bedeutet es zum Beispiel „bedingte Erscheinung“, während es beim abhängigen Entstehen „Wille“ bedeutet.
 
-Jedoch in dem wichtigen Zusammenhang der fünf Aggregate gibt der Theravada dem Wort *saṅkhāra* einen ziemlich merkwürdigen Bedeutungsspielraum. Dort soll es „alle bedingten Erscheinungen außer den Dingen, die von den anderen Aggregaten abgedeckt sind“ bedeuten. Auch das stammt wieder von einem Versuch, die Aggregate nachträglich so anzupassen, dass sie zu den methodischen Bedürfnissen des Abhidhamma passen.
+Jedoch in dem wichtigen Zusammenhang der fünf Aggregate gibt der Theravāda dem Wort *saṅkhāra* einen ziemlich merkwürdigen Bedeutungsspielraum. Dort soll es „alle bedingten Erscheinungen außer den Dingen, die von den anderen Aggregaten abgedeckt sind“ bedeuten. Auch das stammt wieder von einem Versuch, die Aggregate nachträglich so anzupassen, dass sie zu den methodischen Bedürfnissen des Abhidhamma passen.
 
 Die Aggregate waren nie dafür gedacht, eine umfassende Einteilung aller Phänomene zu sein; bemerkenswerterweise wird das Wort „alles“ für die sechs Sinne gebraucht, nicht für die Aggregate. Die Aggregate waren vielmehr ein praktisches Schema, um Selbsttheorien einzuteilen. Manche Menschen nahmen das Selbst als etwas Körperliches, andere als ein Gefühl und so weiter, während wieder andere es als eine Kombination dieser Dinge ansahen.
 
@@ -433,19 +434,19 @@ In modernem Englisch wird ein moralisch relevanter Willensakt normalerweise als 
 
 #### Der strahlende Geist
 
-Die Theravada-Kommentare bemühen sich unbeholfen um die Vorstellung, Nibbana könne als eine Form eines transzendenten Bewusstseins oder „strahlenden Geistes“ verstanden werden. Bedeutung und Einfluss dieser Vorstellungen innerhalb der Kommentartradition sind fraglich, doch sie wurden in weiten Teilen des modernen Theravada eine verbreitete, ja regelrecht normale Ansicht.
+Die Theravāda-Kommentare bemühen sich unbeholfen um die Vorstellung, Nibbāna könne als eine Form eines transzendenten Bewusstseins oder „strahlenden Geistes“ verstanden werden. Bedeutung und Einfluss dieser Vorstellungen innerhalb der Kommentartradition sind fraglich, doch sie wurden in weiten Teilen des modernen Theravāda eine verbreitete, ja regelrecht normale Ansicht.
 
-Für die FBT auf der anderen Seite ist jede Art von Bewusstsein Leiden, und Nibbana ist das Aufhören des Leidens. Der „strahlende Geist“ und ähnliche Begriffe beziehen sich auf die Jhānas.
+Für die FBT auf der anderen Seite ist jede Art von Bewusstsein Leiden, und Nibbāna ist das Aufhören des Leidens. Der „strahlende Geist“ und ähnliche Begriffe beziehen sich auf die Jhānas.
 
 Stellen, die zum Untermauern der These vom transzendenten Bewusstsein zitiert werden, laufen ausnahmslos darauf hinaus, dass sie ein paar Passagen von dubioser Interpretation herauspicken und die große Masse eindeutiger Lehren über das Thema missachten.
 
 #### Rūpa-Kalāpas und die höchste Analyse der Materie
 
-Der Abhidhamma des Theravada befasst sich hauptsächlich mit der Analyse des Geistes, aber er äußert sich auch in beträchtlicher Ausführlichkeit über die Natur der Materie. Die zugrunde liegenden physikalischen Wirklichkeiten der Elemente, Sinnesobjekte usw. werden aufgeführt, und es heißt, sie manifestieren sich in Konglomeraten (in etwa „Molekülen“ vergleichbar), die *Kalāpas* genannt werden. Die Analyse wird mit Präzision und Ausführlichkeit verfolgt, gelegentlich von empirischen Beobachtungen geprägt – Schall ist langsamer als Licht, denn wenn man einen Mann von Weitem Holz hacken sieht, sieht man, wie die Axt einen Klotz trifft, bevor man das Geräusch hört.
+Der Theravāda-Abhidhamma befasst sich hauptsächlich mit der Analyse des Geistes, aber er äußert sich auch in beträchtlicher Ausführlichkeit über die Natur der Materie. Die zugrunde liegenden physikalischen Wirklichkeiten der Elemente, Sinnesobjekte usw. werden aufgeführt, und es heißt, sie manifestieren sich in Konglomeraten (in etwa „Molekülen“ vergleichbar), die *Kalāpas* genannt werden. Die Analyse wird mit Präzision und Ausführlichkeit verfolgt, gelegentlich von empirischen Beobachtungen geprägt – Schall ist langsamer als Licht, denn wenn man einen Mann von Weitem Holz hacken sieht, sieht man, wie die Axt einen Klotz trifft, bevor man das Geräusch hört.
 
 Es ist unklar, inwieweit diese Wirklichkeiten – oder auch nur irgendeiner der Bestandteile der „höchsten Wirklichkeit“ – als etwas angesehen wurden, das man tatsächlich in der Meditation sieht. Der Hauptschwerpunkt lag eindeutig auf theoretischer Klarstellung und Genauigkeit.
 
-Die meisten dieser Einzelheiten findet man nicht in den FBT. Es gibt zwar viele Punkte, in denen sich die Materie, wie sie im Abhidhamma beschrieben wird und wie sie von der modernen Wissenschaft beschrieben wird, gleichen und übereinstimmen, aber es gibt auch viele Unterschiede. Im Abhidhamma werden zum Beispiel „Licht“ und „Schall“ als im absoluten Sinn bestehende Wirklichkeiten angesehen. Die Physik hingegen sieht „Licht“ als aus Photonen, einer Art Partikel, bestehend an, während „Schall“ Druckwellen in einem Medium ist und keinen bestimmten zugrunde liegenden physikalischen Partikel hat. Solche und viele ähnliche Unterscheidungen findet man im Abhidhamma nicht.
+Die meisten dieser Einzelheiten findet man nicht in den FBT. Es gibt zwar viele Punkte, in denen die Materie, wie sie im Abhidhamma beschrieben wird, der Art gleicht und damit übereinstimmt, wie sie von der modernen Wissenschaft beschrieben wird, aber es gibt auch viele Unterschiede. Im Abhidhamma werden zum Beispiel „Licht“ und „Schall“ als im absoluten Sinn bestehende Wirklichkeiten angesehen. Die Physik hingegen sieht „Licht“ als aus Photonen, einer Art Partikel, bestehend an, während „Schall“ Druckwellen in einem Medium ist und keinen bestimmten zugrunde liegenden physikalischen Partikel hat. Solche und viele ähnliche Unterscheidungen findet man im Abhidhamma nicht.
 
 #### Körperliche Grundlage des Geistes
 
@@ -455,11 +456,11 @@ Die FBT sprechen von wechselseitiger Abhängigkeit zwischen Geist und Körper, a
 
 #### Ti statt tu
 
-Eins der ersten Stückchen Pali, die Sie zu hören bekommen, ist der *anumodanā*-Chant („Segenschant“) der Mönche oder Nonnen bei der Essensspende. Heutzutage benutzen wir oft eine Pali-Wortform, die auf *-tu* endet. Das ist die Imperativform, die die Bedeutung hat „es soll sein“. Zum Beispiel *bhava**tu** sabbamaṅgalaṁ, rakkhan**tu** sabbadevatā*, „Ihr sollt alles Glück haben, alle Götter sollen euch beschützen“. Das bedeutet, dass der Saṅgha, indem er das *anumodanā* gibt, der Laiengemeinschaft einen Segen erteilt.
+Eins der ersten Stückchen Pali, die Sie zu hören bekommen, ist der *anumodanā*-Chant („Segenschant“) der Mönche oder Nonnen bei der Essensspende. Heutzutage benutzen wir oft eine Pali-Wortform, die auf -*tu* endet. Das ist die Imperativform, die die Bedeutung „es soll sein“ hat. Zum Beispiel *bhava**tu** sabbamaṅgalaṁ, rakkhan**tu** sabbadevatā*, „Ihr sollt alles Glück haben, alle Götter sollen euch beschützen“. Das bedeutet, dass der Saṅgha, indem er das *anumodanā* gibt, der Laiengemeinschaft einen Segen erteilt.
 
-Aber diese *anumodanā*-Verse sind spät. In den FBT gab der Buddha selbst das *anumodanā*, und in diesen frühen Formen finden wir nicht den Imperativ auf *-tu*, sondern den Indikativ auf *-ti* mit der Bedeutung „es ist“. Solche Strophen haben nicht das Anliegen, einen Segen zu erteilen, sondern sie wollen Ursache und Wirkung lehren. Wenn *du* diese gute Tat der Großzügigkeit tust, dann *wird* das Folgende *geschehen*. Nicht wegen des *anumodanā*, das vom Saṅgha gegeben wird, sondern durch die Macht deiner eigenen guten Taten.
+Aber diese *anumodanā*-Verse sind spät. In den FBT gab der Buddha selbst das *anumodanā*, und in diesen frühen Formen finden wir nicht den Imperativ auf -*tu*, sondern den Indikativ auf -*ti* mit der Bedeutung „es ist“. Solche Strophen haben nicht das Anliegen, einen Segen zu erteilen, sondern sie wollen Ursache und Wirkung lehren. Wenn *du* diese gute Tat der Großzügigkeit tust, dann *wird* das Folgende *geschehen*. Nicht wegen des *anumodanā*, das vom Saṅgha gegeben wird, sondern durch die Macht deiner eigenen guten Taten.
 
-> *[Aggasmiṁ dānaṁ dadataṁ](#/sutta/an4.34:7.1/de/sabbamitta)*  
+> *Aggasmiṁ dānaṁ dadataṁ*  
 > *aggaṁ puññaṁ pavaḍḍhati*  
 > Wer so den Besten Spenden gibt,  
 > dem erwächst das beste Verdienst.
@@ -468,7 +469,7 @@ Die Bedeutung von *anumodanā* ist nicht „Segen“, sondern „sich freuen üb
 
 #### Betonung der Übertragung von Verdiensten
 
-Eine der beliebtesten Praktiken im Theravada ist die Übertragung von Verdiensten an verstorbene Verwandte, wenn man dem Saṅgha ein Mahl spendet (*pattidāna*).
+Eine der beliebtesten Praktiken im Theravāda ist die Übertragung von Verdiensten an verstorbene Verwandte, wenn man dem Saṅgha ein Mahl spendet (*pattidāna*).
 
 In den FBT gibt es ein- oder zweimal Anspielungen auf ähnliche Vorstellungen, doch sie waren kein wesentlicher Teil der Lehren des Buddha. Der Buddha betonte, dass ein glückliches Leben nach dem Tod davon abhängt, Gutes zu tun, solange man dazu die Gelegenheit hat, nicht von dem, was unsere Verwandten tun, nachdem wir gestorben sind.
 
@@ -478,19 +479,19 @@ Solche Praktiken nutzen am meisten den Hinterbliebenen. Sie geben der Familie da
 
 Die Ordenssatzung für buddhistische Mönche und Nonnen ist ausführlich in einem Satz Bücher dargelegt, der Vinaya-Piṭaka genannt wird und der die Suttas begleitet. Der Saṅgha aller Schulen hat immer den Vinaya als sein grundlegendes Dokument angesehen und hat weitgehend ähnliche Vinayas in mehreren Sprachen bewahrt.
 
-Weder die FBT noch der Theravada benutzen das Wort „Saṅgha“, um sich auf eine spirituelle Gemeinschaft im Allgemeinen zu beziehen.
+Weder die FBT noch der Theravāda benutzen das Wort „Saṅgha“, um sich auf eine spirituelle Gemeinschaft im Allgemeinen zu beziehen.
 
 #### Ordensangehörige und Geld
 
 Alle Vinayas verbieten Mönchen und Nonnen, Geld zu benutzen. Das war tatsächlich das bestimmende Ereignis des zweiten Konzils, das hundert Jahre nach dem Buddha abgehalten wurde und bei dem das Sammeln und Benutzen von Geld vom gesamten Saṅgha kategorisch zurückgewiesen wurde.
 
-Heutzutage benutzt die große Mehrheit der Mönche und Nonnen im Theravada Geld. Diejenigen, die den Gebrauch von Geld vermeiden, beschränken sich auf kleine Kreise, gewöhnlich in den Waldtraditionen.
+Heutzutage benutzt die große Mehrheit der Mönche und Nonnen im Theravāda Geld. Diejenigen, die den Gebrauch von Geld vermeiden, beschränken sich auf kleine Kreise, gewöhnlich in den Waldtraditionen.
 
 Allein das Benutzen von Geld ist aber vielleicht weniger bedeutsam als die Zwecke, zu denen es benutzt wird. Ein bisschen Bargeld zu haben, um einen Bus zu nehmen oder ein Buch zu kaufen, ist eine Sache; eine große Sammlung antiker Autos zusammenzutragen, doch eine andere. Und es ist durchaus möglich, technisch die Regeln über Geld einzuhalten und gleichzeitig über ausgedehnte Ressourcen zu bestimmen. Doch es ist schon so, dass das Einhalten der Geldregeln einen großen Bereich an Versuchung und Korruption fernhält.
 
 #### Hierarchie
 
-Der moderne Theravada ist hierarchisch strukturiert und hat oft komplexe Systeme von Titeln, Auszeichnungen und Privilegien angenommen, die alle ein hierarchiebasiertes Machtsystem darstellen.
+Der moderne Theravāda ist hierarchisch strukturiert und hat oft komplexe Systeme von Titeln, Auszeichnungen und Privilegien angenommen, die alle ein hierarchiebasiertes Machtsystem darstellen.
 
 Nichts dergleichen findet man im Vinaya. Da gibt es keine Titel, keine Abzeichen, die denen verliehen werden, die ausreichend Ordensjahre oder Errungenschaften vorzuweisen haben. Der Buddha wird einfach mit *Bhante* angesprochen, und ebenso die großen Schüler.
 
@@ -498,15 +499,15 @@ Der Vinaya erlaubt keinem Ordensangehörigen, Macht über einen anderen Ordensan
 
 #### Staatlich ernannte Amtsträger des Saṅgha
 
-Verschiedene Theravadaländer haben zwar den gleichen Kanon und die gleiche Gemeinschaft, aber sie haben nationale Systeme interner Kontrolle entwickelt.
+Verschiedene Theravādaländer haben zwar den gleichen Kanon und die gleiche Gemeinschaft, aber sie haben nationale Systeme interner Kontrolle entwickelt.
 
-In Thailand wird das herrschende Kollegium vom König berufen, und es beruft seinerseits Präzeptoren, die als einzige Saṅghamitglieder rechtlich ermächtigt sind, die Ordinationen zu erteilen.
+In Thailand wird das herrschende Kollegium vom König berufen, und es beruft seinerseits Präzeptoren, die als einzige Saṅghamitglieder rechtlich ermächtigt sind, die Ordination zu erteilen.
 
 Kein solches System findet man im Vinaya. Im Gegenteil, die Rolle des Königs ist es, den Saṅgha zu unterstützen, nicht, ihn zu kontrollieren. Die Ordination wird von jedem Ordensmitglied erteilt, das die Voraussetzungen dafür erfüllt.
 
 #### Äbte
 
-Theravadaklöster werden gewöhnlich durch das Plazet des Abtes erfolgreich geleitet. Das variiert von einem Kloster zum andern, aber fast überall hat der Abt das letzte Wort.
+Theravādaklöster werden gewöhnlich durch das Plazet des Abtes erfolgreich geleitet. Das variiert von einem Kloster zum andern, aber fast überall hat der Abt das letzte Wort.
 
 Das Konzept eines Abtes gibt es im Vinaya nicht. Entscheidungen werden vom Saṅgha als Ganzem in Übereinstimmung mit dem Dhamma-Vinaya getroffen. Es können Saṅgha-Amtsträger ernannt werden, die Befugnis über ihren Bereich haben, aber niemand hat Befugnis über die Bereiche anderer.
 
@@ -514,7 +515,7 @@ Das Verhältnis zu den Ordensälteren ist auf Respekt gegründet, nicht auf Befe
 
 #### Nikāyas
 
-Theravadaländer haben ihre Klostergemeinschaften in verschiedene Nikāyas, d. h. Orden, gegliedert (beachte, dass dies eine andere Bedeutung des Wortes ist als bei den „Nikāyas“ des Palikanon). Diese sind Verwaltungsgremien, die Klosterbesitz verwalten, die Ausbildung organisieren, Ordinationen vermitteln und Ähnliches. In manchen Fällen führen gewisse Nikāyas keine Saṅghaverfahren mit Mönchen außerhalb ihres eigenen Nikāya durch und betrachten diese als einer anderen Gemeinschaft (*saṁvāsa*) angehörig.
+Theravādaländer haben ihre Klostergemeinschaften in verschiedene Nikāyas, d. h. Orden, gegliedert (beachte, dass dies eine andere Bedeutung des Wortes ist als bei den „Nikāyas“ des Palikanon). Diese sind Verwaltungsgremien, die Klosterbesitz verwalten, die Ausbildung organisieren, Ordinationen vermitteln und Ähnliches. In manchen Fällen führen gewisse Nikāyas keine Saṅghaverfahren mit Mönchen außerhalb ihres eigenen Nikāya durch und betrachten diese als einer anderen Gemeinschaft (*saṁvāsa*) angehörig.
 
 Eine solche Organisationsstruktur findet sich in den FBT nicht. Es ist natürlich vernünftig, zu erwarten, dass sich in unserer modernen Zeit mit unserer komplexeren Welt neue Verwaltungsstrukturen herausbilden. Die Idee allerdings, dass ganze Gruppen anderer Saṅghamitglieder von der Durchführung von Saṅghaverfahren von vornherein ausgeschlossen sein sollen, widerspricht sowohl dem Buchstaben als auch dem Geist des Vinaya. Im Vinaya ist das Teilen des Saṅgha oder Ausschließen von Saṅghamitgliedern nur in Fällen erlaubt, in denen ein Einzelner oder eine Gruppe einen schwerwiegenden Verstoß begangen hat und es nicht länger möglich ist, diese als Teil der gleichen Gemeinschaft zu betrachten.
 
@@ -522,19 +523,19 @@ In Sri Lanka führt der am stärksten vertretene Siam-Nikāya Ordinationen entsp
 
 #### Ordinationslinien
 
-Der moderne Buddhismus aller Schulen einschließlich des Theravada legt großen Wert auf die Vorstellung von Ordinationslinien, und der Wunsch nach einer reinen Abstammungslinie trägt viel zur Ausprägung des modernen Saṅgha bei.
+Der moderne Buddhismus aller Schulen einschließlich des Theravāda legt großen Wert auf die Vorstellung von Ordinationslinien, und der Wunsch nach einer reinen Abstammungslinie trägt viel zur Ausprägung des modernen Saṅgha bei.
 
 Der Vinaya enthält kein Konzept einer Ordinationslinie. Die Aufnahme in den Saṅgha ist so ausgelegt, dass sie angemessene Unterstützung und Ausbildung für den Neuling ermöglicht; sie ist keine quasi-magische Initiation. Kein heute lebendiger Saṅghaorden kann beweisen, dass seine eigene Ordinationslinie nach seinen eigenen Standards „gültig“ ist; die historischen Aufzeichnungen sind schlichtweg nicht vorhanden.
 
 #### Nonnen
 
-Der Buddha richtete einen Orden von voll ordinierten Nonnen (*bhikkhunī*) ein. Seit etwa dem 12. Jahrhundert hat der Theravada keinen allgemein akzeptierten Bhikkhuniorden mehr. An Stelle der Vision des Buddha für eine spirituellen Rolle der Frauen wurden mannigfache andere Möglichkeiten entwickelt. Diese bieten zwar vielen Frauen die Möglichkeit, den Dhamma zu üben, genießen jedoch nicht die Legitimität des Bhikkhuniordens oder die Autorität des Vinaya und sind mit Bedacht so ausgelegt, dass sie eine unterwürfige Rolle von Frauen sicherstellen. Das hat zu einer Situation geführt, in der manche Mönche glauben, Nonnen seien weniger wert, sich entsprechend verhalten und annehmen, sie hätten ein Weisungsrecht über sie.
+Der Buddha richtete einen Orden von voll ordinierten Nonnen (*bhikkhunī*) ein. Seit etwa dem 12. Jahrhundert hat der Theravāda keinen allgemein akzeptierten Bhikkhuniorden mehr. An Stelle der Vision des Buddha für eine spirituellen Rolle der Frauen wurden mannigfache andere Möglichkeiten entwickelt. Diese bieten zwar vielen Frauen die Möglichkeit, den Dhamma zu praktizieren, genießen jedoch nicht die Legitimität des Bhikkhuniordens oder die Autorität des Vinaya und sind mit Bedacht so ausgelegt, dass sie eine unterwürfige Rolle von Frauen sicherstellen. Das hat zu einer Situation geführt, in der manche Mönche glauben, Nonnen seien weniger wert, sich entsprechend verhalten und annehmen, sie hätten ein Weisungsrecht über sie.
 
 Im Vinaya ist der Bhikkhuniorden als vollständig eigenverantwortlicher und unabhängiger Orden eingerichtet, der Ordinationen vornahm, lehrte, übte und seine Institution entwickelte. Das blieb so während der etwa 1500 Jahre, in denen der Buddhismus in Indien gedieh, und ist immer noch so an Orten mit einem gesunden Bhikkhuniorden.
 
 #### Patriarchat
 
-Wenn Theravada-Patriarchen über Bhikkhunis diskutieren, geht es vor allem um die Kontrolle, die ihnen von den sogenannten *Garudhammas* zugestanden wird, und darum, die Unrechtmäßigkeit der Ordinationslinie der Bhikkhunis darzulegen.
+Wenn Theravāda-Patriarchen über Bhikkhunis diskutieren, geht es vor allem um die Kontrolle, die ihnen von den sogenannten *Garudhammas* zugestanden wird, und darum, die Unrechtmäßigkeit der Ordinationslinie der Bhikkhunis darzulegen.
 
 Diese Debatten stellen den Sinn des Vinaya auf den Kopf: Der Vinaya wurde eingerichtet, um Menschen darin zu unterstützen, den Dhamma zu üben und Befreiung zu suchen, nicht, um sie davon abzuhalten und sie zu schwächen. Für solche Patriarchen wurde der Vinaya statt eines Sprungbretts zur Befreiung zu einem Mittel, ihr Privileg zu verschanzen.
 
@@ -546,21 +547,21 @@ Unabhängig von der historischen Situation rechtfertigen die *Garudhammas*, selb
 
 Der Pali-Vinaya stellt ausdrücklich fest, dass Mönche Bhikkhunīs ordinieren können. Diese Erlaubnis wurde in den ersten Tagen erteilt, als es noch keine altehrwürdigen Nonnen gab. Später wurde sie in der Praxis von der dualen Ordination durch Mönche und Nonnen abgelöst. Doch die ursprüngliche Erlaubnis wurde nie aufgehoben und bleibt in Kraft.
 
-Die zentralen Institutionen des Theravada folgen allerdings dieser vom Buddha direkt erlassenen Entscheidung nicht und behaupten, es gebe keine gültige Möglichkeit, Bhikkhunīs zu ordinieren.
+Die zentralen Institutionen des Theravāda folgen allerdings dieser vom Buddha direkt erlassenen Entscheidung nicht und behaupten, es gebe keine gültige Möglichkeit, Bhikkhunīs zu ordinieren.
 
-Daneben ist es wichtig, nicht zu vergessen, dass die Theravada-Gemeinschaften verschieden sind, und es gibt viele verschiedene Ansichten und Praktiken innerhalb des ordinierten Saṅgha. Es gibt viele Mönche, die die Entscheidungen derer, die in Machtpositionen sind, ablehnen.
+Daneben ist es wichtig, nicht zu vergessen, dass die Theravāda-Gemeinschaften verschieden sind, und es gibt viele verschiedene Ansichten und Praktiken innerhalb des ordinierten Saṅgha. Es gibt viele Mönche, die die Entscheidungen derer, die in Machtpositionen sind, ablehnen.
 
 #### Frauen Glauben schenken
 
 Der Vinaya behandelt Fälle, in denen ein Mönch von einer vertrauenswürdigen Laienfrau eines sexuellen Fehlverhaltens beschuldigt wird. In solchen Fällen soll mit dem Mönch entsprechend dem Zeugnis der Frau verfahren werden, im Unterschied zu der üblichen Vorgehensweise, in der das Eingeständnis des Mönchs erforderlich ist.
 
-Die Theravada-Kommentare kippen diese Regelung, sodass dem Zeugnis der Laienfrau nicht mehr getraut wird. Das wurde von dem zu der Zeit obersten Patriarchen des thailändischen Buddhismus abgelehnt, der in seinem Vinayamukha – einem Standard-Handbuch des Vinaya bis auf den heutigen Tag – darauf hinwies, dass dies die Idee einer „vertrauenswürdigen“ Laienfrau hinfällig  macht.
+Die Theravāda-Kommentare kippen diese Regelung, sodass dem Zeugnis der Laienfrau nicht mehr getraut wird. Das wurde von dem zu der Zeit obersten Patriarchen des thailändischen Buddhismus abgelehnt, der in seinem *Vinayamukha* – einem Standard-Handbuch des Vinaya bis auf den heutigen Tag – darauf hinwies, dass dies die Idee einer „vertrauenswürdigen“ Laienfrau hinfällig macht.
 
-Es gibt viele ähnliche Fälle im gesamten Vinaya, in denen Regeln, die zum Schutz von Frauen gedacht waren, in solche verwandelt werden, die sie diskriminieren. Zum Beispiel sagt der Vinaya, ein Mönch dürfe eine Frau nicht mit wollüstigem Geist sexuell begrapschen. Der moderne Theravada behauptet, dass ein Mönch unabhängig von seinem Geisteszustand unter keinen Umständen eine Frau berühren dürfe.
+Es gibt viele ähnliche Fälle im gesamten Vinaya, in denen Regeln, die zum Schutz von Frauen gedacht waren, in solche verwandelt werden, die sie diskriminieren. Zum Beispiel sagt der Vinaya, ein Mönch dürfe eine Frau nicht mit wollüstigem Geist sexuell begrapschen. Der moderne Theravāda behauptet, dass ein Mönch unabhängig von seinem Geisteszustand unter keinen Umständen eine Frau berühren dürfe.
 
 #### Sektenwesen
 
-Eng mit der Vorstellung von einer Ordinationslinie verbunden ist die Vorstellung von der Reinheit einer Gruppierung. Der Theravada im Allgemeinen und gewisse Strömungen im Theravada im Besonderen legen großen Wert auf ihren eigenen Status als reine, ursprüngliche Repräsentation der Lehre. Das führt dazu, dass auf Saṅghaangehörige anderer Gruppierungen und Traditionen herabgesehen und diese nicht ernst genommen und manchmal als keine richtigen Mönche und Nonnen oder gar als keine richtigen Buddhisten angesehen werden.
+Eng mit der Vorstellung von einer Ordinationslinie verbunden ist die Vorstellung von der Reinheit einer Gruppierung. Der Theravāda im Allgemeinen und gewisse Strömungen im Theravāda im Besonderen legen großen Wert auf ihren eigenen Status als reine, ursprüngliche Repräsentation der Lehre. Das führt dazu, dass auf Saṅghaangehörige anderer Gruppierungen und Traditionen herabgesehen und diese nicht ernst genommen und manchmal als keine richtigen Mönche und Nonnen oder gar als keine richtigen Buddhisten angesehen werden.
 
 Für den Buddha ist „Reinheit“ innerlich, nicht äußerlich. Sie sitzt nicht in der Identität einer Gruppe, sondern in der mit reinem Herzen durchgeführten Übung von Menschen. Sobald wir Reinheit mit einer Gruppierung gleichsetzen, laden wir im selben Moment Menschen von schamlosem Verhalten ein, sich unter dem Deckmantel der Reinheit zu verstecken.
 
@@ -570,12 +571,12 @@ In allen Gruppierungen und Traditionen des Buddhismus gibt es Solche, die mit Er
 
 Der Buddha bezog sich mit dem Wort Saṅgha auf die klösterliche Gemeinschaft, und daneben gebrauchte er es auch, um von der Gemeinschaft der erleuchteten Schüler zu sprechen, d. h. von den vier Arten von Menschen, die die Pfade und Früchte erreicht haben.
 
-Im Theravada hat sich das Verständnis durchgesetzt, dass damit im „absoluten“ Sinn wenige Geistmomente gemeint sind: ein Blitz der Verwirklichung, wenn man eine neue Ebene des Pfades betritt.
+Im Theravāda hat sich das Verständnis durchgesetzt, dass damit im „absoluten“ Sinn wenige Geistmomente gemeint sind: ein Blitz der Verwirklichung, wenn man eine neue Ebene des Pfades betritt.
 
 In Übereinstimmung mit der Tatsache, dass man die gesamte Vorstellung von Geistmomenten in den FBT nicht findet, sind dort diejenigen, die auf dem Pfad sind, eindeutig „Personen“, die einen Pfad üben und die sich zum Beispiel hinsetzen und eine Mahlzeit zu sich nehmen.
 
 In diesem Punkt ist der Widerspruch zwischen den Suttas und den Kommentaren so klar, dass er für mich die entscheidende Sache war, durch die ich verstand, dass ich den Kommentaren nicht immer vertrauen kann. Bis dahin war ich von der grundsätzlichen Richtigkeit der Perspektive der Kommentare überzeugt gewesen, aber diese Überzeugung konnte unmöglich aufrechterhalten werden, sobald ich die entsprechenden Suttastellen studierte, von denen es viele gibt und die eindeutig sind.
 
-Dieser Wechsel war schwer zu akzeptieren; es ist nie leicht, zuzugeben, dass man Unrecht hat, und es ist auch  nicht leicht, aus dem behaglichen Schutz der Orthodoxie herauszutreten. Aber letzten Endes verlieh es mir Stärke, weil ich erkannte, dass die Tradition kein Satz von Dogmen ist, an denen ich festhalten muss, sondern ein lebendiger Austausch, von dem ich ein Teil bin.
+Dieser Wechsel war schwer zu akzeptieren; es ist nie leicht, zuzugeben, dass man Unrecht hat, und es ist auch nicht leicht, aus dem behaglichen Schutz der Orthodoxie herauszutreten. Aber letzten Endes verlieh es mir Stärke, weil ich erkannte, dass die Tradition kein Satz von Dogmen ist, an denen ich festhalten muss, sondern ein lebendiger Austausch, von dem ich ein Teil bin.
 
 So wollen wir danach trachten, unsere Tradition gesünder zu hinterlassen, als wir sie vorfanden. Reine Bewahrung ist nicht genug. Jeder von uns, unabhängig von Schule, Tradition oder Religion, der wir angehören, schwimmt im großen Strom der Lehren des Buddha. Wir alle gehören dazu. Der Buddha schenkte seine Lehren allen von uns, damit wir frei werden können.
