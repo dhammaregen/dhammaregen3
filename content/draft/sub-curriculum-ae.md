@@ -100,6 +100,7 @@ Alle im Folgenden angegebenen Sutta-Links gehen zu SuttaCentral. Zu einem Teil d
   - SN 12.20: Naturgesetz [https://suttacentral.net/sn12.20/de/sabbamitta](https://suttacentral.net/sn12.20/de/sabbamitta)
 - Das Lehren des abhängigen Entstehens
   - SN 6.1 [https://suttacentral.net/sn6.1/de/sabbamitta](https://suttacentral.net/sn6.1/de/sabbamitta)
+  - MN:22.1 ff [https://suttacentral.net/mn26/de/sabbamitta#22.1](https://suttacentral.net/mn26/de/sabbamitta#22.1)
 
 **Faktoren im Einzelnen:**
 - Unwissenheit
