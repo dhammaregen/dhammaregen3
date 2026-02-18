@@ -34,7 +34,7 @@ Hinter dem kleinen Zahnrädchen rechts oben verbergen sich verschiedene Einstell
 
 **Töne** 
 - Wählen Sie Ihren Gongton zur Anzeige des Sutta-Endes. 
-- Stellen Sie die Lautstärke der Anwendungstöne ein.
+- Stellen Sie die Lautstärke der Anzeigetöne ein.
 
 **Erweitert**
 - Einstellungen, die hauptsächlich für spezialisierte Benutzer gebraucht werden.
