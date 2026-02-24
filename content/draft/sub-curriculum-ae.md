@@ -69,7 +69,7 @@ Bild: aufgeschlagenes Buch mit Brille unter Baum (studium5-4-200.png)
 - Bṛihadāraṇyaka-Upanishad 4.4.2: [https://archive.org/details/sechzigupanishad00deusuoft/page/474/mode/2up](https://archive.org/details/sechzigupanishad00deusuoft/page/474/mode/2up)
 - Joanna Jurewicz, „Playing with fire“: [https://archive.org/download/jpts-xxvi-2000/Playing%20with%20Fire%20-%20Joanna%20Jurewicz_text.pdf](https://archive.org/download/jpts-xxvi-2000/Playing%20with%20Fire%20-%20Joanna%20Jurewicz_text.pdf) (englisch)
 - Diskussion zu Jurewicz: [https://discourse.suttacentral.net/t/is-dependent-origination-a-parody-of-vedic-cosmology/30841](https://discourse.suttacentral.net/t/is-dependent-origination-a-parody-of-vedic-cosmology/30841) (englisch)
-- Rigveda 10.129.1-7: [https://vedaweb.uni-koeln.de/rigveda/view/id/10.129.1](https://vedaweb.uni-koeln.de/rigveda/view/id/10.129.1)
+- Rigveda 10.129.1-7: [https://vedaweb.uni-koeln.de/texts/rv/browse/66695ac77dbde8fe2678b34f](https://vedaweb.uni-koeln.de/texts/rv/browse/66695ac77dbde8fe2678b34f)
 
 ### Curriculum
 
@@ -88,7 +88,7 @@ Alle im Folgenden angegebenen Sutta-Links gehen zu SuttaCentral. Zu einem Teil d
   - Genesis 1: [https://www.die-bibel.de/bibel/EUE/GEN.1](https://www.die-bibel.de/bibel/EUE/GEN.1)
   - Joanna Jurewicz, „Playing with fire“: [https://archive.org/download/jpts-xxvi-2000/Playing%20with%20Fire%20-%20Joanna%20Jurewicz_text.pdf](https://archive.org/download/jpts-xxvi-2000/Playing%20with%20Fire%20-%20Joanna%20Jurewicz_text.pdf) (englisch)
   - Diskussion zu Jurewicz: [https://discourse.suttacentral.net/t/is-dependent-origination-a-parody-of-vedic-cosmology/30841](https://discourse.suttacentral.net/t/is-dependent-origination-a-parody-of-vedic-cosmology/30841) (englisch)
-  - Rigveda 10.129.1-7: [https://vedaweb.uni-koeln.de/rigveda/view/id/10.129.1](https://vedaweb.uni-koeln.de/rigveda/view/id/10.129.1)
+  - Rigveda 10.129.1-7: [https://vedaweb.uni-koeln.de/texts/rv/browse/66695ac77dbde8fe2678b34f](https://vedaweb.uni-koeln.de/texts/rv/browse/66695ac77dbde8fe2678b34f)
   - SN 12.48: Kosmologie [https://suttacentral.net/sn12.48/de/sabbamitta](https://suttacentral.net/sn12.48/de/sabbamitta)
 - Wurzel des abhängigen Entstehens
   - AN 3.61: Wurzel des abhängigen Entstehens [https://suttacentral.net/an3.61/de/sabbamitta](https://suttacentral.net/an3.61/de/sabbamitta)
@@ -118,6 +118,7 @@ Alle im Folgenden angegebenen Sutta-Links gehen zu SuttaCentral. Zu einem Teil d
     - SN 12.61, SN 12.62: drei Synonyme für Geist [https://suttacentral.net/sn12.61/de/sabbamitta](https://suttacentral.net/sn12.61/de/sabbamitta)
   - Rolle für die Wiedergeburt
     - Bṛihadāraṇyaka-Upanishad 4.4.2 ff: [https://archive.org/details/sechzigupanishad00deusuoft/page/474/mode/2up](https://archive.org/details/sechzigupanishad00deusuoft/page/474/mode/2up)
+    - SN 12.39: Bewusstsein wird verankert [https://suttacentral.net/sn12.39/de/sabbamitta](https://suttacentral.net/sn12.39/de/sabbamitta)
     - MN 38: Vorgang der Wiedergeburt [https://suttacentral.net/mn38/de/sabbamitta](https://suttacentral.net/mn38/de/sabbamitta)  
 - Name und Form
   - Desktop
