@@ -23,7 +23,7 @@ Bitte klicken Sie auf `Such mir etwas aus!` oder geben Sie Suchbegriffe ins Such
   - Dhammapada: vollständig
   - Udāna: vollständig
   - Itivuttaka: vollständig
-  - Suttanipāta: Snp 1.2, Snp 1.4, Snp 1.8, Snp 1.10-11, Snp 2.1-2, Snp 2.4-5, Snp 2.8, Snp 2.10, Snp 2.12, Snp 3.3, Snp 3.7, Snp 3.9, Snp 3.11, Snp 4.3, Snp 4.15, Snp 5.2, Snp 5.4, Snp 5.15-16, Snp 5.19
+  - Suttanipāta: Snp 1.1-12, Snp 2.1-6, Snp 2.8-10, Snp 2.12, Snp 3.3, Snp 3.7, Snp 3.9, Snp 3.11, Snp 4.3, Snp 4.15, Snp 5.2, Snp 5.4, Snp 5.15-16, Snp 5.19
   - Theragāthā: vollständig
   - Therīgāthā: vollständig
   - Cariyāpiṭaka: Cp 1-34
