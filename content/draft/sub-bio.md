@@ -36,3 +36,12 @@ Bild: aufgeschlagenes Buch mit Brille unter Baum (studium5-4-200.png)
 - Streit in Kosambi  
 - Sāriputtas Tod  
 - …  
+
+### Spätere Texte
+
+- - [Jātaka-Nidānakathā](https://www.palikanon.com/khuddaka/jataka/j000.htm)  
+[Jātaka bei Beyerlein](https://buddhareden.de/products/jataka-buddhistische-wiedergeburtsgeschichten?_pos=1&_psq=jataka&_ss=e&_v=1.0)  
+
+### Moderne Biografien
+
+- [Hecker, Leben des Buddha, beim Buddhistischen Seminar](https://buddhistisches-seminar.de/Home)  
