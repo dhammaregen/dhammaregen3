@@ -16,6 +16,7 @@ Bild: aufgeschlagenes Buch mit Brille unter Baum (studium5-4-200.png)
 - [MN 36](https://dhammaregen.net/#/sutta/mn36/de/sabbamitta)  
 - [MN 85](https://dhammaregen.net/#/sutta/mn85/de/sabbamitta)  
 - [SN 12.65](https://dhammaregen.net/#/sutta/sn12.65/de/sabbamitta)  
+- [SN 6.1](https://dhammaregen.net/#/sutta/sn6.1/de/sabbamitta)  
 - [DN 16](https://dhammaregen.net/#/sutta/dn16/de/sabbamitta)  
 - [Kd 1](https://suttacentral.net/pli-tv-kd1/de/maitrimurti-traetow?lang=de&reference=main&highlight=false)  
 - [Snp 3.1](https://dhammaregen.net/#/sutta/snp3.1/de/sabbamitta)  
@@ -33,6 +34,7 @@ Bild: aufgeschlagenes Buch mit Brille unter Baum (studium5-4-200.png)
 - [Ud 8.5](https://dhammaregen.net/#/sutta/ud8.5/de/sabbamitta)  
 - [Ud 8.6](https://dhammaregen.net/#/sutta/ud8.6/de/sabbamitta)  
 - [vor meinem Erwachen](https://dhammaregen.net/#/play/sn35.14/de/sabbamitta/vor%20meinem%20Erwachen%20-da%20de%20-da%20sabbamitta)  
+- [eben erwacht](https://dhammaregen.net/#/play/ud1.4/de/sabbamitta/eben%20erwacht%20-da%20de%20-da%20sabbamitta)  
 - Streit in Kosambi  
 - Sāriputtas Tod  
 - …  
