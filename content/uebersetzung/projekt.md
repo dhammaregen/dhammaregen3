@@ -38,4 +38,4 @@ Alle Texte sind dem [Datendepot von SuttaCentral](https://github.com/suttacentra
 - Für kundige Führung durch den Dschungel der deutschen und europäischen Datenschutzgesetze bei der Erstellung dieser Webseite danke ich Klaus Wollsieffer.
 - Des weiteren gilt mein Dank allen, die dieses Projekt wohlwollend begleiten, die ich hier nicht im Einzelnen nennen kann.
 
-Meine Übersetzung ist all denen gewidmet, die einen Ausweg aus dem Leiden suchen, insbesondere aber meinen Eltern und einem Kind, das es nicht ganz bis ins Leben geschafft hat. 
+Diese Übersetzung ist all denen gewidmet, die einen Ausweg aus dem Leiden suchen, insbesondere aber meinen Eltern und einem Kind, das es nicht ganz bis ins Leben geschafft hat. 
