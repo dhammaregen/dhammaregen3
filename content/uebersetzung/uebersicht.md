@@ -23,11 +23,11 @@ Bitte klicken Sie auf `Such mir etwas aus!` oder geben Sie Suchbegriffe ins Such
   - Dhammapada: vollständig
   - Udāna: vollständig
   - Itivuttaka: vollständig
-  - Suttanipāta: Snp 1.1-12, Snp 2.1-14, Snp 3.1-11, Snp 4.3, Snp 4.15, Snp 5.2, Snp 5.4, Snp 5.15-16, Snp 5.19
+  - Suttanipāta: vollständig
   - Theragāthā: vollständig
   - Therīgāthā: vollständig
   - Cariyāpiṭaka: Cp 1-34
-  - Jātaka: Ja 1-50
+  - Jātaka: Ja 1-53
   - Milindapañha: Mil 3.1.1
 
 Neue Texte kommen laufend hinzu, die vorhandenen werden regelmäßig aktualisiert.
