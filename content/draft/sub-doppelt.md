@@ -35,13 +35,13 @@ Aber dann kommt die zweite Schicht, denn *līna* heißt auch „träge, erschöp
 
 Um also *alīna* in dieser Strophe zu verstehen, müssen wir sowohl die Geschichte als auch die beiden Bedeutungen „nicht festhängend“ und „unerschrocken“ in Betracht ziehen. 
 
-Wenn wir nun zu der zweiten Strophe gehen, so ist diese identisch mit Ausnahme des Wortes *pahaṭṭha*, das *alīna* ersetzt. 
+Wenn wir nun zu der zweiten Strophe ([Ja 56](https://dhammaregen.net/#/sutta/ja56/de/sabbamitta)) gehen, so ist diese identisch mit Ausnahme des Wortes *pahaṭṭha*, das *alīna* ersetzt. 
 
 *Pahaṭṭha* hat normalerweise die Bedeutung „freudig“ von der Wurzel *√haṁs*. Aber der Kommentar erklärt es vielmehr als Gold, das geschmiedet wurde (*√ghaṁs*), bis es schimmernd und strahlend ist. 
 
 Das stellt die Verbindung zur Geschichte her, welche von einem Goldklumpen berichtet, der so groß ist, dass er nicht zu gebrauchen ist, wenn er nicht in Stücke zerlegt wird. Die Moral ist, dass eine scheinbar überwältigende Aufgabe beherrschbar wird, wenn man sie aufteilt. 
 
-Das ergibt auch im Zusammenhang mit der Strophe mehr Sinn, da die Vorstellung, die Entwicklung des Geistes mit der Arbeit der Läuterung von Gold in Verbindung zu bringen, in den Suttas gut etabliert ist. Aber „freudig“ bleibt doch als nachgeordnete Bedeutung bestehen, da der Geist im Samādhi auch ein freudiger ist. Und natürlich ist der Mann, der das Gold entdeckt, froh, wenn er herausfindet, wie er davon Gebrauch machen kann. 
+Das ergibt auch im Zusammenhang mit der Strophe mehr Sinn, da die Vorstellung, die Entwicklung des Geistes mit der Arbeit der Läuterung von Gold zu vergleichen, in den Suttas gut etabliert ist. Aber „freudig“ bleibt doch als nachgeordnete Bedeutung bestehen, da der Geist im Samādhi auch ein freudiger ist. Und natürlich ist der Mann, der das Gold entdeckt, froh, wenn er herausfindet, wie er davon Gebrauch machen kann. 
 
 So fügt auch hier, wie bei der vorangehenden Strophe, die Geschichte eine zusätzliche Bedeutungsschicht hinzu, und die Doppelbedeutung des Wortes noch eine weitere. 
 
