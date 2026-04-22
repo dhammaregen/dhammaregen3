@@ -1,5 +1,5 @@
 ---
-title: Eine doppelte Doppelung – Jātaka 55 und 56
+title: Eine doppelte Doppelung – Jātakas 55 und 56
 description: Bhikkhu Sujato, 2024
 img:  sujato.png
 img-alt: Foto von Bhante Sujato
@@ -8,46 +8,46 @@ order: 4
 
 [Zum Originaltext](https://discourse.suttacentral.net/t/a-doubling-doubled-jatakas-55-and-56/36037)
 
-Die Jātakas 55 (Pañcāvudhajātaka) und 56 (Kañcanakkhandhajātaka) bieten uns irreführend einfache Verse an. Die beiden Strophen (von je sechs Zeilen) sind identisch bis auf den Schlüsselbegriff. Doch die Doppelung besteht nicht nur in der Wiederholung der Strophen, denn die Schlüsselbegriffe selbst sind als eine weitere Doppelung zu verstehen: Durch die Geschichte, zu der sie ansonsten keinen Bezug haben, und durch die Zweideutigkeit der Wörter. Die Tatsache, dass beide Strophen nicht nur Wortspiele enthalten, sondern die gleiche Art von Spielerei mit verschiedenen Wörtern, zeigt die Raffinesse der bewussten literarischen Konstruktion des Dichters. 
+Die Jātakas 55 (Pañcāvudhajātaka) und 56 (Kañcanakkhandhajātaka) bieten uns irreführend einfache Verse an. Die beiden Strophen (von je sechs Zeilen) sind identisch bis auf den Schlüsselbegriff. Doch die Doppelung besteht nicht nur in der Wiederholung der Strophen, denn die Schlüsselbegriffe selbst sind als eine weitere Doppelung zu verstehen: durch die Geschichte, zu der sie ansonsten keinen Bezug haben, und durch die Zweideutigkeit der Wörter. Die Tatsache, dass beide Strophen nicht nur Wortspiele enthalten, sondern die gleiche Art von Spiel mit verschiedenen Wörtern wiederholen, zeigt die Raffinesse der bewussten literarischen Konstruktion des Dichters. 
 
 [Ja 55](https://dhammaregen.net/#/sutta/ja55/de/sabbamitta) liest sich folgendermaßen:
 
 >  *Er, dessen Herz nicht feststeckt,*  
->  *ein Mann von unerschrockenem Geist,*  
+>  *ein Mann, der im Geist nicht feststeckt,*  
 > *entwickelt taugliche Eigenschaften*  
 > *um des Refugiums vor dem Joch willen.*  
 > *Allmählich würde er*  
 > *die Auflösung aller Fesseln erreichen.* 
 
-Most of this is very standard and familiar from EBT poetry. And it has no explicit connection with the story, which is that a prince is named “Five-Weapons” after a prophecy when he was born. The prophecy was fulfilled when, on returning from his studies in Takkasilā in Gandhāra, he encountered a ferocious native spirit (*yakkha*) in a forest and fought it with five weapons. Each attack only stuck him tighter to the monster’s shaggy coat. The monster, recognizing his courage, let him go.
+Das Meiste hiervon gehört zum Standard und ist aus der Poesie der frühen buddhistischen Texte vertraut. Und es hat keine ausdrückliche Verbindung mit der Geschichte, in der es darum geht, dass ein Prinz nach einer Prophezeiung bei seiner Geburt „Fünfwaffen“ genannt wird. Die Prophezeiung erfüllte sich, als er auf dem Heimweg von seinem Studium in Takkasilā in Gandhāra in einem Wald einem grimmigen Naturgeist (*yakkha*) begegnete und mit fünf Waffen gegen ihn kämpfte. Jeder Angriff ließ ihn fester im zottigen Fell des Unholds hängen bleiben. Der Unhold erkannte seinen Mut und ließ von ihm ab. 
 
-* The five weapons are the arrow (*sara*), sword (*khagga*), javelin (*kaṇaya*), hammer (*muggara*), and lance (*kunta*). But his real weapon is the *vajira* (“diamond” or “thunderbolt”), which is the weapon of knowledge.
+- Die fünf Waffen sind Pfeil (_sara_), Schwert (_khagga_), Wurfspieß (_kaṇaya_), Hammer (_muggara_) und Lanze (_kunta_). Aber seine wahre Waffe ist der _vajira_ („Diamant“ oder „Donnerkeil“), die Waffe der Erkenntnis. 
 
-When the warrior gets stuck to the yakkha, the Pali is *allīna*. This can be read as a metaphor for violence: one who lives by the sword is “stuck” to the kamma of killing, becoming the same as those who they fight.
+Das Paliwort für das Hängenbleiben des Kriegers an dem *yakkha* ist *allīna*. Das kann man als eine Metapher für Gewalt lesen: Einer, der sich auf das Schwert verlässt, bleibt an das Kamma des Tötens „gebunden“ und wird genauso wie der, den er bekämpft. 
 
-The verse speaks rather of one who is “unstuck” (*alīna*), the true hero. The commentary says his true weapon “diamond weapon” (*vajirāvudha*) of knowledge.
+Die Strophe hingegen spricht von einem, der „nicht festhängt“ (*alīna*), dem wahren Helden. Der Kommentar sagt, seine wirkliche Waffe sei die „Diamantwaffe“ (*vajirāvudha*) der Erkenntnis. 
 
-* For Pali students, these have the same root with different prefixes: *alīna* has the negative *a-*, while *allīna* has the intensive *ā-*.
+- Für Pali-Studierende: Die Wörter haben die gleiche Wurzel mit verschiedenen Vorsilben. *Alīna* hat das verneinende *a-*, während *allīna* das verstärkende *ā-* hat.
 
-So on the first layer we must connect the “unstuck” of the verse with the “stuck” of the story.
+Daher müssen wir in der ersten Schicht das „Nicht-Festhängen“ der Strophe mit dem „Festhängen“ der Geschichte in Einklang bringen. 
 
-But then there is the second layer, for *līna* also means “sluggish, weary”, and hence its negative *alīna* means “intrepid, unwearying”. And it is this lack of fear in the face of death that the yakkha notices and prompts him to let the hero go.
+Aber dann kommt die zweite Schicht, denn *līna* heißt auch „träge, erschöpft“, daher bedeutet das verneinende *alīna* „unerschrocken, unermüdlich“. Und es ist die Furchtlosigkeit des Helden angesichts des Todes, die der *yakkha* bemerkt und die ihn veranlasst, von ihm abzulassen. 
 
-So to understand *alīna* in the verse, we must take into consideration both the story and the two meanings of “unstuck” and “intrepid”.
+Um also *alīna* in dieser Strophe zu verstehen, müssen wir sowohl die Geschichte als auch die beiden Bedeutungen „nicht festhängend“ und „unerschrocken“ in Betracht ziehen. 
 
-Now, moving to the second verse, everything is identical except the word *pahaṭṭha* replaces *alīna*.
+Wenn wir nun zu der zweiten Strophe gehen, so ist diese identisch mit Ausnahme des Wortes *pahaṭṭha*, das *alīna* ersetzt. 
 
-*Pahaṭṭha* normally has the sense “cheerful” from the root *√haṁs*. But the commentary explains it rather with gold that has been forged (*√ghaṁs*) until it is luminous and radiant.
+*Pahaṭṭha* hat normalerweise die Bedeutung „freudig“ von der Wurzel *√haṁs*. Aber der Kommentar erklärt es vielmehr als Gold, das geschmiedet wurde (*√ghaṁs*), bis es schimmernd und strahlend ist. 
 
-This connects with the story, which tells of a lump of gold so large it is useless until it is broken up into pieces. The moral is that an apparently overwhelming task becomes manageable when broken down.
+Das stellt die Verbindung zur Geschichte her, welche von einem Goldklumpen berichtet, der so groß ist, dass er nicht zu gebrauchen ist, wenn er nicht in Stücke zerlegt wird. Die Moral ist, dass eine scheinbar überwältigende Aufgabe beherrschbar wird, wenn man sie aufteilt. 
 
-This also makes better sense in context with the verse, as the idea of connecting the development of the mind with the work of purifying gold is well-established in the suttas. But “cheerful” remains as a secondary meaning, as the mind in samadhi is also a cheerful one. As of course, the man who discovers the gold is happy when he works out how to make use of it.
+Das ergibt auch im Zusammenhang mit der Strophe mehr Sinn, da die Vorstellung, die Entwicklung des Geistes mit der Arbeit der Läuterung von Gold in Verbindung zu bringen, in den Suttas gut etabliert ist. Aber „freudig“ bleibt doch als nachgeordnete Bedeutung bestehen, da der Geist im Samādhi auch ein freudiger ist. Und natürlich ist der Mann, der das Gold entdeckt, froh, wenn er herausfindet, wie er davon Gebrauch machen kann. 
 
-So, as with the previous verse, the story adds a layer of meaning, and the dual senses of the word add another.
+So fügt auch hier, wie bei der vorangehenden Strophe, die Geschichte eine zusätzliche Bedeutungsschicht hinzu, und die Doppelbedeutung des Wortes noch eine weitere. 
 
-Of course, the multiplying dual meanings themselves cause another duality in the translator: a joy in appreciating the craftsmanship, and a headache in figuring out how to translate it!
+Natürlich löst die Vervielfältigung von doppelten Bedeutungen beim Übersetzer eine weitere Dualität aus: die Freude, die darin besteht, die Kunstfertigkeit wertzuschätzen, und der Kopfschmerz, den es bereitet, auszuklügeln, wie man das übersetzen soll! 
 
-Perhaps I could take advantage of yet another doubling: the first and second lines in each verse say the same thing in slightly different words. We could introduce the primary meaning in the first line, then the secondary meaning.
+Vielleicht kann ich mir noch eine weitere Doppelung zunutze machen: Die erste und die zweite Zeile in jeder Strophe besagen jeweils dieselbe Sache mit leicht unterschiedlichen Worten. Wir könnten die Hauptbedeutung in die erste Zeile setzen und dann in die zweite die nachgeordnete Bedeutung: 
 
 > *Er, dessen Herz nicht feststeckt,*  
 > *ein Mann von unerschrockenem Geist,*  
@@ -55,5 +55,5 @@ Perhaps I could take advantage of yet another doubling: the first and second lin
 Und dann:
 
 > *Er, dessen Herz wohl geschmiedet ist,*  
-> *ein Mann von fröhlichem Geist,*  
+> *ein Mann von freudigem Geist,*  
 
