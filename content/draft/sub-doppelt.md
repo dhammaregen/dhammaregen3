@@ -8,16 +8,16 @@ order: 4
 
 [Zum Originaltext](https://discourse.suttacentral.net/t/a-doubling-doubled-jatakas-55-and-56/36037)
 
-Die Jātakas 55 (Pañcāvudhajātaka) und 56 (Kañcanakkhandhajātaka) bieten uns irreführend einfache Verse an. Die beiden Strophen (von je sechs Zeilen) sind identisch bis auf den Schlüsselbegriff. Doch die Doppelung besteht nicht nur in der Wiederholung der Strophen, denn die Schlüsselbegriffe selbst sind als eine weitere Doppelung zu verstehen: Durch die Geschichte, zu der sie asonsten keinen Bezug haben, und durch die Zweideutigkeit der Wörter. Die Tatsache, dass beide Strophen nicht nur Wortspiele enthalten, sondern die gleiche Art von Spielerei mit verschiedenen Wörtern, zeigt die Raffinesse der bewussten literarischen Konstruktion des Dichters. 
+Die Jātakas 55 (Pañcāvudhajātaka) und 56 (Kañcanakkhandhajātaka) bieten uns irreführend einfache Verse an. Die beiden Strophen (von je sechs Zeilen) sind identisch bis auf den Schlüsselbegriff. Doch die Doppelung besteht nicht nur in der Wiederholung der Strophen, denn die Schlüsselbegriffe selbst sind als eine weitere Doppelung zu verstehen: Durch die Geschichte, zu der sie ansonsten keinen Bezug haben, und durch die Zweideutigkeit der Wörter. Die Tatsache, dass beide Strophen nicht nur Wortspiele enthalten, sondern die gleiche Art von Spielerei mit verschiedenen Wörtern, zeigt die Raffinesse der bewussten literarischen Konstruktion des Dichters. 
 
 [Ja 55](https://dhammaregen.net/#/sutta/ja55/de/sabbamitta) liest sich folgendermaßen:
 
->  Er, dessen Herz nicht feststeckt,  
->  ein Mann von unerschrockenem Geist,  
-> entwickelt taugliche Eigenschaften  
-> um des Refugiums vor dem Joch willen.  
-> Allmählich würde er  
-> die Auflösung aller Fesseln erreichen. 
+>  *Er, dessen Herz nicht feststeckt,*  
+>  *ein Mann von unerschrockenem Geist,*  
+> *entwickelt taugliche Eigenschaften*  
+> *um des Refugiums vor dem Joch willen.*  
+> *Allmählich würde er*  
+> *die Auflösung aller Fesseln erreichen.* 
 
 Most of this is very standard and familiar from EBT poetry. And it has no explicit connection with the story, which is that a prince is named “Five-Weapons” after a prophecy when he was born. The prophecy was fulfilled when, on returning from his studies in Takkasilā in Gandhāra, he encountered a ferocious native spirit (*yakkha*) in a forest and fought it with five weapons. Each attack only stuck him tighter to the monster’s shaggy coat. The monster, recognizing his courage, let him go.
 
@@ -49,11 +49,11 @@ Of course, the multiplying dual meanings themselves cause another duality in the
 
 Perhaps I could take advantage of yet another doubling: the first and second lines in each verse say the same thing in slightly different words. We could introduce the primary meaning in the first line, then the secondary meaning.
 
-> Er, dessen Herz nicht feststeckt,  
-> ein Mann von unerschrockenem Geist,  
+> *Er, dessen Herz nicht feststeckt,*  
+> *ein Mann von unerschrockenem Geist,*  
 
 Und dann:
 
-> Er, dessen Herz wohl geschmiedet ist,  
-> ein Mann von fröhlichem Geist,  
+> *Er, dessen Herz wohl geschmiedet ist,*  
+> *ein Mann von fröhlichem Geist,*  
 
