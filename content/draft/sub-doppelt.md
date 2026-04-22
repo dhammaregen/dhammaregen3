@@ -8,7 +8,7 @@ order: 4
 
 [Zum Originaltext](https://discourse.suttacentral.net/t/a-doubling-doubled-jatakas-55-and-56/36037)
 
-Die Jātakas 55 (Pañcāvudhajātaka) und 56 (Kañcanakkhandhajātaka) bieten uns irreführend einfache Verse an. Die beiden Strophen (von je sechs Zeilen) sind identisch bis auf den Schlüsselbegriff. Doch die Doppelung besteht nicht nur in der Wiederholung der Strophen, denn die Schlüsselbegriffe selbst sind als eine weitere Doppelung zu verstehen: durch die Geschichte, zu der sie ansonsten keinen Bezug haben, und durch die Zweideutigkeit der Wörter. Die Tatsache, dass beide Strophen nicht nur Wortspiele enthalten, sondern die gleiche Art von Spiel mit verschiedenen Wörtern wiederholen, zeigt die Raffinesse der bewussten literarischen Konstruktion des Dichters. 
+Die Jātakas 55 (Pañcāvudhajātaka) und 56 (Kañcanakkhandhajātaka) bieten uns irreführend einfache Verse an. Die beiden Strophen (von je sechs Zeilen) sind identisch bis auf den Schlüsselbegriff. Doch die Doppelung besteht nicht nur in der Wiederholung der Strophen, denn die Schlüsselbegriffe selbst sind als eine weitere Doppelung zu verstehen: durch die Geschichte, zu der sie ansonsten keinen Bezug haben, und durch die Doppeldeutigkeit der Wörter. Die Tatsache, dass beide Strophen nicht nur Wortspiele enthalten, sondern die gleiche Art von Spiel mit verschiedenen Wörtern wiederholen, zeigt die Raffinesse der bewussten literarischen Konstruktion des Dichters. 
 
 [Ja 55](https://dhammaregen.net/#/sutta/ja55/de/sabbamitta) liest sich folgendermaßen:
 
@@ -43,7 +43,7 @@ Das stellt die Verbindung zur Geschichte her, welche von einem Goldklumpen beric
 
 Das ergibt auch im Zusammenhang mit der Strophe mehr Sinn, da die Vorstellung, die Entwicklung des Geistes mit der Arbeit der Läuterung von Gold zu vergleichen, in den Suttas gut etabliert ist. Aber „freudig“ bleibt doch als nachgeordnete Bedeutung bestehen, da der Geist im Samādhi auch ein freudiger ist. Und natürlich ist der Mann, der das Gold entdeckt, froh, wenn er herausfindet, wie er davon Gebrauch machen kann. 
 
-So fügt auch hier, wie bei der vorangehenden Strophe, die Geschichte eine zusätzliche Bedeutungsschicht hinzu, und die Doppelbedeutung des Wortes noch eine weitere. 
+So fügt auch hier, wie bei der vorangehenden Strophe, die Geschichte eine zusätzliche Bedeutungsschicht hinzu, und die Doppeldeutigkeit des Wortes noch eine weitere. 
 
 Natürlich löst die Vervielfältigung von doppelten Bedeutungen beim Übersetzer eine weitere Dualität aus: die Freude, die darin besteht, die Kunstfertigkeit wertzuschätzen, und der Kopfschmerz, den es bereitet, auszuklügeln, wie man das übersetzen soll! 
 
