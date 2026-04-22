@@ -24,13 +24,13 @@ Jātaka 57 trägt den Titel *Vānarindajātaka*, die Geschichte vom „Herrn der
 
 Zuerst ein wenig Hintergrundinformation. Die *vānarā* sind Affen, die im indischen Mythos berühmt sind. 
 
-https://en.wikipedia.org/wiki/Vanara
+[https://en.wikipedia.org/wiki/Vanara](https://en.wikipedia.org/wiki/Vanara)
 
 Ihre Anführer wie etwa Sugrīva oder Hanuman werden als *vānarendra* bezeichnet wie der *vānarinda* des Jātaka. 
 
 Hier können Sie die Beschreibung lesen (englisch): 
 
-https://archive.org/details/in.ernet.dli.2015.172811/page/n91/mode/2up?view=theater
+[https://archive.org/details/in.ernet.dli.2015.172811/page/n91/mode/2up?view=theater](https://archive.org/details/in.ernet.dli.2015.172811/page/n91/mode/2up?view=theater)
 
 In der indischen Kunst werden sie oft als eine Art Langur dargestellt, dessen charakteristischer Backenbart dazu führt, dass ihm menschenähnliche Züge zugesprochen werden. 
 
@@ -38,7 +38,7 @@ Die Geschichte im Kommentar berichtet uns, dass die Frau eines Krokodils, die sc
 
 [https://palikanon.com/khuddaka/jataka/j057.htm](https://palikanon.com/khuddaka/jataka/j057.htm) 
 
-Das ist eine der Geschichten aus dem *dohaḷa*-Zyklus in den Jātakas, die vom nicht beherrschbaren Verlangen einer Frau als Antrieb für das Aufsteigen des Bewusstseins handeln; Ich habe darüber in meinem Buch *White Bones Red Rot Black Snakes* geschrieben. Hier scheitert das Aufsteigen aufgrund der Gier und Torheit des Krokodils, wegen denen es das Herz des Affen, d. h. seine Klugheit, nicht in sich aufnehmen kann. 
+Das ist eine der Geschichten aus dem *dohaḷa*-Zyklus in den Jātakas, die vom nicht beherrschbaren Verlangen einer Frau als Antrieb für das Aufsteigen des Bewusstseins handeln; ich habe darüber in meinem Buch *White Bones Red Rot Black Snakes* geschrieben. Hier scheitert das Aufsteigen an der Gier und Torheit des Krokodils, weswegen es das Herz des Affen, d. h. seine Klugheit, nicht in sich aufnehmen kann. 
 
 Der clevere Teil kommt in der letzten Zeile der Strophe. Diese kann man auf zwei Arten lesen. Der Kommentar gibt eine vollkommen befriedigende Lesart an, die sich mit der Geschichte deckt. Aber diese stützt sich auf eine zweifelhafte Wortbedeutung, die selten, wenn überhaupt, anderswo im Pali zu finden ist. Wenn wir die sehr viel gebräuchlicheren Standardbedeutungen im Pali benutzen, kommen wir zu einer anderen und wesentlich vielsagenderen Bedeutung. Aber das ist nicht der clevere Teil. Der clevere Teil ist, dass die nachgeordnete Bedeutung auch in die Geschichte selbst eingebunden ist. 
 
@@ -48,8 +48,8 @@ Die letzte Zeile lautet:
 
 Der Kommentar erklärt _diṭṭha_ als „Feind“ (Sanskrit _dviṣṭa_) und die Wendung als „besiegt den Feind“. Das ergäbe Folgendes:
 
-> *Jeder, der diese vier Eigenschaften besitzt,*  
-> *wie du, Langurenfürst –*  
+> *Jeder, der wie du, Langurenfürst,*  
+> *diese vier Eigenschaften besitzt –*  
 > *Wahrheit, Grundsatz, Standhaftigkeit und Großzügigkeit –,*  
 > *besiegt seinen Feind.*  
 
