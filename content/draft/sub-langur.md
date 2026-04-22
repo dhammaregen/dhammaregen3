@@ -8,15 +8,15 @@ order: 5
 
 [Zum Originaltext](https://discourse.suttacentral.net/t/the-lord-of-langurs-jataka-57/36045)
 
-Foto: Bengalischer Hanuman-Langur
-URL der Seite: https://commons.wikimedia.org/wiki/File:Northern_plains_gray_langur.jpg
-URL der Datei: https://upload.wikimedia.org/wikipedia/commons/2/25/Northern_plains_gray_langur.jpg
-Nennung der Urheberschaft: Rajeev minj, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons
+Foto: Bengalischer Hanuman-Langur  
+URL der Seite: https://commons.wikimedia.org/wiki/File:Northern_plains_gray_langur.jpg  
+URL der Datei: https://upload.wikimedia.org/wikipedia/commons/2/25/Northern_plains_gray_langur.jpg  
+Nennung der Urheberschaft: Rajeev minj, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons  
 
-Foto: Junger grauer Langur
-URL der Seite: https://commons.wikimedia.org/wiki/File:Gray_Langur_-_Young.jpg
-URL der Datei: https://upload.wikimedia.org/wikipedia/commons/3/34/Gray_Langur_-_Young.jpg
-Nennung der Urheberschaft: Hkms, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons
+Foto: Junger grauer Langur  
+URL der Seite: https://commons.wikimedia.org/wiki/File:Gray_Langur_-_Young.jpg  
+URL der Datei: https://upload.wikimedia.org/wikipedia/commons/3/34/Gray_Langur_-_Young.jpg  
+Nennung der Urheberschaft: Hkms, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons  
 
 Meine Güte, es  hört  nicht auf, dass ich in den Jātakas wirklich clevere Dinge finde! Ungelogen, sie sind viel interessanter und raffinierter, als ich gedacht  hätte. 
 
