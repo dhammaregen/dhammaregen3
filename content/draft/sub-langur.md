@@ -40,18 +40,18 @@ Die Geschichte im Kommentar berichtet uns, dass die Frau eines Krokodils, die sc
 
 Das ist eine der Geschichten aus dem *dohaḷa*-Zyklus in den Jātakas, die vom nicht beherrschbaren Verlangen einer Frau als Antrieb für das Aufsteigen des Bewusstseins handeln; Ich habe darüber in meinem Buch *White Bones Red Rot Black Snakes* geschrieben. Hier scheitert das Aufsteigen aufgrund der Gier und Torheit des Krokodils, wegen denen es das Herz des Affen, d. h. seine Klugheit, nicht in sich aufnehmen kann. 
 
-Der clevere Teil kommt in der letzten Zeile der Strophe. Diese kann man auf zwei Arten lesen. The commentary gives a perfectly good reading that lines up with the story. But this relies on an obscure word meaning, rarely if ever found elsewhere in Pali. Using the much more common standard meanings in Pali we end up with a different and much more suggestive meaning. But that’s not the clever bit. The clever bit is that this secondary meaning is also wrapped up in the story itself.
+Der clevere Teil kommt in der letzten Zeile der Strophe. Diese kann man auf zwei Arten lesen. Der Kommentar gibt eine vollkommen befriedigende Lesart an, die sich mit der Geschichte deckt. Aber diese stützt sich auf eine zweifelhafte Wortbedeutung, die selten, wenn überhaupt, anderswo im Pali zu finden ist. Wenn wir die sehr viel gebräuchlicheren Standardbedeutungen im Pali benutzen, kommen wir zu einer anderen und wesentlich vielsagenderen Bedeutung. Aber das ist nicht der clevere Teil. Der clevere Teil ist, dass die nachgeordnete Bedeutung auch in die Geschichte selbst eingebunden ist. 
 
-The last line is:
+Die letzte Zeile lautet:
 
 > *diṭṭhaṁ so ativattati*
 
-The commentary explains *diṭṭha* as “foe” (Sanskrit *dviṣṭa*) and the phrase as “defeats the foe”. This would yield the following.
+Der Kommentar erklärt _diṭṭha_ als „Feind“ (Sanskrit _dviṣṭa_) und die Wendung als „besiegt den Feind“. Das ergäbe Folgendes:
 
-> Whoever has these four qualities
-> like you, lord of langurs—
-> truth, principle, steadfastness, and generosity—
-> defeats their foe.
+> *Jeder, der diese vier Eigenschaften besitzt,*  
+> *wie du, Langurenfürst –*  
+> *Wahrheit, Grundsatz, Standhaftigkeit und Großzügigkeit –,*  
+> *besiegt seinen Feind.*  
 
 That’s a perfectly fine meaning, although we might notice that the four qualities, while standard in Buddhism, do not really play much of a part in the story.
 
