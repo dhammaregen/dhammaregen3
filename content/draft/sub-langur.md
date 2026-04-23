@@ -20,7 +20,7 @@ Nennung der Urheberschaft: Hkms, CC BY-SA 4.0 <https://creativecommons.org/licen
 
 Meine Güte, es  hört  nicht auf, dass ich in den Jātakas wirklich clevere Dinge finde! Ungelogen, sie sind viel interessanter und raffinierter, als ich gedacht  hätte. 
 
-Jātaka 57 trägt den Titel *Vānarindajātaka*, die Geschichte vom „Herrn der *vānarā*“. 
+Jātaka 57 trägt den Titel *Vānarindajātaka*, die Geschichte vom „*vānarā*-Fürsten“. 
 
 Zuerst ein wenig Hintergrundinformation. Die *vānarā* sind Affen, die im indischen Mythos berühmt sind. 
 
@@ -61,7 +61,7 @@ Kommen wir nun zu dieser Zeile zurück:
 
 > *diṭṭhaṁ so ativattati*
 
-Bevor ich im Kommentar nachschaute, übersetzte ich sie, in dem ich die normale Bedeutung von *diṭṭha* als „gesehen“ und von *ativattati* als „darüber hinausgehen“ benutzte. 
+Bevor ich im Kommentar nachschaute, übersetzte ich sie, indem ich die normale Bedeutung von *diṭṭha* als „gesehen“ und von *ativattati* als „darüber hinausgehen“ benutzte. 
 
 > *Jeder, der wie du, Langurenfürst,*  
 > *diese vier Eigenschaften besitzt –*  
@@ -70,7 +70,7 @@ Bevor ich im Kommentar nachschaute, übersetzte ich sie, in dem ich die normale 
 
 Das passt als Strophe gut zusammen, denn das Üben dieser Dhamma-Eigenschaften führt zum Entrinnen vom Leiden, dem Hinausgehen über die Welt der Sinne. Es passt auch gut zur Geschichte, da der Affe über das Gesehene hinaussah und ahnte, dass der Felsen nicht war, was er zu sein schien. Er gebrauchte seine Weisheit und konnte dadurch verhindern, vom Krokodil „gesehen“ zu werden. 
 
-Ich habe Ihnen gesagt, dass es clever ist! 
+Ich sagte Ihnen, dass es clever ist! 
 
 Vielleicht können wir übersetzen: 
 
@@ -81,5 +81,5 @@ Vielleicht können wir übersetzen:
 
 ---
 
-Die nächste Strophe ([Ja 58](https://palikanon.com/khuddaka/jataka/j058.htm)) ist ähnlich und hat eine vergleichbare Hintergrundgeschichte, nur dass das *dohaḷa*-Motiv durch ein ödipales ersetzt wird – der ältere Affenkönig fürchtet, seine Söhne könnten ihn töten, und kastriert sie mit seinen Zähnen. Da er beim Bodhisatta wegen dessen Stärke nicht in der Lage ist, das zu tun, stellt er ihm eine unerfüllbare Aufgabe, nämlich Lotusblumen aus einem See zu holen, in dem ein grausamer Unhold lauert. Wie in der vorhergehenden Geschichte lässt der scharfe Blick des Languren diesen ahnen, d. h. über das Sehen hinausgehen, sodass er erkennt, dass das Ungeheuer da ist. Da holt er die Blumen, indem er über den See springt und nur die Blüten packt, ehe er gefangen werden kann. Wieder haben wir ein hübsche Metapher für Erleuchtung und Befreiung durch das Hinausgehen über das Gesehene. 
+Die nächste Strophe ([Ja 58](https://palikanon.com/khuddaka/jataka/j058.htm)) ist ähnlich und hat eine vergleichbare Hintergrundgeschichte, nur dass das *dohaḷa*-Motiv durch ein ödipales ersetzt wird – der ältere Affenkönig fürchtet, seine Söhne könnten ihn töten, und kastriert sie mit seinen Zähnen. Da er beim Bodhisatta wegen dessen Stärke nicht in der Lage ist, das zu tun, stellt er ihm eine unerfüllbare Aufgabe, nämlich Lotusblumen aus einem See zu holen, in dem ein grausamer Unhold lauert. Wie in der vorhergehenden Geschichte lässt der scharfe Blick des Languren diesen ahnen, d. h. über das Sehen hinausgehen, sodass er erkennt, dass das Ungeheuer da ist. Da holt er die Blumen, indem er über den See springt und nur die Blüten packt, ehe er ergriffen werden kann. Wieder haben wir eine hübsche Metapher für Erleuchtung und Befreiung durch das Hinausgehen über das Gesehene. 
 
