@@ -1,5 +1,5 @@
 ---
-title: Der Herr der Languren – Jātaka 57
+title: Der Langurenfürst – Jātaka 57
 description: Bhikkhu Sujato, 2024
 img:  sujato.png
 img-alt: Foto von Bhante Sujato
@@ -7,11 +7,6 @@ order: 5
 ---
 
 [Zum Originaltext](https://discourse.suttacentral.net/t/the-lord-of-langurs-jataka-57/36045)
-
-Foto: Bengalischer Hanuman-Langur  
-URL der Seite: https://commons.wikimedia.org/wiki/File:Northern_plains_gray_langur.jpg  
-URL der Datei: https://upload.wikimedia.org/wikipedia/commons/2/25/Northern_plains_gray_langur.jpg  
-Nennung der Urheberschaft: Rajeev minj, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons  
 
 Foto: Junger grauer Langur  
 URL der Seite: https://commons.wikimedia.org/wiki/File:Gray_Langur_-_Young.jpg  
@@ -22,11 +17,11 @@ Meine Güte, es  hört  nicht auf, dass ich in den Jātakas wirklich clevere Din
 
 Jātaka 57 trägt den Titel *Vānarindajātaka*, die Geschichte vom „*vānarā*-Fürsten“. 
 
-Zuerst ein wenig Hintergrundinformation. Die *vānarā* sind Affen, die im indischen Mythos berühmt sind. 
+Zuerst ein wenig Hintergrundinformation: Die *vānarā* sind Affen, die im indischen Mythos berühmt sind. 
 
 [https://en.wikipedia.org/wiki/Vanara](https://en.wikipedia.org/wiki/Vanara)
 
-Ihre Anführer wie etwa Sugrīva oder Hanuman werden als *vānarendra* bezeichnet wie der *vānarinda* des Jātaka. 
+Ihre Anführer wie etwa Sugrīva oder Hanuman werden als *vānarendra* bezeichnet, wie der *vānarinda* des Jātaka. 
 
 Hier können Sie die Beschreibung lesen (englisch): 
 
@@ -36,7 +31,7 @@ In der indischen Kunst werden sie oft als eine Art Langur dargestellt, dessen ch
 
 Die Geschichte im Kommentar berichtet uns, dass die Frau eines Krokodils, die schwanger war, ein unwiderstehliches Verlangen (*dohaḷa*) bekam, das Herz des Affenkönigs zu fressen. Ihr Mann versuchte, sie zu befriedigen, indem er vorgab, ein Felsen im Fluss zu sein, doch der Affe durchschaute seine List. 
 
-[https://palikanon.com/khuddaka/jataka/j057.htm](https://palikanon.com/khuddaka/jataka/j057.htm) 
+[Jātaka 57, übersetzt vonDr. Julius Dutoit](https://palikanon.com/khuddaka/jataka/j057.htm) 
 
 Das ist eine der Geschichten aus dem *dohaḷa*-Zyklus in den Jātakas, die vom nicht beherrschbaren Verlangen einer Frau als Antrieb für das Aufsteigen des Bewusstseins handeln; ich habe darüber in meinem Buch *White Bones Red Rot Black Snakes* geschrieben. Hier scheitert das Aufsteigen an der Gier und Torheit des Krokodils, weswegen es das Herz des Affen, d. h. seine Klugheit, nicht in sich aufnehmen kann. 
 
