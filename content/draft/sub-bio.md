@@ -19,28 +19,27 @@ Bild: aufgeschlagenes Buch mit Brille unter Baum (studium5-4-200.png)
 - [DN 16](https://dhammaregen.net/#/sutta/dn16/de/sabbamitta)  
 
 #### Stationen der Suche nach dem richtigen Weg
-- [MN 26](https://dhammaregen.net/#/sutta/mn26/de/sabbamitta)  
-- [MN 36](https://dhammaregen.net/#/sutta/mn36/de/sabbamitta)  
-- [MN 85](https://dhammaregen.net/#/sutta/mn85/de/sabbamitta)  
+- [MN 26](https://dhammaregen.net/#/sutta/mn26/de/sabbamitta) – brahmanische Lehrer, Durchbruch zum Erwachen, Entschluss zum Lehren, Begegnung mit dem Ājīvaka-Asketen Upaka, Unterweisung der fünf Mönche bis zu deren Erwachen
+- [MN 36](https://dhammaregen.net/#/sutta/mn36/de/sabbamitta) – brahmanische Lehrer, Askesepraxis, Erinnerung an Kindheitsmeditation, Praxis der Vertiefungen, Durchbruch zum Erwachen
+- [MN 85](https://dhammaregen.net/#/sutta/mn85/de/sabbamitta) – brahmanische Lehrer, Askesepraxis, Erinnerung an Kindheitsmeditation, Praxis der Vertiefungen, Durchbruch zum Erwachen, Entschluss zum Lehren, Begegnung mit dem Ājīvaka-Asketen Upaka, Unterweisung der fünf Mönche bis zu deren Erwachen
 
 
-#### Reflexionen nach dem Erwachen
-- [Ud 1.1](https://dhammaregen.net/#/sutta/ud1.1/de/sabbamitta)  
-- [Ud 1.2](https://dhammaregen.net/#/sutta/ud1.2/de/sabbamitta)  
-- [Ud 1.3](https://dhammaregen.net/#/sutta/ud1.3/de/sabbamitta)  
+#### Reflexionen und erste Begegnungen nach dem Erwachen
+- [Ud 1.1](https://dhammaregen.net/#/sutta/ud1.1/de/sabbamitta) – abhängiges Entstehen, Fortführungsmodus
+- [Ud 1.2](https://dhammaregen.net/#/sutta/ud1.2/de/sabbamitta) – abhängiges Entstehen, Auflösungsmodus
+- [Ud 1.3](https://dhammaregen.net/#/sutta/ud1.3/de/sabbamitta) – abhängiges Entstehen, Fortführungs- und Auflösungsmodus
+- [SN 6.1](https://dhammaregen.net/#/sutta/sn6.1/de/sabbamitta) – Entschluss zum Lehren
+- [Ud 1.4](https://dhammaregen.net/#/sutta/ud1.4/de/sabbamitta) – Begegnung mit einem Brahmanen
+- [Ud 2.1](https://dhammaregen.net/#/sutta/ud2.1/de/sabbamitta) – der Drachenkönig Mucalinda schützt den Buddha bei Unwetter
 
 #### Weitere Episoden
-- [SN 12.65](https://dhammaregen.net/#/sutta/sn12.65/de/sabbamitta)  
-- [SN 6.1](https://dhammaregen.net/#/sutta/sn6.1/de/sabbamitta)  
+- [Snp 3.11](https://dhammaregen.net/#/sutta/snp3.11/de/sabbamitta) – Geburt des künftigen Buddha, Prophezeiung seiner Laufbahn durch den Seher Asita
+- [Snp 4.15](https://dhammaregen.net/#/sutta/snp4.15/de/sabbamitta) – Streit unter den Menschen als Motivation zum Fortziehen
+- [Snp 3.1](https://dhammaregen.net/#/sutta/snp3.1/de/sabbamitta) – Fortziehen, erste Begegnung mit König Bimbisāra
+- [Snp 3.2](https://dhammaregen.net/#/sutta/snp3.2/de/sabbamitta) – Māra sucht den Askese übenden künftigen Buddha auf; Strophen gehen in Gespräch nach dem Erwachen über
+- [SN 12.65](https://dhammaregen.net/#/sutta/sn12.65/de/sabbamitta) – der entscheidende Erkenntnisschritt zum Erwachen
+  
 
- 
-- [Snp 3.1](https://dhammaregen.net/#/sutta/snp3.1/de/sabbamitta)  
-- [Snp 3.2](https://dhammaregen.net/#/sutta/snp3.2/de/sabbamitta)  
-- [Snp 3.11](https://dhammaregen.net/#/sutta/snp3.11/de/sabbamitta)  
-- [Snp 4.15](https://dhammaregen.net/#/sutta/snp4.15/de/sabbamitta)  
-
-- [Ud 1.4](https://dhammaregen.net/#/sutta/ud1.4/de/sabbamitta)  
-- [Ud 2.1](https://dhammaregen.net/#/sutta/ud2.1/de/sabbamitta)  
 - [Ud 3.10](https://dhammaregen.net/#/sutta/ud3.10/de/sabbamitta)  
 - [Ud 5.8](https://dhammaregen.net/#/sutta/ud5.8/de/sabbamitta)  
 - [Ud 6.1](https://dhammaregen.net/#/sutta/ud6.1/de/sabbamitta)  
