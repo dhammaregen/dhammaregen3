@@ -22,7 +22,7 @@ Bild: aufgeschlagenes Buch mit Brille unter Baum (studium5-4-200.png)
 - [MN 26](https://dhammaregen.net/#/sutta/mn26/de/sabbamitta) – brahmanische Lehrer, Durchbruch zum Erwachen, Entschluss zum Lehren, Begegnung mit dem Ājīvaka-Asketen Upaka, Unterweisung der fünf Mönche bis zu deren Erwachen
 - [MN 36](https://dhammaregen.net/#/sutta/mn36/de/sabbamitta) – brahmanische Lehrer, Askesepraxis, Erinnerung an Kindheitsmeditation, Praxis der Vertiefungen, Durchbruch zum Erwachen
 - [MN 85](https://dhammaregen.net/#/sutta/mn85/de/sabbamitta) – brahmanische Lehrer, Askesepraxis, Erinnerung an Kindheitsmeditation, Praxis der Vertiefungen, Durchbruch zum Erwachen, Entschluss zum Lehren, Begegnung mit dem Ājīvaka-Asketen Upaka, Unterweisung der fünf Mönche bis zu deren Erwachen
-- „[vor meinem Erwachen](https://dhammaregen.net/#/play/sn35.14/de/sabbamitta/vor%20meinem%20Erwachen%20-da%20de%20-da%20sabbamitta)“ 
+- Suchbegriff auf Dhammaregen: „[vor meinem Erwachen](https://dhammaregen.net/#/play/sn35.14/de/sabbamitta/vor%20meinem%20Erwachen%20-da%20de%20-da%20sabbamitta)“ 
 
 #### Reflexionen und erste Begegnungen nach dem Erwachen
 - [Ud 1.1](https://dhammaregen.net/#/sutta/ud1.1/de/sabbamitta) – abhängiges Entstehen, Fortführungsmodus
@@ -32,7 +32,7 @@ Bild: aufgeschlagenes Buch mit Brille unter Baum (studium5-4-200.png)
 - [Ud 1.4](https://dhammaregen.net/#/sutta/ud1.4/de/sabbamitta) – Begegnung mit einem Brahmanen
 - [Ud 2.1](https://dhammaregen.net/#/sutta/ud2.1/de/sabbamitta) – der Drachenkönig Mucalinda schützt den Buddha bei Unwetter
 - [Ud 3.10](https://dhammaregen.net/#/sutta/ud3.10/de/sabbamitta) – Unbeständigkeit und Leiden in allen Daseinszuständen
-- „[eben erwacht](https://dhammaregen.net/#/play/ud1.4/de/sabbamitta/eben%20erwacht%20-da%20de%20-da%20sabbamitta)“ 
+- Suchbegriff auf Dhammaregen: „[eben erwacht](https://dhammaregen.net/#/play/ud1.4/de/sabbamitta/eben%20erwacht%20-da%20de%20-da%20sabbamitta)“ 
 
 #### Weitere Episoden
 - [Snp 3.11](https://dhammaregen.net/#/sutta/snp3.11/de/sabbamitta) – Geburt des künftigen Buddha, Prophezeiung seiner Laufbahn durch den Seher Asita
@@ -58,9 +58,9 @@ Bild: aufgeschlagenes Buch mit Brille unter Baum (studium5-4-200.png)
 - Aśvaghosa, Lehrgedicht
 - Abhiniśkramana-Sutra (Dharmaguptaka-Tradition)
 - Lalitavistara (aus Sarvastivāda hervorgegangen, mit Mahāyāna-Einflüssen)
-- [Jātaka-Nidānakathā](https://www.palikanon.com/khuddaka/jataka/j000.htm) (Theravāda); [Jātakas bei Beyerlein](https://buddhareden.de/products/jataka-buddhistische-wiedergeburtsgeschichten?_pos=1&_psq=jataka&_ss=e&_v=1.0)
+- [Jātaka-Nidānakathā](https://www.palikanon.com/khuddaka/jataka/j000.htm) (Theravāda); Jātakas, gedruckte Ausgabe, erhältlich bei [Beyerlein & Steinschulte](https://buddhareden.de/products/jataka-buddhistische-wiedergeburtsgeschichten?_pos=1&_psq=jataka&_ss=e&_v=1.0)
 - Mahāvastu (Lokuttaravāda)
 
 ### Moderne Biografien
 - Dr. Julius Dutoit, Das Leben des Buddha, 1906 (vergriffen)
-- Dr. Hellmuth Hecker, Das Leben des Buddha, 2004, [beim Buddhistischen Seminar](https://buddhistisches-seminar.de/Home)  
+- Dr. Hellmuth Hecker, Das Leben des Buddha, 2004, erhältlich beim [Buddhistischen Seminar](https://buddhistisches-seminar.de/Home)  
