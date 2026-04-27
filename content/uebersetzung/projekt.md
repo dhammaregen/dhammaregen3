@@ -13,7 +13,7 @@ order: 1.6
 
 Das Übersetzungsprojekt umfasst die vier Hauptnikāyas des Palikanon sowie die älteren Teile des Khuddaka-Nikāya. Die Übersetzung geht von Bhikkhu Sujatos englischer Übersetzung aus, wie sie auf [SuttaCentral](https://suttacentral.net/?lang=de) publiziert ist. Die Ziele des Projekts sind: einfaches, leicht verständliches Deutsch; einheitliche Terminologie; möglichst genaue Wiedergabe des Pali; kein Copyright. 
 
-Das Projekt wurde in der zweiten Hälfte von 2019 begonnen und ist noch nicht abgeschlossen.
+Das Projekt wurde in der zweiten Hälfte von 2019 begonnen und im April 2026 abgeschlossen. 
 
 #### Vorgehen
 
@@ -21,7 +21,7 @@ Die ursprüngliche Quelle ist die digitale Mahāsaṅgīti-Ausgabe des Pali-Tipi
 
 #### Status der Veröffentlichung
 
-Diese Übersetzung ist vorläufig und unterliegt weiterer Bearbeitung.
+Die Übersetzung ist abgeschlossen; sie unterliegt fortlaufender Überarbeitung.
 
 <div style="text-align: center;">* * *</div>
 
