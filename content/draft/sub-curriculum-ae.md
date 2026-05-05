@@ -108,6 +108,7 @@ Alle im Folgenden angegebenen Sutta-Links gehen zu SuttaCentral. Zu einem Teil d
   - SN 12.23: abhängige Befreiung ausgehend vom Leiden [https://suttacentral.net/sn12.23/de/sabbamitta](https://suttacentral.net/sn12.23/de/sabbamitta)
   - AN 11.3: Befreiung ausgehend von Tugend [https://suttacentral.net/an11.3/de/sabbamitta](https://suttacentral.net/an11.3/de/sabbamitta)
   - Bhikkhu Brahmali, Abhängige Befreiung: [https://mehr.dhammaregen.net/p/abhangige-befreiung](https://mehr.dhammaregen.net/p/abhangige-befreiung)
+  - AN 10.76: andere Variante der Ursachen für Unwissenheit [https://suttacentral.net/an10.76/de/sabbamitta](https://suttacentral.net/an10.76/de/sabbamitta) 
 - Willensbildungsprozesse
   - SN 12.51: Willensbildung ist ethisch [https://suttacentral.net/sn12.51/de/sabbamitta](https://suttacentral.net/sn12.51/de/sabbamitta)
   - SN 56.42: Willensbildungsprozesse, die zu Wiedergeburt führen [https://suttacentral.net/sn56.42/de/sabbamitta](https://suttacentral.net/sn56.42/de/sabbamitta)
