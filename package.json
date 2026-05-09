@@ -1,6 +1,6 @@
 {
   "name": "dhammaregent3",
-  "version": "1.74.48",
+  "version": "1.76.0",
   "description": "Site template for EBT-Vue3 applications",
   "main": "src/index.mjs",
   "private": false,
@@ -12,13 +12,12 @@
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^5.0.4",
-    "esm": "^3.2.25",
     "json": "^11.0.0",
     "markdown-it": "^14.1.1",
     "markdown-it-footnote": "^3.0.3",
     "vite": "^6.3.5",
     "vite-plugin-vuetify": "^2.0.3",
-    "vue-cli-plugin-vuetify": "~2.5.1"
+    "vue-cli-plugin-vuetify": "^2.5.1"
   },
   "scripts": {
     "app:commit": "node_modules/ebt-vue3/scripts/app-commit.sh",
