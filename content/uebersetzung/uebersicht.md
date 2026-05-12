@@ -13,7 +13,7 @@ Zu den [Suttas](#/search//de) (Suchkarte öffnen)
 
 Bitte klicken Sie auf `Such mir etwas aus!` oder geben Sie Suchbegriffe ins Suchfeld ein. Sie können auch Sutta-Kennziffern in das Suchfeld eingeben, wie etwa `AN 10.61` oder `an10.61`.
 
-### Bisher liegen folgende Suttas auf *Dhammaregen* vor:
+### Das Übersetzungsprojekt umfasst folgende Suttas:
 - Dīgha-Nikāya: vollständig
 - Majjhima-Nikāya: vollständig
 - Saṁyutta-Nikāya: vollständig
@@ -26,11 +26,13 @@ Bitte klicken Sie auf `Such mir etwas aus!` oder geben Sie Suchbegriffe ins Such
   - Suttanipāta: vollständig
   - Theragāthā: vollständig
   - Therīgāthā: vollständig
-  - Cariyāpiṭaka: Cp 1-34
-  - Jātaka: Ja 1-62
-  - Milindapañha: Mil 3.1.1
 
-Neue Texte kommen laufend hinzu, die vorhandenen werden regelmäßig aktualisiert.
+Das Projekt ist abgeschlossen und unterliegt weiterer Überarbeitung.
+  
+  #### Zusätzlich wurden noch die folgenden Texte übersetzt:
+  - Cariyāpiṭaka: Cp 1-34
+  - Jātaka: Ja 1-79, Ja 126, Ja 159, Ja 466
+  - Milindapañha: Mil 3.1.1
 
 Zur [Beschreibung](#/wiki/uebersetzung/projekt) des Übersetzungsprojekts
 

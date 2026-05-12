@@ -25,7 +25,7 @@ Lesen Sie [hier](#/wiki/studium/inhalt), wie Sie die Suttas besser kennenlernen 
 *Dhammaregen* ist Teil der [SC-Voice.net](https://sc-voice.net)-Webseitenfamilie und ist mit einer Audiofunktion ausgestattet. Damit können Sie die Suttas sowohl *lesen* als auch *hören*! Lesen Sie [hier](#/wiki/studium/hoeren), wie's funktioniert.
 
 ### Sutta-Übersetzungen
-*Dhammaregen* beherbergt die neuen deutschen Übersetzungen der Suttas des Palikanon von Silashin Sabbamitta. Es handelt sich um ein fortlaufendes Übersetzungsprojekt. Lesen Sie, [was bereits übersetzt ist](#/wiki/uebersetzung/uebersicht), oder öffnen Sie eine [Suchkarte](#/search//de) und gehen Sie zu den Suttas.
+*Dhammaregen* beherbergt die neuen deutschen Übersetzungen der Suttas des Palikanon von Silashin Sabbamitta. Das Übersetzungsprojekt ist abgeschlossen und unterliegt weiterer Überarbeitung. Den Umfang des Projekts finden Sie [hier](#/wiki/uebersetzung/uebersicht);  wenn Sie [eine Suchkarte öffnen](#/search//de), können Sie gleich zu den Suttas gehen. 
 
 ### Unterschiede zu SuttaCentral
 
