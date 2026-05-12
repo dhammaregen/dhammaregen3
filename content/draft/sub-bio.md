@@ -24,6 +24,10 @@ Bild: aufgeschlagenes Buch mit Brille unter Baum (studium5-4-200.png)
 - [MN 85](https://dhammaregen.net/#/sutta/mn85/de/sabbamitta) – brahmanische Lehrer, Askesepraxis, Erinnerung an Kindheitsmeditation, Praxis der Vertiefungen, Durchbruch zum Erwachen, Entschluss zum Lehren, Begegnung mit dem Ājīvaka-Asketen Upaka, Unterweisung der fünf Mönche bis zu deren Erwachen
 - Suchbegriff auf Dhammaregen: „[vor meinem Erwachen](https://dhammaregen.net/#/play/sn35.14/de/sabbamitta/vor%20meinem%20Erwachen%20-da%20de%20-da%20sabbamitta)“ 
 
+#### Kurz vor dem Erwachen
+
+- [AN 5.196](https://dhammaregen.net/#/sutta/an5.196/de/sabbamitta) – die großen Träume
+
 #### Reflexionen und erste Begegnungen nach dem Erwachen
 - [Ud 1.1](https://dhammaregen.net/#/sutta/ud1.1/de/sabbamitta) – abhängiges Entstehen, Fortführungsmodus
 - [Ud 1.2](https://dhammaregen.net/#/sutta/ud1.2/de/sabbamitta) – abhängiges Entstehen, Auflösungsmodus
