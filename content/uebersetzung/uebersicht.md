@@ -28,9 +28,11 @@ Bitte klicken Sie auf `Such mir etwas aus!` oder geben Sie Suchbegriffe ins Such
   - Therīgāthā: vollständig
 
 Das Projekt ist abgeschlossen und unterliegt weiterer Überarbeitung.
+
+Wenn Sie in den Übersetzungen Tippfehler, Verwechslungen oder sonstige Irrtümer finden, freue ich mich über eine Rückmeldung [auf SuttaCentrals Diskussionsforum](https://discourse.suttacentral.net/t/feedback-zu-sabbamittas-deutschen-ubersetzungen-feedback-on-sabbamittas-german-translations/43916).
   
   #### Zusätzlich wurden noch die folgenden Texte übersetzt:
-  - Cariyāpiṭaka: Cp 1-34
+  - Cariyāpiṭaka: vollständig
   - Jātaka: Ja 1-79, Ja 126, Ja 159, Ja 466
   - Milindapañha: Mil 3.1.1
 
