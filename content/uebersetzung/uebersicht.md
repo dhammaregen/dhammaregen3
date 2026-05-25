@@ -14,25 +14,25 @@ Zu den [Suttas](#/search//de) (Suchkarte öffnen)
 Bitte klicken Sie auf `Such mir etwas aus!` oder geben Sie Suchbegriffe ins Suchfeld ein. Sie können auch Sutta-Kennziffern in das Suchfeld eingeben, wie etwa `AN 10.61` oder `an10.61`.
 
 ### Das Übersetzungsprojekt umfasst folgende Suttas:
-- Dīgha-Nikāya: vollständig
-- Majjhima-Nikāya: vollständig
-- Saṁyutta-Nikāya: vollständig
-- Aṅguttara-Nikāya: vollständig
-- Khuddaka-Nikāya: 
-  - Khuddakapāṭha: vollständig 
-  - Dhammapada: vollständig
-  - Udāna: vollständig
-  - Itivuttaka: vollständig
-  - Suttanipāta: vollständig
-  - Theragāthā: vollständig
-  - Therīgāthā: vollständig
+- Dīgha-Nikāya
+- Majjhima-Nikāya
+- Saṁyutta-Nikāya
+- Aṅguttara-Nikāya
+- Aus dem Khuddaka-Nikāya: 
+  - Khuddakapāṭha 
+  - Dhammapada
+  - Udāna
+  - Itivuttaka
+  - Suttanipāta
+  - Theragāthā
+  - Therīgāthā
 
 Das Projekt ist abgeschlossen und unterliegt weiterer Überarbeitung.
 
 Wenn Sie in den Übersetzungen Tippfehler, Verwechslungen oder sonstige Irrtümer finden, freue ich mich über eine Rückmeldung [auf SuttaCentrals Diskussionsforum](https://discourse.suttacentral.net/t/feedback-zu-sabbamittas-deutschen-ubersetzungen-feedback-on-sabbamittas-german-translations/43916).
   
   #### Zusätzlich wurden noch die folgenden Texte übersetzt:
-  - Cariyāpiṭaka: vollständig
+  - Cariyāpiṭaka
   - Jātaka: Ja 1-79, Ja 126, Ja 159, Ja 466
   - Milindapañha: Mil 3.1.1
 
