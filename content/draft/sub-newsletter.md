@@ -18,13 +18,13 @@ Sein Gegenstück, das die Zeit vom Erwachen bis zur Etablierung des Ordens besch
 
 Der Buddha selbst hatte nie Interesse, seinen Lebenslauf zu erzählen. Er wollte den Dhamma lehren, das war seine Mission, nicht, wie sich sein Leben der Reihe nach abspielte. Er hat Episoden aus seinem Leben erzählt, die mit seiner Suche und seinem Erwachen zu tun hatten, zu didaktischen Zwecken. Wir finden das in Lehrreden wie [MN 26](https://dhammaregen.net/#/sutta/mn26/de/sabbamitta), [MN 36](https://dhammaregen.net/#/sutta/mn36/de/sabbamitta) oder [MN 85](https://dhammaregen.net/#/sutta/mn85/de/sabbamitta) und noch einigen anderen, mehr oder weniger ausführlich mit mehr oder weniger Einzelheiten. Wenn man auf *Dhammaregen* nach „[vor meinem Erwachen](https://dhammaregen.net/#/play/sn35.14/de/sabbamitta/vor%20meinem%20Erwachen%20-da%20de%20-da%20sabbamitta)“ sucht (und in den Einstellungen die Anzahl der Suchergebnisse auf 50 einstellt), kann man sie alle finden. Manche betreffen nur einzelne Aspekte, die bei seinem Erwachen eine Rolle spielten, andere geben einen größeren Überblick. 
 
-Die Lehrreden sind im Kanon nicht chronologisch geordnet, das macht das Zusammenstellen einer Biografie aus diesen Texten schwierig. Gelegentlich gibt es Hinweise, zu welchem (ungefähren) Zeitpunkt in der Lehrerlaufbahn des Buddha sich einzelne Episoden zugetragen haben, aber bei Weitem nicht bei der Mehrzahl. Mit anderen Worten: Einen zusammenhängenden Bericht über das Leben des Buddha kann man aus den frühen Texten nur  mit einiger Mühe erhalten. 
+Die Lehrreden sind im Kanon nicht chronologisch geordnet, das macht das Zusammenstellen einer Biografie aus diesen Texten schwierig. Gelegentlich gibt es Hinweise, zu welchem (ungefähren) Zeitpunkt in der Lehrerlaufbahn des Buddha sich einzelne Episoden zugetragen haben, aber bei Weitem nicht bei der Mehrzahl. Mit anderen Worten: Einen zusammenhängenden Bericht über das Leben des Buddha kann man aus den frühen Texten nur mit einiger Mühe erhalten. 
 
 Wenn wir also in den frühen Texten keine Buddhabiografie im eigentlichen Sinn finden, treibt sie in späteren Texten umso üppigere Blüten, sowohl inhaltlich als auch, was die zeitliche Ausdehnung betrifft.
 
 ---
 
-Die Jātaka-Sammlung, die wir heute haben, wurde vermutlich ein- bis zweihundert Jahre
+Die Jātaka-Sammlung, die wir heute haben, wurde vermutlich ein- bis zweihundert Jahre nach dem Buddha 
 
 Die erste „kanonische“ Buddhabiografie, die nach seinem Tod entstand, ist eine Einführung zur Jātaka-Sammlung, die zusammen mit dieser überliefert wurde. Du kannst sie auf Palikanon.com online lesen oder beim Verlag Beyerlein & Steinschulte zusammen mit der ganzen Sammlung gedruckt erwerben. 3 Bände à 2 kg, aber ich finde, es lohnt sich. Die Biografie ist im Vergleich zu den Berichten in den frühen Texten deutlich ausgeschmückt und blumiger, und je weiter die Zeit fortschreitet, umso mehr nimmt diese Tendenz in Buddhabiografien zu, bis der Buddha jede Ähnlichkeit mit einem gewöhnlichen Menschen verliert und eine übermenschliche, vergöttlichte Figur wird.
 
@@ -49,14 +49,15 @@ Hellmuth Hecker hat aus den frühen Palitexten, ergänzt durch einige Informatio
 Strophe
 
 ---
+#### 🔸 Übersetzungen
+
+Eine Übersicht über alle Übersetzungen findet man [hier](https://dhammaregen.net/#/wiki/uebersetzung/uebersicht).
+
 #### 🔸 Neu auf Dhammaregen
 
-Seit dem letzten Newsletter wurden folgende Suttas hinzugefügt:
+Seit dem letzten Newsletter wurde folgendes Studienblatt hinzugefügt:
 
-- Ja 51-63
-- Snp 5.3, Snp 5.5-14, Snp 5.17-18; somit ist das Suttanipāta jetzt vollständig – und damit der gesamte Umfang des ursprünglichen Übersetzungsprojekts! 🎉
-
-[Übersicht](https://dhammaregen.net/#/wiki/uebersetzung/uebersicht) über alle Übersetzungen
+- Buddhabiografie
 
 #### 🔸 Sutta-Erkundungen 
 
