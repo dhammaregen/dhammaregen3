@@ -6,7 +6,7 @@ img-alt: Aufgeschlagenes Buch mit Brille unter Baum
 order: 5
 ---
 
-Dies ist eine Zusammenstellung von Materialien zur Biografie des Buddha.
+Eine zusammenhängende Buddhabiografie gibt es in den frühen Texten nicht, jedoch zahlreiche Lehrreden mit biografischem Material. Diese Zusammenstellung sammelt die verfügbaren Texte im frühen Kanon und weist auf einige spätere Buddhabiografien hin.
 
 Bild: aufgeschlagenes Buch mit Brille unter Baum (studium5-4-200.png)
 
@@ -26,7 +26,7 @@ Bild: aufgeschlagenes Buch mit Brille unter Baum (studium5-4-200.png)
 - [SN 12.65](https://dhammaregen.net/#/sutta/sn12.65/de/sabbamitta) – der Erkenntnisaspekt des Erwachens
 - [MN 19](https://dhammaregen.net/#/sutta/mn19/de/sabbamitta) – Umgang mit Gedanken
 - [MN 14](https://dhammaregen.net/#/sutta/mn14/de/sabbamitta) – Verhältnis zu Sinnenfreuden
-- [AN 9.41](https://dhammaregen.net/#/sutta/an9.41/de/sabbamitta) – Überwindung der Sinnenfreuden usw. durch Betrachtung der Nachteile, Entwicklung fortschreitend subtilerer Zustände
+- [AN 9.41](https://dhammaregen.net/#/sutta/an9.41/de/sabbamitta) – Überwindung der Sinnenfreuden und fortschreitend subtilerer Zustände durch Betrachtung der Nachteile
 - [MN 4](https://dhammregen.net/#/sutta/mn4/de/sabbamitta) – Überwindung von Angst
 - [MN 128](https://dhammaregen.net/#/sutta/mn128/de/sabbamitta) – Läuterung geistiger Verunreinigungen in der Meditation
 - Suchbegriff auf Dhammaregen: „[vor meinem Erwachen](https://dhammaregen.net/#/play/sn35.14/de/sabbamitta/vor%20meinem%20Erwachen%20-da%20de%20-da%20sabbamitta)“ bringt noch weitere Berichte zu einzelnen Aspekten des Erwachens
@@ -40,7 +40,7 @@ Bild: aufgeschlagenes Buch mit Brille unter Baum (studium5-4-200.png)
 - [Ud 1.2](https://dhammaregen.net/#/sutta/ud1.2/de/sabbamitta) – abhängiges Entstehen, Auflösungsmodus
 - [Ud 1.3](https://dhammaregen.net/#/sutta/ud1.3/de/sabbamitta) – abhängiges Entstehen, Fortführungs- und Auflösungsmodus
 - [SN 6.1](https://dhammaregen.net/#/sutta/sn6.1/de/sabbamitta) – Entschluss zum Lehren
-- [DN 16:3.34.1 ff](https://dhammaregen.net/#/sutta/dn16:3.34.1/de/sabbamitta) – der Buddha erklärt Māra, dass er erst sterben wird, wenn er die viergliedrige Versammlung errichtet hat
+- [DN 16:3.34.1 ff](https://dhammaregen.net/#/sutta/dn16:3.34.1/de/sabbamitta) – der Buddha erklärt Māra, dass er erst sterben wird, wenn er die vier Versammlungen errichtet hat
 - [Ud 1.4](https://dhammaregen.net/#/sutta/ud1.4/de/sabbamitta) – Begegnung mit einem Brahmanen aus der Tradition, die mystische Silben murmelt
 - [Ud 2.1](https://dhammaregen.net/#/sutta/ud2.1/de/sabbamitta) – der Drachenkönig Mucalinda schützt den Buddha bei Unwetter
 - [Ud 3.10](https://dhammaregen.net/#/sutta/ud3.10/de/sabbamitta) – Reflexion über die Bindung ans Dasein
