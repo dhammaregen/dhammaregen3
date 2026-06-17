@@ -19,16 +19,16 @@ Bild: aufgeschlagenes Buch mit Brille unter Baum (studium5-4-200.png)
 - [DN 16](https://dhammaregen.net/#/sutta/dn16/de/sabbamitta)  
 
 #### Stationen der Suche nach dem richtigen Weg
-- [MN 26](https://dhammaregen.net/#/sutta/mn26/de/sabbamitta) – brahmanische Lehrer, Durchbruch zum Erwachen, Entschluss zum Lehren, Begegnung mit dem Ājīvaka-Asketen Upaka, Unterweisung der fünf Mönche bis zu deren Erwachen
-- [MN 36](https://dhammaregen.net/#/sutta/mn36/de/sabbamitta) – brahmanische Lehrer, Askesepraxis, Erinnerung an Kindheitsmeditation, fünf Mönche verlassen ihn, Praxis der Vertiefungen, Durchbruch zum Erwachen
-- [MN 85](https://dhammaregen.net/#/sutta/mn85/de/sabbamitta) – brahmanische Lehrer, Askesepraxis, Erinnerung an Kindheitsmeditation, fünf Mönche verlassen ihn, Praxis der Vertiefungen, Durchbruch zum Erwachen, Entschluss zum Lehren, Begegnung mit dem Ājīvaka-Asketen Upaka, Unterweisung der fünf Mönche bis zu deren Erwachen
-- [MN 100](https://dhammaregen.net/#/sutta/mn100/de/sabbamitta) – brahmanische Lehrer, Askesepraxis, Erinnerung an Kindheitsmeditation, fünf Mönche verlassen ihn, Praxis der Vertiefungen, Durchbruch zum Erwachen
-- [SN 12.65](https://dhammaregen.net/#/sutta/sn12.65/de/sabbamitta) – der entscheidende Erkenntnisschritt zum Erwachen
-- [MN 19](https://dhammaregen.net/#/sutta/mn19/de/sabbamitta) – Umgang mit Gedanken
+- [MN 4](https://dhammaregen.net/#/sutta/mn4/de/sabbamitta) – Überwindung von Angst
 - [MN 14](https://dhammaregen.net/#/sutta/mn14/de/sabbamitta) – Verhältnis zu Sinnenfreuden
 - [AN 9.41](https://dhammaregen.net/#/sutta/an9.41/de/sabbamitta) – Überwindung der Sinnenfreuden und fortschreitend subtilerer Zustände durch Betrachtung der Nachteile
-- [MN 4](https://dhammregen.net/#/sutta/mn4/de/sabbamitta) – Überwindung von Angst
+- [MN 19](https://dhammaregen.net/#/sutta/mn19/de/sabbamitta) – Umgang mit Gedanken
 - [MN 128](https://dhammaregen.net/#/sutta/mn128/de/sabbamitta) – Läuterung geistiger Verunreinigungen in der Meditation
+- [SN 12.65](https://dhammaregen.net/#/sutta/sn12.65/de/sabbamitta) – der entscheidende Erkenntnisschritt zum Erwachen
+- [MN 26](https://dhammaregen.net/#/sutta/mn26/de/sabbamitta) – die Suche: brahmanische Lehrer, Durchbruch zum Erwachen, Entschluss zum Lehren, Begegnung mit dem Ājīvaka-Asketen Upaka, Unterweisung der fünf Mönche bis zu deren Erwachen
+- [MN 36](https://dhammaregen.net/#/sutta/mn36/de/sabbamitta) – die Suche: brahmanische Lehrer, Askesepraxis, Erinnerung an Kindheitsmeditation, fünf Mönche verlassen ihn, Praxis der Vertiefungen, Durchbruch zum Erwachen
+- [MN 85](https://dhammaregen.net/#/sutta/mn85/de/sabbamitta) – die Suche: brahmanische Lehrer, Askesepraxis, Erinnerung an Kindheitsmeditation, fünf Mönche verlassen ihn, Praxis der Vertiefungen, Durchbruch zum Erwachen, Entschluss zum Lehren, Begegnung mit dem Ājīvaka-Asketen Upaka, Unterweisung der fünf Mönche bis zu deren Erwachen
+- [MN 100](https://dhammaregen.net/#/sutta/mn100/de/sabbamitta) – die Suche: brahmanische Lehrer, Askesepraxis, Erinnerung an Kindheitsmeditation, fünf Mönche verlassen ihn, Praxis der Vertiefungen, Durchbruch zum Erwachen
 - Suchbegriff auf Dhammaregen: „[vor meinem Erwachen](https://dhammaregen.net/#/play/sn35.14/de/sabbamitta/vor%20meinem%20Erwachen%20-da%20de%20-da%20sabbamitta)“ bringt noch weitere Berichte zu einzelnen Aspekten des Erwachens
 
 #### Kurz vor dem Erwachen
@@ -38,7 +38,7 @@ Bild: aufgeschlagenes Buch mit Brille unter Baum (studium5-4-200.png)
 #### Reflexionen und erste Begegnungen nach dem Erwachen
 - [Ud 2.1](https://dhammaregen.net/#/sutta/ud2.1/de/sabbamitta) – der Drachenkönig Mucalinda schützt den Buddha bei Unwetter
 - [SN 6.1](https://dhammaregen.net/#/sutta/sn6.1/de/sabbamitta) – Entschluss zum Lehren
-- [DN 16:3.34.1 ff](https://dhammaregen.net/#/sutta/dn16:3.34.1/de/sabbamitta) – der Buddha erklärt Māra, dass er erst sterben wird, wenn er die vier Versammlungen aufgebaut hat
+- [DN 16:3.34.1 ff](https://dhammaregen.net/#/sutta/dn16:3.34.1/de/sabbamitta) – der Buddha erklärt Māra, dass er erst sterben wird, wenn er die vierfache Versammlung aufgebaut hat
 - [Ud 1.4](https://dhammaregen.net/#/sutta/ud1.4/de/sabbamitta) – Begegnung mit einem Brahmanen aus der Tradition, die mystische Silben murmelt
 - [AN 4.22](https://dhammaregen.net/#/sutta/an4.22/de/sabbamitta) – Diskussion mit zwei Brahmanen über Altehrwürdigkeit
 - [Ud 1.1](https://dhammaregen.net/#/sutta/ud1.1/de/sabbamitta), [Ud 1.2](https://dhammaregen.net/#/sutta/ud1.2/de/sabbamitta) und [Ud 1.3](https://dhammaregen.net/#/sutta/ud1.3/de/sabbamitta) – Reflexion über abhängiges Entstehen
@@ -61,9 +61,9 @@ Bild: aufgeschlagenes Buch mit Brille unter Baum (studium5-4-200.png)
 - [Kd 17](https://suttacentral.net/pli-tv-kd17/de/schaefer-beyerlein) – Devadattas Untaten
 - [AN 5.100](https://dhammaregen.net/#/sutta/an5.100/de/sabbamitta) – eine Gottheit kündigt Devadattas Pläne an, den Orden leiten zu wollen
 - [Ud 5.8](https://dhammaregen.net/#/sutta/ud5.8/de/sabbamitta) – Devadatta erklärt, den Orden spalten zu wollen
-- [MN 104](https://dhammaregen.net/#/sutta/mn104/de/sabbamitta)– nach dem Tod des Jaina-Asketen aus dem Stamm Ñātika
-- [DN 29](https://dhammaregen.net/#/sutta/dn29/de/sabbamitta)– nach dem Tod des Jaina-Asketen aus dem Stamm Ñātika
-- [DN 33](https://dhammaregen.net/#/sutta/dn33/de/sabbamitta)– nach dem Tod des Jaina-Asketen aus dem Stamm Ñātika
+- [MN 104](https://dhammaregen.net/#/sutta/mn104/de/sabbamitta) – nach dem Tod des Jaina-Asketen aus dem Stamm Ñātika
+- [DN 29](https://dhammaregen.net/#/sutta/dn29/de/sabbamitta) – nach dem Tod des Jaina-Asketen aus dem Stamm Ñātika
+- [DN 33](https://dhammaregen.net/#/sutta/dn33/de/sabbamitta) – nach dem Tod des Jaina-Asketen aus dem Stamm Ñātika
 - [SN 47.13](https://dhammaregen.net/#/sutta/sn47.15/de/sabbamitta) – Sāriputtas Tod
 - [Ud 8.6](https://dhammaregen.net/#/sutta/ud8.6/de/sabbamitta) – Aufenthalt im Dorf Pāṭali, Ausbau des Dorfes zur Festungsstadt Pāṭaliputta 
 - [Ud 6.1](https://dhammaregen.net/#/sutta/ud6.1/de/sabbamitta) – Aufgeben der Lebenskraft
@@ -75,7 +75,7 @@ Bild: aufgeschlagenes Buch mit Brille unter Baum (studium5-4-200.png)
 ### Klassische Buddhabiografien  
 - Aśvaghosa, Lehrgedicht
 - Abhiniśkramana-Sutra (Dharmaguptaka-Tradition)
-- Lalitavistara (aus Sarvastivāda hervorgegangen, mit Mahāyāna-Einflüssen)
+- Lalitavistara (aus Sarvastivāda-Tradition hervorgegangen, mit Mahāyāna-Einflüssen)
 - [Jātaka-Nidānakathā](https://www.palikanon.com/khuddaka/jataka/j000.htm) (Theravāda); Jātakas, gedruckte Ausgabe, erhältlich bei [Beyerlein & Steinschulte](https://buddhareden.de/products/jataka-buddhistische-wiedergeburtsgeschichten?_pos=1&_psq=jataka&_ss=e&_v=1.0)
 - Mahāvastu (Lokuttaravāda)
 
