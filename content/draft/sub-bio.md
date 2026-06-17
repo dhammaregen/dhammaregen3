@@ -1,6 +1,6 @@
 ---
 title: Studienblatt: Buddhabiografie
-description: Zusammenstellung von Studienmaterialien
+description: Eine Materialsammlung
 img:  book.png
 img-alt: Aufgeschlagenes Buch mit Brille unter Baum
 order: 5
@@ -23,7 +23,7 @@ Bild: aufgeschlagenes Buch mit Brille unter Baum (studium5-4-200.png)
 - [MN 36](https://dhammaregen.net/#/sutta/mn36/de/sabbamitta) – brahmanische Lehrer, Askesepraxis, Erinnerung an Kindheitsmeditation, fünf Mönche verlassen ihn, Praxis der Vertiefungen, Durchbruch zum Erwachen
 - [MN 85](https://dhammaregen.net/#/sutta/mn85/de/sabbamitta) – brahmanische Lehrer, Askesepraxis, Erinnerung an Kindheitsmeditation, fünf Mönche verlassen ihn, Praxis der Vertiefungen, Durchbruch zum Erwachen, Entschluss zum Lehren, Begegnung mit dem Ājīvaka-Asketen Upaka, Unterweisung der fünf Mönche bis zu deren Erwachen
 - [MN 100](https://dhammaregen.net/#/sutta/mn100/de/sabbamitta) – brahmanische Lehrer, Askesepraxis, Erinnerung an Kindheitsmeditation, fünf Mönche verlassen ihn, Praxis der Vertiefungen, Durchbruch zum Erwachen
-- [SN 12.65](https://dhammaregen.net/#/sutta/sn12.65/de/sabbamitta) – der Erkenntnisaspekt des Erwachens
+- [SN 12.65](https://dhammaregen.net/#/sutta/sn12.65/de/sabbamitta) – der entscheidende Erkenntnisschritt zum Erwachen
 - [MN 19](https://dhammaregen.net/#/sutta/mn19/de/sabbamitta) – Umgang mit Gedanken
 - [MN 14](https://dhammaregen.net/#/sutta/mn14/de/sabbamitta) – Verhältnis zu Sinnenfreuden
 - [AN 9.41](https://dhammaregen.net/#/sutta/an9.41/de/sabbamitta) – Überwindung der Sinnenfreuden und fortschreitend subtilerer Zustände durch Betrachtung der Nachteile
@@ -36,27 +36,24 @@ Bild: aufgeschlagenes Buch mit Brille unter Baum (studium5-4-200.png)
 - [AN 5.196](https://dhammaregen.net/#/sutta/an5.196/de/sabbamitta) – die großen Träume
 
 #### Reflexionen und erste Begegnungen nach dem Erwachen
-- [Ud 1.1](https://dhammaregen.net/#/sutta/ud1.1/de/sabbamitta) – abhängiges Entstehen, Fortführungsmodus
-- [Ud 1.2](https://dhammaregen.net/#/sutta/ud1.2/de/sabbamitta) – abhängiges Entstehen, Auflösungsmodus
-- [Ud 1.3](https://dhammaregen.net/#/sutta/ud1.3/de/sabbamitta) – abhängiges Entstehen, Fortführungs- und Auflösungsmodus
-- [SN 6.1](https://dhammaregen.net/#/sutta/sn6.1/de/sabbamitta) – Entschluss zum Lehren
-- [DN 16:3.34.1 ff](https://dhammaregen.net/#/sutta/dn16:3.34.1/de/sabbamitta) – der Buddha erklärt Māra, dass er erst sterben wird, wenn er die vier Versammlungen errichtet hat
-- [Ud 1.4](https://dhammaregen.net/#/sutta/ud1.4/de/sabbamitta) – Begegnung mit einem Brahmanen aus der Tradition, die mystische Silben murmelt
 - [Ud 2.1](https://dhammaregen.net/#/sutta/ud2.1/de/sabbamitta) – der Drachenkönig Mucalinda schützt den Buddha bei Unwetter
-- [Ud 3.10](https://dhammaregen.net/#/sutta/ud3.10/de/sabbamitta) – Reflexion über die Bindung ans Dasein
-- [SN 45.11](https://dhammaregen.net/#/sutta/sn45.11/de/sabbamitta)  und [SN 45.12](https://dhammaregen.net/#/sutta/sn45.12/de/sabbamitta) – der Buddha erklärt seine Meditation kurz nach dem Erwachen
-- [SN 47.18](https://dhammaregen.net/#/sutta/sn47.18/de/sabbamitta) und [SN 47.43](https://dhammaregen.net/#/sutta/sn47.43/de/sabbamitta) – Reflexion über die vier Arten der Achtsamkeitsmeditation
+- [SN 6.1](https://dhammaregen.net/#/sutta/sn6.1/de/sabbamitta) – Entschluss zum Lehren
+- [DN 16:3.34.1 ff](https://dhammaregen.net/#/sutta/dn16:3.34.1/de/sabbamitta) – der Buddha erklärt Māra, dass er erst sterben wird, wenn er die vier Versammlungen aufgebaut hat
+- [Ud 1.4](https://dhammaregen.net/#/sutta/ud1.4/de/sabbamitta) – Begegnung mit einem Brahmanen aus der Tradition, die mystische Silben murmelt
+- [AN 4.22](https://dhammaregen.net/#/sutta/an4.22/de/sabbamitta) – Diskussion mit zwei Brahmanen über Altehrwürdigkeit
+- [Ud 1.1](https://dhammaregen.net/#/sutta/ud1.1/de/sabbamitta), [Ud 1.2](https://dhammaregen.net/#/sutta/ud1.2/de/sabbamitta) und [Ud 1.3](https://dhammaregen.net/#/sutta/ud1.3/de/sabbamitta) – Reflexion über abhängiges Entstehen
 - [SN 6.2](https://dhammaregen.net/#/sutta/sn6.2/de/sabbamitta); [AN 4.21](https://dhammaregen.net/#/sutta/an4.21/de/sabbamitta)– Reflexion über Achtung und Ehrfurcht
+- [Ud 3.10](https://dhammaregen.net/#/sutta/ud3.10/de/sabbamitta) – Reflexion über die Bindung ans Dasein
+- [SN 47.18](https://dhammaregen.net/#/sutta/sn47.18/de/sabbamitta) und [SN 47.43](https://dhammaregen.net/#/sutta/sn47.43/de/sabbamitta) – Reflexion über die vier Arten der Achtsamkeitsmeditation
 - [SN 48.57](https://dhammaregen.net/#/sutta/sn48.57/de/sabbamitta) – Reflexion über die fünf Fähigkeiten
-[AN 4.22](https://dhammaregen.net/#/sutta/an4.22/de/sabbamitta) – Diskussion mit zwei Brahmanen über Altehrwürdigkeit
-- Suchbegriff auf Dhammaregen: „[eben erwacht](https://dhammaregen.net/#/play/ud1.4/de/sabbamitta/eben%20erwacht%20-da%20de%20-da%20sabbamitta)“ 
+- [SN 45.11](https://dhammaregen.net/#/sutta/sn45.11/de/sabbamitta)  und [SN 45.12](https://dhammaregen.net/#/sutta/sn45.12/de/sabbamitta) – der Buddha erklärt die Meditation, die er kurz nach dem Erwachen übte
+- Suchbegriff auf Dhammaregen: „[eben erwacht](https://dhammaregen.net/#/play/ud1.4/de/sabbamitta/eben%20erwacht%20-da%20de%20-da%20sabbamitta)“ bringt noch einige weitere Episoden aus dieser Zeit
 
 #### Weitere Episoden
 - [Snp 3.11](https://dhammaregen.net/#/sutta/snp3.11/de/sabbamitta) – Geburt des künftigen Buddha, Prophezeiung seiner Laufbahn durch den Seher Asita
 - [Snp 4.15](https://dhammaregen.net/#/sutta/snp4.15/de/sabbamitta) – Streit unter den Menschen als Motivation zum Fortziehen
 - [Snp 3.1](https://dhammaregen.net/#/sutta/snp3.1/de/sabbamitta) – Fortziehen, erste Begegnung mit König Bimbisāra
 - [Snp 3.2](https://dhammaregen.net/#/sutta/snp3.2/de/sabbamitta) – Māra sucht den Askese übenden künftigen Buddha auf; Strophen gehen in Gespräch nach dem Erwachen über
-- [SN 12.65](https://dhammaregen.net/#/sutta/sn12.65/de/sabbamitta) – der entscheidende Erkenntnisschritt zum Erwachen
 - [MN 128](https://dhammaregen.net/#/sutta/mn128/de/sabbamitta) – Streit von Kosambī
 - [MN 48](https://dhammaregen.net/#/sutta/mn48/de/sabbamitta) – Streit von Kosambī
 - [SN 22.81](https://dhammaregen.net/#/sutta/sn22.81/de/sabbamitta) – der Buddha zieht sich allein aus Kosambī zurück
