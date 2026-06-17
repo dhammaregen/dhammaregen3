@@ -8,7 +8,7 @@ order: 5
 
 Eine zusammenhängende Buddhabiografie gibt es in den frühen Texten nicht, jedoch zahlreiche Lehrreden mit biografischem Material. Diese Zusammenstellung sammelt die verfügbaren Texte im frühen Kanon und weist auf einige spätere Buddhabiografien hin.
 
-Bild: aufgeschlagenes Buch mit Brille unter Baum (studium5-4-200.png)
+Bild: aufgeschlagenes Buch mit Brille unter Baum (studium700.png)
 
 ### Biografische Episoden in frühen Texten
 
