@@ -38,7 +38,7 @@ Bild: aufgeschlagenes Buch mit Brille unter Baum (studium5-4-200.png)
 #### Reflexionen und erste Begegnungen nach dem Erwachen
 - [Ud 2.1](https://dhammaregen.net/#/sutta/ud2.1/de/sabbamitta) – der Drachenkönig Mucalinda schützt den Buddha bei Unwetter
 - [SN 6.1](https://dhammaregen.net/#/sutta/sn6.1/de/sabbamitta) – Entschluss zum Lehren
-- [DN 16:3.34.1 ff](https://dhammaregen.net/#/sutta/dn16:3.34.1/de/sabbamitta) – der Buddha erklärt Māra, dass er erst sterben wird, wenn er die vierfache Versammlung aufgebaut hat
+- [DN 16:3.34.1 ff](https://dhammaregen.net/#/sutta/dn16:3.34.1/de/sabbamitta) – der Buddha erklärt Māra, dass er erst sterben wird, wenn er die vierfache Versammlung begründet hat
 - [Ud 1.4](https://dhammaregen.net/#/sutta/ud1.4/de/sabbamitta) – Begegnung mit einem Brahmanen aus der Tradition, die mystische Silben murmelt
 - [AN 4.22](https://dhammaregen.net/#/sutta/an4.22/de/sabbamitta) – Diskussion mit zwei Brahmanen über Altehrwürdigkeit
 - [Ud 1.1](https://dhammaregen.net/#/sutta/ud1.1/de/sabbamitta), [Ud 1.2](https://dhammaregen.net/#/sutta/ud1.2/de/sabbamitta) und [Ud 1.3](https://dhammaregen.net/#/sutta/ud1.3/de/sabbamitta) – Reflexion über abhängiges Entstehen
@@ -46,7 +46,7 @@ Bild: aufgeschlagenes Buch mit Brille unter Baum (studium5-4-200.png)
 - [Ud 3.10](https://dhammaregen.net/#/sutta/ud3.10/de/sabbamitta) – Reflexion über die Bindung ans Dasein
 - [SN 47.18](https://dhammaregen.net/#/sutta/sn47.18/de/sabbamitta) und [SN 47.43](https://dhammaregen.net/#/sutta/sn47.43/de/sabbamitta) – Reflexion über die vier Arten der Achtsamkeitsmeditation
 - [SN 48.57](https://dhammaregen.net/#/sutta/sn48.57/de/sabbamitta) – Reflexion über die fünf Fähigkeiten
-- [SN 45.11](https://dhammaregen.net/#/sutta/sn45.11/de/sabbamitta)  und [SN 45.12](https://dhammaregen.net/#/sutta/sn45.12/de/sabbamitta) – der Buddha erklärt die Meditation, die er kurz nach dem Erwachen übte
+- [SN 45.11](https://dhammaregen.net/#/sutta/sn45.11/de/sabbamitta)  und [SN 45.12](https://dhammaregen.net/#/sutta/sn45.12/de/sabbamitta) – der Buddha erklärt, welche Meditation er kurz nach dem Erwachen übte
 - Suchbegriff auf Dhammaregen: „[eben erwacht](https://dhammaregen.net/#/play/ud1.4/de/sabbamitta/eben%20erwacht%20-da%20de%20-da%20sabbamitta)“ bringt noch einige weitere Episoden aus dieser Zeit
 
 #### Weitere Episoden
