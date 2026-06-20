@@ -54,6 +54,7 @@ Bild: aufgeschlagenes Buch mit Brille unter Baum (studium700.png)
 - [Snp 4.15](https://dhammaregen.net/#/sutta/snp4.15/de/sabbamitta) – Streit unter den Menschen als Motivation zum Fortziehen
 - [Snp 3.1](https://dhammaregen.net/#/sutta/snp3.1/de/sabbamitta) – Fortziehen, erste Begegnung mit König Bimbisāra
 - [Snp 3.2](https://dhammaregen.net/#/sutta/snp3.2/de/sabbamitta) – Māra sucht den Askese übenden künftigen Buddha auf; Strophen gehen in Gespräch nach dem Erwachen über
+- [SN 4.5](https://dhammaregen.net/#/sutta/sn4.5/de/sabbamitta) – der Buddha ermächtigt die ersten Mönche, den Dhamma zu lehren
 - [MN 128](https://dhammaregen.net/#/sutta/mn128/de/sabbamitta) – Streit von Kosambī
 - [MN 48](https://dhammaregen.net/#/sutta/mn48/de/sabbamitta) – Streit von Kosambī
 - [SN 22.81](https://dhammaregen.net/#/sutta/sn22.81/de/sabbamitta) – der Buddha zieht sich allein aus Kosambī zurück
