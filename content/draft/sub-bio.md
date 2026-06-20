@@ -82,5 +82,5 @@ Bild: aufgeschlagenes Buch mit Brille unter Baum (studium700.png)
 
 ### Moderne Biografien
 - Dr. Julius Dutoit, Das Leben des Buddha, 1906 (vergriffen)
-- Bhikkhu Ñāṇamoli, *The Life of the Buddha* (englisch), online bei der [*Open Buddhist University*](https://buddhistuniversity.net/content/monographs/life-of-the-buddha_nyanamoli)
+- Bhikkhu Ñāṇamoli, *The Life of the Buddha*, 1972 (englisch), online bei der [*Open Buddhist University*](https://buddhistuniversity.net/content/monographs/life-of-the-buddha_nyanamoli)
 - Dr. Hellmuth Hecker, Das Leben des Buddha, 2004, erhältlich beim [Buddhistischen Seminar](https://buddhistisches-seminar.de/Home)  
