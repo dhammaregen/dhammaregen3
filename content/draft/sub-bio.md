@@ -73,11 +73,12 @@ Bild: aufgeschlagenes Buch mit Brille unter Baum (studium700.png)
 - [MN 123](https://dhammaregen.net/#/sutta/mn123/de/sabbamitta) – „unglaublich und erstaunlich“
 
 ### Klassische Buddhabiografien  
-- Aśvaghosa, Lehrgedicht
-- Abhiniśkramana-Sutra (Dharmaguptaka-Tradition)
-- Lalitavistara (aus Sarvastivāda-Tradition hervorgegangen, mit Mahāyāna-Einflüssen)
-- [Jātaka-Nidānakathā](https://www.palikanon.com/khuddaka/jataka/j000.htm) (Theravāda); Jātakas, gedruckte Ausgabe, erhältlich bei [Beyerlein & Steinschulte](https://buddhareden.de/products/jataka-buddhistische-wiedergeburtsgeschichten?_pos=1&_psq=jataka&_ss=e&_v=1.0)
-- Mahāvastu (Lokuttaravāda)
+- *Buddhacarita* (Aśvaghosa); Lehrgedicht, das sich eng an alten Quellen orientiert
+- *Abhiniśkramana-Sutra* (Dharmaguptaka-Tradition); ähnlich dem vorigen, in chinesischer Übersetzung erhalten
+- *Lalitavistara* (aus Sarvastivāda-Tradition hervorgegangen, mit Mahāyāna-Einflüssen); geht bis zum vorletzten Leben im Tusita-Himmel zurück, sehr fantasievoll
+- *Jātaka-Nidānakathā* (Theravāda); Einleitung zur JātakaSammlung, umfasst zahlreiche frühere Leben einschließlich vieler Jātaka-Geschichten (gedruckt erhältlich bei [Beyerlein & Steinschulte](https://buddhareden.de/products/jataka-buddhistische-wiedergeburtsgeschichten?_pos=1&_psq=jataka&_ss=e&_v=1.0) oder online auf [palikanon.com](https://www.palikanon.com/khuddaka/jataka/j000.htm))
+- *Mahāvastu* (Lokuttaravāda); stellt die Einleitung zum Lokuttaravāda-Vinaya dar, die umfangreichste der klassischen Biografien, ausschweifende Überarbeitung der *Nidānakathā*, enthält zahlreiche übersinnliche Elemente (*lokuttara* = überweltlich)
+
 
 ### Moderne Biografien
 - Dr. Julius Dutoit, Das Leben des Buddha, 1906 (vergriffen)
