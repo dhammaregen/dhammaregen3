@@ -81,7 +81,6 @@ Bild: aufgeschlagenes Buch mit Brille unter Baum (studium700.png)
 - *Jātaka-Nidānakathā* (Theravāda); Einleitung zur Jātakasammlung, die etwa 500 n. Chr. zusammengestellt wurde; drei Abschnitte: ferne, mittlere und nahe Periode, beginnt mit früheren Leben vor zahlreichen Äonen (deutsche Übersetzung gedruckt erhältlich bei [Beyerlein & Steinschulte](https://buddhareden.de/products/jataka-buddhistische-wiedergeburtsgeschichten?_pos=1&_psq=jataka&_ss=e&_v=1.0) oder online auf [palikanon.com](https://www.palikanon.com/namen/n/nidanakatha.htm))
 - *Mahāvastu* (Lokuttaravāda; 2. Jhd. v. - 4. Jhd. n. Chr.); die umfangreichste der klassischen Biografien, Teil des Lokuttaravāda-Vinaya, umfasst zahlreiche frühere Leben des Buddha und anderer Bodhisattvas einschließlich vieler Jātaka-Geschichten, enthält zahlreiche übersinnliche Elemente (*lokuttara* = überweltlich; Sanskritfassung auf [SuttaCentral](https://suttacentral.net/san-lo-mvu?view=normal&lang=de), englische Übersetzung gedruckt bei der [Pali Text Society](https://palitextsociety.org/product/mahavastu-3-volume-set/) oder online auf [archive.org](https://archive.org/details/in.gov.ignca.8608))
 
-
 ### Moderne Biografien
 - Dr. Julius Dutoit, Das Leben des Buddha, 1906 (vergriffen)
 - Bhikkhu Ñāṇamoli, *The Life of the Buddha*, 1972 (englisch), online bei der [*Open Buddhist University*](https://buddhistuniversity.net/content/monographs/life-of-the-buddha_nyanamoli)
