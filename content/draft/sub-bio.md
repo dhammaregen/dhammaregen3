@@ -69,6 +69,7 @@ Bild: aufgeschlagenes Buch mit Brille unter Baum (studium700.png)
 - [Ud 8.6](https://dhammaregen.net/#/sutta/ud8.6/de/sabbamitta) – Aufenthalt im Dorf Pāṭali, Ausbau des Dorfes zur Festungsstadt Pāṭaliputta 
 - [Ud 6.1](https://dhammaregen.net/#/sutta/ud6.1/de/sabbamitta) – Aufgeben der Lebenskraft
 - [Ud 8.5](https://dhammaregen.net/#/sutta/ud8.5/de/sabbamitta) – letzte Mahlzeit und Krankheit
+- zahlreiche weitere Episoden finden sich im Vinaya
 
 #### Erste übermenschliche Züge
 - [MN 123](https://dhammaregen.net/#/sutta/mn123/de/sabbamitta) – „unglaublich und erstaunlich“
