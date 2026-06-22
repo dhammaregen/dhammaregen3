@@ -76,7 +76,7 @@ Bild: aufgeschlagenes Buch mit Brille unter Baum (studium700.png)
 ### Klassische Buddhabiografien  
 - *Buddhacarita* (Aśvaghosa); Lehrgedicht, das sich eng an alten Quellen orientiert
 - *Abhiniśkramana-Sutra* (Dharmaguptaka-Tradition); ähnlich dem vorigen, in chinesischer Übersetzung erhalten
-- *Lalitavistara* (aus Sarvastivāda-Tradition hervorgegangen, mit Mahāyāna-Einflüssen); geht bis zum vorletzten Leben im Tusita-Himmel zurück, sehr fantasievoll
+- *Lalitavistara* (aus Sarvastivāda-Tradition hervorgegangen, mit Mahāyāna-Einflüssen); geht bis zum vorletzten Leben im Tusita-Himmel zurück, sehr fantasievoll (online in deutscher Übersetzung auf [archive.org](https://archive.org/details/lalitavistaraer00lefmgoog/mode/1up))
 - *Jātaka-Nidānakathā* (Theravāda); Einleitung zur JātakaSammlung, umfasst zahlreiche frühere Leben einschließlich vieler Jātaka-Geschichten (gedruckt erhältlich bei [Beyerlein & Steinschulte](https://buddhareden.de/products/jataka-buddhistische-wiedergeburtsgeschichten?_pos=1&_psq=jataka&_ss=e&_v=1.0) oder online auf [palikanon.com](https://www.palikanon.com/khuddaka/jataka/j000.htm))
 - *Mahāvastu* (Lokuttaravāda); stellt die Einleitung zum Lokuttaravāda-Vinaya dar, die umfangreichste der klassischen Biografien, ausschweifende Überarbeitung der *Nidānakathā*, enthält zahlreiche übersinnliche Elemente (*lokuttara* = überweltlich)
 
