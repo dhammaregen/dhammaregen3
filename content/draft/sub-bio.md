@@ -51,6 +51,7 @@ Bild: aufgeschlagenes Buch mit Brille unter Baum (studium700.png)
 
 #### Weitere Episoden
 - [Snp 3.11](https://dhammaregen.net/#/sutta/snp3.11/de/sabbamitta) – Geburt des künftigen Buddha, Prophezeiung seiner Laufbahn durch den Seher Asita
+- [Ud 5.2](https://dhammaregen.net/#/sutta/ud5.2/de/sabbamitta) – früher Tod der Mutter
 - [Snp 4.15](https://dhammaregen.net/#/sutta/snp4.15/de/sabbamitta) – Streit unter den Menschen als Motivation zum Fortziehen
 - [Snp 3.1](https://dhammaregen.net/#/sutta/snp3.1/de/sabbamitta) – Fortziehen, erste Begegnung mit König Bimbisāra
 - [Snp 3.2](https://dhammaregen.net/#/sutta/snp3.2/de/sabbamitta) – Māra sucht den Askese übenden künftigen Buddha auf; Strophen gehen in Gespräch nach dem Erwachen über
