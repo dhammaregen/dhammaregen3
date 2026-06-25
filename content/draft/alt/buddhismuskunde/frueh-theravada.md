@@ -8,6 +8,8 @@ order: 2
 
 [Zum Originaltext](https://discourse.suttacentral.net/t/how-early-buddhism-differs-from-theravada-a-checklist/23019)
 
+img: fruh-thera700.png
+
 Dies ist eine praktische Zusammenfassung einiger wichtiger Punkte, in denen sich früher Buddhismus und Theravāda unterscheiden. Lassen Sie uns klarstellen, was mit diesen Begriffen gemeint ist:
 
 - *Früher Buddhismus* sind die Lehren der „frühen buddhistischen Texte“ (FBT), das heißt, der kanonischen Lehrreden, die zur Zeit des Buddha oder kurz danach kodifiziert wurden und die uns auf Pali, Chinesisch, Tibetisch und Sanskrit überliefert worden sind.
