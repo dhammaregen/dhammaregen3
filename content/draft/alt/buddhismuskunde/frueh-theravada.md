@@ -6,6 +6,8 @@ img-alt: Bhante Sujato sitzt auf Felsen
 order: 2
 ---
 
+> Dieser Aufsatz wurde in der Dāna-Edition des Verlags Beyerlein & Steinschulte [als gedruckte Ausgabe](https://buddhareden.de/products/fruher-buddhismus-und-theravada-eine-checkliste-der-unterschiede) herausgegeben und kann dort bestellt werden.
+
 [Zum Originaltext](https://discourse.suttacentral.net/t/how-early-buddhism-differs-from-theravada-a-checklist/23019)
 
 img: fruh-thera700.png
