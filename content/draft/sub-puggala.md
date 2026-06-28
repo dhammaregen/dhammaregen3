@@ -24,48 +24,50 @@ Aber wenn er Merkmale bestimmter Personen näher beschreiben wollte, gebrauchte 
 
 Diese Zahlen würden einen Paliwissenschaftler nicht überraschen, da wir es gewohnt sind, *puggala* häufig zu sehen. Was aber die meisten von uns übersehen, ist, dass wir hier eine äußerst ungewöhnliche Situation vor uns haben. Im frühen Sanskrit ist *puruṣa* das gewöhnliche Wort für „Mensch“, und es begegnet uns häufig. Wir können sein Vorkommen nicht zählen wie im Pali, weil es kein klar definiertes Korpus gibt, aber in der Sammlung von in etwa frühem Sanskrit, die ich benutze, sind es gut über tausend Mal. *Pudgala*, auf der anderen Seite, findet man überhaupt nicht. Oder vielmehr findet man es einmal, aber in einer interessanten Bedeutung. Selbst in späterem nicht-buddhistischem Sanskrit erscheint es in verschwindend geringer Häufigkeit und sehr wahrscheinlich unter buddhistischem Einfluss. 
 
-Das erwähnte ausnahmsweise frühe Vorkommen ist im Arthaśāstra von Kauṭilya. Das wird traditionell einem Minister unter Chandragupta zugeschrieben, also etwa ein Jahrhundert nach dem Buddha, obwohl moderne Wissenschaftler denken, es könnte ein gutes Stück später sein. Wie dem auch sei, es handelt sich um eine ausführliche Beschreibung früher indischer Staatskunst, die oft weltliche Umstände aufklärt, die in den Suttas angesprochen weerden. Sie benutzt *pudgala* nicht, um einen Menschen zu bezeichnen, sondern als eine Beschreibung für Gold. Die Bedeutung ist vielleicht „Masse“ oder, wie in Olivelles moderner Übersetzung, „Stück“ (2.14.7, 2.14.43). 
+Das erwähnte ausnahmsweise frühe Vorkommen ist im Arthaśāstra von Kauṭilya. Das wird traditionell einem Minister unter Chandragupta zugeschrieben, also etwa ein Jahrhundert nach dem Buddha, obwohl moderne Wissenschaftler denken, es könnte ein gutes Stück später sein. Wie dem auch sei, es handelt sich um eine ausführliche Beschreibung früher indischer Staatskunst, die oft weltliche Umstände aufklärt, die in den Suttas angesprochen werden. Sie benutzt *pudgala* nicht, um einen Menschen zu bezeichnen, sondern als eine Beschreibung für Gold. Die Bedeutung ist vielleicht „Masse“ oder, wie in Olivelles moderner Übersetzung, „Stück“ (2.14.7, 2.14.43). 
 
 Das scheint vom buddhistischen Gebrauch weit entfernt, ist aber näher am Gebrauch in der Jaina-Literatur. Wie die Buddhisten und anders als die Vedenanhänger hatten die Jainas *pudgala* als einen Fachausdruck, den sie entweder in der Sanskritform *pudgala* oder in der Ardhamagadhi-Form *poggala* benutzten. Doch bei ihnen hat er die primäre technische Bedeutung „Materie“, oder vielleicht auch „Masse“, mit „Seele“ und „Fleisch“ als Nebenbedeutungen. 
 
 In Kürze: Die Jainas postulieren verschiedene Arten „substanzieller Wirklichkeit“ oder „bestehendem Konglomerat“ (Sanskrit *astikāya*, Pali *sakkāya*). Eine davon ist „Masse“ oder „Materie“ (*pudgala*), oder vielleicht genauer „partikelförmige Materie“ (Tattvārthasūtra 5.5, Isibhāsiyam 1.31, Uttarādhyayanasūtra 28.12). Davon gibt es zwei Arten: das „Atom“ (*anu*) und das „Molekül“ (*skandha*, Pali *khandha*). 
 
-Lesern mit Adleraugen wird auffallen, dass sich diese mit den buddhistischen Begriffen *sakkāya*, *puggala* und *khandha* überschneiden. Wie ich bereits früher gezeigt habe, hat *sakkāya* die Wurzelbedeutung „Masse“, „vorhandene Substanz“. *Kāya* kommt letztlich von der Wurzel *ci*, „anhäufen“ oder „aufschichten“. Semantisch kommt die Bedeutung *khandha* nahe („Aggregat“, „Konglomerat“, „Molekül“), und tatsächlich können *kāya* und *khandha* unter gewissen Bedingungen austauschbar sein. 
+Lesern mit Adleraugen wird auffallen, dass sich diese mit den buddhistischen Begriffen *sakkāya*, *puggala* und *khandha* überschneiden. Wie ich bereits früher gezeigt habe, hat *sakkāya* die Wurzelbedeutung „Masse“, „vorhandene Substanz“. *Kāya* kommt letztlich von der Wurzel *ci*, „anhäufen“ oder „aufschichten“. Semantisch kommt die Bedeutung dem Wort *khandha* nahe („Aggregat“, „Konglomerat“, „Molekül“), und tatsächlich können *kāya* und *khandha* unter gewissen Bedingungen austauschbar sein. 
 
-What is not so obvious is that, not just *puggala*, but none of these three terms are used in a technical sense in Vedism. They are shared between Buddhism and Jainism, though used in quite distinct applications.
+Nicht so offensichtlich ist hingegen, dass nicht nur *puggala*, sondern auch die anderen dieser drei Begriffe in der vedischen Religion nicht als Fachbegriffe verwendet werden. Sie sind dem Buddhismus und dem Jainismus gemeinsam, werden aber auf jeweils recht unterschiedliche Art benutzt. 
 
-Thus we have two indications that *puggala* has the sense “composite”, “mass”. Perhaps the use in the context of gold suggests the sense, “composite item”. This is supported by one of the extremely rare Brahmanical uses at Viṣṇu Purāṇa 5.30.13, where we find the notion that beings are *pudgalāśrayāḥ* (“comprised of a composite mass”) related to a criticism of those who assert not-self, i.e. Buddhists. Tedesco (see below) notes only six occurrences through the vast Sanskritic literature, all of which are late, and several of which seem confused with *puṅgala* or *pudgala* in the sense “beautiful”, which is a homonym, and a dubious one at that. He accepts only two genuine instances, which, as he says, were likely borrowed from the Buddhists or Jains.
+Somit haben wir zwei Hinweise, dass *puggala* die Bedeutung „zusammengesetzt“, „Masse“ hat. Vielleicht legt der Gebrauch im Kontext von Gold die Bedeutung „zusammengesetzter Gegenstand“ nahe. Dies wird von einem der äußerst seltenen Vorkommen in brahmanischen Texten gestützt, Viṣṇu-Purāṇa 5.30.13, wo wir die Vorstellung finden, dass Wesen *pudgalāśrayāḥ* („in einer zusammengesetzten Masse enthalten“) sind – im Zusammenhang mit einer Kritik an denen, die das Fehlen eines Selbst behaupten, das heißt, Buddhisten. Tedesco (siehe unten) stellt in der ausgedehnten Sanskritliteratur nur sechs Vorkommen fest, die alle spät sind und von denen manche es mit *puṅgala* oder *pudgala* in der Bedeutung „schön“ zu verwechseln scheinen; Letzteres ist ein Homonym, und zwar ein zweifelhaftes. Er erkennt nur zwei echte Fälle an, die, wie er sagt, wahrscheinlich von den Buddhisten oder Jainas entlehnt wurden. 
 
-Now, Pali is rich in words for “person”.
+Nun ist das Pali reich an Wörtern für „Mensch“: 
 
-* *purisa*: person, man (everyday)
-* *nara*: person, man (slightly elevated)
-* *macca*: mortal (only in doctrinal contexts emphasizing, well, mortality)
-* *mātiya*: same
-* *manussa*: human, literally “descendant of Manu”, the first man, cf. English “son of Adam”.
-* *mānava*: usually “Vedic student” but rarely also same.
-* *manuja*: another variation
-* *mānusa*: another variation. There’s more, but I’ll spare you.
-* *jana*: person, populace, folk (literally one who is born)
-* *jantu*: poetic for person, occasionally child (literally offspring, kin)
-* *posa*: poetic version of *purisa*
-* *porisa*: same
-* *puma*: man, male human
-* *pajā*: generation, populace
+* *purisa*: Mensch, Mann (Alltagsgebrauch)
+* *nara*: Mensch, Mann (leicht gehoben)
+* *macca*: Sterblicher (nur in doktrinalem Zusammenhang, wo es, nun, die Sterblichkeit betont)
+* *mātiya*: ebenso
+* *manussa*: Mensch, wörtlich „Abkömmling von Manu“, dem ersten Menschen, vgl. Englisch „son of Adam“ („Sohn Adams“) 
+* *mānava*: normalerweise „Vedenstudent“, aber selten auch wie *manussa* 
+* *manuja*: eine andere Variante 
+* *mānusa*: eine andere Variante; es gibt noch mehr, doch ich will sie Ihnen ersparen 
+* *jana*: Mensch, Bevölkerung, Volk (wörtlich: ein Geborener) 
+* *jantu*: poetisch für Mensch, gelegentlich Kind (wörtlich: Nachkomme, Verwandter) 
+* *posa*: poetische Version von *purisa*
+* *porisa*: ebenso
+* *puma*: Mann 
+* *pajā*: Generation, Bevölkerung 
 
-So why did the Buddha invent a new term? Surely the pattern is clear: the Buddha adopted a term meaning “individual conglomerate” and applied it in the sense of an individual or person specifically to emphasize his doctrine that what we call a person is really comprised of interrelated systems of many different phenomena. This is why it is solely a technical term for person in Buddhism, and almost never used in this way outside of Buddhism. It also explains why the Buddha himself used it in a highly specific way. Whenever he talked generally about a person, he just used *purisa* like everyone else, unless he was getting fancy in poetry, in which case, who can blame a man for showing off his language skills? He deployed *puggala* solely when defining technical categories. You’ll find very rare exceptions to this pattern, where *puggala* is used in a verse or something. But it is a poor word that cannot be used outside its primary context.
+Warum erfand der Buddha also einen neuen Ausdruck? Das Muster ist sicherlich klar: Der Buddha übernahm einen Ausdruck, der „individuelles Konglomerat“ bedeutet, und verwendete ihn im Sinn einer Person oder eines Menschen, um ausdrücklich seine Lehre zu betonen, dass das, was wir einen Menschen nennen, tatsächlich aus in wechselseitiger Beziehung stehenden Systemen von vielen verschiedenen Erscheinungen besteht. Aus diesem Grund ist es im Buddhismus ausschließlich ein Fachausdruck für „Mensch“ und wird außerhalb des Buddhismus fast nie in dieser Art gebraucht. Es erklärt auch, warum der Buddha selbst es auf äußerst spezifische Weise benutzte. Immer, wenn er allgemein über einen Menschen sprach, benutzte er einfach *purisa* wie jeder andere auch, es sei denn, er wurde in einer Dichtung kunstvoll; wer kann in einem solchen Fall einem Menschen vorwerfen, sein sprachliches Geschick zu zeigen? Er sertzte *puggala* nur ein, wenn er fachliche Kategorien definierte. Man wird sehr seltene Ausnahmen zu diesem Muster finden, wo *puggala* in einer Strophe oder ähnlichem verwendet wird. Aber es ist ein dürftiges Wort, das nicht außerhalb seines ursprünglichen Kontextes gebraucht werden kann. 
 
-Now, this finding bears on the unsettled problem of the etymology. Most sources will indicate that the etymology is unknown.
+Diese Entdeckung steht nun im Zusammenhang mit dem ungeklärten Problem der Etymologie. Die meisten Quellen werden darauf hinweisen, dass die Etymologie unbekannt ist. 
 
-https://en.wiktionary.org/wiki/%E0%A4%AA%E0%A5%81%E0%A4%A6%E0%A5%8D%E0%A4%97%E0%A4%B2#Sanskrit
+[https://en.wiktionary.org/wiki/%E0%A4%AA%E0%A5%81%E0%A4%A6%E0%A5%8D%E0%A4%97%E0%A4%B2#Sanskrit
+](https://en.wiktionary.org/wiki/%E0%A4%AA%E0%A5%81%E0%A4%A6%E0%A5%8D%E0%A4%97%E0%A4%B2#Sanskrit
+)
 
-A substantial attempt at this was made by Paul Tedesco, “Sanskrit pudgala—‘body, soul’”, Journal of the American Oriental Society 67, 1947, 172–7. This is referenced in the Wiktionary article indirectly via Manfred Mayrhofer’s *Etymologisches Wörterbuch des Altindoarischen [Etymological Dictionary of Old Indo-Aryan*, but he just refers back to Tedesco.
+Ein bedeutender Versuch dazu wurde von Paul Tedesco unternommen, „Sanskrit pudgala—‚body, soul‘“, Journal of the American Oriental Society 67, 1947, 172–7. Darauf wird in dem Wiktionary-Artikel indirekt verwiesen über Manfred Mayrhofers *Etymologisches Wörterbuch des Altindoarischen*, aber er verweist nur zurück zu Tedesco. 
 
-Tedesco’s article can be accessed for free on JSTOR:
+Tedescos Artikel ist auf JSTOR kostenlos zugänglich: 
 
-https://www.jstor.org/stable/596084?seq=1
+[https://www.jstor.org/stable/596084?seq=1](https://www.jstor.org/stable/596084?seq=1)
 
-He argues that we derive *puggala* from *pṛthak* in the basic sense “separate individual”. The base form would be something like *puthukala*, with *-ala* suffix. Tedesco goes in some detail to the etymology, and I won’t repeat it here. But just to say, the note in Wiktionary that the voiced gemination is unexplained is not correct: Tedesco in §10 suggests the processes “well established for Middle Indic” of either sonorization of intervocalics or simple sonorization of geminate, perhaps influenced by Ardhamagadhi cerebrals. To me, this seems unnecessary, as *pṛthak* is often spelled *pṛthag* in compounds anyway; but what would I know?
+Er argumentiert, dass wir *puggala* von *pṛthak* ableiten in der grundlegenden Bedeutung „getrenntes Individuum“. Die Grundform wäre so etwas wie *puthukala* mit der Nachsilbe *-ala*. Tedesco goes in some detail to the etymology, and I won’t repeat it here. But just to say, the note in Wiktionary that the voiced gemination is unexplained is not correct: Tedesco in §10 suggests the processes “well established for Middle Indic” of either sonorization of intervocalics or simple sonorization of geminate, perhaps influenced by Ardhamagadhi cerebrals. To me, this seems unnecessary, as *pṛthak* is often spelled *pṛthag* in compounds anyway; but what would I know?
 
 Now, Pali *puthu* combines the senses of Sanskrit *pṛthu* (“expansive, manifold”) and *pṛthak* (“separate, individual”). We already have this in another technical Buddhist term: the puthujjana_ or “ordinary person”.
 
