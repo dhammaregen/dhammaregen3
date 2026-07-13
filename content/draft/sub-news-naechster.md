@@ -1,6 +1,6 @@
 ---
 title: Dhammaregen-Newsletter
-description: September 2026
+description: naechster 2026
 img: letter.png
 img-alt: Brief, der in einer Baumgabel steckt
 order: -57
