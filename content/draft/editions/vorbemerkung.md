@@ -1,6 +1,6 @@
 ---
 title: Vorbemerkung
-description: Die Druckausgaben-Serie von SuttaCentral
+description: 2026
 img:  wheel.png
 img-alt: Dhamma-Rad in Form einer Blume
 order: 3
