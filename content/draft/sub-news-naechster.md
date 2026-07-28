@@ -39,7 +39,7 @@ Seit dem letzten Newsletter wurde folgender Essay hinzugefügt:
 
 #### 🔸 Übersetzungen
 
-Eine Übersicht über alle Übersetzungen von Silashin Sabbamitta findet man [hier](https://dhammaregen.net/#/wiki/uebersetzung/uebersicht).
+Eine Übersicht über alle Übersetzungen von Silashin Sabbamitta findet man [hier](https://dhammaregen.net/#/wiki/uebersetzung/uebersicht). Wenn Sie Tippfehler oder andere Irrtümer entdecken, freue ich mich über eine Rückmeldung [hier](https://discourse.suttacentral.net/t/feedback-zu-sabbamittas-deutschen-ubersetzungen-feedback-on-sabbamittas-german-translations/43916).
 
 #### 🔸 Sutta-Erkundungen 
 
