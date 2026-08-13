@@ -10,16 +10,21 @@ order: 3
 
 ## Vorwort zum Dhammapada
 
-Meine ersten Schritte im Buddhismus machte ich in einem winzigen Zentrum Frankreich. Meine Freunde, in deren Haus sich das Zentrum befand, führten auch eine kleine Übernachtungspension. Dort lagen in jedem Zimmer in der Nachttischschublade verschiedene Bücher, die von Gästen, die Trost oder Halt oder einfach etwas Inspirierendes suchten, konsultiert werden konnten. 
+In der Schule lernte ich nach Französisch Latein als zweite Fremdsprache. Ich kann nicht sagen, dass ich es besonders mochte, und nie hätte ich geahnt, dass es mir einmal im Zusammenhang mit einem spirituellen Text von Nutzen sein würde.
 
-Es fand sich zum Beispiel eine Ausgabe des Neuen Testaments, des Koran, eines Buches aus dem Judentum, an das ich mich nicht mehr erinnere, des Kleinen Prinzen von Antoine de Saint-Exupéry – wir waren schließlich in Frankreich – und … des Dhammapada.
+Nachdem der Urheberrechtsschutz ausgelaufen war, wollte SuttaCentral eine lateinische Übersetzung des Dhammapada von V. Fausböll auf seine Webseite aufnehmen, und es fiel mir zu, den Text zu diesem Zweck aufzubereiten. Obwohl ungeliebt und lange brach liegend, kamen mir meine Vorkenntnisse dieser Sprache doch zugute. Aufgrund der schlechten Qualität der Vorlage musste der gesamte Text neu eingetippt werden, und so machte ich also meine erste engere Bekanntschaft mit dem Dhammapada in lateinischer Sprache!
 
-Auf meine Frage, warum unter allen buddhistischen Büchern ausgerechnet der Dhammapada, erklärte mein Freund, es sei eine Sammlung, die allen buddhistischen Traditionen gleichermaßen zuzuordnen sei und außerdem auch von Nicht-Buddhisten geschätzt werde. Obwohl ich zu der Zeit mit dem Dhammapada nicht vertraut war, blieb mir diese Bemerkung in Erinnerung.
+Eine besondere Freude war mir dabei, dass ich beim Korrekturlesen Hilfe von meinem Vater bekam, der selbst viel länger als ich Latein gelernt hatte und daher viel mehr von diesem Text verstand.
 
-Später lernte ich den Dhammapada als eine Sammlung kennen, die alle buddhistischen Traditionen in ähnlicher Form besitzen, mit Variationen in der Auswahl oder Reihenfolge der Strophen, aber nicht grundsätzlich verschieden. Diese Sammlungen wurden in zahlreiche Sprachen übersetzt, was darauf hinweist, wie sehr ihre zeitlose Weisheit überall in der Welt Menschen inspirieren kann.
+Später lernte ich den Dhammapada als eine Sammlung kennen, die alle buddhistischen Traditionen in ähnlicher Form besitzen, mit Variationen in der Auswahl oder Reihenfolge der Strophen, aber nicht grundsätzlich verschieden. Diese Sammlungen wurden in zahlreiche Sprachen übersetzt, was darauf hinweist, wie sehr ihre zeitlose Weisheit überall in der Welt Menschen inspiriert hat.
 
-Meine Lieblingsstrophe seit Langem hat, auch und gerade angesichts der Herausforderungen unserer Zeit, in 2.500 Jahren nicht an Aktualität verloren:
+Die Weisheit dieser „Dhammasprüche“ hat, auch und gerade angesichts der Herausforderungen unserer Zeit, in 2.500 Jahren nichts an Aktualität verloren:
 
+> *Non enim iracundiâ*  
+> *iracundiæ sedantur hic unquam,*  
+> *placabilitate vero sedantur;*  
+> *hæc lex æterna.*
+>
 > Denn niemals wird Hass  
 > durch Hass beigelegt;  
 > durch Liebe wird er beigelegt:  
