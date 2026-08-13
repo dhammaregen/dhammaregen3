@@ -49,6 +49,7 @@ Bild: aufgeschlagenes Buch mit Brille unter Baum (studium5-4-200.png)
 - SN 15.3
 - SN 22.5
 - SN 35.247
+- SN 42.11
 - SN 56.11
 - SN 56.21
 - SN 56.42
@@ -101,6 +102,7 @@ Alle im Folgenden angegebenen Sutta-Links gehen zu SuttaCentral. Zu einem Teil d
 - Das Lehren des abhängigen Entstehens
   - SN 6.1 [https://suttacentral.net/sn6.1/de/sabbamitta](https://suttacentral.net/sn6.1/de/sabbamitta)
   - MN 26:22.1 ff [https://suttacentral.net/mn26/de/sabbamitta#22.1](https://suttacentral.net/mn26/de/sabbamitta#22.1)
+  - SN 42.11 Abhängiges Entstehen für „Einsteiger“ [https://suttacentral.net/sn42.11/de/sabbamitta](https://suttacentral.net/sn42.11/de/sabbamitta)
 
 **Faktoren im Einzelnen:**
 - Unwissenheit
