@@ -14,7 +14,7 @@ Am 14. Juli 2026 brachte der Deutschlandfunk diesen kurzen Beitrag über die Ehr
 
 ---
 
-Ein früherer Bericht des Deutschlandfunks berichtet über die Pionierin für die Nonnenordination in Thailand schlechthin, Bhikkhunī Dhammanandā, die das Kloster [Songdhammakalyani](https://www.songdhammakalyani.com/de/home-page-deu/) in der Nähe von Bangkok leitet:
+Ein früherer Beitrag des Deutschlandfunks berichtet über die Pionierin für die Nonnenordination in Thailand schlechthin, Bhikkhunī Dhammanandā, die das Kloster [Songdhammakalyani](https://www.songdhammakalyani.com/de/home-page-deu/) in der Nähe von Bangkok leitet:
 
 [Die erste Nonne der Theravāda-Tradition in Thailand](https://www.deutschlandfunk.de/buddhismus-die-erste-nonne-der-theravada-tradition-in-100.html)
 
