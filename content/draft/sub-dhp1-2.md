@@ -6,9 +6,11 @@ img-alt: Foto von Bhante Sujato
 order: 4
 ---
 
+Übersetzung von „Restoring a sutta from fragments“ von Bhikkhu Sujato, 2026
+
 [Zum Originaltext](https://discourse.suttacentral.net/t/restoring-a-sutta-from-fragments/45095)
 
--- Bild Sujato --
+-- Bild: sujatobig.png -- alt: Foto von Bhikkhu Sujato --
 
 Die [ersten Strophen des Dhammapada](https://dhammaregen.net/#/sutta/dhp1-20/de/sabbamitta) gehören zu den bekanntesten im Buddhismus. Eine Übersetzung muss immer im Zusammenhang mit einigen Lehrreden des Aṅguttara-Nikāya erfolgen, insbesondere [AN 1.43–44](https://dhammaregen.net/#/sutta/an1.43:1.1/de/sabbamitta) und [AN 1.56–57](https://dhammaregen.net/#/sutta/an1.56:1.1/de/sabbamitta). Hier finden wir die wichtigste Terminologie der Strophen in einem Text, der eine Prosa-Erläuterung zu sein scheint. 
 
