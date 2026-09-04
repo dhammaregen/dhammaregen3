@@ -12,7 +12,7 @@ order: 3
 
 In der Schule lernte ich nach Französisch Latein als zweite Fremdsprache. Ich kann nicht sagen, dass ich es besonders mochte, und nie hätte ich geahnt, dass es mir einmal im Zusammenhang mit einem spirituellen Text von Nutzen sein würde.
 
-Nachdem der Urheberrechtsschutz ausgelaufen war, wollte SuttaCentral eine lateinische Übersetzung des Dhammapada von V. Fausböll auf seine Webseite aufnehmen, und es fiel mir zu, den Text zu diesem Zweck aufzubereiten. Obwohl ungeliebt und lange brach liegend, kamen mir meine Vorkenntnisse dieser Sprache doch zugute. Aufgrund der schlechten Qualität der Vorlage musste der gesamte Text neu eingetippt werden, und so machte ich also meine erste engere Bekanntschaft mit dem Dhammapada in lateinischer Sprache!
+Nachdem der Urheberrechtsschutz ausgelaufen war, wollte SuttaCentral eine lateinische Übersetzung des Dhammapada von V. Fausböll auf seine Webseite aufnehmen, und es fiel mir zu, den Text zu diesem Zweck aufzubereiten. Obwohl ungeliebt und lange brach liegend, kamen mir meine Vorkenntnisse des Lateinischen doch zugute. Aufgrund der schlechten Qualität der Vorlage musste der gesamte Text neu eingetippt werden, und so machte ich also meine erste engere Bekanntschaft mit dem Dhammapada in lateinischer Sprache!
 
 Eine besondere Freude war mir dabei, dass ich beim Korrekturlesen Hilfe von meinem Vater bekam, der selbst viel länger als ich Latein gelernt hatte und daher viel mehr von diesem Text verstand.
 
