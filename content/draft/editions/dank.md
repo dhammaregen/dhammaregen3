@@ -10,7 +10,9 @@ order: 3
 
 ## Dank
 
-Als ich der Lehre des Buddha begegnete, war ich Studentin und Mitte zwanzig.
+Als ich der Lehre des Buddha begegnete, war ich Studentin und Mitte zwanzig. Den Umständen, die zu dieser Begegnung führten, bin ich zutiefst dankbar. Dabei spielte ein Kind eine Rolle, das es nicht ganz bis ins Leben geschafft hat, ein Lehrer an einer Heilpraktikerschule sowie ein kleines buddhistisches Zentrum, an dem tibetische Lehrer unterrichteten. 
+
+Die Suttas lernte ich zuerst in der französischen Übersetzung Mohan Wijayaratnas kennen, erst sehr viel später kam ich auch mit deutschen Übersetzungen in Kontakt. Es war für mich nach all den Jahren vollkommenes Neuland, den Dhamma auch in meiner eigenen Sprache zu studieren. Ich verschlang die Übersetzungen Karl Eugen Neumanns und der Ehrwürdigen Nyanatiloka und Nyanaponika ebenso wie die Schriften von Paul Debes, Fritz Schäfer und Hellmuth Hecker. Und dann reihte sich auch noch Bhikkhu Bodhis englische Übersetzung zu diesen Quellen ein. All diesen Autoren schulde ich große Dankbarkeit. 
 
 ---
 Meine große Dankbarkeit gilt all denen, die mir den Dhamma gezeigt haben. Das waren zunächst Khenpo Yeshe Chödhar Rinpoche und andere Lehrer der tibetischen Tradition sowie die Freunde, die in ihrem Haus die Möglichkeit zu solchen Begegnungen schufen. Später lernte ich die Suttas zunächst in französischen Übersetzungen kennen, dann in deutschen und schließlich in den englischen Übersetzungen Bhikkhu Bodhis. Zu einem tieferen Verständnis der Suttas verhalfen mir vor allem Ajahn Brahm, Bhikkhu Sujato und Bhikkhu Brahmali.
