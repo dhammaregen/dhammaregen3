@@ -10,9 +10,9 @@ order: 3
 
 ## Dank
 
-Als ich der Lehre des Buddha begegnete, war ich Studentin und Mitte zwanzig. Den Umständen, die zu dieser Begegnung führten, bin ich zutiefst dankbar. Dabei spielte ein Kind eine Rolle, das es nicht ganz bis ins Leben geschafft hat, ein Lehrer an einer Heilpraktikerschule sowie ein kleines buddhistisches Zentrum, an dem tibetische Lehrer unterrichteten. 
+Als ich der Lehre des Buddha begegnete, war ich Studentin und Mitte zwanzig. Den Umständen, die zu dieser Begegnung führten, und allen daran beteiligten Personen bin ich zutiefst dankbar. Besonders möchte ich Khenpo Yeshe Chödhar Rinpoche danken, der mir die Möglichkeit gab, Zuflucht zu den drei Juwelen zu nehmen, sowie den Freunden, die mit ihrem kleinen Zentrum die Voraussetzungen für solche Begegnungen schufen.
 
-Die Suttas lernte ich zuerst in der französischen Übersetzung Mohan Wijayaratnas kennen, erst sehr viel später kam ich auch mit deutschen Übersetzungen in Kontakt. Es war für mich nach all den Jahren vollkommenes Neuland, den Dhamma auch in meiner eigenen Sprache zu studieren. Ich verschlang die Übersetzungen Karl Eugen Neumanns und der Ehrwürdigen Nyanatiloka und Nyanaponika ebenso wie die Schriften von Paul Debes, Fritz Schäfer und Hellmuth Hecker. Und schließlich reihte sich auch noch Bhikkhu Bodhis englische Übersetzung zu diesen Quellen ein. All diesen Autoren schulde ich große Dankbarkeit. Auch danke ich Ajahn Brahm, Bhikkhu Sujato und Bhikkhu Brahmali, die mir halfen, einen Blick für die Tiefe und Schönheit der Suttas zu entwickeln.
+Die Suttas lernte ich zuerst in der französischen Übersetzung Mohan Wijayaratnas kennen, erst sehr viel später kam ich auch mit deutschen Übersetzungen in Berührung. Es war für mich nach all den Jahren Beschäftigung mit dem Buddhismus vollkommenes Neuland, den Dhamma auch in meiner eigenen Sprache zu studieren. Ich verschlang die Übersetzungen Karl Eugen Neumanns und der Ehrwürdigen Nyanatiloka und Nyanaponika ebenso wie die Schriften von Paul Debes, Fritz Schäfer und Hellmuth Hecker. Und schließlich reihte sich auch noch Bhikkhu Bodhis englische Übersetzung zu diesen Quellen ein. All diesen Autoren schulde ich große Dankbarkeit. Auch danke ich Ajahn Brahm, Bhikkhu Sujato und Bhikkhu Brahmali, die mir halfen, einen Blick für die Tiefe und Schönheit der Suttas zu entwickeln.
 
 Ganz besonders möchte ich Bhikkhu Sujato danken, der die englische Übersetzung anfertigte, auf die ich mich bei meinem Übersetzungsprojekt stütze. Seine Recherchen und Überlegungen zu schwierigen Passagen hat er in zahlreichen Aufsätzen und Anmerkungen festgehalten, die nicht nur hilfreich, sondern oft auch sehr unterhaltsam zu lesen sind. Zusammen mit dem Team von SuttaCentral unterstützt er auf seiner englischen Version aufbauende Übersetzungen in andere Sprachen und deren Veröffentlichung.
 
@@ -20,7 +20,7 @@ Noch bevor ich mit dem Übersetzungsprojekt begann, hat Karl Lew mich dazu ermut
 
 Eine weitere unschätzbare Hilfe ist die Übersetzungs-Software Bilara, die ursprünglich von Blake Walshe entwickelt und später von HongDa auf eine neue Grundlage gestellt wurde. Ebenso dankei ich all den ehrenamtlichen Helfern, die an SuttaCentral und Bilara mitwirken.
 
-Für gründliches und systematisches Korrekturlesen danke ich Olivia Haas und Annegret G. Viele andere haben  mir ebenfalls mit Rückmeldungen geholfen, darunter ganz besonders Beaver, der meine Arbeit auf leicht übersehene Kleinigkeiten wie Leerzeichen, Anführungsstriche und Ähnliches untersucht hat.
+Für gründliches und systematisches Korrekturlesen danke ich Olivia Haas, Annegret G., Sonja Büge, Katrin Felix-Gregory und Regina Seitz. Viele andere haben  mir ebenfalls mit Rückmeldungen geholfen, darunter ganz besonders Beaver, der meine Arbeit auf leicht übersehene Kleinigkeiten wie Leerzeichen, Anführungsstriche und Ähnliches untersucht hat.
 
 Des weiteren gilt mein Dank allen, die dieses Projekt wohlwollend begleiten, die zu zahlreich sind, um im Einzelnen genannt zu werden.
 

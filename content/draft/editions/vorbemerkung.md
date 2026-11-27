@@ -10,7 +10,7 @@ order: 3
 
 ## Die Druckausgaben-Serie von SuttaCentral
 
-Seit 2005 stellt SuttaCentral einen Zugang zu Quelltexten, Übersetzungen und Parallelen früher buddhistischer Texte bereit. 2018 begannen wir damit, unsere eigenen Übersetzungen dieser grundlegenden spirituellen Klassiker zu erstellen und zu veröffentlichen. Die „Druckausgaben“-Serie bietet nun ausgewählte Übersetzungen in verschiedenen Formen an, darunter Druck, PDF und EPUB. 
+Seit 2005 hat SuttaCentral Zugang zu Quelltexten, Übersetzungen und Parallelen früher buddhistischer Texte bereitgestellt. 2018 begannen wir damit, unsere eigenen Übersetzungen dieser grundlegenden spirituellen Klassiker zu erstellen und zu veröffentlichen. Die „Druckausgaben“-Serie bietet nun ausgewählte Übersetzungen in verschiedenen Formen an, darunter Druck, PDF und EPUB. 
 
 Die Druckausgaben werden aus unseren vollständigsten, zuverlässigsten und mit der größten Sorgfalt hergestellten Übersetzungen ausgewählt. Sie eröffnen einem breiteren Publikum Zugang zu diesen Texten in einer Form, die achtsames Lesen belohnt. Für jedes Detail in der Herstellung wird Sorgfalt aufgewendet, und es ist unser Ziel, bewährte fachliche Maßstäbe in jeder Hinsicht zu erfüllen oder zu übertreffen. Dies sind die zentralen Schriften, die der gesamten buddhistischen Tradition zugrunde liegen, und wir glauben, sie verdienen es, in höchster Qualität und ohne Kompromisse bewahrt und zur Verfügung gestellt zu werden. 
 
