@@ -14,4 +14,3 @@ Welche Sammlung enthält die erste Lehrrede, die der Buddha hielt? In welcher Sa
 
 Als ich einmal gefragt wurde, welches Buch ich wählen würde, wenn ich den Rest meines Lebens auf einer einsamen Insel zubringen müsste und nur eine Lehrredensammlung mitnehmen dürfte, war meine Wahl klar: Es würde aus den oben genannten Gründen die Sammlung der Verbundenen Lehrreden sein. 
 
-Und was, wenn ich nur eine einzige Lehrrede mitnehmen dürfte? Auch die würde aus dem Saṁyutta-Nikāya stammen; es wäre die Lehrrede vom Schneckenhornbläser, SN 42.8. Warum? Weil sie auf wunderbare Weise eine Sache in Worte fasst, über die meine Beschäftigung mit der Lehre des Buddha mein Leben besonders tief beeinflusst hat.
